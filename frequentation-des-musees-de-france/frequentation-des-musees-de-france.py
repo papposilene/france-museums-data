@@ -127,7 +127,7 @@ def main():
             else:
                 entry['status'] = 'open'
 
-            entry['annee'] = row[4]
+            entry['year'] = row[4]
             entry['stats'] = 'payant:' + row[7]
             entry['stats'] = entry['stats'] + ';' + 'gratuit:' + row[8]
             entry['stats'] = entry['stats'] + ';' + 'label-date:' + row[6]
