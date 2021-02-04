@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 import argparse
+import os.path
 import csv
 import json
 import geopy
@@ -8,9 +9,9 @@ from geopy.extra.rate_limiter import RateLimiter
 ##import reverse_geocode
 
 def parse_args():
-    parser = argparse.ArgumentParser(description='Convert frequentation-des-musees-de-france csv files to strctured by year files')
-    parser.add_argument('-i', '--input', type=str, required=True, help='input bordelique csv filename')
-    parser.add_argument('-o', '--output', type=str, required=True, help='input structured csv filename')
+    parser = argparse.ArgumentParser(description='Convert messy frequentation-des-musees-de-france csv files to structured by year files')
+    parser.add_argument('-i', '--input', type=str, required=True, help='input messy csv filename')
+    #parser.add_argument('-o', '--output', type=str, required=True, help='input structured csv filename')
     parser.add_argument('-v', '--version', action='version', version='1.0')
     return parser.parse_args()
 
@@ -43,10 +44,6 @@ def main():
 
     fieldnames = ['id', 'osm_id', 'name', 'number', 'street', 'postal_code', 'city', 'country', 'country_code',
                     'status', 'lat', 'lon', 'website', 'phone', 'fax', 'annee', 'stats', 'tags', 'description']
-
-    with open(args.output, 'w', newline='') as csv_outputfile:
-        csv_writer = csv.DictWriter(csv_outputfile, fieldnames=fieldnames)
-        csv_writer.writeheader()
 
     with open(args.input, newline='') as csv_inputfile:
         csv_reader = csv.reader(csv_inputfile, delimiter=';', quotechar='|')
@@ -97,9 +94,16 @@ def main():
             entry['stats'] = entry['stats'] + ';' + 'gratuit:' + row[8]
             entry['tags'] = 'label:musee de france'
 
-            with open(args.output, 'a+', newline='') as csv_outputfile:
-                csv_writer = csv.DictWriter(csv_outputfile, fieldnames=fieldnames)
-                csv_writer.writerow(entry)
+            output_file = './data/data-for-' + row[4] + '.csv'
+            if os.path.isfile(output_file):
+                with open(output_file, 'a+', newline='') as csv_outputfile:
+                    csv_writer = csv.DictWriter(csv_outputfile, fieldnames=fieldnames)
+                    csv_writer.writerow(entry)
+            else:
+                with open(output_file, 'a+', newline='') as csv_outputfile:
+                    csv_writer = csv.DictWriter(csv_outputfile, fieldnames=fieldnames)
+                    csv_writer.writeheader()
+                    csv_writer.writerow(entry)
 
             num_rows += 1
             entry = create_entry()
