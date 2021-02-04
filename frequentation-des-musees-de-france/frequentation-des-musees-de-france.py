@@ -32,7 +32,7 @@ def create_entry():
         "website": None,
         "phone": None,
         "fax": None,
-        "annee": None,
+        "year": None,
         "stats": None,
         "tags": None,
         "description": None
@@ -43,7 +43,7 @@ def main():
     locator = Nominatim(user_agent="fruseum-data/fdmdf", timeout=10)
 
     fieldnames = ['id', 'osm_id', 'name', 'number', 'street', 'postal_code', 'city', 'country', 'country_code',
-                    'status', 'lat', 'lon', 'website', 'phone', 'fax', 'annee', 'stats', 'tags', 'description']
+                    'status', 'lat', 'lon', 'website', 'phone', 'fax', 'year', 'stats', 'tags', 'description']
 
     with open(args.input, newline='') as csv_inputfile:
         csv_reader = csv.reader(csv_inputfile, delimiter=';', quotechar='|')
@@ -147,7 +147,7 @@ def main():
             num_rows += 1
             entry = create_entry()
 
-        print('wrote {} rows to {}'.format(num_rows, args.output))
+        print('wrote {} rows.'.format(num_rows))
 
 if __name__ == '__main__':
     main()
