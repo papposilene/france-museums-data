@@ -1,4 +1,4 @@
-id;name;regions;city;annee;departements;label;payant;gratuit;total;status;commentaire
+ref_musee;nom_du_musee;regions;ville;annee;departements;date_appellation;payant;gratuit;total;note;commentaire
 8212102;Musée Ingres;MIDI-PYRENEES;MONTAUBAN;2009;TARN-ET-GARONNE;06/01/2002;25548;32024;57572;;
 5901401;Musée Théophile Jouglet;NORD-PAS-DE-CALAIS;ANZIN;2009;NORD;01/02/2003;0;2014;2014;;
 5906701;Musée du Mont-de-Piété;NORD-PAS-DE-CALAIS;BERGUES;2009;NORD;01/02/2003;1409;925;2334;;
