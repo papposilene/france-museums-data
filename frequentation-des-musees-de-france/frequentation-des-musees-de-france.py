@@ -39,7 +39,7 @@ def create_entry():
 
 def main():
     args = parse_args()
-    locator = Nominatim(user_agent="fruseum-data", timeout=10)
+    locator = Nominatim(user_agent="fruseum-data/fdmdf", timeout=10)
 
     fieldnames = ['id', 'osm_id', 'name', 'number', 'street', 'postal_code', 'city', 'country', 'country_code',
                     'status', 'lat', 'lon', 'website', 'phone', 'fax', 'annee', 'stats', 'tags', 'description']
