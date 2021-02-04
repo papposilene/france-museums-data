@@ -84,10 +84,15 @@ def main():
                 if 'country' in osmdata: entry['country'] = location.raw['address']['country']
                 if 'country_code' in osmdata:  entry['country_code'] = location.raw['address']['country_code']
             else:
-                words = row[1].split()
-                word = words[-1].split('-')
-                print(word[-1])
-                location = locator.geocode(word[-1] + ' ' + row[3], addressdetails=True)
+                words = row[1].replace(',', ' ')
+                words = words.replace('\'', ' ')
+                words = words.replace('’', ' ')
+                words = words.replace('-', ' ')
+                words = words.split()
+                words = ' '.join([w for w in words if (len(w) > 3 and len(w) < 7)])
+
+                print(words + ' ' + row[3])
+                location = locator.geocode(words + ' ' + row[3], addressdetails=True)
 
                 if hasattr(location, 'raw'):
                     print(location.raw)
@@ -112,7 +117,6 @@ def main():
                         entry['city'] = ""
                     if 'country' in osmdata: entry['country'] = location.raw['address']['country']
                     if 'country_code' in osmdata:  entry['country_code'] = location.raw['address']['country_code']
-
                 else:
                     entry['city'] = row[3]
                     entry['country'] = 'France'
