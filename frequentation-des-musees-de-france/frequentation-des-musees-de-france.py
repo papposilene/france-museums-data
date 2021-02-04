@@ -83,6 +83,40 @@ def main():
                     entry['city'] = ""
                 if 'country' in osmdata: entry['country'] = location.raw['address']['country']
                 if 'country_code' in osmdata:  entry['country_code'] = location.raw['address']['country_code']
+            else:
+                words = row[1].split()
+                word = words[-1].split('-')
+                print(word[-1])
+                location = locator.geocode(word[-1] + ' ' + row[3], addressdetails=True)
+
+                if hasattr(location, 'raw'):
+                    print(location.raw)
+                    json_dump = json.dumps(str(location.raw))
+                    osmdata = json.loads(json_dump)
+
+                    if 'osm_id' in osmdata: entry['osm_id'] = location.raw['osm_id']
+                    if 'lat' in osmdata: entry['lat'] = location.raw['lat']
+                    if 'lon' in osmdata: entry['lon'] = location.raw['lon']
+                    if 'house_number' in osmdata: entry['number'] = location.raw['address']['house_number']
+                    if 'road' in osmdata: entry['street'] = location.raw['address']['road']
+                    if 'postcode' in osmdata: entry['postal_code'] = location.raw['address']['postcode']
+                    if 'village' in osmdata:
+                        entry['city'] = location.raw['address']['village']
+                    elif 'town' in osmdata:
+                        entry['city'] = location.raw['address']['town']
+                    elif 'municipality' in osmdata:
+                        entry['city'] = location.raw['address']['municipality']
+                    elif 'city' in osmdata:
+                        entry['city'] = location.raw['address']['city']
+                    else:
+                        entry['city'] = ""
+                    if 'country' in osmdata: entry['country'] = location.raw['address']['country']
+                    if 'country_code' in osmdata:  entry['country_code'] = location.raw['address']['country_code']
+
+                else:
+                    entry['city'] = row[3]
+                    entry['country'] = 'France'
+                    entry['country_code'] = 'fr'
 
             if row[10] == 'F':
                 entry['status'] = 'closed'
@@ -93,6 +127,7 @@ def main():
             entry['stats'] = 'payant:' + row[7]
             entry['stats'] = entry['stats'] + ';' + 'gratuit:' + row[8]
             entry['tags'] = 'label:musee de france'
+            entry['tags'] = entry['tags'] + ';' + 'label-date:' + row[6]
 
             output_file = './data/data-for-' + row[4] + '.csv'
             if os.path.isfile(output_file):
