@@ -130,8 +130,8 @@ def main():
             entry['annee'] = row[4]
             entry['stats'] = 'payant:' + row[7]
             entry['stats'] = entry['stats'] + ';' + 'gratuit:' + row[8]
+            entry['stats'] = entry['stats'] + ';' + 'label-date:' + row[6]
             entry['tags'] = 'label:musee de france'
-            entry['tags'] = entry['tags'] + ';' + 'label-date:' + row[6]
 
             output_file = './data/data-for-' + row[4] + '.csv'
             if os.path.isfile(output_file):
