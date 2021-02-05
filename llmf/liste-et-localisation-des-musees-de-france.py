@@ -100,10 +100,14 @@ def main():
                     entry['lon'] = address[1]
 
             else:
-                address = row[2].split(', ', 1)
-                print(address)
-                entry['number'] = address[0]
-                entry['street'] = address[1]
+                if (row[2].find(',') != -1):
+                    address = row[2].split(', ', 1)
+                    print(address)
+                    entry['number'] = address[0]
+                    entry['street'] = address[1]
+                else:
+                    entry['street'] = row[2]
+
                 entry['postal_code'] = row[3]
                 entry['city'] = row[4]
                 entry['country'] = 'France'
