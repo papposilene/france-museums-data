@@ -22,7 +22,7 @@ class bcolors:
 def parse_args():
     parser = argparse.ArgumentParser(description='Convert messy frequentation-des-musees-de-france csv files to structured by year files')
     parser.add_argument('-i', '--input', type=str, required=True, help='input messy csv filename')
-    #parser.add_argument('-o', '--output', type=str, required=True, help='input structured csv filename')
+    parser.add_argument('-y', '--year', type=str, required=False, help='extract data for ths given year (format: xxxx)')
     parser.add_argument('-v', '--version', action='version', version='1.0')
     return parser.parse_args()
 
