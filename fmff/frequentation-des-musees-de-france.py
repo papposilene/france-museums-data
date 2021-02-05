@@ -157,8 +157,8 @@ def main():
             else:
                 entry['stats'] = entry['stats'] + ';' + 'gratuit:0'
 
-            date = datetime.strptime(row[6], '%d/%m/%Y')
-            entry['stats'] = entry['stats'] + ';' + 'label-date:' + date.strftime('%Y-%m-%d')
+            if row[6]:
+                entry['stats'] = entry['stats'] + ';' + 'label-date:' + row[6]
 
             output_file = './data/data-for-' + row[4] + '.csv'
             if os.path.isfile(output_file):
