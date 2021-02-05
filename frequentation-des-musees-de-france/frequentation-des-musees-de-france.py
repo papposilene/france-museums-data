@@ -8,6 +8,17 @@ from geopy.geocoders import Nominatim
 from geopy.extra.rate_limiter import RateLimiter
 ##import reverse_geocode
 
+class bcolors:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKCYAN = '\033[96m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
+
 def parse_args():
     parser = argparse.ArgumentParser(description='Convert messy frequentation-des-musees-de-france csv files to structured by year files')
     parser.add_argument('-i', '--input', type=str, required=True, help='input messy csv filename')
@@ -53,12 +64,13 @@ def main():
         entry = create_entry()
 
         for row in csv_reader:
-            print(row)
+            print(f"{bcolors.OKGREEN}Row #", num_rows, f"{bcolors.ENDC}")
+            print(f"{bcolors.OKCYAN}Row data: ", row, f"{bcolors.ENDC}")
 
             entry['id'] = row[0]
             entry['name'] = row[1]
 
-            print(row[1])
+            #print(row[1])
             location = locator.geocode(row[1] + ' ' + row[3], addressdetails=True)
             if hasattr(location, 'raw'):
                 print(location.raw)
@@ -127,11 +139,15 @@ def main():
             else:
                 entry['status'] = 'open'
 
+            if row[10] == 'R':
+                entry['tags'] = 'unlabel:musee de france'
+            else:
+                entry['tags'] = 'label:musee de france'
+
             entry['year'] = row[4]
             entry['stats'] = 'payant:' + row[7]
             entry['stats'] = entry['stats'] + ';' + 'gratuit:' + row[8]
             entry['stats'] = entry['stats'] + ';' + 'label-date:' + row[6]
-            entry['tags'] = 'label:musee de france'
 
             output_file = './data/data-for-' + row[4] + '.csv'
             if os.path.isfile(output_file):
