@@ -4,7 +4,7 @@ import csv
 import os.path
 import json
 import geopy
-import unicodedata
+import unidecode
 from geopy.geocoders import Nominatim
 from geopy.extra.rate_limiter import RateLimiter
 ##import reverse_geocode
@@ -127,26 +127,39 @@ def main():
 
             # Create automatic tags with the name of the museum
             # type:ecomusee
-            name = unicodedata.normalize('NFKD', row[0])
+            name = unidecode.unidecode(row[0])
             name = name.casefold()
             print(name)
-            if 'archéologique' in name:
-                entry['tags'] = entry['tags'] + ';type:musee archeologique'
-            elif 'préhistoire' in name:
-                entry['tags'] = entry['tags'] + ';type:musee archeologique'
+            if 'archeologique' in name:
+                entry['tags'] = entry['tags'] + ';type:musee archeologique;art:prehistoire'
+            elif 'arts decoratifs' in name:
+                entry['tags'] = entry['tags'] + ';type:musee d\'arts decoratifs'
+            elif 'populaire' in name:
+                entry['tags'] = entry['tags'] + ';type:musee d\'arts populaires'
+            elif 'prehistoire' in name:
+                entry['tags'] = entry['tags'] + ';type:musee archeologique;art:prehistoire'
             elif 'atelier' in name:
-                entry['tags'] = entry['tags'] + ';type:atelier'
-            elif 'ecomusée' in name:
+                entry['tags'] = entry['tags'] + ';type:atelier d\'artiste'
+            elif 'beaux-arts' in name:
+                entry['tags'] = entry['tags'] + ';type:musee de beaux-arts'
+            elif 'ecomusee' in name:
                 entry['tags'] = entry['tags'] + ';type:ecomusee'
-            elif 'musée' in name:
-                entry['tags'] = entry['tags'] + ';type:musee'
-            elif 'museum' in name:
-                entry['tags'] = entry['tags'] + ';type:museum'
+            elif 'geologie' in name:
+                entry['tags'] = entry['tags'] + ';type:musee d\'histoire naturelle'
+            elif 'industrie' in name:
+                entry['tags'] = entry['tags'] + ';type:musee de sciences'
+            elif 'technique' in name:
+                entry['tags'] = entry['tags'] + ';type:musee de sciences'
+            elif 'histoire' in name:
+                entry['tags'] = entry['tags'] + ';type:musee historique'
             elif 'historique' in name:
                 entry['tags'] = entry['tags'] + ';type:musee historique'
+            elif 'museum' in name:
+                entry['tags'] = entry['tags'] + ';type:museum'
+            elif 'musee' in name:
+                entry['tags'] = entry['tags'] + ';type:musee'
             else:
                 entry['tags'] = entry['tags'] + ';type:a classer'
-
 
             if row[11] and row[12]:
                 entry['stats'] = 'label-date:' + row[11] + ';' + 'unlabel-date:' + row[12]
