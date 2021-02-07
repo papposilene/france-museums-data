@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 import argparse
-import os.path
 import csv
+import os.path
 import json
 import geopy
+import unicodedata
 from geopy.geocoders import Nominatim
 from geopy.extra.rate_limiter import RateLimiter
 ##import reverse_geocode
@@ -126,17 +127,25 @@ def main():
 
             # Create automatic tags with the name of the museum
             # type:ecomusee
-            if 'archeologique' in row[0].casefold():
-                entry['tags'] = entry['tags'] + 'type:musee archeologique'
-            elif 'atelier' in row[0].casefold():
-                entry['tags'] = entry['tags'] + 'type:atelier'
-            elif 'ecomusee' in row[0].casefold():
-                entry['tags'] = entry['tags'] + 'type:ecomusee'
-            elif 'musee' in row[0].casefold():
-                entry['tags'] = entry['tags'] + 'type:musee'
-            elif 'historique' in row[0].casefold():
-                entry['tags'] = entry['tags'] + 'type:musee historique'
+            name = unicodedata.normalize('NFKD', row[0])
+            name = name.casefold()
+            print(name)
+            if 'archéologique' in name:
+                entry['tags'] = entry['tags'] + ';type:musee archeologique'
+            elif 'préhistoire' in name:
+                entry['tags'] = entry['tags'] + ';type:musee archeologique'
+            elif 'atelier' in name:
+                entry['tags'] = entry['tags'] + ';type:atelier'
+            elif 'ecomusée' in name:
+                entry['tags'] = entry['tags'] + ';type:ecomusee'
+            elif 'musée' in name:
+                entry['tags'] = entry['tags'] + ';type:musee'
+            elif 'museum' in name:
+                entry['tags'] = entry['tags'] + ';type:museum'
+            elif 'historique' in name:
+                entry['tags'] = entry['tags'] + ';type:musee historique'
             else:
+                entry['tags'] = entry['tags'] + ';type:a classer'
 
 
             if row[11] and row[12]:
