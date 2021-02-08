@@ -57,7 +57,7 @@ def main():
                     'status', 'lat', 'lon', 'website', 'phone', 'fax', 'opening_days', 'closing_days', 'stats', 'tags', 'description']
 
     with open(args.input, newline='') as csv_inputfile:
-        csv_reader = csv.reader(csv_inputfile, delimiter=';', quotechar='|')
+        csv_reader = csv.reader(csv_inputfile, delimiter=',', quotechar='"')
         headers = next(csv_reader, None)
 
         num_rows = 0
@@ -96,9 +96,9 @@ def main():
                     if 'country' in osmdata: entry['country'] = location.raw['address']['country']
                     if 'country_code' in osmdata:  entry['country_code'] = location.raw['address']['country_code']
                 else:
-                    geoloc = row[15].split(',')
-                    entry['lat'] = address[0]
-                    entry['lon'] = address[1]
+                    geoloc = row[15].split(', ')
+                    entry['lat'] = geoloc[0]
+                    entry['lon'] = geoloc[1]
 
             else:
                 if (row[2].find(',') != -1):
@@ -106,8 +106,16 @@ def main():
                     print(address)
                     entry['number'] = address[0]
                     entry['street'] = address[1]
+                    if row[15]:
+                        geoloc = row[15].split(', ')
+                        entry['lat'] = geoloc[0]
+                        entry['lon'] = geoloc[1]
                 else:
                     entry['street'] = row[2]
+                    if row[15]:
+                        geoloc = row[15].split(', ')
+                        entry['lat'] = geoloc[0]
+                        entry['lon'] = geoloc[1]
 
                 entry['postal_code'] = row[3]
                 entry['city'] = row[4]
@@ -125,6 +133,11 @@ def main():
             else:
                 entry['tags'] = 'label:musee de france'
 
+            if row[10] == 'F':
+                entry['status'] = 'closed'
+            else:
+                entry['status'] = 'open'
+
             # Create automatic tags with the name of the museum
             # type:ecomusee
             name = unidecode.unidecode(row[0])
@@ -132,8 +145,16 @@ def main():
             print(name)
             if 'archeologique' in name:
                 entry['tags'] = entry['tags'] + ';type:musee archeologique;art:prehistoire'
+            elif 'antique' in name:
+                entry['tags'] = entry['tags'] + ';type:musee archeologique;art:antiquite'
             elif 'arts decoratifs' in name:
                 entry['tags'] = entry['tags'] + ';type:musee d\'arts decoratifs'
+            elif 'agricole' in name:
+                entry['tags'] = entry['tags'] + ';type:musee technique et industriel'
+            elif 'outil' in name:
+                entry['tags'] = entry['tags'] + ';type:musee technique et industriel'
+            elif 'ouvrier' in name:
+                entry['tags'] = entry['tags'] + ';type:musee d\'arts populaires'
             elif 'populaire' in name:
                 entry['tags'] = entry['tags'] + ';type:musee d\'arts populaires'
             elif 'prehistoire' in name:
@@ -147,9 +168,9 @@ def main():
             elif 'geologie' in name:
                 entry['tags'] = entry['tags'] + ';type:musee d\'histoire naturelle'
             elif 'industrie' in name:
-                entry['tags'] = entry['tags'] + ';type:musee de sciences'
+                entry['tags'] = entry['tags'] + ';type:musee technique et industriel'
             elif 'technique' in name:
-                entry['tags'] = entry['tags'] + ';type:musee de sciences'
+                entry['tags'] = entry['tags'] + ';type:musee technique et industriel'
             elif 'histoire' in name:
                 entry['tags'] = entry['tags'] + ';type:musee historique'
             elif 'historique' in name:
