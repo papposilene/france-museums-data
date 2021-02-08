@@ -156,6 +156,8 @@ def main():
                 entry['stats'] = entry['stats'] + ';' + 'gratuit:' + row[8]
             else:
                 entry['stats'] = entry['stats'] + ';' + 'gratuit:0'
+            
+            entry['stats'] = entry['stats'] + ';' + 'total:0' + row[9]
 
             if row[6]:
                 entry['stats'] = entry['stats'] + ';' + 'label-date:' + row[6]
