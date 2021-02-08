@@ -10,5 +10,5 @@ pip install geopy csv json
 
 To convert and augment geo location data, run:
 ```
-python3 liste-et-localisation-des-musees-de-france.py --input liste-et-localisation-des-musees-de-france.csv
+python3 localisation-musees.py --input liste-et-localisation-des-musees-de-france.csv
 ```
