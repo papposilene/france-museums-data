@@ -5,7 +5,7 @@ The French Ministry of Culture provides a file [Liste et Localisation des Musée
 ## Messy CSV to structured CSV (and augment location using geolookup)
 
 ```
-pip install geopy csv json
+pip install geopy csv unidecode json
 ```
 
 To convert and augment geo location data, run:
