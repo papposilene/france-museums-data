@@ -162,7 +162,7 @@ def main():
             if row[6]:
                 entry['stats'] = entry['stats'] + ';' + 'label-date:' + row[6]
 
-            output_file = './data/data-for-' + row[4] + '.csv'
+            output_file = './data/frequentation-des-musees-de-france-pour-' + row[4] + '.csv'
             if os.path.isfile(output_file):
                 with open(output_file, 'a+', newline='') as csv_outputfile:
                     csv_writer = csv.DictWriter(csv_outputfile, fieldnames=fieldnames)
