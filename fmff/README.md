@@ -10,5 +10,5 @@ pip install geopy csv json
 
 To convert and augment geo location data, run:
 ```
-python3 frequentation-des-musees-de-france.py --input frequentation-des-musees-de-france.csv
+python3 frequentation-musees.py --input frequentation-des-musees-de-france.csv
 ```
