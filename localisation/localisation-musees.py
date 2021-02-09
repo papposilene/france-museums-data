@@ -70,8 +70,41 @@ def main():
             entry['id'] = row[1]
             entry['name'] = row[0]
 
-            if row[15]:
-                location = locator.reverse(row[15])
+            location = locator.geocode(row[0] + ' ' + row[4], addressdetails=True)
+            if hasattr(location, 'raw'):
+                print(location.raw)
+                json_dump = json.dumps(str(location.raw))
+                osmdata = json.loads(json_dump)
+
+                if 'osm_id' in osmdata: entry['osm_id'] = location.raw['osm_id']
+                if 'lat' in osmdata: entry['lat'] = location.raw['lat']
+                if 'lon' in osmdata: entry['lon'] = location.raw['lon']
+                if 'house_number' in osmdata: entry['number'] = location.raw['address']['house_number']
+                if 'road' in osmdata: entry['street'] = location.raw['address']['road']
+                if 'postcode' in osmdata: entry['postal_code'] = location.raw['address']['postcode']
+                if 'village' in osmdata:
+                    entry['city'] = location.raw['address']['village']
+                elif 'town' in osmdata:
+                    entry['city'] = location.raw['address']['town']
+                elif 'municipality' in osmdata:
+                    entry['city'] = location.raw['address']['municipality']
+                elif 'city' in osmdata:
+                    entry['city'] = location.raw['address']['city']
+                else:
+                    entry['city'] = ""
+                if 'country' in osmdata: entry['country'] = location.raw['address']['country']
+                if 'country_code' in osmdata:  entry['country_code'] = location.raw['address']['country_code']
+            else:
+                words = row[0].replace(',', ' ')
+                words = words.replace('\'', ' ')
+                words = words.replace('’', ' ')
+                words = words.replace('-', ' ')
+                words = words.split()
+                words = ' '.join([w for w in words if (len(w) > 3 and len(w) < 7)])
+
+                print(words + ' ' + row[4])
+                location = locator.geocode(words + ' ' + row[4], addressdetails=True)
+
                 if hasattr(location, 'raw'):
                     print(location.raw)
                     json_dump = json.dumps(str(location.raw))
@@ -96,30 +129,9 @@ def main():
                     if 'country' in osmdata: entry['country'] = location.raw['address']['country']
                     if 'country_code' in osmdata:  entry['country_code'] = location.raw['address']['country_code']
                 else:
-                    geoloc = row[15].split(', ')
-                    entry['lat'] = geoloc[0]
-                    entry['lon'] = geoloc[1]
-            else:
-                if (row[2].find(',') != -1):
-                    address = row[2].split(', ', 1)
-                    print(address)
-                    entry['number'] = address[0]
-                    entry['street'] = address[1]
-                    if row[15]:
-                        geoloc = row[15].split(', ')
-                        entry['lat'] = geoloc[0]
-                        entry['lon'] = geoloc[1]
-                else:
-                    entry['street'] = row[2]
-                    if row[15]:
-                        geoloc = row[15].split(', ')
-                        entry['lat'] = geoloc[0]
-                        entry['lon'] = geoloc[1]
-
-                entry['postal_code'] = row[3]
-                entry['city'] = row[4]
-                entry['country'] = 'France'
-                entry['country_code'] = 'fr'
+                    entry['city'] = row[4]
+                    entry['country'] = 'France'
+                    entry['country_code'] = 'fr'
 
             entry['phone'] = row[5]
             entry['fax'] = row[6]
