@@ -97,7 +97,7 @@ def main():
                     if 'k' in elem.attrib and elem.attrib['k'] == 'description': entry['description'] = elem.attrib['v']
                 elif elem.tag == 'node':
 
-                entry['tags'] = 'osm:museum'
+                    entry['tags'] = 'osm:museum'
                 # add to csv
                 csv_writer.writerow(entry)
                 num_rows += 1
