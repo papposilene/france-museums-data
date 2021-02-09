@@ -33,9 +33,9 @@ The official OSM query tool is a Java application called [Osmosis](https://wiki.
 
 ```bash
 
-osmosis --read-xml data/planet-170102.osm --tf accept-nodes tourism=museum --tf reject-ways --tf reject-relations --write-xml data/output-museums-nodes.osm
+osmosis --read-xml data/france-latest.osm --tf accept-nodes tourism=museum --tf reject-ways --tf reject-relations --write-xml data/output-museums-nodes.osm
 
-osmosis --read-xml data/planet-170102.osm --tf accept-ways tourism=museum --tf used-nodes --tf reject-relations --write-xml data/output-museums-ways.osm
+osmosis --read-xml data/france-latest.osm --tf accept-ways tourism=museum --tf reject-relations --used-node --write-xml data/output-museums-ways.osm
 
 osmosis --rx data/output-museums-ways.osm --rx data/output-museums-nodes --merge --wx data/output-museums-merged.osm
 ```
