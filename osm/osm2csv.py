@@ -42,7 +42,7 @@ def create_entry():
 def main():
 
     args = parse_args()
-    locator = Nominatim(user_agent="osm-museums/osm", timeout=10)
+    locator = Nominatim(user_agent="fruseum-data/osm", timeout=10)
 
     with open(args.output, 'wb') as csv_file:
 
@@ -96,10 +96,12 @@ def main():
                     if 'k' in elem.attrib and elem.attrib['k'] == 'phone': entry['phone'] = elem.attrib['v']
                     if 'k' in elem.attrib and elem.attrib['k'] == 'description': entry['description'] = elem.attrib['v']
                 elif elem.tag == 'node':
-                    # add to csv
-                    csv_writer.writerow(entry)
-                    num_rows += 1
-                    entry = create_entry()
+
+                entry['tags'] = 'osm:museum
+                # add to csv
+                csv_writer.writerow(entry)
+                num_rows += 1
+                entry = create_entry()
         print('wrote {} rows to {}'.format(num_rows, args.output))
 
 if __name__ == '__main__':
