@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis 0.48.3">
+  <bounds minlon="157.90000" minlat="-25.00000" maxlon="174.10000" maxlat="-16.90000" origin="osmium/1.8.0"/>
+  <node id="775927938" version="3" timestamp="2012-05-20T05:54:37Z" lat="-22.2769756" lon="166.4487619">
+    <tag k="name" v="Centre d&apos;Art"/>
+    <tag k="tourism" v="museum"/>
+  </node>
+  <node id="813210197" version="3" timestamp="2018-01-08T00:35:46Z" lat="-22.2705008" lon="166.442217">
+    <tag k="name" v="Musée de la Ville"/>
+    <tag k="tourism" v="museum"/>
+  </node>
+  <node id="3191105561" version="1" timestamp="2014-11-17T05:27:19Z" lat="-20.9534595" lon="164.6842962">
+    <tag k="name" v="Ecomusee du cafe de Voh"/>
+    <tag k="tourism" v="museum"/>
+  </node>
+  <node id="5254843446" version="3" timestamp="2018-05-19T19:09:04Z" lat="-22.2563071" lon="166.4818417">
+    <tag k="name" v="Centre Culturel Tjibaou"/>
+    <tag k="email" v="adck@adck.nc"/>
+    <tag k="phone" v="414555"/>
+    <tag k="name:en" v="Jean-Marie Tjibaou Cultural Centre"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="website" v="http://www.adck.nc"/>
+    <tag k="addr:street" v="Rue des Accords de Matignon"/>
+    <tag k="opening_hours" v="Tu-Su 09:00-17:00"/>
+  </node>
+</osm>

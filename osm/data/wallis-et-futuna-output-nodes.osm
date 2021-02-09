@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis 0.48.3">
+  <bounds minlon="-179.97805" minlat="-16.25685" maxlon="-174.15530" maxlat="-9.05868" origin="osmium/1.8.0"/>
+  <node id="6794555285" version="1" timestamp="2019-09-14T06:40:01Z" lat="-13.2818114" lon="-176.1862891">
+    <tag k="name" v="Musée de Wallis et Futuna"/>
+    <tag k="name:en" v="Wallis and Futuna  Museum"/>
+    <tag k="tourism" v="museum"/>
+  </node>
+</osm>

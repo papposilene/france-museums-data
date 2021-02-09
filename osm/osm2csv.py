@@ -42,7 +42,7 @@ def create_entry():
 def main():
 
     args = parse_args()
-    locator = Nominatim(user_agent="fruseum-data/osm", timeout=10)
+    locator = Nominatim(user_agent="fruseumpy-data/osm", timeout=10)
 
     with open(args.output, 'wb') as csv_file:
 
