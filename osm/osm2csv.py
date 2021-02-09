@@ -36,7 +36,8 @@ def create_entry():
         "fax": None,
         "tags": None,
         "description": None,
-        "date_added": None
+        "date_added": None,
+        "wikidata": None
     }
 
 def main():
@@ -47,7 +48,8 @@ def main():
     with open(args.output, 'wb') as csv_file:
 
         fieldnames = ['osm_id', 'name', 'name:en', 'int_name', 'old_name', 'old_name:en', 'number', 'street', 'postal_code',
-                      'city', 'country', 'country_code', 'lat', 'lon', 'website', 'phone', 'fax', 'tags', 'description', 'date_added']
+                      'city', 'country', 'country_code', 'lat', 'lon', 'website', 'phone', 'fax', 'tags', 'description', 'date_added',
+                      'wikidata']
         csv_writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
         csv_writer.writeheader()
 
@@ -95,6 +97,7 @@ def main():
                     if 'k' in elem.attrib and elem.attrib['k'] == 'website': entry['website'] = elem.attrib['v']
                     if 'k' in elem.attrib and elem.attrib['k'] == 'phone': entry['phone'] = elem.attrib['v']
                     if 'k' in elem.attrib and elem.attrib['k'] == 'description': entry['description'] = elem.attrib['v']
+                    if 'k' in elem.attrib and elem.attrib['k'] == 'wikidata': entry['wikidata'] = elem.attrib['v']
                 elif elem.tag == 'node':
 
                     entry['tags'] = 'osm:museum'
