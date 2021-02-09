@@ -99,7 +99,6 @@ def main():
                     geoloc = row[15].split(', ')
                     entry['lat'] = geoloc[0]
                     entry['lon'] = geoloc[1]
-
             else:
                 if (row[2].find(',') != -1):
                     address = row[2].split(', ', 1)
