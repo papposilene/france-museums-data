@@ -1,2 +1,2 @@
-# france-museums-data
-Tools for extract french museums data
+# fruseumpy
+Python tools for extract french museums data from different sources.
