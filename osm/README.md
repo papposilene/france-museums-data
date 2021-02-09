@@ -52,5 +52,5 @@ pip3 install numpy scipy reverse_geocode unicodecsv
 
 To convert and augment geo location data, run:
 ```
-python3 osm2csv.py --input data/all-museums.osm --output data/all-museums.csv
+python3 osm2csv.py --input data/final-france-museums.osm --output csv/france-museums.csv
 ```
