@@ -37,7 +37,20 @@ osmosis \
  --tf accept-nodes tourism=museum \
  --tf reject-ways \
  --tf reject-relations \
- --write-xml data/all-museums.osm
+ --write-xml data/output-museums-nodes.osm
+ 
+osmosis \
+ --read-xml data/planet-170102.osm \
+ --tf accept-ways tourism=museum \
+ --tf reject-relations \
+ --tf --used-node \
+ --write-xml data/output-museums-ways.osm
+ 
+osmosis \
+ --rx data/output-museums-ways.osm \
+ --rx data/output-museums-nodes \
+ --merge \
+ --wx data/output-museums-merged.osm
 ```
 
 The above command is also the contents of `query.sh`. So you can instead run `./query.sh` for convenience. See here for [full Osmosis usage documentation](https://wiki.openstreetmap.org/wiki/Osmosis/Detailed_Usage_0.45).
