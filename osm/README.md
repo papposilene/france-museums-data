@@ -12,10 +12,10 @@ Open Street Maps planet data is ~54GB compressed, and ~751GB once uncompressed. 
 
 ```bash
 # clone this repo
-git clone https://github.com/brannondorsey/osm-museums
+git clone https://github.com/papposilene/fruseumpy/osm
 
 # navigate to the data folder
-cd osm-museums/data
+cd fruseumpy/osm/data
 
 # download the planet osm file
 wget https://ftp5.gwdg.de/pub/misc/openstreetmap/planet.openstreetmap.org/planet/2017/planet-170102.osm.bz2
@@ -32,25 +32,12 @@ Osmosis can operate on `.bz2` compressed OSM files, however this is not encourag
 The official OSM query tool is a Java application called [Osmosis](https://wiki.openstreetmap.org/wiki/Osmosis). You must [download and install](https://wiki.openstreetmap.org/wiki/Osmosis#How_to_install) it for your platform. Next we search for all museums in the world and output the results to an XML file called `all-museums.osm` inside `data/`.
 
 ```bash
-osmosis \
- --read-xml data/planet-170102.osm \
- --tf accept-nodes tourism=museum \
- --tf reject-ways \
- --tf reject-relations \
- --write-xml data/output-museums-nodes.osm
- 
-osmosis \
- --read-xml data/planet-170102.osm \
- --tf accept-ways tourism=museum \
- --tf reject-relations \
- --tf --used-node \
- --write-xml data/output-museums-ways.osm
- 
-osmosis \
- --rx data/output-museums-ways.osm \
- --rx data/output-museums-nodes \
- --merge \
- --wx data/output-museums-merged.osm
+
+osmosis --read-xml data/planet-170102.osm --tf accept-nodes tourism=museum --tf reject-ways --tf reject-relations --write-xml data/output-museums-nodes.osm
+
+osmosis --read-xml data/planet-170102.osm --tf accept-ways tourism=museum --tf used-nodes --tf reject-relations --write-xml data/output-museums-ways.osm
+
+osmosis --rx data/output-museums-ways.osm --rx data/output-museums-nodes --merge --wx data/output-museums-merged.osm
 ```
 
 The above command is also the contents of `query.sh`. So you can instead run `./query.sh` for convenience. See here for [full Osmosis usage documentation](https://wiki.openstreetmap.org/wiki/Osmosis/Detailed_Usage_0.45).
@@ -60,10 +47,10 @@ The above command is also the contents of `query.sh`. So you can instead run `./
 `osm2csv.py` is a python program to convert osm file (that are the result of `query.sh`) to csv. Before running this program you must install the necessary dependencies.
 
 ```
-pip install numpy scipy reverse_geocode unicodecsv
+pip3 install numpy scipy reverse_geocode unicodecsv
 ``` 
 
 To convert and augment geo location data, run:
 ```
-python osm2csv.py --input data/all-museums.osm --output data/all-museums.csv
+python3 osm2csv.py --input data/all-museums.osm --output data/all-museums.csv
 ```
