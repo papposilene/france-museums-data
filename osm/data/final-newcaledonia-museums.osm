@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis 0.48.3">
+  <bounds minlon="157.90000" minlat="-25.00000" maxlon="174.10000" maxlat="-16.90000" origin="osmium/1.8.0"/>
+  <node id="775927938" version="3" timestamp="2012-05-20T05:54:37Z" lat="-22.2769756" lon="166.4487619">
+    <tag k="name" v="Centre d&apos;Art"/>
+    <tag k="tourism" v="museum"/>
+  </node>
+  <node id="813210197" version="3" timestamp="2018-01-08T00:35:46Z" lat="-22.2705008" lon="166.442217">
+    <tag k="name" v="Musée de la Ville"/>
+    <tag k="tourism" v="museum"/>
+  </node>
+  <node id="856587335" version="3" timestamp="2018-12-17T06:20:01Z" lat="-21.5714813" lon="165.4990013"/>
+  <node id="856587337" version="3" timestamp="2018-12-17T06:20:01Z" lat="-21.57172" lon="165.4989794"/>
+  <node id="856587339" version="3" timestamp="2018-12-17T06:20:01Z" lat="-21.5717274" lon="165.4990723"/>
+  <node id="856587340" version="3" timestamp="2018-12-17T06:20:01Z" lat="-21.5714886" lon="165.4990942"/>
+  <node id="890394298" version="1" timestamp="2010-08-31T12:47:15Z" lat="-20.6924012" lon="164.9452442"/>
+  <node id="890394299" version="1" timestamp="2010-08-31T12:47:15Z" lat="-20.6924865" lon="164.9452281"/>
+  <node id="890394306" version="1" timestamp="2010-08-31T12:47:15Z" lat="-20.6924564" lon="164.9455017"/>
+  <node id="890394307" version="1" timestamp="2010-08-31T12:47:15Z" lat="-20.692356" lon="164.9455821"/>
+  <node id="890394308" version="1" timestamp="2010-08-31T12:47:15Z" lat="-20.6921904" lon="164.9455285"/>
+  <node id="890394309" version="1" timestamp="2010-08-31T12:47:15Z" lat="-20.6921954" lon="164.9454212"/>
+  <node id="890394310" version="1" timestamp="2010-08-31T12:47:15Z" lat="-20.6922908" lon="164.9454266"/>
+  <node id="890394311" version="1" timestamp="2010-08-31T12:47:15Z" lat="-20.692361" lon="164.9453836"/>
+  <node id="1003280759" version="3" timestamp="2018-01-17T02:59:51Z" lat="-22.2567094" lon="166.4583611"/>
+  <node id="1003280803" version="3" timestamp="2018-01-17T02:59:52Z" lat="-22.2569556" lon="166.4584003"/>
+  <node id="1003280830" version="3" timestamp="2018-01-17T02:59:52Z" lat="-22.256877" lon="166.4582566"/>
+  <node id="1003280863" version="3" timestamp="2018-01-17T02:59:51Z" lat="-22.2567091" lon="166.4584292"/>
+  <node id="1003280867" version="3" timestamp="2018-01-17T02:59:51Z" lat="-22.2567895" lon="166.4583165"/>
+  <node id="1003280897" version="3" timestamp="2018-01-17T02:59:51Z" lat="-22.2567611" lon="166.4585244"/>
+  <node id="1003280899" version="3" timestamp="2018-01-17T02:59:52Z" lat="-22.2568162" lon="166.458296"/>
+  <node id="1003280911" version="3" timestamp="2018-01-17T02:59:51Z" lat="-22.2567369" lon="166.4584115"/>
+  <node id="1253700934" version="3" timestamp="2018-04-10T00:56:51Z" lat="-22.2682466" lon="166.4395475"/>
+  <node id="1253700935" version="3" timestamp="2018-04-10T00:56:51Z" lat="-22.2683675" lon="166.439559"/>
+  <node id="1253700938" version="3" timestamp="2018-04-10T00:56:51Z" lat="-22.2683889" lon="166.439231"/>
+  <node id="1253700940" version="3" timestamp="2018-04-10T00:56:51Z" lat="-22.2682652" lon="166.4392216"/>
+  <node id="1748461221" version="2" timestamp="2012-12-10T21:38:06Z" lat="-22.278007" lon="166.4513019"/>
+  <node id="1748461222" version="2" timestamp="2012-12-10T21:38:06Z" lat="-22.2780651" lon="166.451162"/>
+  <node id="1748461223" version="2" timestamp="2012-12-10T21:38:06Z" lat="-22.2781296" lon="166.4513613"/>
+  <node id="1748461224" version="2" timestamp="2012-12-10T21:38:06Z" lat="-22.2781877" lon="166.4512215"/>
+  <node id="1918276847" version="3" timestamp="2019-05-09T01:04:45Z" lat="-22.2619019" lon="166.4031212"/>
+  <node id="1918276857" version="3" timestamp="2019-05-09T01:04:45Z" lat="-22.2618525" lon="166.4032623"/>
+  <node id="1918276913" version="3" timestamp="2019-05-09T01:04:45Z" lat="-22.2615858" lon="166.4030449"/>
+  <node id="1918276921" version="3" timestamp="2019-05-09T01:04:45Z" lat="-22.2618733" lon="166.4031622"/>
+  <node id="1918276929" version="3" timestamp="2019-05-09T01:04:45Z" lat="-22.2619046" lon="166.4031877"/>
+  <node id="1918276946" version="3" timestamp="2019-05-09T01:04:45Z" lat="-22.2616739" lon="166.4029955"/>
+  <node id="1918276948" version="3" timestamp="2019-05-09T01:04:45Z" lat="-22.2616398" lon="166.4029676"/>
+  <node id="1918276956" version="3" timestamp="2019-05-09T01:04:45Z" lat="-22.2617006" lon="166.4029572"/>
+  <node id="2020393031" version="2" timestamp="2018-01-17T02:59:52Z" lat="-22.2569336" lon="166.4583601"/>
+  <node id="3191105561" version="1" timestamp="2014-11-17T05:27:19Z" lat="-20.9534595" lon="164.6842962">
+    <tag k="name" v="Ecomusee du cafe de Voh"/>
+    <tag k="tourism" v="museum"/>
+  </node>
+  <node id="3571045868" version="1" timestamp="2015-06-04T06:54:33Z" lat="-22.2691852" lon="166.4436178"/>
+  <node id="3571045869" version="1" timestamp="2015-06-04T06:54:33Z" lat="-22.2693882" lon="166.4436317"/>
+  <node id="3571045870" version="1" timestamp="2015-06-04T06:54:34Z" lat="-22.2693974" lon="166.443473"/>
+  <node id="3571045871" version="1" timestamp="2015-06-04T06:54:34Z" lat="-22.2693253" lon="166.443468"/>
+  <node id="3571045872" version="1" timestamp="2015-06-04T06:54:34Z" lat="-22.2693238" lon="166.4434941"/>
+  <node id="3571045873" version="1" timestamp="2015-06-04T06:54:34Z" lat="-22.269193" lon="166.4434851"/>
+  <node id="5254843446" version="3" timestamp="2018-05-19T19:09:04Z" lat="-22.2563071" lon="166.4818417">
+    <tag k="name" v="Centre Culturel Tjibaou"/>
+    <tag k="email" v="adck@adck.nc"/>
+    <tag k="phone" v="414555"/>
+    <tag k="name:en" v="Jean-Marie Tjibaou Cultural Centre"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="website" v="http://www.adck.nc"/>
+    <tag k="addr:street" v="Rue des Accords de Matignon"/>
+    <tag k="opening_hours" v="Tu-Su 09:00-17:00"/>
+  </node>
+  <node id="5426504774" version="2" timestamp="2019-05-09T01:04:45Z" lat="-22.2617153" lon="166.4025392"/>
+  <node id="6460528402" version="1" timestamp="2019-05-09T01:04:37Z" lat="-22.2614733" lon="166.4028969"/>
+  <node id="6460528409" version="1" timestamp="2019-05-09T01:04:37Z" lat="-22.2614373" lon="166.4029571"/>
+  <node id="6460528410" version="1" timestamp="2019-05-09T01:04:37Z" lat="-22.261958" lon="166.4034048"/>
+  <node id="6460528411" version="1" timestamp="2019-05-09T01:04:37Z" lat="-22.2621497" lon="166.4031818"/>
+  <node id="6460528412" version="1" timestamp="2019-05-09T01:04:37Z" lat="-22.2618778" lon="166.4028403"/>
+  <node id="6781664409" version="1" timestamp="2019-09-08T23:45:02Z" lat="-22.2620333" lon="166.4030355"/>
+  <node id="6781664410" version="1" timestamp="2019-09-08T23:45:02Z" lat="-22.2618354" lon="166.4032994"/>
+  <way id="72051112" version="3" timestamp="2020-04-03T00:56:27Z">
+    <nd ref="856587335"/>
+    <nd ref="856587337"/>
+    <nd ref="856587339"/>
+    <nd ref="856587340"/>
+    <nd ref="856587335"/>
+    <tag k="fee" v="yes"/>
+    <tag k="name" v="Musée de Bourail"/>
+    <tag k="email" v="info@bourailtourisme.nc"/>
+    <tag k="phone" v="464612"/>
+    <tag k="charge" v="250 CFP /adultes et 6 à 18 ans 100 FCFP"/>
+    <tag k="museum" v="history"/>
+    <tag k="name:fr" v="Office de Tourisme de Bourail"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="website" v="https://www.bourailtourisme.nc/"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:city" v="Bourail"/>
+    <tag k="addr:street" v="Rue Simeone Dremond"/>
+    <tag k="description" v="Le Musée de Bourail, situé dans l&apos;ancien &quot;magasin aux vivres&quot; du bagne, vous propose de découvrir l&apos;histoire de la région depuis les pétroglyphes, les tribus Orôwé et Neku, le pénitencier agricole, la guillotine, jusqu&apos;à la présence néo-zélandaise lors de"/>
+    <tag k="addr:postcode" v="98870"/>
+    <tag k="opening_hours" v="Mo-Sa 09:00-17:00"/>
+    <tag k="internet_access" v="wlan"/>
+  </way>
+  <way id="75403676" version="2" timestamp="2010-08-31T13:14:25Z">
+    <nd ref="890394298"/>
+    <nd ref="890394299"/>
+    <nd ref="890394306"/>
+    <nd ref="890394307"/>
+    <nd ref="890394308"/>
+    <nd ref="890394309"/>
+    <nd ref="890394310"/>
+    <nd ref="890394311"/>
+    <nd ref="890394298"/>
+    <tag k="name" v="Centre Culturel de Hienghène"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="86362217" version="2" timestamp="2012-11-18T19:46:22Z">
+    <nd ref="1003280867"/>
+    <nd ref="1003280759"/>
+    <nd ref="1003280911"/>
+    <nd ref="1003280863"/>
+    <nd ref="1003280897"/>
+    <nd ref="1003280803"/>
+    <nd ref="2020393031"/>
+    <nd ref="1003280830"/>
+    <nd ref="1003280899"/>
+    <nd ref="1003280867"/>
+    <tag k="name" v="Maison de la Nature"/>
+    <tag k="source" v="bing 11/2012"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="109506923" version="3" timestamp="2018-04-10T00:56:53Z">
+    <nd ref="1253700934"/>
+    <nd ref="1253700935"/>
+    <nd ref="1253700938"/>
+    <nd ref="1253700940"/>
+    <nd ref="1253700934"/>
+    <tag k="name" v="Musée de la seconde guerre mondiale en Nouvelle-Calédoni"/>
+    <tag k="source" v="Bing"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:city" v="Nouméa"/>
+    <tag k="addr:street" v="Avenue Paul Doumer"/>
+    <tag k="addr:postcode" v="98800"/>
+    <tag k="addr:housenumber" v="14"/>
+  </way>
+  <way id="163072076" version="2" timestamp="2017-12-18T01:00:42Z">
+    <nd ref="1748461224"/>
+    <nd ref="1748461222"/>
+    <nd ref="1748461221"/>
+    <nd ref="1748461223"/>
+    <nd ref="1748461224"/>
+    <tag k="name" v="Maison Célières"/>
+    <tag k="source" v="bing"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="181395111" version="2" timestamp="2019-05-09T01:04:50Z">
+    <nd ref="1918276948"/>
+    <nd ref="1918276913"/>
+    <nd ref="1918276857"/>
+    <nd ref="1918276929"/>
+    <nd ref="1918276921"/>
+    <nd ref="1918276847"/>
+    <nd ref="1918276956"/>
+    <nd ref="1918276946"/>
+    <nd ref="1918276948"/>
+    <tag k="name" v="Ville de Nouméa - GIE SERAIL | Ville de Nouméa | Ville de Nouméa - GIE SERAIL Musée du bagne - Association Témoignage d&apos;un passé"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="351331242" version="3" timestamp="2018-05-19T18:49:07Z">
+    <nd ref="3571045868"/>
+    <nd ref="3571045869"/>
+    <nd ref="3571045870"/>
+    <nd ref="3571045871"/>
+    <nd ref="3571045872"/>
+    <nd ref="3571045873"/>
+    <nd ref="3571045868"/>
+    <tag k="name" v="Maison Higginson"/>
+    <tag k="phone" v="248417"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="building" v="yes"/>
+    <tag k="addr:street" v="Rue de Sébastopol"/>
+    <tag k="addr:postcode" v="98800"/>
+    <tag k="addr:housenumber" v="7"/>
+  </way>
+  <way id="688770299" version="2" timestamp="2019-09-08T23:45:02Z">
+    <nd ref="5426504774"/>
+    <nd ref="6460528402"/>
+    <nd ref="6460528409"/>
+    <nd ref="6781664410"/>
+    <nd ref="6460528410"/>
+    <nd ref="6460528411"/>
+    <nd ref="6781664409"/>
+    <nd ref="6460528412"/>
+    <nd ref="5426504774"/>
+    <tag k="name" v="Musée du bagne"/>
+    <tag k="tourism" v="museum"/>
+  </way>
+</osm>
