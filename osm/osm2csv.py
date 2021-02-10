@@ -1,9 +1,20 @@
 #!/usr/bin/env python3
 import argparse
 import unicodecsv as csv
-import urllib.request
+import urllib3.request
 import json
 import xml.etree.ElementTree as ET
+
+class bcolors:
+    HEADER = '\033[95m'
+    OKBLUE = '\033[94m'
+    OKCYAN = '\033[96m'
+    OKGREEN = '\033[92m'
+    WARNING = '\033[93m'
+    FAIL = '\033[91m'
+    ENDC = '\033[0m'
+    BOLD = '\033[1m'
+    UNDERLINE = '\033[4m'
 
 def parse_args():
     parser = argparse.ArgumentParser(description='Convert museum osm files to csv')
@@ -54,18 +65,20 @@ def main():
         num_rows = 0
         entry = create_entry()
 
+        http = urllib3.PoolManager()
+
         for event, elem in ET.iterparse(args.input, events=("start", "end")):
             print(f"{bcolors.OKGREEN}Row #", num_rows, f"{bcolors.ENDC}")
-            print(f"{bcolors.OKCYAN}Row data: ", elem, f"{bcolors.ENDC}")
-            
+            #print(f"{bcolors.OKCYAN}Row data: ", elem, f"{bcolors.ENDC}")
+
             if event == 'start':
                 # Node element
                 if elem.tag == 'node':
                     if 'id' in elem.attrib: entry['osm_id'] = elem.attrib['id']
                     if 'timestamp' in elem.attrib: entry['date_added'] = elem.attrib['timestamp']
 
-                    osm_url = "https://nominatim.openstreetmap.org/lookup?format=jsonv2&addressdetails=1&extratags=1&namedetails=1&osm_ids=N" + elem.attrib['id']
-                    osm_data = urllib.request.urlopen(url).read().decode()
+                    osm_url = http.request('GET', 'https://nominatim.openstreetmap.org/lookup?format=jsonv2&addressdetails=1&extratags=1&namedetails=1&osm_ids=N' + elem.attrib['id'])
+                    osm_data = json.loads(osm_url.data.decode('utf-8'))
                     print(osm_data)
 
                     if 'lat' in elem.attrib: entry['lat'] = osm_data['lat']
@@ -88,9 +101,9 @@ def main():
                 elif elem.tag == 'way':
                     if 'id' in elem.attrib: entry['osm_id'] = elem.attrib['id']
                     if 'timestamp' in elem.attrib: entry['date_added'] = elem.attrib['timestamp']
-                        
-                    osm_url = "https://nominatim.openstreetmap.org/lookup?format=jsonv2&addressdetails=1&extratags=1&namedetails=1&osm_ids=W" + elem.attrib['id']
-                    osm_data = urllib.request.urlopen(url).read().decode()
+
+                    osm_url = http.request('GET', 'https://nominatim.openstreetmap.org/lookup?format=jsonv2&addressdetails=1&extratags=1&namedetails=1&osm_ids=W' + elem.attrib['id'])
+                    osm_data = json.loads(osm_url.data.decode('utf-8'))
                     print(osm_data)
 
                     if 'lat' in elem.attrib: entry['lat'] = osm_data['lat']
@@ -109,7 +122,7 @@ def main():
                         entry['city'] = ""
                     entry['country'] = osm_data['address']['country']
                     entry['country_code'] = osm_data['address']['country_code']
-                    
+
             elif event == 'end':
                 if elem.tag == 'tag':
                     if 'k' in elem.attrib and elem.attrib['k'] == 'name': entry['name'] = elem.attrib['v']
