@@ -1,12 +1,9 @@
 #!/usr/bin/env python3
 import argparse
 import unicodecsv as csv
-import xml.etree.ElementTree as ET
+import urllib.request
 import json
-import geopy
-from geopy.geocoders import Nominatim
-from geopy.extra.rate_limiter import RateLimiter
-##import reverse_geocode
+import xml.etree.ElementTree as ET
 
 def parse_args():
     parser = argparse.ArgumentParser(description='Convert museum osm files to csv')
@@ -32,6 +29,7 @@ def create_entry():
         "lat": None,
         "lon": None,
         "website": None,
+        "email": None,
         "phone": None,
         "fax": None,
         "tags": None,
@@ -43,12 +41,12 @@ def create_entry():
 def main():
 
     args = parse_args()
-    locator = Nominatim(user_agent="fruseumpy-data/osm", timeout=10)
+    #locator = Nominatim(user_agent="fruseumpy-data/osm", timeout=10)
 
     with open(args.output, 'wb') as csv_file:
 
         fieldnames = ['osm_id', 'name', 'name:en', 'int_name', 'old_name', 'old_name:en', 'number', 'street', 'postal_code',
-                      'city', 'country', 'country_code', 'lat', 'lon', 'website', 'phone', 'fax', 'tags', 'description', 'date_added',
+                      'city', 'country', 'country_code', 'lat', 'lon', 'website', 'email', 'phone', 'fax', 'tags', 'description', 'date_added',
                       'wikidata']
         csv_writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
         csv_writer.writeheader()
@@ -57,47 +55,69 @@ def main():
         entry = create_entry()
 
         for event, elem in ET.iterparse(args.input, events=("start", "end")):
+            print(f"{bcolors.OKGREEN}Row #", num_rows, f"{bcolors.ENDC}")
+            print(f"{bcolors.OKCYAN}Row data: ", elem, f"{bcolors.ENDC}")
+            
             if event == 'start':
+                # Node element
                 if elem.tag == 'node':
                     if 'id' in elem.attrib: entry['osm_id'] = elem.attrib['id']
-                    if 'lat' in elem.attrib: entry['lat'] = elem.attrib['lat']
-                    if 'lon' in elem.attrib: entry['lon'] = elem.attrib['lon']
                     if 'timestamp' in elem.attrib: entry['date_added'] = elem.attrib['timestamp']
 
-                    coords = [(float(elem.attrib['lat']), float(elem.attrib['lon']))]
-                    location = locator.reverse(coords)
-                    print(location.raw)
-                    json_dump = json.dumps(str(location.raw))
-                    osmdata = json.loads(json_dump)
+                    osm_url = "https://nominatim.openstreetmap.org/lookup?format=jsonv2&addressdetails=1&extratags=1&namedetails=1&osm_ids=N" + elem.attrib['id']
+                    osm_data = urllib.request.urlopen(url).read().decode()
+                    print(osm_data)
 
-                    if 'postcode' in osmdata: entry['postal_code'] = location.raw['address']['postcode']
-
-                    if 'village' in osmdata:
-                        entry['city'] = location.raw['address']['village']
-                    elif 'town' in osmdata:
-                        entry['city'] = location.raw['address']['town']
-                    elif 'municipality' in osmdata:
-                        entry['city'] = location.raw['address']['municipality']
-                    elif 'city' in osmdata:
-                        entry['city'] = location.raw['address']['city']
+                    if 'lat' in elem.attrib: entry['lat'] = osm_data['lat']
+                    if 'lon' in elem.attrib: entry['lon'] = osm_data['lon']
+                    if 'road' in osm_data: entry['street'] = osm_data['address']['road']
+                    if 'postcode' in osm_data: entry['postal_code'] = location.raw['address']['postcode']
+                    if 'village' in osm_data:
+                        entry['city'] = osm_data['address']['village']
+                    elif 'town' in osm_data:
+                        entry['city'] = osm_data['address']['town']
+                    elif 'municipality' in osm_data:
+                        entry['city'] = osm_data['address']['municipality']
+                    elif 'city' in osm_data:
+                        entry['city'] = osm_data['address']['city']
                     else:
                         entry['city'] = ""
+                    entry['country'] = osm_data['address']['country']
+                    entry['country_code'] = osm_data['address']['country_code']
+                # Way element
+                elif elem.tag == 'way':
+                    if 'id' in elem.attrib: entry['osm_id'] = elem.attrib['id']
+                    if 'timestamp' in elem.attrib: entry['date_added'] = elem.attrib['timestamp']
+                        
+                    osm_url = "https://nominatim.openstreetmap.org/lookup?format=jsonv2&addressdetails=1&extratags=1&namedetails=1&osm_ids=W" + elem.attrib['id']
+                    osm_data = urllib.request.urlopen(url).read().decode()
+                    print(osm_data)
 
-                    entry['country'] = location.raw['address']['country']
-                    entry['country_code'] = location.raw['address']['country_code']
+                    if 'lat' in elem.attrib: entry['lat'] = osm_data['lat']
+                    if 'lon' in elem.attrib: entry['lon'] = osm_data['lon']
+                    if 'road' in osm_data: entry['street'] = osm_data['address']['road']
+                    if 'postcode' in osm_data: entry['postal_code'] = osm_data['address']['postcode']
+                    if 'village' in osm_data:
+                        entry['city'] = osm_data['address']['village']
+                    elif 'town' in osm_data:
+                        entry['city'] = osm_data['address']['town']
+                    elif 'municipality' in osm_data:
+                        entry['city'] = osm_data['address']['municipality']
+                    elif 'city' in osm_data:
+                        entry['city'] = osm_data['address']['city']
+                    else:
+                        entry['city'] = ""
+                    entry['country'] = osm_data['address']['country']
+                    entry['country_code'] = osm_data['address']['country_code']
+                    
             elif event == 'end':
                 if elem.tag == 'tag':
                     if 'k' in elem.attrib and elem.attrib['k'] == 'name': entry['name'] = elem.attrib['v']
-                    if 'k' in elem.attrib and elem.attrib['k'] == 'name:en': entry['name:en'] = elem.attrib['v']
-                    if 'k' in elem.attrib and elem.attrib['k'] == 'int_name': entry['int_name'] = elem.attrib['v']
-                    if 'k' in elem.attrib and elem.attrib['k'] == 'old_name': entry['old_name'] = elem.attrib['v']
-                    if 'k' in elem.attrib and elem.attrib['k'] == 'old_name:en': entry['old_name:en'] = elem.attrib['v']
-                    # if 'k' in elem.attrib and elem.attrib['k'] == 'addr:country': entry['country'] = elem.attrib['v']
-                    # if 'k' in elem.attrib and elem.attrib['k'] == 'addr:city': entry['city'] = elem.attrib['v']
                     if 'k' in elem.attrib and elem.attrib['k'] == 'website': entry['website'] = elem.attrib['v']
+                    if 'k' in elem.attrib and elem.attrib['k'] == 'email': entry['email'] = elem.attrib['v']
                     if 'k' in elem.attrib and elem.attrib['k'] == 'phone': entry['phone'] = elem.attrib['v']
-                    if 'k' in elem.attrib and elem.attrib['k'] == 'description': entry['description'] = elem.attrib['v']
                     if 'k' in elem.attrib and elem.attrib['k'] == 'wikidata': entry['wikidata'] = elem.attrib['v']
+                    if 'k' in elem.attrib and elem.attrib['k'] == 'description': entry['description'] = elem.attrib['v']
                 elif elem.tag == 'node':
 
                     entry['tags'] = 'osm:museum'
