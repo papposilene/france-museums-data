@@ -69,7 +69,7 @@ def main():
 
         for event, elem in ET.iterparse(args.input, events=("start", "end")):
             print(f"{bcolors.OKGREEN}Row #", num_rows, f"{bcolors.ENDC}")
-            #print(f"{bcolors.OKCYAN}Row data: ", elem, f"{bcolors.ENDC}")
+            #print(f"{bcolors.OKCYAN}Row data: ", event, f"{bcolors.ENDC}")
 
             if event == 'start':
                 # Node element
@@ -79,12 +79,12 @@ def main():
 
                     osm_url = http.request('GET', 'https://nominatim.openstreetmap.org/lookup?format=jsonv2&addressdetails=1&extratags=1&namedetails=1&osm_ids=N' + elem.attrib['id'])
                     osm_data = json.loads(osm_url.data.decode('utf-8'))
-                    print(osm_data)
+                    print(osm_data['lat'])
 
-                    if 'lat' in elem.attrib: entry['lat'] = osm_data['lat']
-                    if 'lon' in elem.attrib: entry['lon'] = osm_data['lon']
+                    if 'lat' in osm_data: entry['lat'] = osm_data['lat']
+                    if 'lon' in osm_data: entry['lon'] = osm_data['lon']
                     if 'road' in osm_data: entry['street'] = osm_data['address']['road']
-                    if 'postcode' in osm_data: entry['postal_code'] = location.raw['address']['postcode']
+                    if 'postcode' in osm_data: entry['postal_code'] = osm_data['address']['postcode']
                     if 'village' in osm_data:
                         entry['city'] = osm_data['address']['village']
                     elif 'town' in osm_data:
@@ -95,8 +95,8 @@ def main():
                         entry['city'] = osm_data['address']['city']
                     else:
                         entry['city'] = ""
-                    entry['country'] = osm_data['address']['country']
-                    entry['country_code'] = osm_data['address']['country_code']
+                    if 'country' in osm_data: entry['country'] = osm_data['address']['country']
+                    if 'country_code' in osm_data: entry['country_code'] = osm_data['address']['country_code']
                 # Way element
                 elif elem.tag == 'way':
                     if 'id' in elem.attrib: entry['osm_id'] = elem.attrib['id']
@@ -106,8 +106,8 @@ def main():
                     osm_data = json.loads(osm_url.data.decode('utf-8'))
                     print(osm_data)
 
-                    if 'lat' in elem.attrib: entry['lat'] = osm_data['lat']
-                    if 'lon' in elem.attrib: entry['lon'] = osm_data['lon']
+                    if 'lat' in osm_data: entry['lat'] = osm_data['lat']
+                    if 'lon' in osm_data: entry['lon'] = osm_data['lon']
                     if 'road' in osm_data: entry['street'] = osm_data['address']['road']
                     if 'postcode' in osm_data: entry['postal_code'] = osm_data['address']['postcode']
                     if 'village' in osm_data:
@@ -123,17 +123,19 @@ def main():
                     entry['country'] = osm_data['address']['country']
                     entry['country_code'] = osm_data['address']['country_code']
 
-            elif event == 'end':
-                if elem.tag == 'tag':
+                elif elem.tag == 'tag':
                     if 'k' in elem.attrib and elem.attrib['k'] == 'name': entry['name'] = elem.attrib['v']
                     if 'k' in elem.attrib and elem.attrib['k'] == 'website': entry['website'] = elem.attrib['v']
                     if 'k' in elem.attrib and elem.attrib['k'] == 'email': entry['email'] = elem.attrib['v']
                     if 'k' in elem.attrib and elem.attrib['k'] == 'phone': entry['phone'] = elem.attrib['v']
                     if 'k' in elem.attrib and elem.attrib['k'] == 'wikidata': entry['wikidata'] = elem.attrib['v']
                     if 'k' in elem.attrib and elem.attrib['k'] == 'description': entry['description'] = elem.attrib['v']
-                elif elem.tag == 'node':
-
                     entry['tags'] = 'osm:museum'
+
+                else:
+                    entry['tags'] = 'null'
+
+
                 # add to csv
                 csv_writer.writerow(entry)
                 num_rows += 1
