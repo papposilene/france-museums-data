@@ -1,5 +1,13 @@
-osm_id,name,name:en,int_name,old_name,old_name:en,number,street,postal_code,city,country,country_code,lat,lon,website,email,phone,fax,tags,description,date_added,wikidata
-775927938,Centre d'Art,,,,,,Boulevard Extérieur Auguste Mercier,98800,Nouméa,France,fr,-22.2769756,166.4487619,,,,,osm:museum,,2012-05-20T05:54:37Z,
-775927938,Centre d'Art,,,,,,Boulevard Extérieur Auguste Mercier,98800,Nouméa,France,fr,-22.2769756,166.4487619,,,,,osm:museum,,2012-05-20T05:54:37Z,
-813210197,Musée de la Ville,,,,,,Rue Jean Jaurès,98800,Nouméa,France,fr,-22.2705008,166.442217,,,,,osm:museum,,2018-01-08T00:35:46Z,
-813210197,Musée de la Ville,,,,,,Rue Jean Jaurès,98800,Nouméa,France,fr,-22.2705008,166.442217,,,,,osm:museum,,2018-01-08T00:35:46Z,
+osm_id,name,number,street,postal_code,city,country,country_code,lat,lon,website,email,phone,fax,tags,description,date_added,wikidata
+775927938,Centre d'Art,,Boulevard Extérieur Auguste Mercier,98800,Nouméa,France,fr,-22.2769756,166.4487619,,,,,osm:museum,,2012-05-20T05:54:37Z,
+813210197,Musée de la Ville,,Rue Jean Jaurès,98800,Nouméa,France,fr,-22.2705008,166.442217,,,,,osm:museum,,2018-01-08T00:35:46Z,
+3191105561,Ecomusee du cafe de Voh,,Avenue du Village,98833,Voh,France,fr,-20.9534595,164.6842962,,,,,osm:museum,,2014-11-17T05:27:19Z,
+5254843446,Centre Culturel Tjibaou,,Rue des Accords de Matignon,98800,Nouméa,France,fr,-22.2563071,166.4818417,http://www.adck.nc,adck@adck.nc,414555,,osm:museum,,2018-05-19T19:09:04Z,
+72051112,Musée de Bourail,,Route Territoriale 1,98870,Bourail,France,fr,-21.571604299999997,165.49903680222258,https://www.bourailtourisme.nc/,info@bourailtourisme.nc,464612,,osm:museum,"Le Musée de Bourail, situé dans l'ancien ""magasin aux vivres"" du bagne, vous propose de découvrir l'histoire de la région depuis les pétroglyphes, les tribus Orôwé et Neku, le pénitencier agricole, la guillotine, jusqu'à la présence néo-zélandaise lors de",2020-04-03T00:56:27Z,
+75403676,Centre Culturel de Hienghène,,Route Provinciale Nord 10,98815,Ganem,France,fr,-20.6923234,164.9454890898241,,,,,osm:museum,,2010-08-31T13:14:25Z,
+86362217,Maison de la Nature,,Rue Teyssandier de Laubarède,98800,Nouméa,France,fr,-22.2568466,166.45837307352184,,,,,osm:museum,,2012-11-18T19:46:22Z,
+109506923,Musée de la seconde guerre mondiale en Nouvelle-Calédoni,,Avenue Paul Doumer,98800,Nouméa,France,fr,-22.26831635,166.4393898107596,,,,,osm:museum,,2018-04-10T00:56:53Z,
+163072076,Maison Célières,,Rue Bougainville,98800,Nouméa,France,fr,-22.27809735,166.45126166315254,,,,,osm:museum,,2017-12-18T01:00:42Z,
+181395111,Ville de Nouméa - GIE SERAIL | Ville de Nouméa | Ville de Nouméa - GIE SERAIL Musée du bagne - Association Témoignage d'un passé,,Rue Kataouï,98800,Nouméa,France,fr,-22.26177655,166.40310973315104,,,,,osm:museum,,2019-05-09T01:04:50Z,
+351331242,Maison Higginson,,Rue de Sébastopol,98800,Nouméa,France,fr,-22.2692584,166.44355620610838,,,248417,,osm:museum,,2018-05-19T18:49:07Z,
+688770299,Musée du bagne,,Rue Kataouï,98800,Nouméa,France,fr,-22.26177535,166.40294911749316,,,,,osm:museum,,2019-09-08T23:45:02Z,
