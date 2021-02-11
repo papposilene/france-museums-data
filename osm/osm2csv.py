@@ -85,22 +85,21 @@ def main():
 
                 entry['lat'] = osm_data[0]['lat']
                 entry['lon'] = osm_data[0]['lon']
-                entry['street'] = osm_data[0]['address']['road']
-                entry['postal_code'] = osm_data[0]['address']['postcode']
-                if 'village' in osm_data:
+                if 'road' in osm_data[0]['address']: entry['street'] = osm_data[0]['address']['road']
+                if 'postcode' in osm_data[0]['address']: entry['postal_code'] = osm_data[0]['address']['postcode']
+                if 'village' in osm_data[0]['address']:
                     entry['city'] = osm_data[0]['address']['village']
-                elif 'town' in osm_data:
+                elif 'town' in osm_data[0]['address']:
                     entry['city'] = osm_data[0]['address']['town']
-                elif 'municipality' in osm_data:
+                elif 'municipality' in osm_data[0]['address']:
                     entry['city'] = osm_data[0]['address']['municipality']
-                elif 'city' in osm_data:
+                elif 'city' in osm_data[0]['address']:
                     entry['city'] = osm_data[0]['address']['city']
                 else:
                     entry['city'] = ""
-                if 'country' in osm_data: entry['country'] = osm_data[0]['address']['country']
-                if 'country_code' in osm_data: entry['country_code'] = osm_data[0]['address']['country_code']
+                if 'country' in osm_data[0]['address']: entry['country'] = osm_data[0]['address']['country']
+                if 'country_code' in osm_data[0]['address']: entry['country_code'] = osm_data[0]['address']['country_code']
 
-                if 'k' in elem.attrib and elem.attrib['k'] == 'name': entry['name'] = elem.attrib['v']
                 if 'k' in elem.attrib and elem.attrib['k'] == 'website': entry['website'] = elem.attrib['v']
                 if 'k' in elem.attrib and elem.attrib['k'] == 'email': entry['email'] = elem.attrib['v']
                 if 'k' in elem.attrib and elem.attrib['k'] == 'phone': entry['phone'] = elem.attrib['v']
@@ -109,49 +108,53 @@ def main():
 
                 entry['tags'] = 'osm:museum'
 
+                # add to csv
+                csv_writer.writerow(entry)
+
             # Way element
-            elif elem.tag == 'way':
+            elif elem.tag == 'way' and hasattr(elem, 'tag'):
                 print(f"{bcolors.OKCYAN}Row has tag elements", f"{bcolors.ENDC}") if hasattr(elem, 'tag') else ('no child')
 
-                if hasattr(elem, 'tag'):
-                    if 'id' in elem.attrib: entry['osm_id'] = elem.attrib['id']
-                    if 'timestamp' in elem.attrib: entry['date_added'] = elem.attrib['timestamp']
+                if 'id' in elem.attrib: entry['osm_id'] = elem.attrib['id']
+                if 'timestamp' in elem.attrib: entry['date_added'] = elem.attrib['timestamp']
 
-                    osm_url = http.request('GET', 'https://nominatim.openstreetmap.org/lookup?format=jsonv2&addressdetails=1&extratags=1&namedetails=1&osm_ids=W' + elem.attrib['id'])
-                    osm_data = json.loads(osm_url.data.decode('utf-8'))
+                osm_url = http.request('GET', 'https://nominatim.openstreetmap.org/lookup?format=jsonv2&addressdetails=1&extratags=1&namedetails=1&osm_ids=N' + elem.attrib['id'])
+                osm_data = json.loads(osm_url.data.decode('utf-8'))
 
-                    print(osm_data)
+                print(osm_data)
+                entry['name'] = osm_data[0]['namedetails']['name']
 
-                    entry['name'] = osm_data[0]['namedetails']['name']
-
-                    if 'lat' in osm_data: entry['lat'] = osm_data[0]['lat']
-                    if 'lon' in osm_data: entry['lon'] = osm_data[0]['lon']
-                    if 'road' in osm_data: entry['street'] = osm_data[0]['address']['road']
-                    if 'postcode' in osm_data: entry['postal_code'] = osm_data[0]['address']['postcode']
-                    if 'village' in osm_data:
-                        entry['city'] = osm_data[0]['address']['village']
-                    elif 'town' in osm_data:
-                        entry['city'] = osm_data[0]['address']['town']
-                    elif 'municipality' in osm_data:
-                        entry['city'] = osm_data[0]['address']['municipality']
-                    elif 'city' in osm_data:
-                        entry['city'] = osm_data[0]['address']['city']
-                    else:
-                        entry['city'] = ""
-                    entry['country'] = osm_data[0]['address']['country']
-                    entry['country_code'] = osm_data[0]['address']['country_code']
-
+                entry['lat'] = osm_data[0]['lat']
+                entry['lon'] = osm_data[0]['lon']
+                if 'road' in osm_data[0]['address']: entry['street'] = osm_data[0]['address']['road']
+                if 'postcode' in osm_data[0]['address']: entry['postal_code'] = osm_data[0]['address']['postcode']
+                if 'village' in osm_data[0]['address']:
+                    entry['city'] = osm_data[0]['address']['village']
+                elif 'town' in osm_data[0]['address']:
+                    entry['city'] = osm_data[0]['address']['town']
+                elif 'municipality' in osm_data[0]['address']:
+                    entry['city'] = osm_data[0]['address']['municipality']
+                elif 'city' in osm_data[0]['address']:
+                    entry['city'] = osm_data[0]['address']['city']
                 else:
-                    print('Skipped')
+                    entry['city'] = ""
+                if 'country' in osm_data[0]['address']: entry['country'] = osm_data[0]['address']['country']
+                if 'country_code' in osm_data[0]['address']: entry['country_code'] = osm_data[0]['address']['country_code']
 
+                if 'k' in elem.attrib and elem.attrib['k'] == 'website': entry['website'] = elem.attrib['v']
+                if 'k' in elem.attrib and elem.attrib['k'] == 'email': entry['email'] = elem.attrib['v']
+                if 'k' in elem.attrib and elem.attrib['k'] == 'phone': entry['phone'] = elem.attrib['v']
+                if 'k' in elem.attrib and elem.attrib['k'] == 'wikidata': entry['wikidata'] = elem.attrib['v']
+                if 'k' in elem.attrib and elem.attrib['k'] == 'description': entry['description'] = elem.attrib['v']
 
+                entry['tags'] = 'osm:museum'
+
+                # add to csv
+                csv_writer.writerow(entry)
 
             else:
-                entry['tags'] = 'null'
+                print('Skipped')
 
-
-            # add to csv
-            csv_writer.writerow(entry)
             num_rows += 1
             entry = create_entry()
         print('wrote {} rows to {}'.format(num_rows, args.output))
