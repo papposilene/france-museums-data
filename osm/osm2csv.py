@@ -85,6 +85,7 @@ def main():
 
                 entry['lat'] = osm_data[0]['lat']
                 entry['lon'] = osm_data[0]['lon']
+                if 'house_number' in osm_data[0]['address']: entry['number'] = osm_data[0]['address']['house_number']
                 if 'road' in osm_data[0]['address']: entry['street'] = osm_data[0]['address']['road']
                 if 'postcode' in osm_data[0]['address']: entry['postal_code'] = osm_data[0]['address']['postcode']
                 if 'village' in osm_data[0]['address']:
@@ -134,6 +135,7 @@ def main():
                 if 'name' in osm_data[0]['namedetails']: entry['name'] = osm_data[0]['namedetails']['name']
                 entry['lat'] = osm_data[0]['lat']
                 entry['lon'] = osm_data[0]['lon']
+                if 'house_number' in osm_data[0]['address']: entry['number'] = osm_data[0]['address']['house_number']
                 if 'road' in osm_data[0]['address']: entry['street'] = osm_data[0]['address']['road']
                 if 'postcode' in osm_data[0]['address']: entry['postal_code'] = osm_data[0]['address']['postcode']
                 if 'village' in osm_data[0]['address']:
