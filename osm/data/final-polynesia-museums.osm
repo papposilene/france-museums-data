@@ -1,0 +1,217 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis 0.48.3">
+  <bounds minlon="-158.55473" minlat="-31.54105" maxlon="-132.53911" maxlat="-4.91579" origin="osmium/1.8.0"/>
+  <node id="1259853239" version="2" timestamp="2013-03-13T04:12:26Z" lat="-16.7301399" lon="-151.4435944"/>
+  <node id="1259853266" version="2" timestamp="2013-03-13T04:12:25Z" lat="-16.7303478" lon="-151.4435408"/>
+  <node id="1259853376" version="2" timestamp="2013-03-13T04:12:25Z" lat="-16.7300168" lon="-151.4433524"/>
+  <node id="1259853388" version="2" timestamp="2013-03-13T04:12:25Z" lat="-16.7299476" lon="-151.443485"/>
+  <node id="1259853521" version="2" timestamp="2013-03-13T04:12:25Z" lat="-16.7302787" lon="-151.4436733"/>
+  <node id="2062489702" version="3" timestamp="2017-02-13T09:18:21Z" lat="-9.8035066" lon="-139.0409117">
+    <tag k="name" v="Espace Culturel Paul Gaugin"/>
+    <tag k="tourism" v="museum"/>
+  </node>
+  <node id="3032716241" version="3" timestamp="2019-10-29T07:41:28Z" lat="-17.5432567" lon="-149.5738205"/>
+  <node id="3032716247" version="3" timestamp="2019-10-29T07:41:28Z" lat="-17.5431656" lon="-149.5739281"/>
+  <node id="3032716250" version="3" timestamp="2019-10-29T07:41:28Z" lat="-17.5431181" lon="-149.5739113"/>
+  <node id="3032716256" version="3" timestamp="2019-10-29T07:41:28Z" lat="-17.5431671" lon="-149.5736265"/>
+  <node id="4682717145" version="2" timestamp="2020-11-11T16:45:17Z" lat="-16.470099" lon="-151.7454802">
+    <tag k="description" v="Ausstellung von Modellschiffen"/>
+    <tag k="name" v="Musée de Marine"/>
+    <tag k="tourism" v="museum"/>
+  </node>
+  <node id="4683069628" version="1" timestamp="2017-02-13T09:18:11Z" lat="-9.8036716" lon="-139.0407442">
+    <tag k="name" v="Maison de Jouir"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="description" v="Wohnhaus von Paul Gaugin"/>
+  </node>
+  <node id="4683069629" version="2" timestamp="2019-10-04T21:55:55Z" lat="-9.8046284" lon="-139.0405994">
+    <tag k="name" v="Centre Jacques Brel"/>
+    <tag k="tourism" v="museum"/>
+  </node>
+  <node id="4683069642" version="1" timestamp="2017-02-13T09:18:12Z" lat="-8.8283434" lon="-140.0819382">
+    <tag k="name" v="Archeological Museum"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="operator" v="Chez Yvonne"/>
+  </node>
+  <node id="4683069722" version="1" timestamp="2017-02-13T09:18:13Z" lat="-10.5135118" lon="-138.6846837"/>
+  <node id="4683069723" version="1" timestamp="2017-02-13T09:18:13Z" lat="-10.5136101" lon="-138.6847079"/>
+  <node id="4683069724" version="1" timestamp="2017-02-13T09:18:13Z" lat="-10.5136279" lon="-138.6846126"/>
+  <node id="4683069725" version="1" timestamp="2017-02-13T09:18:13Z" lat="-10.5135283" lon="-138.6845892"/>
+  <node id="4683070000" version="1" timestamp="2017-02-13T09:18:16Z" lat="-8.9315166" lon="-139.5544301">
+    <tag k="name" v="Musée comunal de Ua Huka"/>
+    <tag k="tourism" v="museum"/>
+  </node>
+  <node id="4683070021" version="1" timestamp="2017-02-13T09:18:16Z" lat="-8.9240696" lon="-139.5345241">
+    <tag k="name" v="Musée de la Mer"/>
+    <tag k="tourism" v="museum"/>
+  </node>
+  <node id="4683070024" version="2" timestamp="2020-12-06T08:09:28Z" lat="-8.9304634" lon="-139.5269066">
+    <tag k="name" v="Maison du Pétroglyphe"/>
+    <tag k="name:en" v="Petroglyphs"/>
+    <tag k="tourism" v="museum"/>
+  </node>
+  <node id="5804937266" version="1" timestamp="2018-08-02T19:45:52Z" lat="-16.8748299" lon="-151.3704241">
+    <tag k="name" v="Musée du Coquillage"/>
+    <tag k="name:de" v="Muschelmuseum"/>
+    <tag k="tourism" v="museum"/>
+  </node>
+  <node id="6336918181" version="2" timestamp="2019-09-27T04:57:19Z" lat="-17.5252849" lon="-149.5206352"/>
+  <node id="6336918182" version="2" timestamp="2019-09-27T04:57:19Z" lat="-17.525159" lon="-149.5206311"/>
+  <node id="6336918183" version="2" timestamp="2019-09-27T04:57:19Z" lat="-17.5251637" lon="-149.5204729"/>
+  <node id="6336918184" version="2" timestamp="2019-09-27T04:57:19Z" lat="-17.5252898" lon="-149.520477"/>
+  <node id="6336918585" version="2" timestamp="2019-09-27T04:57:19Z" lat="-17.5252884" lon="-149.5205228"/>
+  <node id="6336918586" version="2" timestamp="2019-09-27T04:57:19Z" lat="-17.525384" lon="-149.5205259"/>
+  <node id="6336918587" version="2" timestamp="2019-09-27T04:57:19Z" lat="-17.5253816" lon="-149.5206076"/>
+  <node id="6336918588" version="2" timestamp="2019-09-27T04:57:19Z" lat="-17.5253271" lon="-149.5206059"/>
+  <node id="6336918589" version="2" timestamp="2019-09-27T04:57:19Z" lat="-17.5253287" lon="-149.5205546"/>
+  <node id="6336918590" version="2" timestamp="2019-09-27T04:57:19Z" lat="-17.5252876" lon="-149.5205533"/>
+  <node id="6361085089" version="1" timestamp="2019-03-25T20:08:16Z" lat="-8.9169627" lon="-140.1091124">
+    <tag k="name" v="Musee de rose corser"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="operator" v="rose corser"/>
+  </node>
+  <node id="6366258598" version="1" timestamp="2019-03-27T22:44:33Z" lat="-17.524608" lon="-149.519216">
+    <tag k="name" v="Maison de James Norman Hall"/>
+    <tag k="tourism" v="museum"/>
+  </node>
+  <node id="6366269790" version="1" timestamp="2019-03-27T22:44:35Z" lat="-17.5398748" lon="-149.5679301">
+    <tag k="name" v="musée du street art"/>
+    <tag k="tourism" v="museum"/>
+  </node>
+  <node id="6926307999" version="1" timestamp="2019-10-29T07:41:28Z" lat="-17.5429295" lon="-149.5734061"/>
+  <node id="6926308000" version="2" timestamp="2019-10-31T18:51:42Z" lat="-17.543012" lon="-149.5733585"/>
+  <node id="6926313447" version="2" timestamp="2019-10-31T18:51:42Z" lat="-17.5429308" lon="-149.5734086"/>
+  <node id="6926314537" version="1" timestamp="2019-10-29T07:41:28Z" lat="-17.5429634" lon="-149.5736083"/>
+  <node id="6926314538" version="1" timestamp="2019-10-29T07:41:28Z" lat="-17.5430324" lon="-149.5737455"/>
+  <node id="6926314539" version="1" timestamp="2019-10-29T07:41:28Z" lat="-17.5432399" lon="-149.573885"/>
+  <node id="6926314540" version="1" timestamp="2019-10-29T07:41:28Z" lat="-17.5432182" lon="-149.5738424"/>
+  <node id="6926314541" version="1" timestamp="2019-10-29T07:41:28Z" lat="-17.543237" lon="-149.573781"/>
+  <node id="6926314542" version="1" timestamp="2019-10-29T07:41:28Z" lat="-17.5432262" lon="-149.5737858"/>
+  <node id="6926314543" version="1" timestamp="2019-10-29T07:41:28Z" lat="-17.5431609" lon="-149.5736669"/>
+  <node id="6926314544" version="1" timestamp="2019-10-29T07:41:28Z" lat="-17.5431696" lon="-149.5736612"/>
+  <node id="6926314545" version="1" timestamp="2019-10-29T07:41:28Z" lat="-17.543174" lon="-149.5736391"/>
+  <node id="6926314546" version="1" timestamp="2019-10-29T07:41:28Z" lat="-17.5431463" lon="-149.5736198"/>
+  <node id="6926314547" version="1" timestamp="2019-10-29T07:41:28Z" lat="-17.5431299" lon="-149.5736284"/>
+  <node id="6926314548" version="1" timestamp="2019-10-29T07:41:28Z" lat="-17.5430841" lon="-149.5735378"/>
+  <node id="6926314549" version="1" timestamp="2019-10-29T07:41:28Z" lat="-17.5431017" lon="-149.5735294"/>
+  <node id="6926314551" version="1" timestamp="2019-10-29T07:41:28Z" lat="-17.5428687" lon="-149.5734411"/>
+  <node id="6964797998" version="1" timestamp="2019-11-10T20:04:03Z" lat="-17.5183316" lon="-149.8506041">
+    <tag k="tourism" v="museum"/>
+  </node>
+  <node id="7054037768" version="1" timestamp="2019-12-13T08:57:04Z" lat="-17.4869018" lon="-149.8169847"/>
+  <node id="7054037769" version="1" timestamp="2019-12-13T08:57:04Z" lat="-17.4869463" lon="-149.8169958"/>
+  <node id="7054037770" version="1" timestamp="2019-12-13T08:57:04Z" lat="-17.4869418" lon="-149.8170188"/>
+  <node id="7054037771" version="1" timestamp="2019-12-13T08:57:04Z" lat="-17.4869721" lon="-149.8170255"/>
+  <node id="7054037772" version="1" timestamp="2019-12-13T08:57:04Z" lat="-17.4869719" lon="-149.8170294"/>
+  <node id="7054037773" version="1" timestamp="2019-12-13T08:57:04Z" lat="-17.4870713" lon="-149.8170527"/>
+  <node id="7054037774" version="1" timestamp="2019-12-13T08:57:04Z" lat="-17.4870847" lon="-149.8170003"/>
+  <node id="7054037775" version="1" timestamp="2019-12-13T08:57:04Z" lat="-17.4871986" lon="-149.81703"/>
+  <node id="7054037776" version="1" timestamp="2019-12-13T08:57:04Z" lat="-17.4872167" lon="-149.8169582"/>
+  <node id="7054037777" version="1" timestamp="2019-12-13T08:57:04Z" lat="-17.4871733" lon="-149.8169478"/>
+  <node id="7054037778" version="1" timestamp="2019-12-13T08:57:04Z" lat="-17.4871778" lon="-149.8169286"/>
+  <node id="7054037779" version="1" timestamp="2019-12-13T08:57:04Z" lat="-17.4871044" lon="-149.8169098"/>
+  <node id="7054037780" version="1" timestamp="2019-12-13T08:57:04Z" lat="-17.4870952" lon="-149.8169445"/>
+  <node id="7054037781" version="1" timestamp="2019-12-13T08:57:04Z" lat="-17.4869203" lon="-149.8169028"/>
+  <way id="110280019" version="2" timestamp="2017-07-01T16:52:12Z">
+    <nd ref="1259853521"/>
+    <nd ref="1259853266"/>
+    <nd ref="1259853376"/>
+    <nd ref="1259853388"/>
+    <nd ref="1259853239"/>
+    <nd ref="1259853521"/>
+    <tag k="name" v="Musée Sainte-Thérèse"/>
+    <tag k="name:en" v="Sainte-Therese Museum"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="299285161" version="6" timestamp="2019-12-06T20:12:47Z">
+    <nd ref="6926314551"/>
+    <nd ref="6926307999"/>
+    <nd ref="6926313447"/>
+    <nd ref="6926308000"/>
+    <nd ref="6926314549"/>
+    <nd ref="6926314548"/>
+    <nd ref="6926314547"/>
+    <nd ref="6926314546"/>
+    <nd ref="3032716256"/>
+    <nd ref="6926314545"/>
+    <nd ref="6926314544"/>
+    <nd ref="6926314543"/>
+    <nd ref="6926314542"/>
+    <nd ref="6926314541"/>
+    <nd ref="3032716241"/>
+    <nd ref="6926314540"/>
+    <nd ref="6926314539"/>
+    <nd ref="3032716247"/>
+    <nd ref="3032716250"/>
+    <nd ref="6926314538"/>
+    <nd ref="6926314537"/>
+    <nd ref="6926314551"/>
+    <tag k="name" v="Musée de la perle Robert Wan"/>
+    <tag k="shop" v="yes"/>
+    <tag k="source" v="Bing"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="building" v="yes"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="source:date" v="2017-01-31"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="source:geometry" v="Theodolite"/>
+    <tag k="building:material" v="hard"/>
+  </way>
+  <way id="474324152" version="1" timestamp="2017-02-13T09:18:18Z">
+    <nd ref="4683069722"/>
+    <nd ref="4683069723"/>
+    <nd ref="4683069724"/>
+    <nd ref="4683069725"/>
+    <nd ref="4683069722"/>
+    <tag k="name" v="Grelet"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="building" v="yes"/>
+  </way>
+  <way id="676707956" version="5" timestamp="2020-05-08T07:37:50Z">
+    <nd ref="6336918182"/>
+    <nd ref="6336918183"/>
+    <nd ref="6336918184"/>
+    <nd ref="6336918585"/>
+    <nd ref="6336918586"/>
+    <nd ref="6336918587"/>
+    <nd ref="6336918588"/>
+    <nd ref="6336918589"/>
+    <nd ref="6336918590"/>
+    <nd ref="6336918181"/>
+    <nd ref="6336918182"/>
+    <tag k="name" v="Musée James Norman Hall"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="building" v="yes"/>
+    <tag k="wikidata" v="Q30279373"/>
+    <tag k="source:date" v="2017-02-13"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="source:geometry" v="Theodolite"/>
+    <tag k="building:material" v="hard"/>
+  </way>
+  <way id="755129956" version="2" timestamp="2019-12-18T08:10:10Z">
+    <nd ref="7054037781"/>
+    <nd ref="7054037780"/>
+    <nd ref="7054037779"/>
+    <nd ref="7054037778"/>
+    <nd ref="7054037777"/>
+    <nd ref="7054037776"/>
+    <nd ref="7054037775"/>
+    <nd ref="7054037774"/>
+    <nd ref="7054037773"/>
+    <nd ref="7054037772"/>
+    <nd ref="7054037771"/>
+    <nd ref="7054037770"/>
+    <nd ref="7054037769"/>
+    <nd ref="7054037768"/>
+    <nd ref="7054037781"/>
+    <tag k="name" v="Galerie Van der Heyde"/>
+    <tag k="tourism" v="museum"/>
+    <tag k="building" v="yes"/>
+    <tag k="operator:type" v="private"/>
+    <tag k="source:geometry" v="Aerial photogrammetry"/>
+    <tag k="building:material" v="hard"/>
+    <tag k="operational_status" v="operational"/>
+    <tag k="source:geometry:date" v="2010"/>
+  </way>
+</osm>
