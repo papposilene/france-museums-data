@@ -88,7 +88,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 4205901,6050847032,Atelier - Musée du Chapeau,31,Rue Martouret,42140,Chazelles-sur-Lyon,France,fr,open,45.6386575,4.395141,,,,2009,payant:10610;gratuit:4184;label-date:01/02/2003,label:musee de france,
 4209401,346317680,Musée d'Archéologie,,Rue Victor de Laprade,42110,Feurs,France,fr,open,45.7442509,4.2195524,,,,2009,payant:1379;gratuit:4647;label-date:01/02/2003,label:musee de france,
 4214702,7419064520,Musée de la Diana,5,Rue Florimond Robertet,42600,Montbrison,France,fr,open,45.6055914,4.0668891,,,,2009,payant:1643;gratuit:0;label-date:01/02/2003,label:musee de france,
-4217301,,Musée du Vieux Pommiers,,,,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2009,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
+4217301,,Musée du Vieux Pommiers,,,42260,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2009,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 4218701,,Musée des Beaux-Arts et d'Archéologie J. Dechelette,,,,ROANNE,France,fr,open,,,,,,2009,payant:2741;gratuit:10701;label-date:01/02/2003,label:musee de france,
 4231801,,Musée Rural,,,,USSON-EN-FOREZ,France,fr,open,,,,,,2009,payant:5993;gratuit:1131;label-date:01/02/2003,label:musee de france,
 6912302,440270631,Musée des Arts Décoratifs,,Autoroute du Soleil,69002,Lyon,France,fr,open,45.732677800000005,4.818160692638674,,,,2009,payant:0;gratuit:0;label-date:2003-02-01 00:00:00,label:musee de france,

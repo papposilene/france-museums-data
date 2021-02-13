@@ -232,7 +232,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 4205202,2959298116,Musée de la Soierie,,Rue Jean Morel,42190,Charlieu,France,fr,open,46.159575,4.1712806,,,,2011,payant:4164;gratuit:1942;label-date:01/02/2003,label:musee de france,
 4205203,2959298116,Musée Hospitalier,,Rue Jean Morel,42190,Charlieu,France,fr,open,46.159575,4.1712806,,,,2011,payant:3274;gratuit:1734;label-date:01/02/2003,label:musee de france,
 4210601,,Musée Historial,,,,GREZOLLES,France,fr,closed,,,,,,2011,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
-4217301,,Musée du Vieux Pommiers,,,,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2011,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
+4217301,,Musée du Vieux Pommiers,,,42260,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2011,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 4221803,,Musée Folklorique du Vieux Saint-Etienne,,,,SAINT-ETIENNE,France,fr,open,,,,,,2011,payant:1288;gratuit:1197;label-date:01/02/2003,label:musee de france,
 4221804,49047701,Musée de la Mine / Site Couriot,3,Boulevard Maréchal Franchet d'Espèrey,69400,Saint-Étienne,France,fr,open,45.4382508,4.376131713032282,,,,2011,payant:31793;gratuit:28136;label-date:01/02/2003,label:musee de france,
 6901801,1788408922,Musée Folklorique et Traditions Populaires Marius Audin,62,Place de l'Hôtel de Ville,69430,Beaujeu,France,fr,open,46.154402,4.5870811,,,,2011,payant:1895;gratuit:619;label-date:01/02/2003,label:musee de france,

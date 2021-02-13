@@ -231,7 +231,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 7401001,4891589833,Musée-château d'Annecy,,Rampe du Château,74000,Annecy,France,fr,open,45.8976583,6.1260527,,,,2006,payant:42274;gratuit:46176;label-date:01/02/2003,label:musee de france,
 3851601,192104327,Musée Hébert,,Musée Hébert,38700,La Tronche,France,fr,open,45.2057094,5.7489167,,,,2006,payant:0;gratuit:16450;label-date:01/02/2003,label:musee de france,
 4205203,2959298116,Musée Hospitalier,,Rue Jean Morel,42190,Charlieu,France,fr,open,46.159575,4.1712806,,,,2006,payant:3769;gratuit:476;label-date:01/02/2003,label:musee de france,
-4217301,,Musée du Vieux Pommiers,,,,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2006,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
+4217301,,Musée du Vieux Pommiers,,,42260,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2006,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 4221804,49047701,Musée de la Mine / Site Couriot,3,Boulevard Maréchal Franchet d'Espèrey,69400,Saint-Étienne,France,fr,open,45.4382508,4.376131713032282,,,,2006,payant:32616;gratuit:29133;label-date:01/02/2003,label:musee de france,
 4221802,63340891,Musée d'Art et d'Industrie,2,Place Louis Comte,42000,Saint-Étienne,France,fr,open,45.4314634,4.386849541030928,,,,2006,payant:21990;gratuit:23872;label-date:01/02/2003,label:musee de france,
 6900601,312877023,Musée Barthélemy-Thimonnier,,Rue du Nord,69550,Amplepuis,France,fr,open,45.9729166,4.3306812,,,,2006,payant:2193;gratuit:2517;label-date:09/07/2005,label:musee de france,

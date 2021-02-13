@@ -715,7 +715,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 3844203,4323986447,Musée de la Grande Chartreuse,,D 103,38380,Saint-Pierre-de-Chartreuse,France,fr,open,45.3499104,5.7915302,,,,2012,payant:41394;gratuit:4319;label-date:01/02/2003,label:musee de france,
 3856201,1249592087,Musée Départemental de la Révolution Française,,Parvis du Château,38220,Vizille,France,fr,open,45.0757435,5.7735647,,,,2012,payant:3917;gratuit:53331;label-date:01/02/2003,label:musee de france,
 4214701,163997717,Musée d'Allard,,Avenue d'Allard,42600,Montbrison,France,fr,open,45.6082165,4.061633719569123,,,,2012,payant:2322;gratuit:7733;label-date:01/02/2003,label:musee de france,
-4217301,,Musée du Vieux Pommiers,,,,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2012,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
+4217301,,Musée du Vieux Pommiers,,,42260,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2012,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 4221804,49047701,Musée de la Mine / Site Couriot,3,Boulevard Maréchal Franchet d'Espèrey,69400,Saint-Étienne,France,fr,open,45.4382508,4.376131713032282,,,,2012,payant:31075;gratuit:24650;label-date:01/02/2003,label:musee de france,
 4223001,7419064519,Musée Municipal,,Place de la Madeleine,42260,Saint-Germain-Laval,France,fr,open,45.8301288,4.0106,,,,2012,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 6912302,440270631,Musée des Arts Décoratifs,,Autoroute du Soleil,69002,Lyon,France,fr,open,45.732677800000005,4.818160692638674,,,,2012,payant:0;gratuit:0;label-date:2003-02-01 00:00:00,label:musee de france,

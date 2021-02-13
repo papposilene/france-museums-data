@@ -819,7 +819,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 4209101,,Musée d'Histoire du  20ème Siècle - Résistance et Déportation,,,,ESTIVAREILLES,France,fr,open,,,,,,2001,payant:3707;gratuit:1060,label:musee de france,
 4210601,,Musée Historial,,,,GREZOLLES,France,fr,closed,,,,,,2001,payant:0;gratuit:0,label:musee de france,
 4214701,163997717,Musée d'Allard,,Avenue d'Allard,42600,Montbrison,France,fr,open,45.6082165,4.061633719569123,,,,2001,payant:5201;gratuit:2140,label:musee de france,
-4217301,,Musée du Vieux Pommiers,,,,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2001,payant:0;gratuit:0,label:musee de france,
+4217301,,Musée du Vieux Pommiers,,,42260,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2001,payant:0;gratuit:0,label:musee de france,
 6901801,1788408922,Musée Folklorique et Traditions Populaires Marius Audin,62,Place de l'Hôtel de Ville,69430,Beaujeu,France,fr,open,46.154402,4.5870811,,,,2001,payant:6278;gratuit:728,label:musee de france,
 6912302,440270631,Musée des Arts Décoratifs,,Autoroute du Soleil,69002,Lyon,France,fr,open,45.732677800000005,4.818160692638674,,,,2001,payant:0;gratuit:0,label:musee de france,
 6938201,6575800693,Musée des Hospices Civils de Lyon,,Rue du Port du Temple,69002,Lyon,France,fr,open,45.7608407,4.8315116,,,,2001,payant:7630;gratuit:1867,label:musee de france,

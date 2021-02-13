@@ -685,7 +685,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 3818507,2388638743,Musée Stendhal,20,Grande Rue,38000,Grenoble,France,fr,closed,45.1915799,5.7281471,,,,2005,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 3800501,171257717,Conservatoire - Musée des Industries Hydroélectriques,,Le Verney,38114,Vaujany,France,fr,open,45.1463919,6.049412773128473,,,,2005,payant:0;gratuit:12297;label-date:01/02/2003,label:musee de france,
 3856201,1249592087,Musée Départemental de la Révolution Française,,Parvis du Château,38220,Vizille,France,fr,open,45.0757435,5.7735647,,,,2005,payant:0;gratuit:54534;label-date:01/02/2003,label:musee de france,
-4217301,,Musée du Vieux Pommiers,,,,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2005,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
+4217301,,Musée du Vieux Pommiers,,,42260,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2005,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 4221804,49047701,Musée de la Mine / Site Couriot,3,Boulevard Maréchal Franchet d'Espèrey,69400,Saint-Étienne,France,fr,open,45.4382508,4.376131713032282,,,,2005,payant:29132;gratuit:21867;label-date:01/02/2003,label:musee de france,
 4221802,63340891,Musée d'Art et d'Industrie,2,Place Louis Comte,42000,Saint-Étienne,France,fr,open,45.4314634,4.386849541030928,,,,2005,payant:21074;gratuit:11467;label-date:01/02/2003,label:musee de france,
 6912304,4879822824,Musée de l'Imprimerie,,Rue des Forces,69002,Lyon,France,fr,open,45.7645543,4.834654,,,,2005,payant:0;gratuit:0;label-date:2005-05-10 00:00:00,label:musee de france,

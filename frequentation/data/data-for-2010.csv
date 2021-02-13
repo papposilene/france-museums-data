@@ -222,7 +222,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 4209101,,Musée d'Histoire du  20ème Siècle - Résistance et Déportation,,,,ESTIVAREILLES,France,fr,open,,,,,,2010,payant:2301;gratuit:840;label-date:01/02/2003,label:musee de france,
 4209401,346317680,Musée d'Archéologie,,Rue Victor de Laprade,42110,Feurs,France,fr,open,45.7442509,4.2195524,,,,2010,payant:905;gratuit:5105;label-date:01/02/2003,label:musee de france,
 4210601,,Musée Historial,,,,GREZOLLES,France,fr,closed,,,,,,2010,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
-4217301,,Musée du Vieux Pommiers,,,,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2010,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
+4217301,,Musée du Vieux Pommiers,,,42260,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2010,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 4221804,49047701,Musée de la Mine / Site Couriot,3,Boulevard Maréchal Franchet d'Espèrey,69400,Saint-Étienne,France,fr,open,45.4382508,4.376131713032282,,,,2010,payant:30957;gratuit:26962;label-date:01/02/2003,label:musee de france,
 4231801,,Musée Rural,,,,USSON-EN-FOREZ,France,fr,open,,,,,,2010,payant:5260;gratuit:939;label-date:01/02/2003,label:musee de france,
 6912301,188157107,Musée Historique des Tissus,,Rue de la Charité,69002,Lyon,France,fr,open,45.7533945,4.831325634804587,,,,2010,payant:51937;gratuit:29766;label-date:01/02/2003,label:musee de france,

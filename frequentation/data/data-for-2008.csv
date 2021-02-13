@@ -1210,7 +1210,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 3815101,81099317,Musée Géo-Charles,,Rue Géo Charles,38130,Échirolles,France,fr,open,45.149279250000006,5.699500421398306,,,,2008,payant:0;gratuit:6504;label-date:01/02/2003,label:musee de france,
 3851601,192104327,Musée Hébert,,Musée Hébert,38700,La Tronche,France,fr,open,45.2057094,5.7489167,,,,2008,payant:0;gratuit:36127;label-date:01/02/2003,label:musee de france,
 4209101,,Musée d'Histoire du  20ème Siècle - Résistance et Déportation,,,,ESTIVAREILLES,France,fr,open,,,,,,2008,payant:2342;gratuit:555;label-date:01/02/2003,label:musee de france,
-4217301,,Musée du Vieux Pommiers,,,,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2008,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
+4217301,,Musée du Vieux Pommiers,,,42260,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2008,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 4221804,49047701,Musée de la Mine / Site Couriot,3,Boulevard Maréchal Franchet d'Espèrey,69400,Saint-Étienne,France,fr,open,45.4382508,4.376131713032282,,,,2008,payant:30920;gratuit:27032;label-date:01/02/2003,label:musee de france,
 4231801,,Musée Rural,,,,USSON-EN-FOREZ,France,fr,open,,,,,,2008,payant:5165;gratuit:848;label-date:01/02/2003,label:musee de france,
 6938701,26131828,Centre d'Histoire de la Résistance et de la Déportation,,Rue Étienne Rognon,69007,Lyon,France,fr,open,45.7464306,4.8359519,,,,2008,payant:18927;gratuit:38822;label-date:01/02/2003,label:musee de france,

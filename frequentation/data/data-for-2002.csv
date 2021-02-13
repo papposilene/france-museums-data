@@ -1070,7 +1070,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 3826901,1654912102,Musée Matheysin,,Rue Colonel Escallon,38350,La Mure,France,fr,open,44.9046933,5.7845917,,,,2002,payant:2773;gratuit:1766,label:musee de france,
 3851601,192104327,Musée Hébert,,Musée Hébert,38700,La Tronche,France,fr,closed,45.2057094,5.7489167,,,,2002,payant:0;gratuit:0,label:musee de france,
 3854402,135880564,Musée Lapidaire Saint-Pierre,,Rue Delorme,38200,Vienne,France,fr,open,45.522842999999995,4.871060720000006,,,,2002,payant:2193;gratuit:4362,label:musee de france,
-4217301,,Musée du Vieux Pommiers,,,,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2002,payant:0;gratuit:0,label:musee de france,
+4217301,,Musée du Vieux Pommiers,,,42260,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2002,payant:0;gratuit:0,label:musee de france,
 4218701,,Musée des Beaux-Arts et d'Archéologie J. Dechelette,,,,ROANNE,France,fr,open,,,,,,2002,payant:9661;gratuit:13724,label:musee de france,
 4221802,63340891,Musée d'Art et d'Industrie,2,Place Louis Comte,42000,Saint-Étienne,France,fr,open,45.4314634,4.386849541030928,,,,2002,payant:62332;gratuit:0,label:musee de france,
 4231801,,Musée Rural,,,,USSON-EN-FOREZ,France,fr,open,,,,,,2002,payant:6198;gratuit:1171,label:musee de france,

@@ -956,7 +956,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 3854403,2675390826,Musée des Beaux-Arts et d'Archéologie,,Place Miremont,38200,Vienne,France,fr,open,45.5239956,4.8748576,,,,2018,payant:2108;gratuit:3542;label-date:01/02/2003,label:musee de france,
 3854401,3034478021,Musée-Cloître Saint-André-Le-Bas,,Avenue de la Libération,87240,Ambazac,France,fr,open,45.9575558,1.4001491,,,,2018,payant:4369;gratuit:5620;label-date:01/02/2003,label:musee de france,
 4200301,3667424925,Musée Alice Taverne,89,Rue de la Grye,42820,Ambierle,France,fr,open,46.1054907,3.8958563,,,,2018,payant:3952;gratuit:1133;label-date:01/02/2003,label:musee de france,
-4217301,,Musée du Vieux Pommiers,,,,POMMIERS-EN-FOREZ,France,fr,open,,,,,,2018,payant:0;gratuit:30;label-date:01/02/2003,label:musee de france,
+4217301,,Musée du Vieux Pommiers,,,42260,POMMIERS-EN-FOREZ,France,fr,open,,,,,,2018,payant:0;gratuit:30;label-date:01/02/2003,label:musee de france,
 4223001,7419064519,Musée Municipal,,Place de la Madeleine,42260,Saint-Germain-Laval,France,fr,closed,45.8301288,4.0106,,,,2018,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 6321101,798314887,Musée des Pénitents Blancs,,Place de l'Église,63940,Marsac-en-Livradois,France,fr,open,45.4787455,3.7287661,,,,2018,payant:101;gratuit:7;label-date:01/02/2003,label:musee de france,
 6330002,700609622,Musée Francisque Mandet,14,Rue de l'Hôtel de Ville,63200,Riom,France,fr,open,45.8935237,3.116637906648638,,,,2018,payant:3203;gratuit:12805;label-date:01/02/2003,label:musee de france,

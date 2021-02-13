@@ -476,7 +476,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 3856301,,Musée Lucien Mainssieux,,,,VOIRON,France,fr,open,,,,,,2004,payant:683;gratuit:181;label-date:2004-06-15 00:00:00,label:musee de france,
 4205202,2959298116,Musée de la Soierie,,Rue Jean Morel,42190,Charlieu,France,fr,open,46.159575,4.1712806,,,,2004,payant:8370;gratuit:2253;label-date:01/02/2003,label:musee de france,
 4209401,346317680,Musée d'Archéologie,,Rue Victor de Laprade,42110,Feurs,France,fr,open,45.7442509,4.2195524,,,,2004,payant:1537;gratuit:3920;label-date:01/02/2003,label:musee de france,
-4217301,,Musée du Vieux Pommiers,,,,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2004,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
+4217301,,Musée du Vieux Pommiers,,,42260,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2004,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 4221901,224220352,Château de la Bastie d'Urfé,,Route de la Batie D'urfe,42130,Saint-Étienne-le-Molard,France,fr,open,45.72759345,4.078354343331679,,,,2004,payant:12757;gratuit:862;label-date:01/02/2003,label:musee de france,
 4223001,7419064519,Musée Municipal,,Place de la Madeleine,42260,Saint-Germain-Laval,France,fr,open,45.8301288,4.0106,,,,2004,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 6938701,26131828,Centre d'Histoire de la Résistance et de la Déportation,,Rue Étienne Rognon,69007,Lyon,France,fr,open,45.7464306,4.8359519,,,,2004,payant:67364;gratuit:0;label-date:01/02/2003,label:musee de france,

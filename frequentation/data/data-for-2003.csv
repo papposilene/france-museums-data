@@ -1144,7 +1144,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 3851601,192104327,Musée Hébert,,Musée Hébert,38700,La Tronche,France,fr,open,45.2057094,5.7489167,,,,2003,payant:0;gratuit:2658;label-date:01/02/2003,label:musee de france,
 3813001,615739719,Musée Hector Berlioz,69,Rue de la République,38260,La Côte-Saint-André,France,fr,open,45.3933564,5.2612214,,,,2003,payant:4130;gratuit:7359;label-date:01/02/2003,label:musee de france,
 3854401,3034478021,Musée-Cloître Saint-André-Le-Bas,,Avenue de la Libération,87240,Ambazac,France,fr,open,45.9575558,1.4001491,,,,2003,payant:9204;gratuit:0;label-date:01/02/2003,label:musee de france,
-4217301,,Musée du Vieux Pommiers,,,,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2003,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
+4217301,,Musée du Vieux Pommiers,,,42260,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2003,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 4218701,,Musée des Beaux-Arts et d'Archéologie J. Dechelette,,,,ROANNE,France,fr,open,,,,,,2003,payant:5320;gratuit:11463;label-date:01/02/2003,label:musee de france,
 4221802,63340891,Musée d'Art et d'Industrie,2,Place Louis Comte,42000,Saint-Étienne,France,fr,open,45.4314634,4.386849541030928,,,,2003,payant:25749;gratuit:16103;label-date:01/02/2003,label:musee de france,
 4223001,7419064519,Musée Municipal,,Place de la Madeleine,42260,Saint-Germain-Laval,France,fr,open,45.8301288,4.0106,,,,2003,payant:0;gratuit:100;label-date:01/02/2003,label:musee de france,

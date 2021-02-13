@@ -940,7 +940,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 3818505,5107373,Musée de Grenoble,,Voie de Corato,38000,Grenoble,France,fr,open,45.1949735,5.732253035706579,,,,2016,payant:93678;gratuit:116590;label-date:06/01/2002,label:musee de france,
 4209101,,Musée d'Histoire du  20ème Siècle - Résistance et Déportation,,,,ESTIVAREILLES,France,fr,open,,,,,,2016,payant:2251;gratuit:1133;label-date:01/02/2003,label:musee de france,
 4214702,7419064520,Musée de la Diana,5,Rue Florimond Robertet,42600,Montbrison,France,fr,open,45.6055914,4.0668891,,,,2016,payant:714;gratuit:579;label-date:01/02/2003,label:musee de france,
-4217301,,Musée du Vieux Pommiers,,,,POMMIERS-EN-FOREZ,France,fr,open,,,,,,2016,payant:0;gratuit:25;label-date:01/02/2003,label:musee de france,
+4217301,,Musée du Vieux Pommiers,,,42260,POMMIERS-EN-FOREZ,France,fr,open,,,,,,2016,payant:0;gratuit:25;label-date:01/02/2003,label:musee de france,
 4221804,49047701,Musée de la Mine / Site Couriot,3,Boulevard Maréchal Franchet d'Espèrey,69400,Saint-Étienne,France,fr,open,45.4382508,4.376131713032282,,,,2016,payant:29629;gratuit:43521;label-date:01/02/2003,label:musee de france,
 4223001,7419064519,Musée Municipal,,Place de la Madeleine,42260,Saint-Germain-Laval,France,fr,closed,45.8301288,4.0106,,,,2016,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 6319501,700609620,Musée Départemental de la Céramique Gallo-Romaine,,Rue du Musée,63190,Lezoux,France,fr,open,45.82572555,3.3847440065878374,,,,2016,payant:5910;gratuit:5178;label-date:01/02/2003,label:musee de france,

@@ -466,7 +466,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 3826901,1654912102,Musée Matheysin,,Rue Colonel Escallon,38350,La Mure,France,fr,open,44.9046933,5.7845917,,,,2014,payant:505;gratuit:1166;label-date:01/02/2003,label:musee de france,
 3854403,2675390826,Musée des Beaux-Arts et d'Archéologie,,Place Miremont,38200,Vienne,France,fr,closed,45.5239956,4.8748576,,,,2014,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 4210601,,Musée Historial,,,,GREZOLLES,France,fr,closed,,,,,,2014,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
-4217301,,Musée du Vieux Pommiers,,,,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2014,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
+4217301,,Musée du Vieux Pommiers,,,42260,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2014,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 4221804,49047701,Musée de la Mine / Site Couriot,3,Boulevard Maréchal Franchet d'Espèrey,69400,Saint-Étienne,France,fr,open,45.4382508,4.376131713032282,,,,2014,payant:28630;gratuit:30486;label-date:01/02/2003,label:musee de france,
 4223001,7419064519,Musée Municipal,,Place de la Madeleine,42260,Saint-Germain-Laval,France,fr,closed,45.8301288,4.0106,,,,2014,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 4231801,,Musée Rural,,,,USSON-EN-FOREZ,France,fr,open,,,,,,2014,payant:3542;gratuit:971;label-date:01/02/2003,label:musee de france,

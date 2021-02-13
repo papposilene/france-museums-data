@@ -963,7 +963,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 3854402,135880564,Musée Lapidaire Saint-Pierre,,Rue Delorme,38200,Vienne,France,fr,open,45.522842999999995,4.871060720000006,,,,2013,payant:3766;gratuit:7317;label-date:01/02/2003,label:musee de france,
 4205901,6050847032,Atelier - Musée du Chapeau,31,Rue Martouret,42140,Chazelles-sur-Lyon,France,fr,open,45.6386575,4.395141,,,,2013,payant:16051;gratuit:10219;label-date:01/02/2003,label:musee de france,
 4214701,163997717,Musée d'Allard,,Avenue d'Allard,42600,Montbrison,France,fr,open,45.6082165,4.061633719569123,,,,2013,payant:1926;gratuit:9011;label-date:01/02/2003,label:musee de france,
-4217301,,Musée du Vieux Pommiers,,,,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2013,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
+4217301,,Musée du Vieux Pommiers,,,42260,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2013,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 4218701,,Musée des Beaux-Arts et d'Archéologie J. Dechelette,,,,ROANNE,France,fr,open,,,,,,2013,payant:2398;gratuit:12220;label-date:01/02/2003,label:musee de france,
 4223001,7419064519,Musée Municipal,,Place de la Madeleine,42260,Saint-Germain-Laval,France,fr,closed,45.8301288,4.0106,,,,2013,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 4231801,,Musée Rural,,,,USSON-EN-FOREZ,France,fr,open,,,,,,2013,payant:3818;gratuit:1065;label-date:01/02/2003,label:musee de france,

@@ -1169,7 +1169,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 3818508,35081222,Musée de la Résistance de la Déportation de l'Isère,,Rue Hébert,38000,Grenoble,France,fr,open,45.19011945,5.735202775033237,,,,2015,payant:0;gratuit:25116;label-date:01/02/2003,label:musee de france,
 3844203,4323986447,Musée de la Grande Chartreuse,,D 103,38380,Saint-Pierre-de-Chartreuse,France,fr,open,45.3499104,5.7915302,,,,2015,payant:35412;gratuit:1903;label-date:01/02/2003,label:musee de france,
 4210601,,Musée Historial,,,,GREZOLLES,France,fr,closed,,,,,,2015,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
-4217301,,Musée du Vieux Pommiers,,,,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2015,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
+4217301,,Musée du Vieux Pommiers,,,42260,POMMIERS-EN-FOREZ,France,fr,closed,,,,,,2015,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 4221901,224220352,Château de la Bastie d'Urfé,,Route de la Batie D'urfe,42130,Saint-Étienne-le-Molard,France,fr,open,45.72759345,4.078354343331679,,,,2015,payant:7824;gratuit:18519;label-date:01/02/2003,label:musee de france,
 4223001,7419064519,Musée Municipal,,Place de la Madeleine,42260,Saint-Germain-Laval,France,fr,closed,45.8301288,4.0106,,,,2015,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 4231801,,Musée Rural,,,,USSON-EN-FOREZ,France,fr,open,,,,,,2015,payant:2613;gratuit:1001;label-date:01/02/2003,label:musee de france,

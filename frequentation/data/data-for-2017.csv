@@ -14,7 +14,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 3854402,135880564,Musée Lapidaire Saint-Pierre,,Rue Delorme,38200,Vienne,France,fr,open,45.522842999999995,4.871060720000006,,,,2017,payant:3369;gratuit:7294;label-date:01/02/2003,label:musee de france,
 4205203,2959298116,Musée Hospitalier,,Rue Jean Morel,42190,Charlieu,France,fr,open,46.159575,4.1712806,,,,2017,payant:2630;gratuit:837;label-date:01/02/2003,label:musee de france,
 4209401,346317680,Musée d'Archéologie,,Rue Victor de Laprade,42110,Feurs,France,fr,open,45.7442509,4.2195524,,,,2017,payant:1622;gratuit:2873;label-date:01/02/2003,label:musee de france,
-4217301,,Musée du Vieux Pommiers,,,,POMMIERS-EN-FOREZ,France,fr,open,,,,,,2017,payant:0;gratuit:70;label-date:01/02/2003,label:musee de france,
+4217301,,Musée du Vieux Pommiers,,,42260,POMMIERS-EN-FOREZ,France,fr,open,,,,,,2017,payant:0;gratuit:70;label-date:01/02/2003,label:musee de france,
 4221901,224220352,Château de la Bastie d'Urfé,,Route de la Batie D'urfe,42130,Saint-Étienne-le-Molard,France,fr,open,45.72759345,4.078354343331679,,,,2017,payant:7721;gratuit:18079;label-date:01/02/2003,label:musee de france,
 6301001,4008056943,Musée de la Dentelle,,Ancienne Route Nationale,63220,Arlanc,France,fr,open,45.4143324,3.7244768,,,,2017,payant:1213;gratuit:133;label-date:01/02/2003,label:musee de france,
 6311301,67015490,Musée d'Archéologie Bargoin,,Place Louis Deteix,63100,Clermont-Ferrand,France,fr,open,45.79392705,3.1162223146769588,,,,2017,payant:3857;gratuit:21238;label-date:01/02/2003,label:musee de france,
