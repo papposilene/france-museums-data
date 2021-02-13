@@ -1,4 +1,4 @@
-id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,year,stats,tags,description
+id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,year,stats,tags,description,wikidata
 6706101,2399054638,Musée de Bouxwiller et du pays de hanau,,Rue du Canal,67330,Bouxwiller,France,fr,open,48.8249535,7.4835103,,,,2005,payant:1387;gratuit:1772;label-date:01/02/2003,label:musee de france,
 6730001,58887086,Musée de la Chartreuse,,Rue des Étudiants,67120,Molsheim,France,fr,open,48.5428428,7.490422123361975,,,,2005,payant:3337;gratuit:79;label-date:01/02/2003,label:musee de france,
 6748207,22290183,Musée Historique,2,Rue du Vieux Marché aux Poissons,67065,Strasbourg,France,fr,closed,48.579946,7.750767983802181,,,,2005,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,

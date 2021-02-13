@@ -1,4 +1,4 @@
-id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,year,stats,tags,description
+id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,year,stats,tags,description,wikidata
 6738801,,Musée du Fer,,,,REICHSHOFFEN,France,fr,open,,,,,,2004,payant:1172;gratuit:253;label-date:01/02/2003,label:musee de france,
 6754401,167263621,Musée Westercamp,,Rue du Musée,67160,Wissembourg,France,fr,closed,49.0389525,7.944872205882353,,,,2004,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 6800401,5144762817,Musée Sundgauvien d'Altkirch,38,Rue de Luppach,68480,Vieux-Ferrette,France,fr,open,47.5040397,7.3041592,,,,2004,payant:2409;gratuit:7843;label-date:01/02/2003,label:musee de france,

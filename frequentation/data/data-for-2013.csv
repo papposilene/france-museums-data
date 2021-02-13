@@ -1,4 +1,4 @@
-id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,year,stats,tags,description
+id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,year,stats,tags,description,wikidata
 6706101,2399054638,Musée de Bouxwiller et du pays de hanau,,Rue du Canal,67330,Bouxwiller,France,fr,open,48.8249535,7.4835103,,,,2013,payant:5106;gratuit:0;label-date:01/02/2003,label:musee de france,
 6748206,491674514,Musée de l'Œuvre Notre-Dame,,Rue du Dévidoir,67065,Strasbourg,France,fr,open,48.580848200000005,7.751242401547248,,,,2013,payant:15657;gratuit:22897;label-date:01/02/2003,label:musee de france,
 6748208,239813123,Musée Alsacien,23,Quai Saint-Nicolas,67065,Strasbourg,France,fr,open,48.5791319,7.7506043,,,,2013,payant:30492;gratuit:31869;label-date:01/02/2003,label:musee de france,

@@ -1,4 +1,4 @@
-id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,year,stats,tags,description
+id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,year,stats,tags,description,wikidata
 6732401,,Maison de l'Archéologie des Vosges du Nord,,,,NIEDERBRONN-LES-BAINS,France,fr,open,,,,,,2014,payant:2008;gratuit:680;label-date:01/02/2003,label:musee de france,
 6748207,22290183,Musée Historique,2,Rue du Vieux Marché aux Poissons,67065,Strasbourg,France,fr,open,48.579946,7.750767983802181,,,,2014,payant:20463;gratuit:26785;label-date:01/02/2003,label:musee de france,
 6748213,486650189,Musée Tomi Ungerer,,Rue Joseph Massol,67073,Strasbourg,France,fr,open,48.58570885,7.755036989998281,,,,2014,payant:20175;gratuit:20566;label-date:18/04/2008,label:musee de france,

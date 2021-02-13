@@ -1,4 +1,4 @@
-id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,year,stats,tags,description
+id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,year,stats,tags,description,wikidata
 0105302,,Musée Départemental des Pays De l'Ain,,,,BOURG-EN-BRESSE,France,fr,open,,,,,,2018,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 0119201,1357668479,Musée Archéologique,,Place de l'Église,01580,Izernore,France,fr,open,46.220134,5.5548124,,,,2018,payant:1644;gratuit:2174;label-date:01/02/2003,label:musee de france,
 0128301,1536396604,Musée du Peigne et de la Plasturgie,,Rue Capitaine Montreal,01100,Veyziat,France,fr,open,46.2607789,5.6465246,,,,2018,payant:1509;gratuit:2397;label-date:01/02/2003,label:musee de france,

@@ -1,4 +1,4 @@
-id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,year,stats,tags,description
+id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,year,stats,tags,description,wikidata
 6702101,79550929,Musée de la Folie Marco,,Rue du Docteur Sultzer,67140,Barr,France,fr,open,48.410266199999995,7.4511442216483434,,,,2003,payant:2548;gratuit:1139;label-date:01/02/2003,label:musee de france,
 6718001,48609011,Musée Historique,,Rue du Sel,67500,Haguenau,France,fr,open,48.81306145,7.791507522753506,,,,2003,payant:5680;gratuit:0;label-date:01/02/2003,label:musee de france,
 6737201,158554855,Musée de l'Image Populaire de Pfaffenhoffen,,Rue du Docteur Albert Schweitzer,67350,Haguenau-Wissembourg,France,fr,open,48.84483,7.6115728636419755,,,,2003,payant:2388;gratuit:1324;label-date:2002-09-07 00:00:00,label:musee de france,

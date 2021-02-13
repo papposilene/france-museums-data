@@ -1,4 +1,4 @@
-id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,year,stats,tags,description
+id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,year,stats,tags,description,wikidata
 6706101,2399054638,Musée de Bouxwiller et du pays de hanau,,Rue du Canal,67330,Bouxwiller,France,fr,open,48.8249535,7.4835103,,,,2001,payant:1175;gratuit:215,label:musee de france,
 6737201,158554855,Musée de l'Image Populaire de Pfaffenhoffen,,Rue du Docteur Albert Schweitzer,67350,Haguenau-Wissembourg,France,fr,open,48.84483,7.6115728636419755,,,,2001,payant:2703;gratuit:702,label:musee de france,
 6816201,,Musée d'Histoire Local,,,,KAYSERSBERG,France,fr,open,,,,,,2001,payant:260;gratuit:100,label:musee de france,
