@@ -1183,7 +1183,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 0506101,1255767096,Musée Départemental des Hautes-Alpes,,Avenue du Maréchal Foch,05000,Gap,France,fr,open,44.5622653,6.0858366,,,,2010,payant:0;gratuit:12958;label-date:01/02/2003,label:musee de france,
 8306101,,Musée Archéologique Gallo-Romaine du Var,,,,FREJUS,France,fr,open,,,,,,2010,payant:4503;gratuit:2083;label-date:01/02/2003,label:musee de france,
 8306102,171570079,Musée des Troupes de Marine,,Avenue Musée Troupes de la Marine,83600,Fréjus,France,fr,open,43.47196945,6.720701433077389,,,,2010,payant:0;gratuit:16027;label-date:05/07/2006,label:musee de france,
-8306201,,Musée Jean Aicard,,,,LE POUVEREL LA GARDE,France,fr,open,,,,,,2010,payant:0;gratuit:1509;label-date:01/02/2003,label:musee de france,
+8306201,,Musée Jean Aicard,,,83130,LE POUVEREL LA GARDE,France,fr,open,,,,,,2010,payant:0;gratuit:1509;label-date:01/02/2003,label:musee de france,
 8403105,1802571381,Musée Sobirats,,Rue du Collège,84200,Carpentras,France,fr,open,44.054376,5.046289,,,,2010,payant:238;gratuit:948;label-date:01/02/2003,label:musee de france,
 8403502,,Musée de l'Hôtel Dieu,,,,CAVAILLON,France,fr,open,,,,,,2010,payant:2273;gratuit:0;label-date:01/02/2003,label:musee de france,
 8413901,694831616,Musée-Bibliothèque François Pétrarque,,Chemin de la Fontaine de Vaucluse,84800,Fontaine-de-Vaucluse,France,fr,open,43.9220356,5.1302755,,,,2010,payant:2773;gratuit:1757;label-date:01/02/2003,label:musee de france,

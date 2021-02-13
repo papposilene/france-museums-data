@@ -901,7 +901,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 1309601,163436587,Musée Baroncelli,,Place Lamartine,13460,Saintes-Maries-de-la-Mer,France,fr,open,43.45126155,4.4275616408163305,,,,2004,payant:751;gratuit:0;label-date:01/02/2003,label:musee de france,
 8300201,,Musée des tourneurs sur Bois,,,,AIGUINES,France,fr,closed,,,,,,2004,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 8305002,,Musée de la Société d’Etudes Scientifiques et Achéologiques,,,,DRAGUIGNAN,France,fr,open,,,,,,2004,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
-8306201,,Musée Jean Aicard,,,,LE POUVEREL LA GARDE,France,fr,open,,,,,,2004,payant:0;gratuit:896;label-date:01/02/2003,label:musee de france,
+8306201,,Musée Jean Aicard,,,83130,LE POUVEREL LA GARDE,France,fr,open,,,,,,2004,payant:0;gratuit:896;label-date:01/02/2003,label:musee de france,
 0134301,148365323,Musée de la Bresse - Domaine des Planons,,Chemin des Seiglières,01380,Saint-Cyr-sur-Menthon,France,fr,open,46.28177465,4.98246243180243,,,,2004,payant:16566;gratuit:0;label-date:01/02/2003,label:musee de france,
 0113701,700244363,Musée Départemental du Revermont,,Rue Principale,01370,Bourg-en-Bresse,France,fr,open,46.30032775,5.389046761156977,,,,2004,payant:21294;gratuit:0;label-date:01/02/2003,label:musee de france,
 0731301,3801510568,Musée de la Batellerie du Rhône,,Rue du Musée,07340,Serrières,France,fr,open,45.3139177,4.76996,,,,2004,payant:810;gratuit:0;label-date:01/02/2003,label:musee de france,

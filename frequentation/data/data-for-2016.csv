@@ -1193,7 +1193,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 1309601,163436587,Musée Baroncelli,,Place Lamartine,13460,Saintes-Maries-de-la-Mer,France,fr,closed,43.45126155,4.4275616408163305,,,,2016,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 1310301,,Musée de l'Empéri de Salon et de la Crau,,,,SALON-DE-PROVENCE,France,fr,open,,,,,,2016,payant:4017;gratuit:19611;label-date:01/02/2003,label:musee de france,
 8306101,,Musée Archéologique Gallo-Romaine du Var,,,,FREJUS,France,fr,open,,,,,,2016,payant:3771;gratuit:3937;label-date:01/02/2003,label:musee de france,
-8306201,,Musée Jean Aicard,,,,LE POUVEREL LA GARDE,France,fr,open,,,,,,2016,payant:0;gratuit:924;label-date:01/02/2003,label:musee de france,
+8306201,,Musée Jean Aicard,,,83130,LE POUVEREL LA GARDE,France,fr,open,,,,,,2016,payant:0;gratuit:924;label-date:01/02/2003,label:musee de france,
 8313701,145358669,Muséum d'Histoire Naturelle de Toulon et du Var,737,Chemin du Jonquet,83200,Toulon,France,fr,open,43.1433259,5.91079729714489,,,,2016,payant:0;gratuit:43400;label-date:01/02/2003,label:musee de france,
 8413901,694831616,Musée-Bibliothèque François Pétrarque,,Chemin de la Fontaine de Vaucluse,84800,Fontaine-de-Vaucluse,France,fr,open,43.9220356,5.1302755,,,,2016,payant:1359;gratuit:759;label-date:01/02/2003,label:musee de france,
 8407201,,Musée Municipal Camille Pautet,,,,MAZAN,France,fr,closed,,,,,,2016,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,

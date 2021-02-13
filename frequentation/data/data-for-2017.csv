@@ -1190,7 +1190,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 0500301,,Musée du Vieux Queyras,,,,AIGUILLES,France,fr,closed,,,,,,2017,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 0506101,1255767096,Musée Départemental des Hautes-Alpes,,Avenue du Maréchal Foch,05000,Gap,France,fr,open,44.5622653,6.0858366,,,,2017,payant:0;gratuit:18153;label-date:01/02/2003,label:musee de france,
 8305002,,Musée de la Société d’Etudes Scientifiques et Achéologiques,,,,DRAGUIGNAN,France,fr,closed,,,,,,2017,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
-8306201,,Musée Jean Aicard,,,,LE POUVEREL LA GARDE,France,fr,open,,,,,,2017,payant:0;gratuit:1825;label-date:01/02/2003,label:musee de france,
+8306201,,Musée Jean Aicard,,,83130,LE POUVEREL LA GARDE,France,fr,open,,,,,,2017,payant:0;gratuit:1825;label-date:01/02/2003,label:musee de france,
 8311901,179780946,Musée de l'Annonciade,,Place Georges Grammont,83990,Saint-Tropez,France,fr,open,43.271077,6.637054030608436,,,,2017,payant:24617;gratuit:4994;label-date:01/02/2003,label:musee de france,
 8400702,309712990,Musée du Petit Palais,,Rue Ferruce,84000,Avignon,France,fr,open,43.9527473,4.8063438,,,,2017,payant:15124;gratuit:16579;label-date:01/02/2003,label:musee de france,
 8403102,90931574,Musée Lapidaire et Archéologie,,Rue Eysseric et Pascal,84200,Carpentras,France,fr,closed,44.05426295,5.045272504588607,,,,2017,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,

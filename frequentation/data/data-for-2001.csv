@@ -414,7 +414,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 1310302,,Musée de Salon et de la Crau,,,,SALON-DE-PROVENCE,France,fr,open,,,,,,2001,payant:5496;gratuit:0,label:musee de france,
 0506101,1255767096,Musée Départemental des Hautes-Alpes,,Avenue du Maréchal Foch,05000,Gap,France,fr,open,44.5622653,6.0858366,,,,2001,payant:2784;gratuit:8996,label:musee de france,
 8305001,179782164,Musée Municipal,2,Place Blanqui,83990,Saint-Tropez,France,fr,open,43.2696385,6.635539872302159,,,,2001,payant:0;gratuit:8027,label:musee de france,
-8306201,,Musée Jean Aicard,,,,LE POUVEREL LA GARDE,France,fr,open,,,,,,2001,payant:0;gratuit:1527,label:musee de france,
+8306201,,Musée Jean Aicard,,,83130,LE POUVEREL LA GARDE,France,fr,open,,,,,,2001,payant:0;gratuit:1527,label:musee de france,
 8311901,179780946,Musée de l'Annonciade,,Place Georges Grammont,83990,Saint-Tropez,France,fr,open,43.271077,6.637054030608436,,,,2001,payant:55000;gratuit:0,label:musee de france,
 8403501,5111377213,Synagogue Musée Juif Comtadin,,Rue Hébraïque,84300,Cavaillon,France,fr,open,43.8371707,5.0385983,,,,2001,payant:6983;gratuit:0,label:musee de france,
 8403503,5111377213,Musée Jouve,,Rue Hébraïque,84300,Cavaillon,France,fr,closed,43.8371707,5.0385983,,,,2001,payant:0;gratuit:0,label:musee de france,

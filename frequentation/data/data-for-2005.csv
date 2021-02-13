@@ -1162,7 +1162,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 8305001,179782164,Musée Municipal,2,Place Blanqui,83990,Saint-Tropez,France,fr,open,43.2696385,6.635539872302159,,,,2005,payant:0;gratuit:10235;label-date:01/02/2003,label:musee de france,
 8305002,,Musée de la Société d’Etudes Scientifiques et Achéologiques,,,,DRAGUIGNAN,France,fr,open,,,,,,2005,payant:0;gratuit:2470;label-date:01/02/2003,label:musee de france,
 8306901,112363959,Musée Municipal,1-3,Rue Émile Leclerc,77000,Melun,France,fr,closed,48.54554555,2.6529119346368715,,,,2005,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
-8306201,,Musée Jean Aicard,,,,LE POUVEREL LA GARDE,France,fr,open,,,,,,2005,payant:0;gratuit:2623;label-date:01/02/2003,label:musee de france,
+8306201,,Musée Jean Aicard,,,83130,LE POUVEREL LA GARDE,France,fr,open,,,,,,2005,payant:0;gratuit:2623;label-date:01/02/2003,label:musee de france,
 8313201,,Musée du Vêtement Provençal (Jean Aicard),,,,SOLLIES-VILLE,France,fr,open,,,,,,2005,payant:0;gratuit:4087;label-date:01/02/2003,label:musee de france,
 8400701,83784740,Muséum d'Histoire Naturelle Esprit Requien,27,Rue de la République,84000,Avignon,France,fr,open,43.9458915,4.806026218689352,,,,2005,payant:0;gratuit:14678;label-date:06/01/2002,label:musee de france,
 8403105,1802571381,Musée Sobirats,,Rue du Collège,84200,Carpentras,France,fr,open,44.054376,5.046289,,,,2005,payant:831;gratuit:463;label-date:01/02/2003,label:musee de france,

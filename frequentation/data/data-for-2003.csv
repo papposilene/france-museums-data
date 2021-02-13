@@ -416,7 +416,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 1305601,99114044,Musée Ziem,,Boulevard du 14 Juillet,13500,Martigues,France,fr,open,43.408675849999995,5.054218764027318,,,,2003,payant:0;gratuit:6500;label-date:01/02/2003,label:musee de france,
 1309601,163436587,Musée Baroncelli,,Place Lamartine,13460,Saintes-Maries-de-la-Mer,France,fr,open,43.45126155,4.4275616408163305,,,,2003,payant:1005;gratuit:0;label-date:01/02/2003,label:musee de france,
 8305003,69759054,Musée des A.T.P. de Moyenne Provence,,Place du Docteur Calvini,,Fréjus,France,fr,open,43.433310250000005,6.736484601704451,,,,2003,payant:9181;gratuit:2404;label-date:01/02/2003,label:musee de france,
-8306201,,Musée Jean Aicard,,,,LE POUVEREL LA GARDE,France,fr,open,,,,,,2003,payant:0;gratuit:1698;label-date:01/02/2003,label:musee de france,
+8306201,,Musée Jean Aicard,,,83130,LE POUVEREL LA GARDE,France,fr,open,,,,,,2003,payant:0;gratuit:1698;label-date:01/02/2003,label:musee de france,
 8313703,2196651226,Musée d'Art et d'Archéologie,113,Boulevard Général Leclerc,83000,Toulon,France,fr,open,43.1263031,5.9272107,,,,2003,payant:0;gratuit:37547;label-date:01/02/2003,label:musee de france,
 8400701,83784740,Muséum d'Histoire Naturelle Esprit Requien,27,Rue de la République,84000,Avignon,France,fr,open,43.9458915,4.806026218689352,,,,2003,payant:0;gratuit:15853;label-date:06/01/2002,label:musee de france,
 8403503,5111377213,Musée Jouve,,Rue Hébraïque,84300,Cavaillon,France,fr,closed,43.8371707,5.0385983,,,,2003,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,

@@ -1184,7 +1184,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 1309201,,Musée Municipal Paul Lafran,,,,SAINT-CHAMAS,France,fr,open,,,,,,2012,payant:0;gratuit:4622;label-date:01/02/2003,label:musee de france,
 0506101,1255767096,Musée Départemental des Hautes-Alpes,,Avenue du Maréchal Foch,05000,Gap,France,fr,open,44.5622653,6.0858366,,,,2012,payant:0;gratuit:19108;label-date:01/02/2003,label:musee de france,
 8300201,,Musée des tourneurs sur Bois,,,,AIGUINES,France,fr,closed,,,,,,2012,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
-8306201,,Musée Jean Aicard,,,,LE POUVEREL LA GARDE,France,fr,open,,,,,,2012,payant:0;gratuit:1373;label-date:01/02/2003,label:musee de france,
+8306201,,Musée Jean Aicard,,,83130,LE POUVEREL LA GARDE,France,fr,open,,,,,,2012,payant:0;gratuit:1373;label-date:01/02/2003,label:musee de france,
 8313201,,Musée du Vêtement Provençal (Jean Aicard),,,,SOLLIES-VILLE,France,fr,open,,,,,,2012,payant:0;gratuit:6108;label-date:01/02/2003,label:musee de france,
 8403105,1802571381,Musée Sobirats,,Rue du Collège,84200,Carpentras,France,fr,open,44.054376,5.046289,,,,2012,payant:223;gratuit:568;label-date:01/02/2003,label:musee de france,
 8403503,5111377213,Musée Jouve,,Rue Hébraïque,84300,Cavaillon,France,fr,closed,43.8371707,5.0385983,,,,2012,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,

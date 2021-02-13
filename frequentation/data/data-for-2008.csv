@@ -219,7 +219,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 1310302,,Musée de Salon et de la Crau,,,,SALON-DE-PROVENCE,France,fr,closed,,,,,,2008,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 0500301,,Musée du Vieux Queyras,,,,AIGUILLES,France,fr,closed,,,,,,2008,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 8305001,179782164,Musée Municipal,2,Place Blanqui,83990,Saint-Tropez,France,fr,open,43.2696385,6.635539872302159,,,,2008,payant:0;gratuit:13598;label-date:01/02/2003,label:musee de france,
-8306201,,Musée Jean Aicard,,,,LE POUVEREL LA GARDE,France,fr,open,,,,,,2008,payant:0;gratuit:2827;label-date:01/02/2003,label:musee de france,
+8306201,,Musée Jean Aicard,,,83130,LE POUVEREL LA GARDE,France,fr,open,,,,,,2008,payant:0;gratuit:2827;label-date:01/02/2003,label:musee de france,
 8313201,,Musée du Vêtement Provençal (Jean Aicard),,,,SOLLIES-VILLE,France,fr,open,,,,,,2008,payant:0;gratuit:3802;label-date:01/02/2003,label:musee de france,
 8400704,1490236424,Musée Calvet (et musée Lapidaire),,Cours du Musée Calvet,84000,Avignon,France,fr,open,43.9469675,4.8036302,,,,2008,payant:19516;gratuit:13309;label-date:06/01/2002,label:musee de france,
 8403502,,Musée de l'Hôtel Dieu,,,,CAVAILLON,France,fr,open,,,,,,2008,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,

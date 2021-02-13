@@ -1179,7 +1179,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 8300201,,Musée des tourneurs sur Bois,,,,AIGUINES,France,fr,closed,,,,,,2006,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 8305002,,Musée de la Société d’Etudes Scientifiques et Achéologiques,,,,DRAGUIGNAN,France,fr,open,,,,,,2006,payant:0;gratuit:3230;label-date:01/02/2003,label:musee de france,
 8306101,171570080,Musée Archéologique Municipal,,Avenue Musée Troupes de la Marine,83600,Fréjus,France,fr,open,43.4712031,6.7203452,,,,2006,payant:4146;gratuit:4572;label-date:01/02/2003,label:musee de france,
-8306201,,Musée Jean Aicard,,,,LE POUVEREL LA GARDE,France,fr,open,,,,,,2006,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
+8306201,,Musée Jean Aicard,,,83130,LE POUVEREL LA GARDE,France,fr,open,,,,,,2006,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 8313201,,Musée du Vêtement Provençal (Jean Aicard),,,,SOLLIES-VILLE,France,fr,open,,,,,,2006,payant:0;gratuit:3791;label-date:01/02/2003,label:musee de france,
 8404201,,Musée Marc Deydier,,,,CUCURON,France,fr,open,,,,,,2006,payant:0;gratuit:3500;label-date:01/02/2003,label:musee de france,
 8407201,,Musée Municipal Camille Pautet,,,,MAZAN,France,fr,open,,,,,,2006,payant:0;gratuit:2072;label-date:01/02/2003,label:musee de france,

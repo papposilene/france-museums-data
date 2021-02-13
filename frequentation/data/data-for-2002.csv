@@ -612,7 +612,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 8301901,,Musée des Arts et d’Histoire,,,,BORMES-LES-MIMOSAS,France,fr,open,,,,,,2002,payant:0;gratuit:11358,label:musee de france,
 8302301,1657094,Musée du Pays Brignolais,,Traverse de l'Ancienne Sous-Préfecture,83170,Brignoles,France,fr,open,43.4040765,6.061601143834082,,,,2002,payant:2274;gratuit:2067,label:musee de france,
 8305002,,Musée de la Société d’Etudes Scientifiques et Achéologiques,,,,DRAGUIGNAN,France,fr,open,,,,,,2002,payant:0;gratuit:200,label:musee de france,
-8306201,,Musée Jean Aicard,,,,LE POUVEREL LA GARDE,France,fr,open,,,,,,2002,payant:0;gratuit:1096,label:musee de france,
+8306201,,Musée Jean Aicard,,,83130,LE POUVEREL LA GARDE,France,fr,open,,,,,,2002,payant:0;gratuit:1096,label:musee de france,
 8311801,130473371,Musée Archéologique,,Rue de la Vieille Église,83700,Saint-Raphaël,France,fr,open,43.42600365,6.769243065966667,,,,2002,payant:6500;gratuit:600,label:musee de france,
 8313201,,Musée du Vêtement Provençal (Jean Aicard),,,,SOLLIES-VILLE,France,fr,open,,,,,,2002,payant:0;gratuit:3500,label:musee de france,
 8313701,3812465952,Muséum d'Histoire Naturelle de Toulon,,Avenue Louis Blériot,83200,Toulon,France,fr,open,43.1410822,5.910288,,,,2002,payant:0;gratuit:20368,label:musee de france,

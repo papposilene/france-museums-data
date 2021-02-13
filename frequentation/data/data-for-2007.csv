@@ -950,7 +950,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 8305002,,Musée de la Société d’Etudes Scientifiques et Achéologiques,,,,DRAGUIGNAN,France,fr,closed,,,,,,2007,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 8306102,171570079,Musée des Troupes de Marine,,Avenue Musée Troupes de la Marine,83600,Fréjus,France,fr,open,43.47196945,6.720701433077389,,,,2007,payant:0;gratuit:15812;label-date:29/08/2006,label:musee de france,
 8306901,112363959,Musée Municipal,1-3,Rue Émile Leclerc,77000,Melun,France,fr,open,48.54554555,2.6529119346368715,,,,2007,payant:0;gratuit:10386;label-date:01/02/2003,label:musee de france,
-8306201,,Musée Jean Aicard,,,,LE POUVEREL LA GARDE,France,fr,open,,,,,,2007,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
+8306201,,Musée Jean Aicard,,,83130,LE POUVEREL LA GARDE,France,fr,open,,,,,,2007,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 8404201,,Musée Marc Deydier,,,,CUCURON,France,fr,open,,,,,,2007,payant:0;gratuit:4620;label-date:01/02/2003,label:musee de france,
 8407201,,Musée Municipal Camille Pautet,,,,MAZAN,France,fr,open,,,,,,2007,payant:0;gratuit:1632;label-date:01/02/2003,label:musee de france,
 8408701,219528069,Musée Municipal,,Rue Madeleine Roch,84100,Orange,France,fr,open,44.136139400000005,4.807732098364788,,,,2007,payant:53399;gratuit:0;label-date:01/02/2003,label:musee de france,

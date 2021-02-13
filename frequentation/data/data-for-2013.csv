@@ -478,7 +478,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 1305505,2499522058,Musée d'Histoire de Marseille,,Square Belsunce,13001,Marseille,France,fr,open,43.2975573,5.3756864,,,,2013,payant:17550;gratuit:62729;label-date:01/02/2003,label:musee de france,
 1320801,168685674,Musée de la Faïence,7,Promenade Robert Laffont,13002,Marseille,France,fr,open,43.29672875,5.361025473368164,,,,2013,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 1310002,6335508017,Musée Estrine - Présence Van Gogh,8,Rue Lucien Estrine,13210,Saint-Rémy-de-Provence,France,fr,closed,43.7887777,4.8322436,,,,2013,payant:0;gratuit:0;label-date:15/03/2007,label:musee de france,
-8306201,,Musée Jean Aicard,,,,LE POUVEREL LA GARDE,France,fr,open,,,,,,2013,payant:0;gratuit:1784;label-date:01/02/2003,label:musee de france,
+8306201,,Musée Jean Aicard,,,83130,LE POUVEREL LA GARDE,France,fr,open,,,,,,2013,payant:0;gratuit:1784;label-date:01/02/2003,label:musee de france,
 8400704,1490236424,Musée Calvet (et musée Lapidaire),,Cours du Musée Calvet,84000,Avignon,France,fr,open,43.9469675,4.8036302,,,,2013,payant:12917;gratuit:21016;label-date:06/01/2002,label:musee de france,
 8400702,309712990,Musée du Petit Palais,,Rue Ferruce,84000,Avignon,France,fr,open,43.9527473,4.8063438,,,,2013,payant:14359;gratuit:10724;label-date:01/02/2003,label:musee de france,
 8403103,1802571381,Musée Comtadin-Duplessis,,Rue du Collège,84200,Carpentras,France,fr,open,44.054376,5.046289,,,,2013,payant:372;gratuit:2026;label-date:01/02/2003,label:musee de france,

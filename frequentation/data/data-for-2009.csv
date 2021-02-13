@@ -308,7 +308,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 1320101,67708610,Musée Grobet-Labadié,,Place Henri Dunant,13001,Marseille,France,fr,open,43.30331955,5.392977868575647,,,,2009,payant:2027;gratuit:6116;label-date:01/02/2003,label:musee de france,
 1310002,6335508017,Musée Estrine - Présence Van Gogh,8,Rue Lucien Estrine,13210,Saint-Rémy-de-Provence,France,fr,open,43.7887777,4.8322436,,,,2009,payant:9589;gratuit:5042;label-date:15/03/2007,label:musee de france,
 8305004,2391557653,Musée de l'Artillerie,,Avenue des Ecoles Militaires,83300,Draguignan,France,fr,open,43.5269481,6.497204,,,,2009,payant:0;gratuit:19006;label-date:05/07/2006,label:musee de france,
-8306201,,Musée Jean Aicard,,,,LE POUVEREL LA GARDE,France,fr,open,,,,,,2009,payant:0;gratuit:1687;label-date:01/02/2003,label:musee de france,
+8306201,,Musée Jean Aicard,,,83130,LE POUVEREL LA GARDE,France,fr,open,,,,,,2009,payant:0;gratuit:1687;label-date:01/02/2003,label:musee de france,
 8403501,5111377213,Synagogue Musée Juif Comtadin,,Rue Hébraïque,84300,Cavaillon,France,fr,open,43.8371707,5.0385983,,,,2009,payant:5632;gratuit:3512;label-date:01/02/2003,label:musee de france,
 8407201,,Musée Municipal Camille Pautet,,,,MAZAN,France,fr,open,,,,,,2009,payant:0;gratuit:2754;label-date:01/02/2003,label:musee de france,
 8408701,219528069,Musée Municipal,,Rue Madeleine Roch,84100,Orange,France,fr,open,44.136139400000005,4.807732098364788,,,,2009,payant:59963;gratuit:0;label-date:01/02/2003,label:musee de france,
