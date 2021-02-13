@@ -501,7 +501,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,89310,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2011,payant:2026;gratuit:1599;label-date:01/02/2003,label:musee de france,
 8934401,2909216095,Musée de l'Aventure du Son,,Place de l'Hôtel de Ville,89170,Saint-Fargeau,France,fr,open,47.6414558,3.0709553,,,,2011,payant:4245;gratuit:193;label-date:18/04/2008,label:musee de france,
 8944601,2628533133,Musée Zervos - Maison Romain Rolland,,,89450,Vézelay,France,fr,open,47.4638215,3.743302,,,,2011,payant:8696;gratuit:2726;label-date:01/02/2003,label:musee de france,
-2926101,,Ecomusée des Monts d'Arrée - Maison Cornec,,,,RIVOAL,France,fr,open,,,,,,2011,payant:1397;gratuit:7485;label-date:01/02/2003,label:musee de france,
+2926101,,Ecomusée des Monts d'Arrée - Maison Cornec,,,29190,SAINT-RIVOAL,France,fr,open,,,,,,2011,payant:1397;gratuit:7485;label-date:01/02/2003,label:musee de france,
 2915502,2139061354,Musée des Phares et Balises,,Route du Phare,,Lampaul,France,fr,open,48.4594493,-5.1294058,,,,2011,payant:13142;gratuit:2254;label-date:01/02/2003,label:musee de france,
 2928901,1458523215,Musée de l'Ecole Rurale en Bretagne,,Route Départementale Numéro 60 de Landévennec à Dinéault,29560,Trégarvan,France,fr,open,48.2448847,-4.2263366,,,,2011,payant:9676;gratuit:2138;label-date:01/02/2003,label:musee de france,
 3519401,92884430,Musée de la Faucillonnaie,,Rue du Rachapt,35500,Vitré,France,fr,open,48.1260135,-1.2166992529105425,,,,2011,payant:0;gratuit:0;label-date:01/02/2003,unlabel:musee de france,

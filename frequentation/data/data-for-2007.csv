@@ -531,7 +531,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 8902402,62636018,Musée d'Art et d'Histoire,,Rue Cochois,89000,Auxerre,France,fr,open,47.8005184,3.5725156901166075,,,,2007,payant:9931;gratuit:25242;label-date:01/02/2003,label:musee de france,
 8936801,2598935771,Musée Colette,,Place du Château,89520,Saint-Sauveur-en-Puisaye,France,fr,open,47.6173071,3.1989776,,,,2007,payant:8734;gratuit:683;label-date:01/02/2003,label:musee de france,
 2209301,123094895,Musée Mathurin Meheut,,Rue du Docteur Calmette,22400,Saint-Brieuc,France,fr,open,48.469658,-2.5154268059467917,,,,2007,payant:5354;gratuit:810;label-date:02/05/2002,label:musee de france,
-2926101,,Ecomusée des Monts d'Arrée - Maison Cornec,,,,RIVOAL,France,fr,open,,,,,,2007,payant:4501;gratuit:2601;label-date:01/02/2003,label:musee de france,
+2926101,,Ecomusée des Monts d'Arrée - Maison Cornec,,,29190,SAINT-RIVOAL,France,fr,open,,,,,,2007,payant:4501;gratuit:2601;label-date:01/02/2003,label:musee de france,
 2915501,,Ecomusée d'Ouessant - Vivre sur une Ile,,,,OUESSANT,France,fr,open,,,,,,2007,payant:6382;gratuit:4799;label-date:01/02/2003,label:musee de france,
 2915502,2139061354,Musée des Phares et Balises,,Route du Phare,,Lampaul,France,fr,open,48.4594493,-5.1294058,,,,2007,payant:16089;gratuit:4711;label-date:01/02/2003,label:musee de france,
 2922001,,Musée Bigouden,,,,PONT-L'ABBE,France,fr,open,,,,,,2007,payant:9903;gratuit:2735;label-date:01/02/2003,label:musee de france,

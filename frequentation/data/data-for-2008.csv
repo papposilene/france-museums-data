@@ -297,7 +297,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 8902401,62627118,Muséum - Maison de l'Eau,,Rue Jeanne d'Arc,89000,Auxerre,France,fr,open,47.7970869,3.5618150624042473,,,,2008,payant:0;gratuit:12208;label-date:01/02/2003,label:musee de france,
 8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,89310,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2008,payant:1781;gratuit:1074;label-date:01/02/2003,label:musee de france,
 8938701,8196077887,Musée Muncipal,135,Rue des Déportés et de la Résistance,89100,Sens,France,fr,open,48.1975028,3.284393,,,,2008,payant:5528;gratuit:33771;label-date:01/02/2003,label:musee de france,
-2926101,,Ecomusée des Monts d'Arrée - Maison Cornec,,,,RIVOAL,France,fr,open,,,,,,2008,payant:4749;gratuit:2297;label-date:01/02/2003,label:musee de france,
+2926101,,Ecomusée des Monts d'Arrée - Maison Cornec,,,29190,SAINT-RIVOAL,France,fr,open,,,,,,2008,payant:4749;gratuit:2297;label-date:01/02/2003,label:musee de france,
 2915501,,Ecomusée d'Ouessant - Vivre sur une Ile,,,,OUESSANT,France,fr,open,,,,,,2008,payant:6783;gratuit:3931;label-date:01/02/2003,label:musee de france,
 2922001,,Musée Bigouden,,,,PONT-L'ABBE,France,fr,open,,,,,,2008,payant:9808;gratuit:3155;label-date:01/02/2003,label:musee de france,
 5618102,2854735857,Musée de la Compagnie des Indes,,Grand pont,56290,Port-Louis,France,fr,open,47.7106223,-3.3637818,,,,2008,payant:39118;gratuit:19194;label-date:01/02/2003,label:musee de france,

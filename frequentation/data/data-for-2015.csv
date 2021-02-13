@@ -286,7 +286,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 8934401,2909216095,Musée de l'Aventure du Son,,Place de l'Hôtel de Ville,89170,Saint-Fargeau,France,fr,open,47.6414558,3.0709553,,,,2015,payant:2910;gratuit:443;label-date:18/04/2008,label:musee de france,
 8947201,,Musée d'Art et d'Histoire du Puisaye,,,,VILLIERS-SAINT-BENOIT,France,fr,open,,,,,,2015,payant:534;gratuit:1059;label-date:01/02/2003,label:musee de france,
 2903801,,Ecomusée des Monts d'Arrée - Moulins de Kerouat,,,,COMMANA,France,fr,open,,,,,,2015,payant:7121;gratuit:1780;label-date:01/02/2003,label:musee de france,
-2926101,,Ecomusée des Monts d'Arrée - Maison Cornec,,,,RIVOAL,France,fr,open,,,,,,2015,payant:2230;gratuit:4142;label-date:01/02/2003,label:musee de france,
+2926101,,Ecomusée des Monts d'Arrée - Maison Cornec,,,29190,SAINT-RIVOAL,France,fr,open,,,,,,2015,payant:2230;gratuit:4142;label-date:01/02/2003,label:musee de france,
 2915101,2628944132,Musée de Morlaix,,Hameau des Rochers,29410,Le Cloître-Saint-Thégonnec,France,fr,open,48.4797924,-3.7964981,,,,2015,payant:12104;gratuit:12912;label-date:01/02/2003,label:musee de france,
 2922001,,Musée Bigouden,,,,PONT-L'ABBE,France,fr,open,,,,,,2015,payant:10464;gratuit:2472;label-date:01/02/2003,label:musee de france,
 2923201,1162498487,Musée des Beaux-Arts,,Place Saint-Corentin,29000,Quimper,France,fr,open,47.996236,-4.102342,,,,2015,payant:35572;gratuit:6340;label-date:01/02/2003,label:musee de france,

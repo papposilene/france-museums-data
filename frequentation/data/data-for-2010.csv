@@ -998,7 +998,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 2209301,123094895,Musée Mathurin Meheut,,Rue du Docteur Calmette,22400,Saint-Brieuc,France,fr,open,48.469658,-2.5154268059467917,,,,2010,payant:5132;gratuit:1208;label-date:02/05/2002,label:musee de france,
 2904601,40686013,Le Port-Musée,,Place de l'Enfer,29100,Ploaré,France,fr,open,48.092424,-4.332596723404256,,,,2010,payant:29505;gratuit:39364;label-date:01/02/2003,label:musee de france,
 2923201,1162498487,Musée des Beaux-Arts,,Place Saint-Corentin,29000,Quimper,France,fr,open,47.996236,-4.102342,,,,2010,payant:28718;gratuit:28456;label-date:01/02/2003,label:musee de france,
-2926101,,Ecomusée des Monts d'Arrée - Maison Cornec,,,,RIVOAL,France,fr,open,,,,,,2010,payant:4209;gratuit:2791;label-date:01/02/2003,label:musee de france,
+2926101,,Ecomusée des Monts d'Arrée - Maison Cornec,,,29190,SAINT-RIVOAL,France,fr,open,,,,,,2010,payant:4209;gratuit:2791;label-date:01/02/2003,label:musee de france,
 2928901,1458523215,Musée de l'Ecole Rurale en Bretagne,,Route Départementale Numéro 60 de Landévennec à Dinéault,29560,Trégarvan,France,fr,open,48.2448847,-4.2263366,,,,2010,payant:10524;gratuit:2239;label-date:01/02/2003,label:musee de france,
 5603401,93998149,Musée de Préhistoire J. Miln- Z. Le-Rouzic,10,Place de la Chapelle,56340,Carnac,France,fr,open,47.584818999999996,-3.0782984382775096,,,,2010,payant:25332;gratuit:5824;label-date:01/02/2003,label:musee de france,
 5606901,96124965,Ecomusée de l'Île de Groix,,Quartier des Iles Bretonnes,22100,Dinan,France,fr,open,48.4366452,-2.068196590266697,,,,2010,payant:6597;gratuit:980;label-date:01/02/2003,label:musee de france,

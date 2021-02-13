@@ -304,7 +304,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 2227801,78123314,Musée d'Art et d'Histoire,,Cour Francis Renaud,22000,Saint-Brieuc,France,fr,open,48.51234775,-2.7619036982498804,,,,2017,payant:0;gratuit:28501;label-date:01/02/2003,label:musee de france,
 2901901,730880579,Musée des Beaux-Arts de Brest,24,Rue Traverse,29200,Brest,France,fr,open,48.38506775,-4.4901760751918545,,,,2017,payant:4149;gratuit:14149;label-date:01/02/2003,label:musee de france,
 2901902,5882540291,Musée National de la Marine,,Rue Franklin Roosevelt,29200,Brest,France,fr,open,48.381272,-4.4923642,,,,2017,payant:36589;gratuit:37887;label-date:06/01/2002,label:musee de france,
-2926101,,Ecomusée des Monts d'Arrée - Maison Cornec,,,,RIVOAL,France,fr,open,,,,,,2017,payant:0;gratuit:2578;label-date:01/02/2003,label:musee de france,
+2926101,,Ecomusée des Monts d'Arrée - Maison Cornec,,,29190,SAINT-RIVOAL,France,fr,open,,,,,,2017,payant:0;gratuit:2578;label-date:01/02/2003,label:musee de france,
 2915101,2628944132,Musée de Morlaix,,Hameau des Rochers,29410,Le Cloître-Saint-Thégonnec,France,fr,open,48.4797924,-3.7964981,,,,2017,payant:13461;gratuit:4588;label-date:01/02/2003,label:musee de france,
 2923201,1162498487,Musée des Beaux-Arts,,Place Saint-Corentin,29000,Quimper,France,fr,open,47.996236,-4.102342,,,,2017,payant:30043;gratuit:17461;label-date:01/02/2003,label:musee de france,
 3528801,3275333600,Musée International du Long-Cours Cap-Hornier,,Cale Solidor,35400,Saint-Malo,France,fr,open,48.6340431,-2.0260137,,,,2017,payant:7946;gratuit:8284;label-date:01/02/2003,label:musee de france,

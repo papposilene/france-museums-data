@@ -978,7 +978,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 7127001,700244362,Musée des Ursulines,,Rue des Ursulines,71000,Saint-Clément,France,fr,open,46.307027,4.833142197130883,,,,2014,payant:2068;gratuit:20028;label-date:01/02/2003,label:musee de france,
 8902501,3050054378,Musée de l'Avallonnais Jean Després,5,Rue du Collège,89200,Avallon,France,fr,open,47.4869881,3.9065509,,,,2014,payant:978;gratuit:3083;label-date:01/02/2003,label:musee de france,
 2901901,730880579,Musée des Beaux-Arts de Brest,24,Rue Traverse,29200,Brest,France,fr,open,48.38506775,-4.4901760751918545,,,,2014,payant:5797;gratuit:16067;label-date:01/02/2003,label:musee de france,
-2926101,,Ecomusée des Monts d'Arrée - Maison Cornec,,,,RIVOAL,France,fr,open,,,,,,2014,payant:1201;gratuit:3698;label-date:01/02/2003,label:musee de france,
+2926101,,Ecomusée des Monts d'Arrée - Maison Cornec,,,29190,SAINT-RIVOAL,France,fr,open,,,,,,2014,payant:1201;gratuit:3698;label-date:01/02/2003,label:musee de france,
 2904601,40686013,Le Port-Musée,,Place de l'Enfer,29100,Ploaré,France,fr,open,48.092424,-4.332596723404256,,,,2014,payant:35477;gratuit:4001;label-date:01/02/2003,label:musee de france,
 2915101,2628944132,Musée de Morlaix,,Hameau des Rochers,29410,Le Cloître-Saint-Thégonnec,France,fr,open,48.4797924,-3.7964981,,,,2014,payant:17784;gratuit:8351;label-date:01/02/2003,label:musee de france,
 2915502,2139061354,Musée des Phares et Balises,,Route du Phare,,Lampaul,France,fr,open,48.4594493,-5.1294058,,,,2014,payant:13877;gratuit:2812;label-date:01/02/2003,label:musee de france,

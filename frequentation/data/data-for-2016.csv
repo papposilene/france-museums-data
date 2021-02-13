@@ -750,7 +750,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 7137301,7419064525,Musée du Terroir,,Rue des Quartiers,71470,Romenay,France,fr,open,46.503251,5.067591,,,,2016,payant:2139;gratuit:1141;label-date:01/02/2003,label:musee de france,
 9000901,203596883,Musée Frédéric Japy,,Rue des Aiges,25230,Vandoncourt,France,fr,open,47.469297499999996,6.90605967289238,,,,2016,payant:952;gratuit:1618;label-date:01/02/2003,label:musee de france,
 8902501,3050054378,Musée de l'Avallonnais,5,Rue du Collège,89200,Avallon,France,fr,open,47.4869881,3.9065509,,,,2016,payant:965;gratuit:2766;label-date:01/02/2003,label:musee de france,
-2926101,,Ecomusée des Monts d'Arrée - Maison Cornec,,,,RIVOAL,France,fr,open,,,,,,2016,payant:0;gratuit:5701;label-date:01/02/2003,label:musee de france,
+2926101,,Ecomusée des Monts d'Arrée - Maison Cornec,,,29190,SAINT-RIVOAL,France,fr,open,,,,,,2016,payant:0;gratuit:5701;label-date:01/02/2003,label:musee de france,
 3528801,3275333600,Musée International du Long-Cours Cap-Hornier,,Cale Solidor,35400,Saint-Malo,France,fr,open,48.6340431,-2.0260137,,,,2016,payant:6809;gratuit:5114;label-date:01/02/2003,label:musee de france,
 3528802,,Musée d'Histoire de la Ville de Saint-Malo,,,,SAINT-MALO,France,fr,open,,,,,,2016,payant:17594;gratuit:9592;label-date:01/02/2003,label:musee de france,
 3536003,3203173830,Musée des Rochers-Sévigné,,Promenade du Val,35500,Vitré,France,fr,open,48.1254552,-1.2110814,,,,2016,payant:3001;gratuit:0;label-date:01/02/2003,label:musee de france,

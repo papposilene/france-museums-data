@@ -973,7 +973,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,89310,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2018,payant:1624;gratuit:541;label-date:01/02/2003,label:musee de france,
 8944601,2628533133,Musée Zervos - Maison Romain Rolland,,,89450,Vézelay,France,fr,open,47.4638215,3.743302,,,,2018,payant:4903;gratuit:2912;label-date:01/02/2003,label:musee de france,
 2901901,730880579,Musée des Beaux-Arts de Brest,24,Rue Traverse,29200,Brest,France,fr,open,48.38506775,-4.4901760751918545,,,,2018,payant:4617;gratuit:12407;label-date:01/02/2003,label:musee de france,
-2926101,,Ecomusée des Monts d'Arrée - Maison Cornec,,,,RIVOAL,France,fr,open,,,,,,2018,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
+2926101,,Ecomusée des Monts d'Arrée - Maison Cornec,,,29190,SAINT-RIVOAL,France,fr,open,,,,,,2018,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 2915501,,Ecomusée d'Ouessant - Vivre sur une Ile,,,,OUESSANT,France,fr,open,,,,,,2018,payant:6202;gratuit:732;label-date:01/02/2003,label:musee de france,
 2923201,1162498487,Musée des Beaux-Arts,,Place Saint-Corentin,29000,Quimper,France,fr,open,47.996236,-4.102342,,,,2018,payant:34982;gratuit:21122;label-date:01/02/2003,label:musee de france,
 3523801,7422696,Musée de Bretagne,,Boulevard Magenta,35000|35700|35200,Rennes,France,fr,open,48.105132049999995,-1.6741388704016005,,,,2018,payant:19088;gratuit:48247;label-date:01/02/2003,label:musee de france,

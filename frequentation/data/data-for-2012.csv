@@ -1002,7 +1002,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 7154301,7419064527,Hôtel Dieu - Musée Greuze,,Rue de l'Hôpital,71700,Tournus,France,fr,open,46.5619544,4.9109248,,,,2012,payant:8759;gratuit:1906;label-date:01/02/2003,label:musee de france,
 2209301,123094895,Musée Mathurin Meheut,,Rue du Docteur Calmette,22400,Saint-Brieuc,France,fr,open,48.469658,-2.5154268059467917,,,,2012,payant:5285;gratuit:747;label-date:02/05/2002,label:musee de france,
 2901902,5882540291,Musée National de la Marine,,Rue Franklin Roosevelt,29200,Brest,France,fr,open,48.381272,-4.4923642,,,,2012,payant:28501;gratuit:25532;label-date:06/01/2002,label:musee de france,
-2926101,,Ecomusée des Monts d'Arrée - Maison Cornec,,,,RIVOAL,France,fr,open,,,,,,2012,payant:532;gratuit:5652;label-date:01/02/2003,label:musee de france,
+2926101,,Ecomusée des Monts d'Arrée - Maison Cornec,,,29190,SAINT-RIVOAL,France,fr,open,,,,,,2012,payant:532;gratuit:5652;label-date:01/02/2003,label:musee de france,
 2903901,3986935,Musée de la Pêche,,Rue Militaire,29900,Concarneau,France,fr,open,47.87218475,-3.916013041508858,,,,2012,payant:24977;gratuit:4999;label-date:01/02/2003,label:musee de france,
 2904601,40686013,Le Port-Musée,,Place de l'Enfer,29100,Ploaré,France,fr,open,48.092424,-4.332596723404256,,,,2012,payant:29900;gratuit:13330;label-date:01/02/2003,label:musee de france,
 3518801,187066533,Ecomusée du Pays de Montfort,,,35160,Montfort-sur-Meu,France,fr,open,48.138191250000006,-1.9603132440564033,,,,2012,payant:6224;gratuit:0;label-date:01/02/2003,label:musee de france,

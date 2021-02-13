@@ -628,7 +628,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 8902403,1256497741,Musée Leblanc-Duvernois,,Rue Gaston Gallimard,89600,Saint-Florentin,France,fr,open,48.0013166,3.7283151,,,,2009,payant:531;gratuit:675;label-date:01/02/2003,label:musee de france,
 8934401,2909216095,Musée de l'Aventure du Son,,Place de l'Hôtel de Ville,89170,Saint-Fargeau,France,fr,open,47.6414558,3.0709553,,,,2009,payant:3815;gratuit:623;label-date:18/04/2008,label:musee de france,
 8938701,8196077887,Musée Muncipal,135,Rue des Déportés et de la Résistance,89100,Sens,France,fr,open,48.1975028,3.284393,,,,2009,payant:5519;gratuit:38397;label-date:01/02/2003,label:musee de france,
-2926101,,Ecomusée des Monts d'Arrée - Maison Cornec,,,,RIVOAL,France,fr,open,,,,,,2009,payant:4124;gratuit:3218;label-date:01/02/2003,label:musee de france,
+2926101,,Ecomusée des Monts d'Arrée - Maison Cornec,,,29190,SAINT-RIVOAL,France,fr,open,,,,,,2009,payant:4124;gratuit:3218;label-date:01/02/2003,label:musee de france,
 2915501,,Ecomusée d'Ouessant - Vivre sur une Ile,,,,OUESSANT,France,fr,open,,,,,,2009,payant:5889;gratuit:3975;label-date:01/02/2003,label:musee de france,
 2915502,2139061354,Musée des Phares et Balises,,Route du Phare,,Lampaul,France,fr,open,48.4594493,-5.1294058,,,,2009,payant:12714;gratuit:3460;label-date:01/02/2003,label:musee de france,
 3519401,92884430,Musée de la Faucillonnaie,,Rue du Rachapt,35500,Vitré,France,fr,open,48.1260135,-1.2166992529105425,,,,2009,payant:964;gratuit:410;label-date:01/02/2003,label:musee de france,
