@@ -10,7 +10,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 6806601,1265125753,Musée d'Unterlinden,,Place Unterlinden,68000,Colmar,France,fr,open,48.0798635,7.3555565,,,,2003,payant:183328;gratuit:28894;label-date:01/02/2003,label:musee de france,
 6806602,47577843,Musée d'Histoire Naturelle et d'Ethnographie de Colmar,,Cour,68000,Colmar,France,fr,open,48.07362435,7.358821938150863,,,,2003,payant:2433;gratuit:3770;label-date:01/02/2003,label:musee de france,
 6811201,70325197,Musée du Florival,1,Rue du 4 Février,68500,Guebwiller,France,fr,open,47.90581675,7.215371294817073,,,,2003,payant:3575;gratuit:2485;label-date:01/02/2003,label:musee de france,
-6814901,,Musée Historique et Militaire de Huningue,,,,HUNINGE,France,fr,open,,,,,,2003,payant:405;gratuit:0;label-date:01/02/2003,label:musee de france,
+6814901,,Musée Historique et Militaire de Huningue,,,68330,HUNINGUE,France,fr,open,,,,,,2003,payant:405;gratuit:0;label-date:01/02/2003,label:musee de france,
 6823101,6795990385,Musée Vauban,,Place de la Porte de Belfort,68600,Neuf-Brisach,France,fr,open,48.0153387,7.526694,,,,2003,payant:2986;gratuit:0;label-date:01/02/2003,label:musee de france,
 6827801,1936849476,Musée du Papier Peint,28,Rue Zuber,68170,Rixheim,France,fr,open,47.7444268,7.3972851,,,,2003,payant:7336;gratuit:4965;label-date:01/02/2003,label:musee de france,
 2406401,5089643323,Musée Fernand Desmoulin,,Boulevard Charlemagne,24310,Nontron,France,fr,open,45.3641641,0.6468008,,,,2003,payant:11020;gratuit:1489;label-date:01/02/2003,label:musee de france,

@@ -234,7 +234,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 6748209,40220422,Musée d'Art Moderne et Contemporain de Strasbourg,,Place Hans-Jean Arp,67003,Strasbourg,France,fr,open,48.5794799,7.736099647631168,,,,2012,payant:33072;gratuit:98649;label-date:01/02/2003,label:musee de france,
 6748202,239825772,Musée Archéologique,,Rue du Bain-aux-Roses,67065,Strasbourg,France,fr,open,48.5808521,7.7525857,,,,2012,payant:5602;gratuit:33784;label-date:06/01/2002,label:musee de france,
 6748203,239830896,Musée des Beaux-Arts,,Place du Marché aux Poissons,67065,Strasbourg,France,fr,open,48.5806606,7.7521404,,,,2012,payant:19203;gratuit:44885;label-date:01/02/2003,label:musee de france,
-6814901,,Musée Historique et Militaire de Huningue,,,,HUNINGE,France,fr,open,,,,,,2012,payant:268;gratuit:479;label-date:01/02/2003,label:musee de france,
+6814901,,Musée Historique et Militaire de Huningue,,,68330,HUNINGUE,France,fr,open,,,,,,2012,payant:268;gratuit:479;label-date:01/02/2003,label:musee de france,
 6816201,,Musée d'Histoire Local,,,,KAYSERSBERG,France,fr,open,,,,,,2012,payant:404;gratuit:310;label-date:01/02/2003,label:musee de france,
 6822401,343385574,Musée des Beaux-Arts,,Rue Guillaume Tell,68100,Mulhouse,France,fr,open,47.7457898,7.3384212,,,,2012,payant:0;gratuit:19935;label-date:01/02/2003,label:musee de france,
 6823101,6795990385,Musée Vauban,,Place de la Porte de Belfort,68600,Neuf-Brisach,France,fr,open,48.0153387,7.526694,,,,2012,payant:2335;gratuit:0;label-date:01/02/2003,label:musee de france,

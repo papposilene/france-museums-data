@@ -247,7 +247,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 6751301,,Musée J.F. Oberlin,,,,WALDERSBACH,France,fr,open,,,,,,2011,payant:20092;gratuit:7266;label-date:01/02/2003,label:musee de france,
 6800401,5144762817,Musée Sundgauvien d'Altkirch,38,Rue de Luppach,68480,Vieux-Ferrette,France,fr,open,47.5040397,7.3041592,,,,2011,payant:1964;gratuit:976;label-date:01/02/2003,label:musee de france,
 6806601,1265125753,Musée d'Unterlinden,,Place Unterlinden,68000,Colmar,France,fr,open,48.0798635,7.3555565,,,,2011,payant:151000;gratuit:26100;label-date:01/02/2003,label:musee de france,
-6814901,,Musée Historique et Militaire de Huningue,,,,HUNINGE,France,fr,open,,,,,,2011,payant:172;gratuit:233;label-date:01/02/2003,label:musee de france,
+6814901,,Musée Historique et Militaire de Huningue,,,68330,HUNINGUE,France,fr,open,,,,,,2011,payant:172;gratuit:233;label-date:01/02/2003,label:musee de france,
 2406401,5089643323,Musée Fernand Desmoulin,,Boulevard Charlemagne,24310,Nontron,France,fr,open,45.3641641,0.6468008,,,,2011,payant:16593;gratuit:3812;label-date:01/02/2003,label:musee de france,
 2415201,4364598320,Musée Paul Reclus,,Rue Paul Reclus,24250,Domme,France,fr,open,44.8028038,1.2138053,,,,2011,payant:198;gratuit:13241;label-date:01/02/2003,label:musee de france,
 2417204,1708799591,Musée National de la Préhistoire,,Rue du Musée,24620,Sarlat-la-Canéda,France,fr,open,44.9362525,1.0135749,,,,2011,payant:49924;gratuit:44433;label-date:06/01/2002,label:musee de france,

@@ -962,7 +962,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 6748205,222359,Cabinet des Estampes et des Dessins,,Passage Hans Haug,67065,Strasbourg,France,fr,open,48.58102195,7.750841658661065,,,,2015,payant:0;gratuit:345;label-date:01/02/2003,label:musee de france,
 6753801,1773559189,Musée Lalique,,Rue du Hochberg,67290,Wingen-sur-Moder,France,fr,open,48.9265922,7.3620686,,,,2015,payant:37986;gratuit:11324;label-date:15/03/2007,label:musee de france,
 6806601,1265125753,Musée d'Unterlinden,,Place Unterlinden,68000,Colmar,France,fr,open,48.0798635,7.3555565,,,,2015,payant:129744;gratuit:29767;label-date:01/02/2003,label:musee de france,
-6814901,,Musée Historique et Militaire de Huningue,,,,HUNINGE,France,fr,open,,,,,,2015,payant:210;gratuit:240;label-date:01/02/2003,label:musee de france,
+6814901,,Musée Historique et Militaire de Huningue,,,68330,HUNINGUE,France,fr,open,,,,,,2015,payant:210;gratuit:240;label-date:01/02/2003,label:musee de france,
 6816201,,Musée d'Histoire Local,,,,KAYSERSBERG,France,fr,open,,,,,,2015,payant:598;gratuit:147;label-date:01/02/2003,label:musee de france,
 6822409,449007880,Musée Minéralogique de la Société Industrielle de Mulhouse,,Autodrome du Musée de l'Automobile,68100,Mulhouse,France,fr,open,47.7612848,7.327971551196445,,,,2015,payant:0;gratuit:100;label-date:01/02/2003,label:musee de france,
 6834301,261857352,Ecomusée d'Alsace,,Chemin des Remparts,68190,Ungersheim,France,fr,open,47.85306625,7.2871333354354615,,,,2015,payant:201929;gratuit:0;label-date:01/02/2003,label:musee de france,

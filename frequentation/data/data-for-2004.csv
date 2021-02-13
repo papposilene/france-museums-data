@@ -3,7 +3,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 6754401,167263621,Musée Westercamp,,Rue du Musée,67160,Wissembourg,France,fr,closed,49.0389525,7.944872205882353,,,,2004,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 6800401,5144762817,Musée Sundgauvien d'Altkirch,38,Rue de Luppach,68480,Vieux-Ferrette,France,fr,open,47.5040397,7.3041592,,,,2004,payant:2409;gratuit:7843;label-date:01/02/2003,label:musee de france,
 6806602,47577843,Musée d'Histoire Naturelle et d'Ethnographie de Colmar,,Cour,68000,Colmar,France,fr,open,48.07362435,7.358821938150863,,,,2004,payant:3620;gratuit:4547;label-date:01/02/2003,label:musee de france,
-6814901,,Musée Historique et Militaire de Huningue,,,,HUNINGE,France,fr,open,,,,,,2004,payant:571;gratuit:0;label-date:01/02/2003,label:musee de france,
+6814901,,Musée Historique et Militaire de Huningue,,,68330,HUNINGUE,France,fr,open,,,,,,2004,payant:571;gratuit:0;label-date:01/02/2003,label:musee de france,
 6816201,,Musée d'Histoire Local,,,,KAYSERSBERG,France,fr,open,,,,,,2004,payant:325;gratuit:80;label-date:01/02/2003,label:musee de france,
 6822401,343385574,Musée des Beaux-Arts,,Rue Guillaume Tell,68100,Mulhouse,France,fr,open,47.7457898,7.3384212,,,,2004,payant:0;gratuit:12891;label-date:01/02/2003,label:musee de france,
 6822403,449007880,Musée National de l'Automobile - Collection Schlumpf,,Autodrome du Musée de l'Automobile,68100,Mulhouse,France,fr,open,47.7612848,7.327971551196445,,,,2004,payant:182427;gratuit:21107;label-date:01/02/2003,label:musee de france,

@@ -447,7 +447,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 6755001,2176631839,Musée de la Bataille du 6 Août 1870,,Cour du Château,67360,Wœrth,France,fr,open,48.9388096,7.7472595,,,,2001,payant:5419;gratuit:628,label:musee de france,
 6806603,47576073,Musée Bartholdi,30,Rue des Marchands,68000,Colmar,France,fr,open,48.0766092,7.357482163734775,,,,2001,payant:7309;gratuit:3025,label:musee de france,
 6806601,1265125753,Musée d'Unterlinden,,Place Unterlinden,68000,Colmar,France,fr,open,48.0798635,7.3555565,,,,2001,payant:207729;gratuit:30172,label:musee de france,
-6814901,,Musée Historique et Militaire de Huningue,,,,HUNINGE,France,fr,open,,,,,,2001,payant:0;gratuit:0,label:musee de france,
+6814901,,Musée Historique et Militaire de Huningue,,,68330,HUNINGUE,France,fr,open,,,,,,2001,payant:0;gratuit:0,label:musee de france,
 6816401,55263399,Musée du Vignoble et des Vins d'Alsace,1b,Grand'Rue,68240,Colmar-Ribeauvillé,France,fr,open,48.13509195,7.2883942443186704,,,,2001,payant:8212;gratuit:0,label:musee de france,
 6822401,343385574,Musée des Beaux-Arts,,Rue Guillaume Tell,68100,Mulhouse,France,fr,open,47.7457898,7.3384212,,,,2001,payant:0;gratuit:7356,label:musee de france,
 6822402,45841480,Musée de l'Impression sur Etoffes,,Rue des Bonnes Gens,68100,Mulhouse,France,fr,open,47.7447923,7.344778561009134,,,,2001,payant:17029;gratuit:10709,label:musee de france,

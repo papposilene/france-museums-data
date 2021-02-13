@@ -729,7 +729,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 6751301,,Musée J.F. Oberlin,,,,WALDERSBACH,France,fr,open,,,,,,2014,payant:22005;gratuit:7548;label-date:01/02/2003,label:musee de france,
 6803601,685084692,Musée Gallo-Romain,,Rue des Capucins,68600,Biesheim,France,fr,open,48.039525,7.5455969,,,,2014,payant:598;gratuit:1414;label-date:01/02/2003,label:musee de france,
 6806601,1265125753,Musée d'Unterlinden,,Place Unterlinden,68000,Colmar,France,fr,open,48.0798635,7.3555565,,,,2014,payant:154080;gratuit:30679;label-date:01/02/2003,label:musee de france,
-6814901,,Musée Historique et Militaire de Huningue,,,,HUNINGE,France,fr,open,,,,,,2014,payant:107;gratuit:202;label-date:01/02/2003,label:musee de france,
+6814901,,Musée Historique et Militaire de Huningue,,,68330,HUNINGUE,France,fr,open,,,,,,2014,payant:107;gratuit:202;label-date:01/02/2003,label:musee de france,
 6816201,,Musée d'Histoire Local,,,,KAYSERSBERG,France,fr,open,,,,,,2014,payant:428;gratuit:570;label-date:01/02/2003,label:musee de france,
 6816401,55263399,Musée du Vignoble et des Vins d'Alsace,1b,Grand'Rue,68240,Colmar-Ribeauvillé,France,fr,open,48.13509195,7.2883942443186704,,,,2014,payant:3267;gratuit:0;label-date:01/02/2003,label:musee de france,
 6833401,218472174,Musée des Amis de Thann,,Rue du Parc,68470,Husseren-Wesserling,France,fr,open,47.885102,6.996263986308496,,,,2014,payant:1143;gratuit:851;label-date:01/02/2003,label:musee de france,

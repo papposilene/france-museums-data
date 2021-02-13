@@ -978,7 +978,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 6748202,239825772,Musée Archéologique,,Rue du Bain-aux-Roses,67065,Strasbourg,France,fr,open,48.5808521,7.7525857,,,,2013,payant:17100;gratuit:26879;label-date:06/01/2002,label:musee de france,
 6748204,239825781,Musée des Arts Décoratifs,,Place du Marché aux Poissons,67065,Strasbourg,France,fr,open,48.5807532,7.7523558,,,,2013,payant:27328;gratuit:26714;label-date:01/02/2003,label:musee de france,
 6751301,,Musée J.F. Oberlin,,,,WALDERSBACH,France,fr,open,,,,,,2013,payant:22134;gratuit:7908;label-date:01/02/2003,label:musee de france,
-6814901,,Musée Historique et Militaire de Huningue,,,,HUNINGE,France,fr,open,,,,,,2013,payant:168;gratuit:188;label-date:01/02/2003,label:musee de france,
+6814901,,Musée Historique et Militaire de Huningue,,,68330,HUNINGUE,France,fr,open,,,,,,2013,payant:168;gratuit:188;label-date:01/02/2003,label:musee de france,
 6816201,,Musée d'Histoire Local,,,,KAYSERSBERG,France,fr,open,,,,,,2013,payant:343;gratuit:217;label-date:01/02/2003,label:musee de france,
 6822404,449007880,Musée EDF Electropolis,,Autodrome du Musée de l'Automobile,68100,Mulhouse,France,fr,open,47.7612848,7.327971551196445,,,,2013,payant:30679;gratuit:7302;label-date:01/02/2003,label:musee de france,
 2431101,,Musée Départemental de la Poupée et du Jouet,,,,NONTRON,France,fr,closed,,,,,,2013,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,

@@ -1001,7 +1001,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 6730001,58887086,Musée de la Chartreuse,,Rue des Étudiants,67120,Molsheim,France,fr,open,48.5428428,7.490422123361975,,,,2017,payant:4641;gratuit:2053;label-date:01/02/2003,label:musee de france,
 6748208,239813123,Musée Alsacien,23,Quai Saint-Nicolas,67065,Strasbourg,France,fr,open,48.5791319,7.7506043,,,,2017,payant:35069;gratuit:28845;label-date:01/02/2003,label:musee de france,
 6806601,1265125753,Musée d'Unterlinden,,Place Unterlinden,68000,Colmar,France,fr,open,48.0798635,7.3555565,,,,2017,payant:173530;gratuit:40000;label-date:01/02/2003,label:musee de france,
-6814901,,Musée Historique et Militaire de Huningue,,,,HUNINGE,France,fr,open,,,,,,2017,payant:220;gratuit:104;label-date:01/02/2003,label:musee de france,
+6814901,,Musée Historique et Militaire de Huningue,,,68330,HUNINGUE,France,fr,open,,,,,,2017,payant:220;gratuit:104;label-date:01/02/2003,label:musee de france,
 6822403,449007880,Musée National de l'Automobile - Collection Schlumpf,,Autodrome du Musée de l'Automobile,68100,Mulhouse,France,fr,open,47.7612848,7.327971551196445,,,,2017,payant:147583;gratuit:27296;label-date:01/02/2003,label:musee de france,
 6833401,218472174,Musée des Amis de Thann,,Rue du Parc,68470,Husseren-Wesserling,France,fr,open,47.885102,6.996263986308496,,,,2017,payant:397;gratuit:894;label-date:01/02/2003,label:musee de france,
 5123001,183978059,Musée Municipal d'Epernay,,D 45,73670,Entremont-le-Vieux,France,fr,closed,45.451615000000004,5.882174889178614,,,,2017,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,

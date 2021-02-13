@@ -592,7 +592,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 6748209,40220422,Musée d'Art Moderne et Contemporain de Strasbourg,,Place Hans-Jean Arp,67003,Strasbourg,France,fr,open,48.5794799,7.736099647631168,,,,2009,payant:36854;gratuit:97708;label-date:01/02/2003,label:musee de france,
 6748202,239825772,Musée Archéologique,,Rue du Bain-aux-Roses,67065,Strasbourg,France,fr,open,48.5808521,7.7525857,,,,2009,payant:3728;gratuit:32363;label-date:06/01/2002,label:musee de france,
 6806602,47577843,Musée d'Histoire Naturelle et d'Ethnographie de Colmar,,Cour,68000,Colmar,France,fr,open,48.07362435,7.358821938150863,,,,2009,payant:6560;gratuit:6053;label-date:01/02/2003,label:musee de france,
-6814901,,Musée Historique et Militaire de Huningue,,,,HUNINGE,France,fr,open,,,,,,2009,payant:179;gratuit:108;label-date:01/02/2003,label:musee de france,
+6814901,,Musée Historique et Militaire de Huningue,,,68330,HUNINGUE,France,fr,open,,,,,,2009,payant:179;gratuit:108;label-date:01/02/2003,label:musee de france,
 6822408,2537131567,Musée Historique,,Place de la Réunion,68100,Mulhouse,France,fr,open,47.7465763,7.3392546,,,,2009,payant:0;gratuit:35793;label-date:01/02/2003,label:musee de france,
 6823101,6795990385,Musée Vauban,,Place de la Porte de Belfort,68600,Neuf-Brisach,France,fr,open,48.0153387,7.526694,,,,2009,payant:3018;gratuit:207;label-date:01/02/2003,label:musee de france,
 6833401,218472174,Musée des Amis de Thann,,Rue du Parc,68470,Husseren-Wesserling,France,fr,open,47.885102,6.996263986308496,,,,2009,payant:547;gratuit:1467;label-date:01/02/2003,label:musee de france,

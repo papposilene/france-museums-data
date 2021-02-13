@@ -238,7 +238,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 6753801,1773559189,Musée Lalique,,Rue du Hochberg,67290,Wingen-sur-Moder,France,fr,closed,48.9265922,7.3620686,,,,2010,payant:0;gratuit:0;label-date:15/03/2007,label:musee de france,
 6754401,167263621,Musée Westercamp,,Rue du Musée,67160,Wissembourg,France,fr,closed,49.0389525,7.944872205882353,,,,2010,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 6806601,1265125753,Musée d'Unterlinden,,Place Unterlinden,68000,Colmar,France,fr,open,48.0798635,7.3555565,,,,2010,payant:154400;gratuit:28600;label-date:01/02/2003,label:musee de france,
-6814901,,Musée Historique et Militaire de Huningue,,,,HUNINGE,France,fr,open,,,,,,2010,payant:177;gratuit:242;label-date:01/02/2003,label:musee de france,
+6814901,,Musée Historique et Militaire de Huningue,,,68330,HUNINGUE,France,fr,open,,,,,,2010,payant:177;gratuit:242;label-date:01/02/2003,label:musee de france,
 6816401,55263399,Musée du Vignoble et des Vins d'Alsace,1b,Grand'Rue,68240,Colmar-Ribeauvillé,France,fr,open,48.13509195,7.2883942443186704,,,,2010,payant:4307;gratuit:100;label-date:01/02/2003,label:musee de france,
 6822409,449007880,Musée Minéralogique de la Société Industrielle de Mulhouse,,Autodrome du Musée de l'Automobile,68100,Mulhouse,France,fr,closed,47.7612848,7.327971551196445,,,,2010,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 6827801,1936849476,Musée du Papier Peint,28,Rue Zuber,68170,Rixheim,France,fr,open,47.7444268,7.3972851,,,,2010,payant:6471;gratuit:4008;label-date:01/02/2003,label:musee de france,

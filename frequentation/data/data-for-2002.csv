@@ -402,7 +402,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 6806603,47576073,Musée Bartholdi,30,Rue des Marchands,68000,Colmar,France,fr,open,48.0766092,7.357482163734775,,,,2002,payant:7337;gratuit:3155,label:musee de france,
 6806602,47577843,Musée d'Histoire Naturelle et d'Ethnographie de Colmar,,Cour,68000,Colmar,France,fr,open,48.07362435,7.358821938150863,,,,2002,payant:2985;gratuit:4169,label:musee de france,
 6811201,70325197,Musée du Florival,1,Rue du 4 Février,68500,Guebwiller,France,fr,open,47.90581675,7.215371294817073,,,,2002,payant:2471;gratuit:1734,label:musee de france,
-6814901,,Musée Historique et Militaire de Huningue,,,,HUNINGE,France,fr,open,,,,,,2002,payant:0;gratuit:0,label:musee de france,
+6814901,,Musée Historique et Militaire de Huningue,,,68330,HUNINGUE,France,fr,open,,,,,,2002,payant:0;gratuit:0,label:musee de france,
 6822408,2537131567,Musée Historique,,Place de la Réunion,68100,Mulhouse,France,fr,open,47.7465763,7.3392546,,,,2002,payant:0;gratuit:25768,label:musee de france,
 6822405,4551159534,Cité du Train,,Rue Alfred de Glehn,68200,Mulhouse,France,fr,open,47.7500026,7.2938678,,,,2002,payant:75215;gratuit:16559;label-date:18/11/2002,label:musee de france,
 6822409,449007880,Musée Minéralogique de la Société Industrielle de Mulhouse,,Autodrome du Musée de l'Automobile,68100,Mulhouse,France,fr,open,47.7612848,7.327971551196445,,,,2002,payant:0;gratuit:50,label:musee de france,

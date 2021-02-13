@@ -786,7 +786,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 5206001,,Musée Municipal,,,,BOURBONNE-LES-BAINS,France,fr,open,,,,,,2018,payant:0;gratuit:1799;label-date:01/02/2003,label:musee de france,
 5226901,63714311,Maison des Lumières Denis Diderot,1,Place de Verdun,52200,Langres,France,fr,open,47.86621305,5.331607502714843,,,,2018,payant:4418;gratuit:6457;label-date:01/02/2003,label:musee de france,
 6811201,70325197,Musée Théodore Deck et des Pays du Florival,1,Rue du 4 Février,68500,Guebwiller,France,fr,open,47.90581675,7.215371294817073,,,,2018,payant:1442;gratuit:3649;label-date:01/02/2003,label:musee de france,
-6814901,,Musée Historique et Militaire de Huningue,,,,HUNINGE,France,fr,open,,,,,,2018,payant:256;gratuit:70;label-date:01/02/2003,label:musee de france,
+6814901,,Musée Historique et Militaire de Huningue,,,68330,HUNINGUE,France,fr,open,,,,,,2018,payant:256;gratuit:70;label-date:01/02/2003,label:musee de france,
 6816401,55263399,Musée du Vignoble et des Vins d'Alsace,1b,Grand'Rue,68240,Colmar-Ribeauvillé,France,fr,open,48.13509195,7.2883942443186704,,,,2018,payant:2880;gratuit:0;label-date:01/02/2003,label:musee de france,
 6822408,2537131567,Musée Historique,,Place de la Réunion,68100,Mulhouse,France,fr,open,47.7465763,7.3392546,,,,2018,payant:0;gratuit:37006;label-date:01/02/2003,label:musee de france,
 5110804,156704708,Musée du Cloître de Notre-Dame-en-Vaux,4,Rue Nicolas Durand,51000,Châlons-en-Champagne,France,fr,open,48.958076,4.3631782370533925,,,,2018,payant:818;gratuit:1604;label-date:23/02/2012,label:musee de france,

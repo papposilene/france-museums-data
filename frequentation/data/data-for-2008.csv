@@ -9,7 +9,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 6748213,486650189,Musée Tomi Ungerer,,Rue Joseph Massol,67073,Strasbourg,France,fr,open,48.58570885,7.755036989998281,,,,2008,payant:25921;gratuit:34592;label-date:18/04/2008,label:musee de france,
 6803601,685084692,Musée Gallo-Romain,,Rue des Capucins,68600,Biesheim,France,fr,open,48.039525,7.5455969,,,,2008,payant:866;gratuit:1950;label-date:01/02/2003,label:musee de france,
 6806603,47576073,Musée Bartholdi,30,Rue des Marchands,68000,Colmar,France,fr,open,48.0766092,7.357482163734775,,,,2008,payant:7062;gratuit:4246;label-date:01/02/2003,label:musee de france,
-6814901,,Musée Historique et Militaire de Huningue,,,,HUNINGE,France,fr,open,,,,,,2008,payant:375;gratuit:493;label-date:01/02/2003,label:musee de france,
+6814901,,Musée Historique et Militaire de Huningue,,,68330,HUNINGUE,France,fr,open,,,,,,2008,payant:375;gratuit:493;label-date:01/02/2003,label:musee de france,
 6816401,55263399,Musée du Vignoble et des Vins d'Alsace,1b,Grand'Rue,68240,Colmar-Ribeauvillé,France,fr,open,48.13509195,7.2883942443186704,,,,2008,payant:4703;gratuit:0;label-date:01/02/2003,label:musee de france,
 6822401,343385574,Musée des Beaux-Arts,,Rue Guillaume Tell,68100,Mulhouse,France,fr,open,47.7457898,7.3384212,,,,2008,payant:0;gratuit:15615;label-date:01/02/2003,label:musee de france,
 6822403,449007880,Musée National de l'Automobile - Collection Schlumpf,,Autodrome du Musée de l'Automobile,68100,Mulhouse,France,fr,open,47.7612848,7.327971551196445,,,,2008,payant:142277;gratuit:31912;label-date:01/02/2003,label:musee de france,

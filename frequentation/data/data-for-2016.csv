@@ -81,7 +81,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 5226902,489598272,Musée d'Art et d'Histoire,,Rue de la Coutellerie,52200,Langres,France,fr,open,47.8646223,5.333331557244431,,,,2016,payant:3666;gratuit:5643;label-date:01/02/2003,label:musee de france,
 5235301,5915925232,Musée de la Coutellerie,,Place Charles de Gaulle,52800,Nogent,France,fr,open,48.0275986,5.3411994,,,,2016,payant:3920;gratuit:1402;label-date:18/04/2002,label:musee de france,
 5244801,65662699,Musée Municipal,,Allée Jean-François Lescuyer,52100,Saint-Dizier,France,fr,open,48.63793305,4.948117698073352,,,,2016,payant:0;gratuit:5298;label-date:01/02/2003,label:musee de france,
-6814901,,Musée Historique et Militaire de Huningue,,,,HUNINGE,France,fr,open,,,,,,2016,payant:105;gratuit:220;label-date:01/02/2003,label:musee de france,
+6814901,,Musée Historique et Militaire de Huningue,,,68330,HUNINGUE,France,fr,open,,,,,,2016,payant:105;gratuit:220;label-date:01/02/2003,label:musee de france,
 6822404,449007880,Musée EDF Electropolis,,Autodrome du Musée de l'Automobile,68100,Mulhouse,France,fr,open,47.7612848,7.327971551196445,,,,2016,payant:31601;gratuit:11904;label-date:01/02/2003,label:musee de france,
 6827702,1138681,Musée du Dolder,16,Rue du Général de Gaulle,68340,Riquewihr,France,fr,open,48.166885,7.298560434089087,,,,2016,payant:1821;gratuit:524;label-date:01/02/2003,label:musee de france,
 6833401,218472174,Musée des Amis de Thann,,Rue du Parc,68470,Husseren-Wesserling,France,fr,open,47.885102,6.996263986308496,,,,2016,payant:485;gratuit:1222;label-date:01/02/2003,label:musee de france,
