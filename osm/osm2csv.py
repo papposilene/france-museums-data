@@ -109,7 +109,7 @@ def main():
                 if tag.get('k') == 'wikidata': entry['wikidata'] = tag.get('v')
                 if tag.get('k') == 'description': entry['description'] = tag.get('v')
 
-            entry['tags'] = 'osm:museum'
+            entry['tags'] = 'osm:museum;type:a classer'
 
             num_rows += 1
             # add to csv
@@ -159,7 +159,7 @@ def main():
                 if tag.get('k') == 'wikidata': entry['wikidata'] = tag.get('v')
                 if tag.get('k') == 'description': entry['description'] = tag.get('v')
 
-            entry['tags'] = 'osm:museum'
+            entry['tags'] = 'osm:museum;type:a classer'
 
             num_rows += 1
             # add to csv
