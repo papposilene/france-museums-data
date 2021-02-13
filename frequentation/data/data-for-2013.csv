@@ -488,7 +488,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 0129001,50265723,Musée du Vieux Pérouges,,Place du Tilleul,01800,Pérouges,France,fr,open,45.903389,5.179223907398141,,,,2013,payant:24150;gratuit:1810;label-date:01/02/2003,label:musee de france,
 0733401,5766476644,Musée des Vans,,Rue du Couvent,07140,Les Vans,France,fr,open,44.4044775,4.1345103,,,,2013,payant:340;gratuit:631;label-date:01/02/2003,label:musee de france,
 0731301,3801510568,Musée de la Batellerie du Rhône,,Rue du Musée,07340,Serrières,France,fr,closed,45.3139177,4.76996,,,,2013,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
-2621801,,Musée d'Art Sacré,,,,MOURS SAINT-EUSEBE,France,fr,open,,,,,,2013,payant:227;gratuit:598;label-date:01/02/2003,label:musee de france,
+2621801,,Musée d'Art Sacré,,,26540,MOURS-SAINT-EUSEBE,France,fr,open,,,,,,2013,payant:227;gratuit:598;label-date:01/02/2003,label:musee de france,
 7415201,7049144505,Musée Léon Marès,,Allée du Château,74330,Lovagny,France,fr,open,45.8988203,6.0391237,,,,2013,payant:16393;gratuit:0;label-date:01/02/2003,label:musee de france,
 3800601,291316822,Musée Jadis Allevard,,Musée Jadis Allevard,38580,Allevard,France,fr,open,45.3924546,6.0758962,,,,2013,payant:5569;gratuit:0;label-date:20/12/2005,label:musee de france,
 3801201,875500989,Musée Gallo-Romain,16,Kielenstraat,3700,Tongeren,België / Belgique / Belgien,be,open,50.7814543,5.465715540741746,,,,2013,payant:5334;gratuit:7507;label-date:01/02/2003,label:musee de france,

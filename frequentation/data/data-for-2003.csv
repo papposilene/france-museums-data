@@ -203,7 +203,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 0701001,4424167099,Musée Vivarois César Filhol,15,Rue Jean-Baptiste Bechetoille,07100,Annonay,France,fr,open,45.2408002,4.6680351,,,,2003,payant:916;gratuit:1097;label-date:01/02/2003,label:musee de france,
 0733401,5766476644,Musée des Vans,,Rue du Couvent,07140,Les Vans,France,fr,closed,44.4044775,4.1345103,,,,2003,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 0731601,68332777,Musée et Site Archéologiques,,Rue des Ruines,07130,Soyons,France,fr,open,44.8879269,4.850776295600438,,,,2003,payant:8000;gratuit:2000;label-date:01/02/2003,label:musee de france,
-2621801,,Musée d'Art Sacré,,,,MOURS SAINT-EUSEBE,France,fr,open,,,,,,2003,payant:565;gratuit:1912;label-date:01/02/2003,label:musee de france,
+2621801,,Musée d'Art Sacré,,,26540,MOURS-SAINT-EUSEBE,France,fr,open,,,,,,2003,payant:565;gratuit:1912;label-date:01/02/2003,label:musee de france,
 7405601,97313427,Musée Alpin,,Rue de la Tournette,74400,Chamonix-Mont-Blanc,France,fr,open,45.924025099999994,6.871257449784508,,,,2003,payant:18479;gratuit:5823;label-date:01/02/2003,label:musee de france,
 7428102,5537445278,Musée du Chablais,2,Rue Michaud,74200,Thonon-les-Bains,France,fr,open,46.3735929,6.4782107,,,,2003,payant:2072;gratuit:1063;label-date:01/02/2003,label:musee de france,
 3801201,875500989,Musée Gallo-Romain,16,Kielenstraat,3700,Tongeren,België / Belgique / Belgien,be,open,50.7814543,5.465715540741746,,,,2003,payant:2250;gratuit:1294;label-date:01/02/2003,label:musee de france,

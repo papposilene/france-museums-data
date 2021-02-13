@@ -1022,7 +1022,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 0138301,,Musée Louis Jourdan,,,,SAINT-PAUL-DE-VARAX,France,fr,closed,,,,,,2001,payant:0;gratuit:0,label:musee de france,
 0731601,68332777,Musée et Site Archéologiques,,Rue des Ruines,07130,Soyons,France,fr,open,44.8879269,4.850776295600438,,,,2001,payant:16667;gratuit:5644,label:musee de france,
 0732401,2793855499,Musée du Rhône,,,07270,Lamastre,France,fr,open,44.9980175,4.6108622,,,,2001,payant:7086;gratuit:2059,label:musee de france,
-2621801,,Musée d'Art Sacré,,,,MOURS SAINT-EUSEBE,France,fr,open,,,,,,2001,payant:2922;gratuit:0,label:musee de france,
+2621801,,Musée d'Art Sacré,,,26540,MOURS-SAINT-EUSEBE,France,fr,open,,,,,,2001,payant:2922;gratuit:0,label:musee de france,
 7401001,4891589833,Musée-château d'Annecy,,Rampe du Château,74000,Annecy,France,fr,open,45.8976583,6.1260527,,,,2001,payant:77568;gratuit:73568,label:musee de france,
 7428001,4460540284,Musée des Vallées de Thônes,1,Rue Blanche,74230,Thônes,France,fr,open,45.8816772,6.3240667,,,,2001,payant:2598;gratuit:365,label:musee de france,
 3819101,,Musée d'Huez et de l'Oisans,,,,ALPE D'HUEZ,France,fr,open,,,,,,2001,payant:3801;gratuit:329,label:musee de france,

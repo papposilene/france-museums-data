@@ -448,7 +448,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 0130501,6575792682,Musée Chintreuil,,Rue Borjon,01190,Pont-de-Vaux,France,fr,open,46.4303185,4.9377644,,,,2012,payant:5704;gratuit:1661;label-date:01/02/2003,label:musee de france,
 0701001,4424167099,Musée Vivarois César Filhol,15,Rue Jean-Baptiste Bechetoille,07100,Annonay,France,fr,open,45.2408002,4.6680351,,,,2012,payant:745;gratuit:2096;label-date:01/02/2003,label:musee de france,
 0716801,271465,Cité de Préhistoire,,,07150,Orgnac-l'Aven,France,fr,closed,44.3055791,4.4333406,,,,2012,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
-2621801,,Musée d'Art Sacré,,,,MOURS SAINT-EUSEBE,France,fr,open,,,,,,2012,payant:293;gratuit:521;label-date:01/02/2003,label:musee de france,
+2621801,,Musée d'Art Sacré,,,26540,MOURS-SAINT-EUSEBE,France,fr,open,,,,,,2012,payant:293;gratuit:521;label-date:01/02/2003,label:musee de france,
 2628101,61078917,Musée International de la Chaussure,,Rue Saint-Just,26100,Romans-sur-Isère,France,fr,open,45.04446045,5.054248261970345,,,,2012,payant:18999;gratuit:18660;label-date:01/02/2003,label:musee de france,
 7422501,7056652026,"Notre histoire, Musée de Rumilly",,Place de la Manufacture,74150,Rumilly,France,fr,closed,45.8619761,5.9480724,,,,2012,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 7428102,5537445278,Musée du Chablais,2,Rue Michaud,74200,Thonon-les-Bains,France,fr,open,46.3735929,6.4782107,,,,2012,payant:3636;gratuit:2272;label-date:01/02/2003,label:musee de france,

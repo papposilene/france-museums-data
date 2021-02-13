@@ -625,7 +625,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 0701001,4424167099,Musée Vivarois César Filhol,15,Rue Jean-Baptiste Bechetoille,07100,Annonay,France,fr,open,45.2408002,4.6680351,,,,2002,payant:1310;gratuit:1714,label:musee de france,
 0716801,271465,Cité de Préhistoire,,,07150,Orgnac-l'Aven,France,fr,open,44.3055791,4.4333406,,,,2002,payant:138817;gratuit:0,label:musee de france,
 0731601,68332777,Musée et Site Archéologiques,,Rue des Ruines,07130,Soyons,France,fr,open,44.8879269,4.850776295600438,,,,2002,payant:11410;gratuit:5590,label:musee de france,
-2621801,,Musée d'Art Sacré,,,,MOURS SAINT-EUSEBE,France,fr,open,,,,,,2002,payant:3165;gratuit:0,label:musee de france,
+2621801,,Musée d'Art Sacré,,,26540,MOURS-SAINT-EUSEBE,France,fr,open,,,,,,2002,payant:3165;gratuit:0,label:musee de france,
 7428001,4460540284,Musée des Vallées de Thônes,1,Rue Blanche,74230,Thônes,France,fr,open,45.8816772,6.3240667,,,,2002,payant:2052;gratuit:1091,label:musee de france,
 7428102,5537445278,Musée du Chablais,2,Rue Michaud,74200,Thonon-les-Bains,France,fr,open,46.3735929,6.4782107,,,,2002,payant:2813;gratuit:0,label:musee de france,
 3801201,875500989,Musée Gallo-Romain,16,Kielenstraat,3700,Tongeren,België / Belgique / Belgien,be,open,50.7814543,5.465715540741746,,,,2002,payant:3215;gratuit:1768,label:musee de france,

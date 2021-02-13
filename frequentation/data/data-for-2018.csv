@@ -948,7 +948,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 0319001,77184178,Musée Anne de Beaujeu,,Rue des Fausses Braies,03000,Moulins,France,fr,open,46.56717035,3.3300616836759867,,,,2018,payant:18081;gratuit:11972;label-date:01/02/2003,label:musee de france,
 0731301,3801510568,Musée de la Batellerie du Rhône,,Rue du Musée,07340,Serrières,France,fr,open,45.3139177,4.76996,,,,2018,payant:619;gratuit:174;label-date:01/02/2003,label:musee de france,
 2611301,145189774,Musée d'Histoire et d'Archéologie,2,Rue Noé,56000,Vannes,France,fr,open,47.6568685,-2.7579838224637703,,,,2018,payant:1011;gratuit:5670;label-date:01/02/2003,label:musee de france,
-2621801,,Musée d'Art Sacré,,,,MOURS SAINT-EUSEBE,France,fr,open,,,,,,2018,payant:100;gratuit:250;label-date:01/02/2003,label:musee de france,
+2621801,,Musée d'Art Sacré,,,26540,MOURS-SAINT-EUSEBE,France,fr,open,,,,,,2018,payant:100;gratuit:250;label-date:01/02/2003,label:musee de france,
 2628101,61078917,Musée International de la Chaussure,,Rue Saint-Just,26100,Romans-sur-Isère,France,fr,open,45.04446045,5.054248261970345,,,,2018,payant:13228;gratuit:9734;label-date:01/02/2003,label:musee de france,
 3800601,291316822,Musée Jadis Allevard,,Musée Jadis Allevard,38580,Allevard,France,fr,open,45.3924546,6.0758962,,,,2018,payant:1485;gratuit:1119;label-date:20/12/2005,label:musee de france,
 3818503,35095625,Muséum d'Histoire Naturelle de Grenoble,1,Rue Dolomieu,38000,Grenoble,France,fr,open,45.188011849999995,5.7352090917872225,,,,2018,payant:20799;gratuit:84025;label-date:06/01/2002,label:musee de france,

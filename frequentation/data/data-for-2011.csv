@@ -222,7 +222,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 0113701,700244363,Musée Départemental du Revermont,,Rue Principale,01370,Bourg-en-Bresse,France,fr,open,46.30032775,5.389046761156977,,,,2011,payant:2408;gratuit:8809;label-date:01/02/2003,label:musee de france,
 0718601,8313178925,Musée de la terre ardéchoise,,Voie Douce de la Payre,07000,Privas,France,fr,closed,44.7196687,4.6011043,,,,2011,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 2614601,133910375,Château de Grignan,,Rue Montant au Château,26230,Grignan,France,fr,open,44.418758600000004,4.908919569000301,,,,2011,payant:89271;gratuit:65294;label-date:01/02/2003,label:musee de france,
-2621801,,Musée d'Art Sacré,,,,MOURS SAINT-EUSEBE,France,fr,open,,,,,,2011,payant:230;gratuit:1050;label-date:01/02/2003,label:musee de france,
+2621801,,Musée d'Art Sacré,,,26540,MOURS-SAINT-EUSEBE,France,fr,open,,,,,,2011,payant:230;gratuit:1050;label-date:01/02/2003,label:musee de france,
 2628101,61078917,Musée International de la Chaussure,,Rue Saint-Just,26100,Romans-sur-Isère,France,fr,open,45.04446045,5.054248261970345,,,,2011,payant:19097;gratuit:14318;label-date:01/02/2003,label:musee de france,
 7415201,7049144505,Musée Léon Marès,,Allée du Château,74330,Lovagny,France,fr,open,45.8988203,6.0391237,,,,2011,payant:15123;gratuit:4934;label-date:01/02/2003,label:musee de france,
 3818503,35095625,Muséum d'Histoire Naturelle de Grenoble,1,Rue Dolomieu,38000,Grenoble,France,fr,open,45.188011849999995,5.7352090917872225,,,,2011,payant:14672;gratuit:52318;label-date:06/01/2002,label:musee de france,

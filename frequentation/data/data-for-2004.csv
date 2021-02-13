@@ -907,7 +907,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 0731301,3801510568,Musée de la Batellerie du Rhône,,Rue du Musée,07340,Serrières,France,fr,open,45.3139177,4.76996,,,,2004,payant:810;gratuit:0;label-date:01/02/2003,label:musee de france,
 2611301,145189774,Musée d'Histoire et d'Archéologie,2,Rue Noé,56000,Vannes,France,fr,open,47.6568685,-2.7579838224637703,,,,2004,payant:2819;gratuit:1187;label-date:01/02/2003,label:musee de france,
 2619801,3847795321,Musée du Château des Adhémars,,Place Saint-Martin,26200,Montélimar,France,fr,open,44.5622891,4.7528529,,,,2004,payant:11507;gratuit:0;label-date:30/01/2003,label:musee de france,
-2621801,,Musée d'Art Sacré,,,,MOURS SAINT-EUSEBE,France,fr,open,,,,,,2004,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
+2621801,,Musée d'Art Sacré,,,26540,MOURS-SAINT-EUSEBE,France,fr,open,,,,,,2004,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 2628101,61078917,Musée International de la Chaussure,,Rue Saint-Just,26100,Romans-sur-Isère,France,fr,open,45.04446045,5.054248261970345,,,,2004,payant:19454;gratuit:28242;label-date:01/02/2003,label:musee de france,
 7415201,7049144505,Musée Léon Marès,,Allée du Château,74330,Lovagny,France,fr,open,45.8988203,6.0391237,,,,2004,payant:21664;gratuit:0;label-date:01/02/2003,label:musee de france,
 7428102,5537445278,Musée du Chablais,2,Rue Michaud,74200,Thonon-les-Bains,France,fr,open,46.3735929,6.4782107,,,,2004,payant:1721;gratuit:1570;label-date:01/02/2003,label:musee de france,

@@ -493,7 +493,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 0319002,,Centre National du Costume de Scène et de la Scénographie,,,,MOULINS,France,fr,open,,,,,,2017,payant:56218;gratuit:12580;label-date:23/10/2009,label:musee de france,
 0331002,90587179,Musée des Arts D'Afrique et D'Asie,16,Avenue Thermale,03200,Vichy,France,fr,open,46.128228,3.419954892380618,,,,2017,payant:1200;gratuit:3600;label-date:01/02/2003,label:musee de france,
 1501402,6580283562,Musée d'Art et d'Archéologie,,Rue des Carmes,15000,Aurillac,France,fr,open,44.9253069,2.4420708,,,,2017,payant:1448;gratuit:15107;label-date:01/02/2003,label:musee de france,
-2621801,,Musée d'Art Sacré,,,,MOURS SAINT-EUSEBE,France,fr,open,,,,,,2017,payant:150;gratuit:60;label-date:01/02/2003,label:musee de france,
+2621801,,Musée d'Art Sacré,,,26540,MOURS-SAINT-EUSEBE,France,fr,open,,,,,,2017,payant:150;gratuit:60;label-date:01/02/2003,label:musee de france,
 2628101,61078917,Musée International de la Chaussure,,Rue Saint-Just,26100,Romans-sur-Isère,France,fr,open,45.04446045,5.054248261970345,,,,2017,payant:11142;gratuit:14294;label-date:01/02/2003,label:musee de france,
 2632401,75706507,Musée d'Archéologie Tricastine,,Passage Fanjoux,26130,Saint-Paul-Trois-Châteaux,France,fr,open,44.34948825,4.768113979626141,,,,2017,payant:2150;gratuit:6239;label-date:01/02/2003,label:musee de france,
 2636401,,Musée du site Préhistorique,,,,VASSIEUX-EN-VERCORS,France,fr,open,,,,,,2017,payant:10235;gratuit:0;label-date:01/02/2003,label:musee de france,

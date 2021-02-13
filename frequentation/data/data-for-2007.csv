@@ -248,7 +248,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 0733401,5766476644,Musée des Vans,,Rue du Couvent,07140,Les Vans,France,fr,closed,44.4044775,4.1345103,,,,2007,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 0731301,3801510568,Musée de la Batellerie du Rhône,,Rue du Musée,07340,Serrières,France,fr,open,45.3139177,4.76996,,,,2007,payant:928;gratuit:813;label-date:01/02/2003,label:musee de france,
 2611301,145189774,Musée d'Histoire et d'Archéologie,2,Rue Noé,56000,Vannes,France,fr,open,47.6568685,-2.7579838224637703,,,,2007,payant:720;gratuit:1733;label-date:01/02/2003,label:musee de france,
-2621801,,Musée d'Art Sacré,,,,MOURS SAINT-EUSEBE,France,fr,open,,,,,,2007,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
+2621801,,Musée d'Art Sacré,,,26540,MOURS-SAINT-EUSEBE,France,fr,open,,,,,,2007,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 2628101,61078917,Musée International de la Chaussure,,Rue Saint-Just,26100,Romans-sur-Isère,France,fr,open,45.04446045,5.054248261970345,,,,2007,payant:19649;gratuit:17708;label-date:01/02/2003,label:musee de france,
 2636401,,Musée du site Préhistorique,,,,VASSIEUX-EN-VERCORS,France,fr,closed,,,,,,2007,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 7428102,5537445278,Musée du Chablais,2,Rue Michaud,74200,Thonon-les-Bains,France,fr,open,46.3735929,6.4782107,,,,2007,payant:1194;gratuit:1441;label-date:01/02/2003,label:musee de france,

@@ -702,7 +702,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 0144301,,Musée de la Dombes,,,,VILLARS DE LA DOMBES,France,fr,closed,,,,,,2014,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 0701001,4424167099,Musée Vivarois César Filhol,15,Rue Jean-Baptiste Bechetoille,07100,Annonay,France,fr,open,45.2408002,4.6680351,,,,2014,payant:410;gratuit:1681;label-date:01/02/2003,label:musee de france,
 0731601,68332777,Musée et Site Archéologiques,,Rue des Ruines,07130,Soyons,France,fr,open,44.8879269,4.850776295600438,,,,2014,payant:12400;gratuit:1782;label-date:01/02/2003,label:musee de france,
-2621801,,Musée d'Art Sacré,,,,MOURS SAINT-EUSEBE,France,fr,open,,,,,,2014,payant:568;gratuit:0;label-date:01/02/2003,label:musee de france,
+2621801,,Musée d'Art Sacré,,,26540,MOURS-SAINT-EUSEBE,France,fr,open,,,,,,2014,payant:568;gratuit:0;label-date:01/02/2003,label:musee de france,
 3800601,291316822,Musée Jadis Allevard,,Musée Jadis Allevard,38580,Allevard,France,fr,open,45.3924546,6.0758962,,,,2014,payant:2859;gratuit:3051;label-date:20/12/2005,label:musee de france,
 3805301,120266165,Musée de Bourgoin-Jallieu,17,Rue Victor Hugo,38300,Bourgoin-Jallieu,France,fr,open,45.586719,5.279306259049774,,,,2014,payant:2991;gratuit:6088;label-date:01/02/2003,label:musee de france,
 3813001,615739719,Musée Hector Berlioz,69,Rue de la République,38260,La Côte-Saint-André,France,fr,open,45.3933564,5.2612214,,,,2014,payant:0;gratuit:15020;label-date:01/02/2003,label:musee de france,

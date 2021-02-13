@@ -677,7 +677,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 0119201,1357668479,Musée Archéologique,,Place de l'Église,01580,Izernore,France,fr,open,46.220134,5.5548124,,,,2005,payant:0;gratuit:386;label-date:01/02/2003,label:musee de france,
 0128301,1536396604,Musée du Peigne et de la Plasturgie,,Rue Capitaine Montreal,01100,Veyziat,France,fr,open,46.2607789,5.6465246,,,,2005,payant:2396;gratuit:1813;label-date:01/02/2003,label:musee de france,
 0718601,8313178925,Musée de la terre ardéchoise,,Voie Douce de la Payre,07000,Privas,France,fr,closed,44.7196687,4.6011043,,,,2005,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
-2621801,,Musée d'Art Sacré,,,,MOURS SAINT-EUSEBE,France,fr,open,,,,,,2005,payant:1884;gratuit:290;label-date:01/02/2003,label:musee de france,
+2621801,,Musée d'Art Sacré,,,26540,MOURS-SAINT-EUSEBE,France,fr,open,,,,,,2005,payant:1884;gratuit:290;label-date:01/02/2003,label:musee de france,
 2632401,75706507,Musée d'Archéologie Tricastine,,Passage Fanjoux,26130,Saint-Paul-Trois-Châteaux,France,fr,open,44.34948825,4.768113979626141,,,,2005,payant:1724;gratuit:898;label-date:01/02/2003,label:musee de france,
 7415201,7049144505,Musée Léon Marès,,Allée du Château,74330,Lovagny,France,fr,open,45.8988203,6.0391237,,,,2005,payant:20832;gratuit:0;label-date:01/02/2003,label:musee de france,
 3801201,875500989,Musée Gallo-Romain,16,Kielenstraat,3700,Tongeren,België / Belgique / Belgien,be,open,50.7814543,5.465715540741746,,,,2005,payant:2964;gratuit:2444;label-date:01/02/2003,label:musee de france,

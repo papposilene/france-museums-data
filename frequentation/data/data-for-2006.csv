@@ -226,7 +226,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 8400701,83784740,Muséum d'Histoire Naturelle Esprit Requien,27,Rue de la République,84000,Avignon,France,fr,open,43.9458915,4.806026218689352,,,,2006,payant:0;gratuit:14011;label-date:06/01/2002,label:musee de france,
 8408701,219528069,Musée Municipal,,Rue Madeleine Roch,84100,Orange,France,fr,open,44.136139400000005,4.807732098364788,,,,2006,payant:48004;gratuit:0;label-date:01/02/2003,label:musee de france,
 0130501,6575792682,Musée Chintreuil,,Rue Borjon,01190,Pont-de-Vaux,France,fr,open,46.4303185,4.9377644,,,,2006,payant:6093;gratuit:505;label-date:01/02/2003,label:musee de france,
-2621801,,Musée d'Art Sacré,,,,MOURS SAINT-EUSEBE,France,fr,open,,,,,,2006,payant:502;gratuit:1300;label-date:01/02/2003,label:musee de france,
+2621801,,Musée d'Art Sacré,,,26540,MOURS-SAINT-EUSEBE,France,fr,open,,,,,,2006,payant:502;gratuit:1300;label-date:01/02/2003,label:musee de france,
 2636401,,Musée du site Préhistorique,,,,VASSIEUX-EN-VERCORS,France,fr,open,,,,,,2006,payant:15548;gratuit:0;label-date:01/02/2003,label:musee de france,
 7401001,4891589833,Musée-château d'Annecy,,Rampe du Château,74000,Annecy,France,fr,open,45.8976583,6.1260527,,,,2006,payant:42274;gratuit:46176;label-date:01/02/2003,label:musee de france,
 3851601,192104327,Musée Hébert,,Musée Hébert,38700,La Tronche,France,fr,open,45.2057094,5.7489167,,,,2006,payant:0;gratuit:16450;label-date:01/02/2003,label:musee de france,
