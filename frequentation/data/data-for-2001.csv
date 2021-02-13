@@ -729,7 +729,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 5744801,253993536,Musée Départemental du Sel,,D 38A,57630,Marsal,France,fr,open,48.788486,6.6057743,,,,2001,payant:7950;gratuit:1274,label:musee de france,
 8841301,,Musée Pierre Noël - Musée de la Vie dans les Hautes-Vosges,,,,SAINT-DIE-DES-VOSGES,France,fr,open,,,,,,2001,payant:0;gratuit:24265,label:musee de france,
 9720901,4807601528,Musée Départemental d'Archéologie Précolombienne et de Préhistoire de la Martinique,10,Boulevard Général de Gaulle,97200,Fort-de-France,France,fr,open,14.6063988,-61.0657667,,,,2001,payant:10900;gratuit:0,label:musee de france,
-9720903,,Muséum d'Histoire Naturelle,,,,FORT-DE-FRANCE TERRE-SAINVILLE,France,fr,open,,,,,,2001,payant:212;gratuit:391,label:musee de france,
+9720903,,Muséum d'Histoire Naturelle,,,,FORT-DE-FRANCE,France,fr,open,,,,,,2001,payant:212;gratuit:391,label:musee de france,
 1220301,2242124020,Musée Municipal d'archéologie,2,Avenue François Galtier,12250,Roquefort-sur-Soulzon,France,fr,open,43.9745977,2.9927119,,,,2001,payant:0;gratuit:3150,label:musee de france,
 1225501,132379474,Musée du Charroi Rural et de l'Artisanat Traditionnel,,Route de Valence à Salmiech,12120,Salmiech,France,fr,open,44.179696,2.5702957238739876,,,,2001,payant:0;gratuit:2432,label:musee de france,
 3201301,65470495,Musée des Jacobins,,Rue Daumesnil,32000,Auch,France,fr,open,43.64730755,0.5875967260305804,,,,2001,payant:5871;gratuit:4566,label:musee de france,

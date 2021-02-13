@@ -298,7 +298,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 8816001,100809875,Musée Départemental d'Art Ancien et Contemporain,1,Place Lagarde,88000,Épinal,France,fr,open,48.1727635,6.446326185692797,,,,2002,payant:20237;gratuit:0,label:musee de france,
 8838301,5390940587,Musée Charles de Bruyères,,Rue Charles de Gaulle,88200,Remiremont,France,fr,open,48.0161212,6.593241,,,,2002,payant:1570;gratuit:6066;label-date:11/08/2002,label:musee de france,
 9720901,4807601528,Musée Départemental d'Archéologie Précolombienne et de Préhistoire de la Martinique,10,Boulevard Général de Gaulle,97200,Fort-de-France,France,fr,open,14.6063988,-61.0657667,,,,2002,payant:7396;gratuit:1524,label:musee de france,
-9720903,,Muséum d'Histoire Naturelle,,,,FORT-DE-FRANCE TERRE-SAINVILLE,France,fr,open,,,,,,2002,payant:279;gratuit:400,label:musee de france,
+9720903,,Muséum d'Histoire Naturelle,,,,FORT-DE-FRANCE,France,fr,open,,,,,,2002,payant:279;gratuit:400,label:musee de france,
 0916001,7228420483,Musée du Textile et du Peigne en Corne,65,Rue Jean Canal,09300,Lavelanet,France,fr,open,42.9296646,1.8454676,,,,2002,payant:3758;gratuit:230,label:musee de france,
 1220301,2242124020,Musée Municipal d'archéologie,2,Avenue François Galtier,12250,Roquefort-sur-Soulzon,France,fr,open,43.9745977,2.9927119,,,,2002,payant:0;gratuit:2970,label:musee de france,
 3201301,65470495,Musée des Jacobins,,Rue Daumesnil,32000,Auch,France,fr,open,43.64730755,0.5875967260305804,,,,2002,payant:6461;gratuit:4854,label:musee de france,
