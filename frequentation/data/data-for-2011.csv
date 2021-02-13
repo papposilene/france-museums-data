@@ -939,7 +939,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 1300102,88614075,Musée du Parlement de Provence et du Vieil Aix,,Rue des Bremondis,13626,Aix-en-Provence,France,fr,open,43.530754849999994,5.447239307551794,,,,2011,payant:0;gratuit:15911;label-date:01/02/2003,label:musee de france,
 1300106,,Musée Paul Arbaud,,,,AIX-EN-PROVENCE,France,fr,closed,,,,,,2011,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 1300404,,Muséon Arlaten,,,,ARLES,France,fr,open,,,,,,2011,payant:0;gratuit:5076;label-date:01/02/2003,label:musee de france,
-1300501,,Musée de la Légion Etrangère,,,,AUBAGNE/PUYLOUBIER,France,fr,open,,,,,,2011,payant:0;gratuit:25304;label-date:14/01/2011,label:musee de france,
+1300501,,Musée de la Légion Etrangère,,,,PUYLOUBIER,France,fr,open,,,,,,2011,payant:0;gratuit:25304;label-date:14/01/2011,label:musee de france,
 1302201,,Musée Municipal Méditerranéen de Cassis A.T.P.,,,,CASSIS,France,fr,open,,,,,,2011,payant:33;gratuit:7925;label-date:01/02/2003,label:musee de france,
 1305502,,Musée du Vieux Marseille,,,,MARSEILLE,France,fr,closed,,,,,,2011,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 1305503,154561855,Musée Borély,,Avenue Clot Bey,13008,Marseille,France,fr,closed,43.2573485,5.381981791666665,,,,2011,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,

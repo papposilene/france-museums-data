@@ -1144,7 +1144,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 1300102,88614075,Musée du Parlement de Provence et du Vieil Aix,,Rue des Bremondis,13626,Aix-en-Provence,France,fr,open,43.530754849999994,5.447239307551794,,,,2018,payant:4734;gratuit:8653;label-date:01/02/2003,label:musee de france,
 1300103,34505703,Musée des Tapisseries,,Rue Cardinale,13626,Aix-en-Provence,France,fr,open,43.5254678,5.4526102,,,,2018,payant:3243;gratuit:11728;label-date:01/02/2003,label:musee de france,
 1300104,34505703,Musée Granet,,Rue Cardinale,13626,Aix-en-Provence,France,fr,open,43.5254678,5.4526102,,,,2018,payant:108111;gratuit:68951;label-date:01/02/2003,label:musee de france,
-1300501,,Musée de la Légion Etrangère,,,,AUBAGNE/PUYLOUBIER,France,fr,open,,,,,,2018,payant:0;gratuit:26003;label-date:14/01/2011,label:musee de france,
+1300501,,Musée de la Légion Etrangère,,,,PUYLOUBIER,France,fr,open,,,,,,2018,payant:0;gratuit:26003;label-date:14/01/2011,label:musee de france,
 1302201,,Musée Municipal Méditerranéen de Cassis A.T.P.,,,,CASSIS,France,fr,open,,,,,,2018,payant:7;gratuit:5310;label-date:01/02/2003,label:musee de france,
 1302801,76026764,Musée Ciotaden,,Place Baragnon,13260,Cassis,France,fr,open,43.21439515,5.539950665215991,,,,2018,payant:1621;gratuit:1864;label-date:01/02/2003,label:musee de france,
 1305504,178808268,Musée des Docks Romains,,Place Vivaux,13002,Marseille,France,fr,open,43.29679,5.368048871902269,,,,2018,payant:0;gratuit:13870;label-date:01/02/2003,label:musee de france,

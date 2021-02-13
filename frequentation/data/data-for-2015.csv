@@ -1150,7 +1150,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 0615501,88040667,"Musée Magnelli, Musée de la Céramique",,Place de la Libération,06220,Vallauris,France,fr,open,43.580016,7.0532145,,,,2015,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 1300101,34505703,Musée du Pavillon de Vendôme,,Rue Cardinale,13626,Aix-en-Provence,France,fr,open,43.5254678,5.4526102,,,,2015,payant:5274;gratuit:11739;label-date:01/02/2003,label:musee de france,
 1300105,88614075,Musée- Atelier de Paul Cézanne,,Rue des Bremondis,13626,Aix-en-Provence,France,fr,open,43.530754849999994,5.447239307551794,,,,2015,payant:60651;gratuit:8304;label-date:01/02/2003,label:musee de france,
-1300501,,Musée de la Légion Etrangère,,,,AUBAGNE/PUYLOUBIER,France,fr,open,,,,,,2015,payant:0;gratuit:18267;label-date:14/01/2011,label:musee de france,
+1300501,,Musée de la Légion Etrangère,,,,PUYLOUBIER,France,fr,open,,,,,,2015,payant:0;gratuit:18267;label-date:14/01/2011,label:musee de france,
 1305201,747139074,Musée Frédéric Mistral,,Avenue Lamartine,13910,Maillane,France,fr,open,43.8314021,4.7826929,,,,2015,payant:1621;gratuit:862;label-date:01/02/2003,label:musee de france,
 1305507,4945719803,Musée d'Archéologie Méditerranéenne,,Rue de la Vieille Tour,13000,Marseille,France,fr,open,43.3005836,5.3682814,,,,2015,payant:52124;gratuit:62920;label-date:01/02/2003,label:musee de france,
 1305503,154561855,Musée Borély,,Avenue Clot Bey,13008,Marseille,France,fr,open,43.2573485,5.381981791666665,,,,2015,payant:15032;gratuit:25576;label-date:01/02/2003,label:musee de france,

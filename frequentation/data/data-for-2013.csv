@@ -694,7 +694,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 1300103,34505703,Musée des Tapisseries,,Rue Cardinale,13626,Aix-en-Provence,France,fr,open,43.5254678,5.4526102,,,,2013,payant:4825;gratuit:15731;label-date:01/02/2003,label:musee de france,
 1300404,,Muséon Arlaten,,,,ARLES,France,fr,closed,,,,,,2013,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 1300402,102077401,Musée Camarguais,,Rue Yvan Audouard,13200,Pont-de-Crau,France,fr,closed,43.673154249999996,4.639065631892316,,,,2013,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
-1300501,,Musée de la Légion Etrangère,,,,AUBAGNE/PUYLOUBIER,France,fr,closed,,,,,,2013,payant:0;gratuit:0;label-date:14/01/2011,label:musee de france,
+1300501,,Musée de la Légion Etrangère,,,,PUYLOUBIER,France,fr,closed,,,,,,2013,payant:0;gratuit:0;label-date:14/01/2011,label:musee de france,
 1301104,,Fondation Louis Jou,,,,LES-BAUX-DE-PROVENCE,France,fr,open,,,,,,2013,payant:2300;gratuit:600;label-date:01/02/2003,label:musee de france,
 1305508,68976388,"Musée d'Arts Africains, Océaniens, Amérindiens",,Rue Édouard Stéphan,13004,Marseille,France,fr,open,43.304596450000005,5.394039596087057,,,,2013,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 1305502,,Musée du Vieux Marseille,,,,MARSEILLE,France,fr,closed,,,,,,2013,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,

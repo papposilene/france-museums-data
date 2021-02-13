@@ -196,7 +196,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 0616301,769232481,Musée Départemental des Merveilles,,Avenue du 16 Septembre 1947,06430,Tende,France,fr,open,44.0902585,7.5923772,,,,2012,payant:0;gratuit:33460;label-date:01/02/2003,label:musee de france,
 0615502,88040667,Musée Picasso la guerre et la paix à Vallauris,,Place de la Libération,06220,Vallauris,France,fr,open,43.580016,7.0532145,,,,2012,payant:19793;gratuit:11213;label-date:06/01/2002,label:musee de france,
 1300107,86887992,Muséum d'Histoire Naturelle,166,Avenue Jean Monnet,13090,Aix-en-Provence,France,fr,open,43.5333952,5.4236948895737775,,,,2012,payant:12052;gratuit:26246;label-date:06/01/2002,label:musee de france,
-1300501,,Musée de la Légion Etrangère,,,,AUBAGNE/PUYLOUBIER,France,fr,open,,,,,,2012,payant:0;gratuit:11876;label-date:14/01/2011,label:musee de france,
+1300501,,Musée de la Légion Etrangère,,,,PUYLOUBIER,France,fr,open,,,,,,2012,payant:0;gratuit:11876;label-date:14/01/2011,label:musee de france,
 1301103,446697908,Musée d'Histoire et d'Archéologie des Baux-de-Provence,,Place Louis Jou,13520,Les Baux-de-Provence,France,fr,open,43.74474145,4.794991401666666,,,,2012,payant:229250;gratuit:23750;label-date:01/02/2003,label:musee de france,
 1301104,,Fondation Louis Jou,,,,LES-BAUX-DE-PROVENCE,France,fr,closed,,,,,,2012,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 1305201,747139074,Musée Frédéric Mistral,,Avenue Lamartine,13910,Maillane,France,fr,open,43.8314021,4.7826929,,,,2012,payant:1469;gratuit:2167;label-date:01/02/2003,label:musee de france,

@@ -727,7 +727,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 0608802,2264574278,Musée d'Art et d'Histoire,,Fossés de la Citadelle,06230,Villefranche-sur-Mer,France,fr,open,43.701601,7.3106059,,,,2017,payant:19759;gratuit:33776;label-date:01/02/2003,label:musee de france,
 0615502,88040667,Musée Picasso la guerre et la paix à Vallauris,,Place de la Libération,06220,Vallauris,France,fr,open,43.580016,7.0532145,,,,2017,payant:13516;gratuit:6714;label-date:06/01/2002,label:musee de france,
 1300101,34505703,Musée du Pavillon de Vendôme,,Rue Cardinale,13626,Aix-en-Provence,France,fr,open,43.5254678,5.4526102,,,,2017,payant:5488;gratuit:16006;label-date:01/02/2003,label:musee de france,
-1300501,,Musée de la Légion Etrangère,,,,AUBAGNE/PUYLOUBIER,France,fr,open,,,,,,2017,payant:0;gratuit:20164;label-date:14/01/2011,label:musee de france,
+1300501,,Musée de la Légion Etrangère,,,,PUYLOUBIER,France,fr,open,,,,,,2017,payant:0;gratuit:20164;label-date:14/01/2011,label:musee de france,
 1303801,,Musée Alphonse Daudet,,,,FONTVIEILLE,France,fr,open,,,,,,2017,payant:2915;gratuit:610;label-date:01/02/2003,label:musee de france,
 1320401,68976388,Musée des Beaux-Arts de Marseille,,Rue Édouard Stéphan,13004,Marseille,France,fr,open,43.304596450000005,5.394039596087057,,,,2017,payant:15384;gratuit:31163;label-date:06/01/2002,label:musee de france,
 1305502,,Musée du Vieux Marseille,,,,MARSEILLE,France,fr,closed,,,,,,2017,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,

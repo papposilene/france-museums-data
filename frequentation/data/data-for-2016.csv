@@ -918,7 +918,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 0608806,1398474011,Muséum d'Histoire Naturelle,60,Boulevard Risso,06300,Nice,France,fr,open,43.7019475,7.2797089,,,,2016,payant:1426;gratuit:2895;label-date:01/02/2003,label:musee de france,
 1300402,102077401,Musée Camarguais,,Rue Yvan Audouard,13200,Pont-de-Crau,France,fr,open,43.673154249999996,4.639065631892316,,,,2016,payant:8462;gratuit:4400;label-date:01/02/2003,label:musee de france,
 1300404,,Muséon Arlaten,,,,ARLES,France,fr,open,,,,,,2016,payant:0;gratuit:3062;label-date:01/02/2003,label:musee de france,
-1300501,,Musée de la Légion Etrangère,,,,AUBAGNE/PUYLOUBIER,France,fr,open,,,,,,2016,payant:0;gratuit:31969;label-date:14/01/2011,label:musee de france,
+1300501,,Musée de la Légion Etrangère,,,,PUYLOUBIER,France,fr,open,,,,,,2016,payant:0;gratuit:31969;label-date:14/01/2011,label:musee de france,
 1301104,,Fondation Louis Jou,,,,LES-BAUX-DE-PROVENCE,France,fr,open,,,,,,2016,payant:0;gratuit:1000;label-date:01/02/2003,label:musee de france,
 1305509,2365711963,Musée de la Mode,,Avenue Clot Bey,13008,Marseille,France,fr,open,43.2572605,5.3820342,,,,2016,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 1305601,99114044,Musée Ziem,,Boulevard du 14 Juillet,13500,Martigues,France,fr,open,43.408675849999995,5.054218764027318,,,,2016,payant:0;gratuit:14029;label-date:01/02/2003,label:musee de france,
