@@ -1,4 +1,4 @@
-id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,year,stats,tags,description,wikidata
+id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,email,year,stats,tags,description,wikidata
 8212102,127805191,Musée Ingres,,Rue Marie Lafon,82000,Montauban,France,fr,open,44.01688865,1.3514607739557976,,,,2009,payant:25548;gratuit:32024;label-date:06/01/2002,label:musee de france,
 5901401,626582331,Musée Théophile Jouglet,,Rue des Incas,59300,Valenciennes,France,fr,open,50.3575723,3.5306353,,,,2009,payant:0;gratuit:2014;label-date:01/02/2003,label:musee de france,
 5906701,34518055,Musée du Mont-de-Piété,,Contour de l'Église,59380,Bergues,France,fr,open,50.969149200000004,2.430273758659693,,,,2009,payant:1409;gratuit:925;label-date:01/02/2003,label:musee de france,

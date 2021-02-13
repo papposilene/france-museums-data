@@ -1,4 +1,4 @@
-id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,year,stats,tags,description,wikidata
+id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,email,year,stats,tags,description,wikidata
 6718001,48609011,Musée Historique,,Rue du Sel,67500,Haguenau,France,fr,open,48.81306145,7.791507522753506,,,,2007,payant:2501;gratuit:3351;label-date:01/02/2003,label:musee de france,
 6748207,22290183,Musée Historique,2,Rue du Vieux Marché aux Poissons,67065,Strasbourg,France,fr,open,48.579946,7.750767983802181,,,,2007,payant:16263;gratuit:33102;label-date:01/02/2003,label:musee de france,
 6748209,40220422,Musée d'Art Moderne et Contemporain de Strasbourg,,Place Hans-Jean Arp,67003,Strasbourg,France,fr,open,48.5794799,7.736099647631168,,,,2007,payant:38379;gratuit:84672;label-date:01/02/2003,label:musee de france,

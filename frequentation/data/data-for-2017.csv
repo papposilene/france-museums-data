@@ -1,4 +1,4 @@
-id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,year,stats,tags,description,wikidata
+id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,email,year,stats,tags,description,wikidata
 0129001,50265723,Musée du Vieux Pérouges,,Place du Tilleul,01800,Pérouges,France,fr,open,45.903389,5.179223907398141,,,,2017,payant:11564;gratuit:1006;label-date:01/02/2003,label:musee de france,
 0134301,148365323,Musée de la Bresse - Domaine des Planons,,Chemin des Seiglières,01380,Saint-Cyr-sur-Menthon,France,fr,open,46.28177465,4.98246243180243,,,,2017,payant:9852;gratuit:7173;label-date:01/02/2003,label:musee de france,
 0113701,700244363,Musée Départemental du Revermont,,Rue Principale,01370,Bourg-en-Bresse,France,fr,open,46.30032775,5.389046761156977,,,,2017,payant:2661;gratuit:8032;label-date:01/02/2003,label:musee de france,

@@ -1,4 +1,4 @@
-id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,year,stats,tags,description,wikidata
+id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,email,year,stats,tags,description,wikidata
 6702101,79550929,Musée de la Folie Marco,,Rue du Docteur Sultzer,67140,Barr,France,fr,open,48.410266199999995,7.4511442216483434,,,,2012,payant:1631;gratuit:3219;label-date:01/02/2003,label:musee de france,
 6733901,3451539391,Musée de la Poterie,1-13,Rue du Terrain,67116,Reichstett,France,fr,open,48.6480723,7.7520884,,,,2012,payant:1728;gratuit:396;label-date:01/02/2003,label:musee de france,
 6718002,606195509,Musée Alsacien,,Place Joseph Thierry,67500,Haguenau,France,fr,open,48.8147979,7.7893977,,,,2012,payant:1192;gratuit:1069;label-date:01/02/2003,label:musee de france,

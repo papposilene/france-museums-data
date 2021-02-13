@@ -1,4 +1,4 @@
-id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,year,stats,tags,description,wikidata
+id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,email,year,stats,tags,description,wikidata
 6706101,2399054638,Musée de Bouxwiller et du pays de hanau,,Rue du Canal,67330,Bouxwiller,France,fr,open,48.8249535,7.4835103,,,,2010,payant:656;gratuit:79;label-date:01/02/2003,label:musee de france,
 6732401,,Maison de l'Archéologie des Vosges du Nord,,,,NIEDERBRONN-LES-BAINS,France,fr,open,,,,,,2010,payant:2876;gratuit:3797;label-date:01/02/2003,label:musee de france,
 6738801,,Musée du Fer,,,,REICHSHOFFEN,France,fr,open,,,,,,2010,payant:733;gratuit:579;label-date:01/02/2003,label:musee de france,

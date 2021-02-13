@@ -1,4 +1,4 @@
-id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,year,stats,tags,description,wikidata
+id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,email,year,stats,tags,description,wikidata
 6733901,3451539391,Musée de la Poterie,1-13,Rue du Terrain,67116,Reichstett,France,fr,open,48.6480723,7.7520884,,,,2002,payant:4007;gratuit:1216,label:musee de france,
 6822406,,Musée du Sapeur Pompier,,,,MULHOUSE,France,fr,closed,,,,,,2002,payant:0;gratuit:0,label:musee de france,
 2405501,4119820065,Château de Bourdeilles,,Rue du Vieux Moulin,24310,Bourdeilles,France,fr,open,45.3222039,0.5867267,,,,2002,payant:30343;gratuit:0,label:musee de france,

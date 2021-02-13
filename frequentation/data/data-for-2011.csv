@@ -1,4 +1,4 @@
-id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,year,stats,tags,description,wikidata
+id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,email,year,stats,tags,description,wikidata
 6738801,,Musée du Fer,,,,REICHSHOFFEN,France,fr,open,,,,,,2011,payant:572;gratuit:512;label-date:01/02/2003,label:musee de france,
 6743701,1801327289,Musée du Château des Rohan,,Place du Général de Gaulle,67700,Saverne,France,fr,open,48.7418466,7.3639083,,,,2011,payant:4678;gratuit:4176;label-date:01/02/2003,label:musee de france,
 6803601,685084692,Musée Gallo-Romain,,Rue des Capucins,68600,Biesheim,France,fr,open,48.039525,7.5455969,,,,2011,payant:693;gratuit:1844;label-date:01/02/2003,label:musee de france,

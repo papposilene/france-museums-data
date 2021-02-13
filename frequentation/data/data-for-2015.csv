@@ -1,4 +1,4 @@
-id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,year,stats,tags,description,wikidata
+id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,email,year,stats,tags,description,wikidata
 6738801,,Musée du Fer,,,,REICHSHOFFEN,France,fr,open,,,,,,2015,payant:1474;gratuit:673;label-date:01/02/2003,label:musee de france,
 6748202,239825772,Musée Archéologique,,Rue du Bain-aux-Roses,67065,Strasbourg,France,fr,open,48.5808521,7.7525857,,,,2015,payant:19154;gratuit:28662;label-date:06/01/2002,label:musee de france,
 6806602,47577843,Musée d'Histoire Naturelle et d'Ethnographie de Colmar,,Cour,68000,Colmar,France,fr,open,48.07362435,7.358821938150863,,,,2015,payant:7918;gratuit:6367;label-date:01/02/2003,label:musee de france,

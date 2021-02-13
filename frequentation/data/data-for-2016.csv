@@ -1,4 +1,4 @@
-id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,year,stats,tags,description,wikidata
+id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,email,year,stats,tags,description,wikidata
 0126901,441572672,Musée de la Résistance et de la Déportation,12,Cote Levet,01640,Jujurieux,France,fr,open,46.042453949999995,5.408558981807003,,,,2016,payant:786;gratuit:244;label-date:01/02/2003,label:musee de france,
 0113701,700244363,Musée Départemental du Revermont,,Rue Principale,01370,Bourg-en-Bresse,France,fr,open,46.30032775,5.389046761156977,,,,2016,payant:1704;gratuit:7946;label-date:01/02/2003,label:musee de france,
 0733401,5766476644,Musée des Vans,,Rue du Couvent,07140,Les Vans,France,fr,open,44.4044775,4.1345103,,,,2016,payant:453;gratuit:912;label-date:01/02/2003,label:musee de france,

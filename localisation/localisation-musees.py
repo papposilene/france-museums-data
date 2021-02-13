@@ -44,6 +44,7 @@ def create_entry():
         "website": None,
         "phone": None,
         "fax": None,
+        "email": None,
         "stats": None,
         "tags": None,
         "description": None,
@@ -55,7 +56,7 @@ def main():
     locator = Nominatim(user_agent="fruseum-data/llmf", timeout=10)
 
     fieldnames = ['id', 'osm_id', 'name', 'number', 'street', 'postal_code', 'city', 'country', 'country_code',
-                    'status', 'lat', 'lon', 'website', 'phone', 'fax', 'opening_days', 'closing_days', 'stats',
+                    'status', 'lat', 'lon', 'website', 'phone', 'fax', 'email', 'opening_days', 'closing_days', 'stats',
                     'tags', 'description', 'wikidata']
 
     with open(args.input, newline='') as csv_inputfile:

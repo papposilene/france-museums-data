@@ -1,4 +1,4 @@
-id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,year,stats,tags,description,wikidata
+id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,email,year,stats,tags,description,wikidata
 6738801,,Musée du Fer,,,,REICHSHOFFEN,France,fr,open,,,,,,2006,payant:797;gratuit:435;label-date:01/02/2003,label:musee de france,
 6748203,239830896,Musée des Beaux-Arts,,Place du Marché aux Poissons,67065,Strasbourg,France,fr,open,48.5806606,7.7521404,,,,2006,payant:19560;gratuit:41724;label-date:01/02/2003,label:musee de france,
 6800401,5144762817,Musée Sundgauvien d'Altkirch,38,Rue de Luppach,68480,Vieux-Ferrette,France,fr,open,47.5040397,7.3041592,,,,2006,payant:1398;gratuit:10212;label-date:01/02/2003,label:musee de france,
