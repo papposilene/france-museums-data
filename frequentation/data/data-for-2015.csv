@@ -762,7 +762,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 7156601,1840508168,Maison du Blé et du Pain,,Rue des Jardins,71350,Verdun-sur-le-Doubs,France,fr,open,46.8987867,5.0226253,,,,2015,payant:2069;gratuit:1334;label-date:01/02/2003,label:musee de france,
 8902401,62627118,Muséum - Maison de l'Eau,,Rue Jeanne d'Arc,89000,Auxerre,France,fr,open,47.7970869,3.5618150624042473,,,,2015,payant:0;gratuit:13787;label-date:01/02/2003,label:musee de france,
 8902403,1256497741,Musée Leblanc-Duvernois,,Rue Gaston Gallimard,89600,Saint-Florentin,France,fr,open,48.0013166,3.7283151,,,,2015,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
-8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2015,payant:2129;gratuit:1368;label-date:01/02/2003,label:musee de france,
+8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,89310,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2015,payant:2129;gratuit:1368;label-date:01/02/2003,label:musee de france,
 2209301,123094895,Musée Mathurin Meheut,,Rue du Docteur Calmette,22400,Saint-Brieuc,France,fr,open,48.469658,-2.5154268059467917,,,,2015,payant:7731;gratuit:1430;label-date:02/05/2002,label:musee de france,
 2901901,730880579,Musée des Beaux-Arts de Brest,24,Rue Traverse,29200,Brest,France,fr,open,48.38506775,-4.4901760751918545,,,,2015,payant:7690;gratuit:15762;label-date:01/02/2003,label:musee de france,
 3523801,7422696,Musée de Bretagne,,Boulevard Magenta,35000|35700|35200,Rennes,France,fr,open,48.105132049999995,-1.6741388704016005,,,,2015,payant:20258;gratuit:45972;label-date:01/02/2003,label:musee de france,

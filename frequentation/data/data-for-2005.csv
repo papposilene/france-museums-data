@@ -498,7 +498,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 7152601,1153618944,Musée Départemental de Préhistoire de Solutré,,Chemin de la Roche,71960,Solutré-Pouilly,France,fr,open,46.2976296,4.718872,,,,2005,payant:16301;gratuit:7249;label-date:01/02/2003,label:musee de france,
 8902401,62627118,Muséum - Maison de l'Eau,,Rue Jeanne d'Arc,89000,Auxerre,France,fr,open,47.7970869,3.5618150624042473,,,,2005,payant:0;gratuit:16446;label-date:01/02/2003,label:musee de france,
 8902402,62636018,Musée d'Art et d'Histoire,,Rue Cochois,89000,Auxerre,France,fr,open,47.8005184,3.5725156901166075,,,,2005,payant:11287;gratuit:19179;label-date:01/02/2003,label:musee de france,
-8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2005,payant:1867;gratuit:892;label-date:01/02/2003,label:musee de france,
+8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,89310,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2005,payant:1867;gratuit:892;label-date:01/02/2003,label:musee de france,
 8938701,8196077887,Musée Muncipal,135,Rue des Déportés et de la Résistance,89100,Sens,France,fr,open,48.1975028,3.284393,,,,2005,payant:17784;gratuit:10730;label-date:01/02/2003,label:musee de france,
 8941801,70591575,Musée Municipal de Tonnerre,,Rue du Prieuré,89700,Tonnerre,France,fr,closed,47.856170750000004,3.9753439945533167,,,,2005,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 2205001,95903744,Musée du Château de Dinan,,Promenade des Petits Fossés,22100,Dinan,France,fr,open,48.450287599999996,-2.0449255728476867,,,,2005,payant:22601;gratuit:3558;label-date:01/02/2003,label:musee de france,

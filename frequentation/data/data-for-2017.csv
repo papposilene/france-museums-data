@@ -530,7 +530,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 9001001,34588114,Musée d'Art et d'Histoire,,Allée de l'Option Française,90000,Belfort,France,fr,open,47.63662965,6.864735068130328,,,,2017,payant:4254;gratuit:19598;label-date:01/02/2003,label:musee de france,
 8902403,1256497741,Musée Leblanc-Duvernois,,Rue Gaston Gallimard,89600,Saint-Florentin,France,fr,open,48.0013166,3.7283151,,,,2017,payant:0;gratuit:822;label-date:01/02/2003,label:musee de france,
 8902501,3050054378,Musée de l'Avallonnais,5,Rue du Collège,89200,Avallon,France,fr,open,47.4869881,3.9065509,,,,2017,payant:655;gratuit:3876;label-date:01/02/2003,label:musee de france,
-8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2017,payant:1580;gratuit:588;label-date:01/02/2003,label:musee de france,
+8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,89310,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2017,payant:1580;gratuit:588;label-date:01/02/2003,label:musee de france,
 8944601,2628533133,Musée Zervos - Maison Romain Rolland,,,89450,Vézelay,France,fr,open,47.4638215,3.743302,,,,2017,payant:6032;gratuit:3626;label-date:01/02/2003,label:musee de france,
 8946401,5032323201,Musée Villeneuvien,,Rue Carnot,89500,Villeneuve-sur-Yonne,France,fr,open,48.0804462,3.2941602,,,,2017,payant:0;gratuit:1010;label-date:01/02/2003,label:musee de france,
 2903801,,Ecomusée des Monts d'Arrée - Moulins de Kerouat,,,,COMMANA,France,fr,open,,,,,,2017,payant:7912;gratuit:2670;label-date:01/02/2003,label:musee de france,

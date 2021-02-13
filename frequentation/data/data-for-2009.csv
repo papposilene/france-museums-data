@@ -138,7 +138,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 7110601,7419064524,Musée René Davoine,32,Rue René Davoine,71120,Charolles,France,fr,closed,46.4312242,4.2732669,,,,2009,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 7127201,6575800688,Musée Départemental du Compagnonnage,,Rue Pierre François Guillon,71570,Romanèche-Thorins,France,fr,open,46.1880514,4.733891,,,,2009,payant:2187;gratuit:1662;label-date:01/02/2003,label:musee de france,
 8902401,62627118,Muséum - Maison de l'Eau,,Rue Jeanne d'Arc,89000,Auxerre,France,fr,open,47.7970869,3.5618150624042473,,,,2009,payant:0;gratuit:13405;label-date:01/02/2003,label:musee de france,
-8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2009,payant:1355;gratuit:643;label-date:01/02/2003,label:musee de france,
+8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,89310,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2009,payant:1355;gratuit:643;label-date:01/02/2003,label:musee de france,
 8936801,2598935771,Musée Colette,,Place du Château,89520,Saint-Sauveur-en-Puisaye,France,fr,open,47.6173071,3.1989776,,,,2009,payant:7517;gratuit:314;label-date:01/02/2003,label:musee de france,
 8947201,,Musée d'Art et d'Histoire du Puisaye,,,,VILLIERS-SAINT-BENOIT,France,fr,open,,,,,,2009,payant:787;gratuit:547;label-date:01/02/2003,label:musee de france,
 2209301,123094895,Musée Mathurin Meheut,,Rue du Docteur Calmette,22400,Saint-Brieuc,France,fr,open,48.469658,-2.5154268059467917,,,,2009,payant:4073;gratuit:1008;label-date:02/05/2002,label:musee de france,

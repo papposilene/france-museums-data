@@ -763,7 +763,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 7134201,121382168,Musée Eucharistique du Hiéron,13,Rue de la Paix,71600,Paray-le-Monial,France,fr,open,46.45203975,4.12306320795283,,,,2012,payant:3441;gratuit:4562;label-date:01/02/2003,label:musee de france,
 7152601,1153618944,Musée Départemental de Préhistoire de Solutré,,Chemin de la Roche,71960,Solutré-Pouilly,France,fr,open,46.2976296,4.718872,,,,2012,payant:17360;gratuit:12010;label-date:01/02/2003,label:musee de france,
 7154302,7419064526,Musée Bourguignon -  Perrin de Puycousin,,Rue de l'Hôpital,71700,Tournus,France,fr,closed,46.562054,4.9109128,,,,2012,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
-8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2012,payant:2081;gratuit:1179;label-date:01/02/2003,label:musee de france,
+8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,89310,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2012,payant:2081;gratuit:1179;label-date:01/02/2003,label:musee de france,
 2227801,78123314,Musée d'Art et d'Histoire,,Cour Francis Renaud,22000,Saint-Brieuc,France,fr,open,48.51234775,-2.7619036982498804,,,,2012,payant:0;gratuit:45921;label-date:01/02/2003,label:musee de france,
 2921701,84081121,Musée de Pont-Aven,,Rue Louis Lomenech,29930,Pont-Aven,France,fr,open,47.8550965,-3.746406090032833,,,,2012,payant:23193;gratuit:7205;label-date:01/02/2003,label:musee de france,
 2922001,,Musée Bigouden,,,,PONT-L'ABBE,France,fr,open,,,,,,2012,payant:10203;gratuit:4482;label-date:01/02/2003,label:musee de france,

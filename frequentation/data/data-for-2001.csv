@@ -249,7 +249,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 7152601,1153618944,Musée Départemental de Préhistoire de Solutré,,Chemin de la Roche,71960,Solutré-Pouilly,France,fr,open,46.2976296,4.718872,,,,2001,payant:19877;gratuit:5594,label:musee de france,
 8902401,62627118,Muséum - Maison de l'Eau,,Rue Jeanne d'Arc,89000,Auxerre,France,fr,open,47.7970869,3.5618150624042473,,,,2001,payant:1186;gratuit:11129,label:musee de france,
 8902402,62636018,Musée d'Art et d'Histoire,,Rue Cochois,89000,Auxerre,France,fr,open,47.8005184,3.5725156901166075,,,,2001,payant:14721;gratuit:20188,label:musee de france,
-8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2001,payant:2370;gratuit:1183,label:musee de france,
+8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,89310,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2001,payant:2370;gratuit:1183,label:musee de france,
 2901901,730880579,Musée des Beaux-Arts de Brest,24,Rue Traverse,29200,Brest,France,fr,open,48.38506775,-4.4901760751918545,,,,2001,payant:1068;gratuit:10729,label:musee de france,
 2915101,2628944132,Musée de Morlaix,,Hameau des Rochers,29410,Le Cloître-Saint-Thégonnec,France,fr,open,48.4797924,-3.7964981,,,,2001,payant:10810;gratuit:13556,label:musee de france,
 2922001,,Musée Bigouden,,,,PONT-L'ABBE,France,fr,open,,,,,,2001,payant:11323;gratuit:0,label:musee de france,

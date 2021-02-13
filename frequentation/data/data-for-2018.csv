@@ -970,7 +970,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 3904101,121580330,Musée de l'Artisanat Jurassien,,Rue de l'Abbaye,39210,Château-Chalon,France,fr,open,46.753866,5.6242957318903315,,,,2018,payant:0;gratuit:19000;label-date:01/02/2003,label:musee de france,
 5830401,1356183136,Musée Auguste Grasset,,Rue de la Caserne,58210,Varzy,France,fr,open,47.3586963,3.3887096,,,,2018,payant:1050;gratuit:200;label-date:01/02/2003,label:musee de france,
 9000901,203596883,Musée Frédéric Japy,,Rue des Aiges,25230,Vandoncourt,France,fr,open,47.469297499999996,6.90605967289238,,,,2018,payant:916;gratuit:804;label-date:01/02/2003,label:musee de france,
-8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2018,payant:1624;gratuit:541;label-date:01/02/2003,label:musee de france,
+8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,89310,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2018,payant:1624;gratuit:541;label-date:01/02/2003,label:musee de france,
 8944601,2628533133,Musée Zervos - Maison Romain Rolland,,,89450,Vézelay,France,fr,open,47.4638215,3.743302,,,,2018,payant:4903;gratuit:2912;label-date:01/02/2003,label:musee de france,
 2901901,730880579,Musée des Beaux-Arts de Brest,24,Rue Traverse,29200,Brest,France,fr,open,48.38506775,-4.4901760751918545,,,,2018,payant:4617;gratuit:12407;label-date:01/02/2003,label:musee de france,
 2926101,,Ecomusée des Monts d'Arrée - Maison Cornec,,,,RIVOAL,France,fr,open,,,,,,2018,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,

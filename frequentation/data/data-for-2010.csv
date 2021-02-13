@@ -277,7 +277,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 7127501,2690539792,Musée de la Tour du Moulin,9,Rue de la Tour du Moulin,71110,Marcigny,France,fr,open,46.274612,4.0431847,,,,2010,payant:1600;gratuit:606;label-date:01/02/2003,label:musee de france,
 7137301,7419064525,Musée du Terroir,,Rue des Quartiers,71470,Romenay,France,fr,open,46.503251,5.067591,,,,2010,payant:1971;gratuit:709;label-date:01/02/2003,label:musee de france,
 7154302,7419064526,Musée Bourguignon -  Perrin de Puycousin,,Rue de l'Hôpital,71700,Tournus,France,fr,closed,46.562054,4.9109128,,,,2010,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
-8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2010,payant:2168;gratuit:1332;label-date:01/02/2003,label:musee de france,
+8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,89310,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2010,payant:2168;gratuit:1332;label-date:01/02/2003,label:musee de france,
 8941801,70591575,Musée Municipal de Tonnerre,,Rue du Prieuré,89700,Tonnerre,France,fr,closed,47.856170750000004,3.9753439945533167,,,,2010,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 8944601,2628533133,Musée Zervos - Maison Romain Rolland,,,89450,Vézelay,France,fr,open,47.4638215,3.743302,,,,2010,payant:6566;gratuit:2143;label-date:01/02/2003,label:musee de france,
 2227801,78123314,Musée d'Art et d'Histoire,,Cour Francis Renaud,22000,Saint-Brieuc,France,fr,open,48.51234775,-2.7619036982498804,,,,2010,payant:0;gratuit:39422;label-date:01/02/2003,label:musee de france,

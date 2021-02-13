@@ -498,7 +498,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 7101404,223582725,Museum d'Histoire Naturelle Jacques de La Comble,,Allée Jacques de la Comble,71400,Autun,France,fr,open,46.9499423,4.3172422,,,,2011,payant:2383;gratuit:2599;label-date:06/01/2002,label:musee de france,
 7110601,7419064524,Musée René Davoine,32,Rue René Davoine,71120,Charolles,France,fr,open,46.4312242,4.2732669,,,,2011,payant:0;gratuit:70;label-date:01/02/2003,label:musee de france,
 7127002,700244362,Musée Lamartine,,Rue des Ursulines,71000,Saint-Clément,France,fr,open,46.307027,4.833142197130883,,,,2011,payant:1557;gratuit:3445;label-date:01/02/2003,label:musee de france,
-8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2011,payant:2026;gratuit:1599;label-date:01/02/2003,label:musee de france,
+8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,89310,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2011,payant:2026;gratuit:1599;label-date:01/02/2003,label:musee de france,
 8934401,2909216095,Musée de l'Aventure du Son,,Place de l'Hôtel de Ville,89170,Saint-Fargeau,France,fr,open,47.6414558,3.0709553,,,,2011,payant:4245;gratuit:193;label-date:18/04/2008,label:musee de france,
 8944601,2628533133,Musée Zervos - Maison Romain Rolland,,,89450,Vézelay,France,fr,open,47.4638215,3.743302,,,,2011,payant:8696;gratuit:2726;label-date:01/02/2003,label:musee de france,
 2926101,,Ecomusée des Monts d'Arrée - Maison Cornec,,,,RIVOAL,France,fr,open,,,,,,2011,payant:1397;gratuit:7485;label-date:01/02/2003,label:musee de france,

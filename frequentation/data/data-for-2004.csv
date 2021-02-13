@@ -734,7 +734,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 7113701,142255492,Musée d'Art et d'Archéologie,,Place Notre-Dame,60300,Senlis,France,fr,open,49.2064225,2.5866285006288354,,,,2004,payant:79815;gratuit:22608;label-date:01/02/2003,label:musee de france,
 7126301,372835947,"""L'Atelier d'un Journal"""" de Louhans - Musée Municipal""",,Rue du Musée,71440,Thurey,France,fr,open,46.7430242,5.1227339,,,,2004,payant:2242;gratuit:357;label-date:01/02/2003,label:musee de france,
 8902401,62627118,Muséum - Maison de l'Eau,,Rue Jeanne d'Arc,89000,Auxerre,France,fr,open,47.7970869,3.5618150624042473,,,,2004,payant:0;gratuit:17210;label-date:01/02/2003,label:musee de france,
-8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2004,payant:1688;gratuit:913;label-date:01/02/2003,label:musee de france,
+8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,89310,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2004,payant:1688;gratuit:913;label-date:01/02/2003,label:musee de france,
 8944601,2628533133,Musée Zervos - Maison Romain Rolland,,,89450,Vézelay,France,fr,closed,47.4638215,3.743302,,,,2004,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 2915101,2628944132,Musée de Morlaix,,Hameau des Rochers,29410,Le Cloître-Saint-Thégonnec,France,fr,open,48.4797924,-3.7964981,,,,2004,payant:7184;gratuit:15092;label-date:01/02/2003,label:musee de france,
 2923201,1162498487,Musée des Beaux-Arts,,Place Saint-Corentin,29000,Quimper,France,fr,open,47.996236,-4.102342,,,,2004,payant:21195;gratuit:14137;label-date:01/02/2003,label:musee de france,

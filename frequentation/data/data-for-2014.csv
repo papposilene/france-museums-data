@@ -768,7 +768,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 7152601,1153618944,Musée Départemental de Préhistoire de Solutré,,Chemin de la Roche,71960,Solutré-Pouilly,France,fr,open,46.2976296,4.718872,,,,2014,payant:12814;gratuit:8059;label-date:01/02/2003,label:musee de france,
 7156601,1840508168,Maison du Blé et du Pain,,Rue des Jardins,71350,Verdun-sur-le-Doubs,France,fr,open,46.8987867,5.0226253,,,,2014,payant:2653;gratuit:1850;label-date:01/02/2003,label:musee de france,
 8902401,62627118,Muséum - Maison de l'Eau,,Rue Jeanne d'Arc,89000,Auxerre,France,fr,open,47.7970869,3.5618150624042473,,,,2014,payant:0;gratuit:16659;label-date:01/02/2003,label:musee de france,
-8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2014,payant:1789;gratuit:648;label-date:01/02/2003,label:musee de france,
+8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,89310,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2014,payant:1789;gratuit:648;label-date:01/02/2003,label:musee de france,
 8941801,70591575,Musée Municipal de Tonnerre,,Rue du Prieuré,89700,Tonnerre,France,fr,closed,47.856170750000004,3.9753439945533167,,,,2014,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 2915501,,Ecomusée d'Ouessant - Vivre sur une Ile,,,,OUESSANT,France,fr,open,,,,,,2014,payant:8095;gratuit:1173;label-date:01/02/2003,label:musee de france,
 2928901,1458523215,Musée de l'Ecole Rurale en Bretagne,,Route Départementale Numéro 60 de Landévennec à Dinéault,29560,Trégarvan,France,fr,open,48.2448847,-4.2263366,,,,2014,payant:1536;gratuit:616;label-date:01/02/2003,label:musee de france,

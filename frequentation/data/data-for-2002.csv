@@ -430,7 +430,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 7134201,121382168,Musée Eucharistique du Hiéron,13,Rue de la Paix,71600,Paray-le-Monial,France,fr,closed,46.45203975,4.12306320795283,,,,2002,payant:0;gratuit:0,label:musee de france,
 7127201,6575800688,Musée Départemental du Compagnonnage,,Rue Pierre François Guillon,71570,Romanèche-Thorins,France,fr,open,46.1880514,4.733891,,,,2002,payant:1908;gratuit:2506,label:musee de france,
 7152601,1153618944,Musée Départemental de Préhistoire de Solutré,,Chemin de la Roche,71960,Solutré-Pouilly,France,fr,open,46.2976296,4.718872,,,,2002,payant:19174;gratuit:6033,label:musee de france,
-8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2002,payant:2204;gratuit:888,label:musee de france,
+8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,89310,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2002,payant:2204;gratuit:888,label:musee de france,
 8938701,8196077887,Musée Muncipal,135,Rue des Déportés et de la Résistance,89100,Sens,France,fr,open,48.1975028,3.284393,,,,2002,payant:10776;gratuit:8599,label:musee de france,
 8944601,2628533133,Musée Zervos - Maison Romain Rolland,,,89450,Vézelay,France,fr,closed,47.4638215,3.743302,,,,2002,payant:0;gratuit:0,label:musee de france,
 8947201,,Musée d'Art et d'Histoire du Puisaye,,,,VILLIERS-SAINT-BENOIT,France,fr,open,,,,,,2002,payant:0;gratuit:0,label:musee de france,

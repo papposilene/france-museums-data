@@ -1012,7 +1012,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 7127001,700244362,Musée des Ursulines,,Rue des Ursulines,71000,Saint-Clément,France,fr,open,46.307027,4.833142197130883,,,,2007,payant:2142;gratuit:12818;label-date:01/02/2003,label:musee de france,
 7127002,700244362,Musée Lamartine,,Rue des Ursulines,71000,Saint-Clément,France,fr,open,46.307027,4.833142197130883,,,,2007,payant:844;gratuit:3443;label-date:01/02/2003,label:musee de france,
 7137301,7419064525,Musée du Terroir,,Rue des Quartiers,71470,Romenay,France,fr,open,46.503251,5.067591,,,,2007,payant:206;gratuit:22;label-date:01/02/2003,label:musee de france,
-8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2007,payant:1853;gratuit:892;label-date:01/02/2003,label:musee de france,
+8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,89310,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2007,payant:1853;gratuit:892;label-date:01/02/2003,label:musee de france,
 2901902,5882540291,Musée National de la Marine,,Rue Franklin Roosevelt,29200,Brest,France,fr,open,48.381272,-4.4923642,,,,2007,payant:37572;gratuit:25489;label-date:06/01/2002,label:musee de france,
 3519401,92884430,Musée de la Faucillonnaie,,Rue du Rachapt,35500,Vitré,France,fr,open,48.1260135,-1.2166992529105425,,,,2007,payant:1137;gratuit:504;label-date:01/02/2003,label:musee de france,
 3523803,178814913,Ecomusée du Pays de Rennes,,Route de Châtillon-Sur-Seiche,35230,Noyal-Châtillon-sur-Seiche,France,fr,open,48.07772335,-1.6663543566452403,,,,2007,payant:12236;gratuit:29401;label-date:01/02/2003,label:musee de france,

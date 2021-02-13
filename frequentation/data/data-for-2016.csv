@@ -277,7 +277,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 7127201,6575800688,Musée Départemental du Compagnonnage,,Rue Pierre François Guillon,71570,Romanèche-Thorins,France,fr,open,46.1880514,4.733891,,,,2016,payant:1835;gratuit:2378;label-date:01/02/2003,label:musee de france,
 9001001,34588114,Musée d'Art et d'Histoire,,Allée de l'Option Française,90000,Belfort,France,fr,open,47.63662965,6.864735068130328,,,,2016,payant:3952;gratuit:18798;label-date:01/02/2003,label:musee de france,
 9001002,79763460,Donation Maurice Jardot,8,Rue de Mulhouse,90000,Belfort,France,fr,open,47.6427099,6.8557239777834384,,,,2016,payant:1007;gratuit:6216;label-date:01/02/2003,label:musee de france,
-8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2016,payant:1882;gratuit:778;label-date:01/02/2003,label:musee de france,
+8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,89310,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2016,payant:1882;gratuit:778;label-date:01/02/2003,label:musee de france,
 2209301,123094895,Musée Mathurin Meheut,,Rue du Docteur Calmette,22400,Saint-Brieuc,France,fr,open,48.469658,-2.5154268059467917,,,,2016,payant:6119;gratuit:1072;label-date:02/05/2002,label:musee de france,
 2901901,730880579,Musée des Beaux-Arts de Brest,24,Rue Traverse,29200,Brest,France,fr,open,48.38506775,-4.4901760751918545,,,,2016,payant:4660;gratuit:14323;label-date:01/02/2003,label:musee de france,
 2903901,3986935,Musée de la Pêche,,Rue Militaire,29900,Concarneau,France,fr,open,47.87218475,-3.916013041508858,,,,2016,payant:18654;gratuit:16301;label-date:01/02/2003,label:musee de france,

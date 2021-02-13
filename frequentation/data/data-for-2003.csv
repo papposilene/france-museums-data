@@ -253,7 +253,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 7134202,2430526351,Musée Municipal,,Avenue de la Gare,71600,Paray-le-Monial,France,fr,closed,46.4480468,4.112514,,,,2003,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 7156601,1840508168,Maison du Blé et du Pain,,Rue des Jardins,71350,Verdun-sur-le-Doubs,France,fr,open,46.8987867,5.0226253,,,,2003,payant:4633;gratuit:837;label-date:01/02/2003,label:musee de france,
 8902501,3050054378,Musée de l'Avallonnais Jean Després,5,Rue du Collège,89200,Avallon,France,fr,open,47.4869881,3.9065509,,,,2003,payant:0;gratuit:2547;label-date:01/02/2003,label:musee de france,
-8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2003,payant:1780;gratuit:991;label-date:01/02/2003,label:musee de france,
+8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,89310,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2003,payant:1780;gratuit:991;label-date:01/02/2003,label:musee de france,
 2205001,95903744,Musée du Château de Dinan,,Promenade des Petits Fossés,22100,Dinan,France,fr,open,48.450287599999996,-2.0449255728476867,,,,2003,payant:23958;gratuit:6946;label-date:01/02/2003,label:musee de france,
 2915501,,Ecomusée d'Ouessant - Vivre sur une Ile,,,,OUESSANT,France,fr,open,,,,,,2003,payant:14374;gratuit:0;label-date:01/02/2003,label:musee de france,
 2921701,84081121,Musée de Pont-Aven,,Rue Louis Lomenech,29930,Pont-Aven,France,fr,open,47.8550965,-3.746406090032833,,,,2003,payant:108110;gratuit:5031;label-date:01/02/2003,label:musee de france,

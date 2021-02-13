@@ -540,7 +540,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 7152601,1153618944,Musée Départemental de Préhistoire de Solutré,,Chemin de la Roche,71960,Solutré-Pouilly,France,fr,open,46.2976296,4.718872,,,,2013,payant:15548;gratuit:12771;label-date:01/02/2003,label:musee de france,
 7154301,7419064527,Hôtel Dieu - Musée Greuze,,Rue de l'Hôpital,71700,Tournus,France,fr,open,46.5619544,4.9109248,,,,2013,payant:8534;gratuit:2036;label-date:01/02/2003,label:musee de france,
 7156601,1840508168,Maison du Blé et du Pain,,Rue des Jardins,71350,Verdun-sur-le-Doubs,France,fr,open,46.8987867,5.0226253,,,,2013,payant:2297;gratuit:1840;label-date:01/02/2003,label:musee de france,
-8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2013,payant:2024;gratuit:737;label-date:01/02/2003,label:musee de france,
+8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,,,89310,NOYERS-SUR-SEREIN,France,fr,open,,,,,,2013,payant:2024;gratuit:737;label-date:01/02/2003,label:musee de france,
 2926101,,Ecomusée des Monts d'Arrée - Maison Cornec,,,,RIVOAL,France,fr,open,,,,,,2013,payant:2472;gratuit:3987;label-date:01/02/2003,label:musee de france,
 3523803,178814913,Ecomusée du Pays de Rennes,,Route de Châtillon-Sur-Seiche,35230,Noyal-Châtillon-sur-Seiche,France,fr,open,48.07772335,-1.6663543566452403,,,,2013,payant:14363;gratuit:37050;label-date:01/02/2003,label:musee de france,
 3536002,92884430,Musée du Château de Vitré,,Rue du Rachapt,35500,Vitré,France,fr,open,48.1260135,-1.2166992529105425,,,,2013,payant:16010;gratuit:7336;label-date:01/02/2003,label:musee de france,
