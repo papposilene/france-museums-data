@@ -47,7 +47,8 @@ def create_entry():
         "year": None,
         "stats": None,
         "tags": None,
-        "description": None
+        "description": None,
+        "wikidata": None
     }
 
 def main():
@@ -55,7 +56,7 @@ def main():
     locator = Nominatim(user_agent="fruseum-data/fdmdf", timeout=10)
 
     fieldnames = ['id', 'osm_id', 'name', 'number', 'street', 'postal_code', 'city', 'country', 'country_code',
-                    'status', 'lat', 'lon', 'website', 'phone', 'fax', 'year', 'stats', 'tags', 'description']
+                    'status', 'lat', 'lon', 'website', 'phone', 'fax', 'year', 'stats', 'tags', 'description', 'wikidata']
 
     with open(args.input, newline='') as csv_inputfile:
         csv_reader = csv.reader(csv_inputfile, delimiter=';', quotechar='|')
@@ -156,7 +157,7 @@ def main():
                 entry['stats'] = entry['stats'] + ';' + 'gratuit:' + row[8]
             else:
                 entry['stats'] = entry['stats'] + ';' + 'gratuit:0'
-            
+
             entry['stats'] = entry['stats'] + ';' + 'total:0' + row[9]
 
             if row[6]:
