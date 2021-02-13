@@ -379,7 +379,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 8106502,83184155,Musée Jean Jaurès,2,Place Pélisson,81100,Castres,France,fr,open,43.607194,2.240496445775623,,,,2011,payant:2988;gratuit:11453;label-date:06/01/2002,label:musee de france,
 8109901,1794967910,Musée des Beaux-Arts,,Boulevard Foucault,81600,Gaillac,France,fr,open,43.8949812,1.8980683,,,,2011,payant:2018;gratuit:2908;label-date:01/02/2003,label:musee de france,
 8109903,1794967900,Musée de l'Abbaye Saint-Michel,,Petite Rue Saint-Michel,81600,Gaillac,France,fr,open,43.8969758,1.8960647,,,,2011,payant:1962;gratuit:1089;label-date:01/02/2003,label:musee de france,
-8111501,,Musée Départemental du Textile,,,,LA-BASTIDE-ROUAIROUX,France,fr,open,,,,,,2011,payant:3536;gratuit:3382;label-date:01/02/2003,label:musee de france,
+8111501,,Musée Départemental du Textile,,,81115,LABASTIDE-ROUAIROUX,France,fr,open,,,,,,2011,payant:3536;gratuit:3382;label-date:01/02/2003,label:musee de france,
 8212101,127805191,Musée d'Histoire Naturelle Victor Brun,,Rue Marie Lafon,82000,Montauban,France,fr,open,44.01688865,1.3514607739557976,,,,2011,payant:1167;gratuit:7185;label-date:01/02/2003,label:musee de france,
 5904301,81168271,Musée Benoît de Puydt,,Rue des Viviers,59270,Bailleul,France,fr,open,50.7407272,2.7345033127504697,,,,2011,payant:1290;gratuit:2637;label-date:01/02/2003,label:musee de france,
 5905301,,"Forum Antique de Bavay, Musée Archéologique du Département du Nord",,,,BAVAY,France,fr,open,,,,,,2011,payant:21565;gratuit:11589;label-date:01/02/2003,label:musee de france,

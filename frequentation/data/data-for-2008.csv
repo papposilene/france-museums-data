@@ -633,7 +633,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 4633001,2271992489,Musée Municipal,,Impasse Lucterius,46110,Vayrac,France,fr,open,44.952451,1.703678,,,,2008,payant:226;gratuit:0;label-date:01/02/2003,label:musee de france,
 8106502,83184155,Musée Jean Jaurès,2,Place Pélisson,81100,Castres,France,fr,open,43.607194,2.240496445775623,,,,2008,payant:1437;gratuit:10160;label-date:06/01/2002,label:musee de france,
 8109101,379420307,Musée du Protestantisme en Haut-Languedoc,,D 53,81260,Castres,France,fr,open,43.661023,2.449145648571428,,,,2008,payant:1310;gratuit:923;label-date:01/02/2003,label:musee de france,
-8111501,,Musée Départemental du Textile,,,,LA-BASTIDE-ROUAIROUX,France,fr,open,,,,,,2008,payant:1427;gratuit:1909;label-date:01/02/2003,label:musee de france,
+8111501,,Musée Départemental du Textile,,,81115,LABASTIDE-ROUAIROUX,France,fr,open,,,,,,2008,payant:1427;gratuit:1909;label-date:01/02/2003,label:musee de france,
 8114501,,Musée Raymond Lafage,,,,LISLE-SUR-TARN,France,fr,open,,,,,,2008,payant:1976;gratuit:3082;label-date:01/02/2003,label:musee de france,
 8200801,,Musée du Vieil Auvillar,,,,AUVILLAR,France,fr,open,,,,,,2008,payant:2516;gratuit:454;label-date:01/02/2003,label:musee de france,
 8215501,6652846786,Musée de Préhistoire,,Place de la Halle,82140,Saint-Antonin-Noble-Val,France,fr,open,44.1518591,1.7565481,,,,2008,payant:577;gratuit:325;label-date:01/02/2003,label:musee de france,

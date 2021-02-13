@@ -1058,7 +1058,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 4630901,1074571594,Musée de l'Automate,,Place de l'Abbaye,46200,Souillac,France,fr,open,44.8936695,1.4768774,,,,2003,payant:25171;gratuit:3234;label-date:01/02/2003,label:musee de france,
 8106502,83184155,Musée Jean Jaurès,2,Place Pélisson,81100,Castres,France,fr,open,43.607194,2.240496445775623,,,,2003,payant:1237;gratuit:8427;label-date:06/01/2002,label:musee de france,
 8109903,1794967900,Musée de l'Abbaye Saint-Michel,,Petite Rue Saint-Michel,81600,Gaillac,France,fr,open,43.8969758,1.8960647,,,,2003,payant:3804;gratuit:2146;label-date:01/02/2003,label:musee de france,
-8111501,,Musée Départemental du Textile,,,,LA-BASTIDE-ROUAIROUX,France,fr,open,,,,,,2003,payant:2013;gratuit:3039;label-date:01/02/2003,label:musee de france,
+8111501,,Musée Départemental du Textile,,,81115,LABASTIDE-ROUAIROUX,France,fr,open,,,,,,2003,payant:2013;gratuit:3039;label-date:01/02/2003,label:musee de france,
 8114501,,Musée Raymond Lafage,,,,LISLE-SUR-TARN,France,fr,open,,,,,,2003,payant:1074;gratuit:235;label-date:01/02/2003,label:musee de france,
 8122001,,Musée du Pays Rabastinois,,,,RABASTENS,France,fr,open,,,,,,2003,payant:909;gratuit:1064;label-date:01/02/2003,label:musee de france,
 8211202,59127408,Musée des arts et traditions populaires,1,Rue de l'Abbaye,82200,Moissac,France,fr,open,44.10574095,1.0849678812128933,,,,2003,payant:4216;gratuit:1109;label-date:01/02/2003,label:musee de france,

@@ -361,7 +361,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 4633001,2271992489,Musée Municipal,,Impasse Lucterius,46110,Vayrac,France,fr,open,44.952451,1.703678,,,,2005,payant:223;gratuit:53;label-date:01/02/2003,label:musee de france,
 8106501,1436215239,Musée Goya,1,Rue de l'Hôtel de Ville,81100,Castres,France,fr,open,43.6035253,2.2417743,,,,2005,payant:9172;gratuit:13440;label-date:06/01/2002,label:musee de france,
 8109901,1794967910,Musée des Beaux-Arts,,Boulevard Foucault,81600,Gaillac,France,fr,open,43.8949812,1.8980683,,,,2005,payant:2745;gratuit:3869;label-date:01/02/2003,label:musee de france,
-8111501,,Musée Départemental du Textile,,,,LA-BASTIDE-ROUAIROUX,France,fr,open,,,,,,2005,payant:3222;gratuit:3978;label-date:01/02/2003,label:musee de france,
+8111501,,Musée Départemental du Textile,,,81115,LABASTIDE-ROUAIROUX,France,fr,open,,,,,,2005,payant:3222;gratuit:3978;label-date:01/02/2003,label:musee de france,
 8200801,,Musée du Vieil Auvillar,,,,AUVILLAR,France,fr,open,,,,,,2005,payant:1990;gratuit:394;label-date:01/02/2003,label:musee de france,
 8207501,89104903,Musée Théodore Calbet,15,Rue Jean de Comère,82170,Grisolles,France,fr,open,43.827752000000004,1.2947097401960788,,,,2005,payant:0;gratuit:3150;label-date:01/02/2003,label:musee de france,
 8215501,6652846786,Musée de Préhistoire,,Place de la Halle,82140,Saint-Antonin-Noble-Val,France,fr,open,44.1518591,1.7565481,,,,2005,payant:990;gratuit:0;label-date:01/02/2003,label:musee de france,

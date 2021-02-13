@@ -1101,7 +1101,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 6529501,,Musée Municipal - Musée Trésor,,,,LUZ-SAINT-SAUVEUR,France,fr,open,,,,,,2010,payant:0;gratuit:4500;label-date:01/02/2003,label:musee de france,
 4618501,,Musée Gallo-Romain d'Uxellodunum,,,,MARTEL,France,fr,open,,,,,,2010,payant:418;gratuit:133;label-date:01/02/2003,label:musee de france,
 4633001,2271992489,Musée Municipal,,Impasse Lucterius,46110,Vayrac,France,fr,open,44.952451,1.703678,,,,2010,payant:187;gratuit:0;label-date:01/02/2003,label:musee de france,
-8111501,,Musée Départemental du Textile,,,,LA-BASTIDE-ROUAIROUX,France,fr,open,,,,,,2010,payant:2245;gratuit:2143;label-date:01/02/2003,label:musee de france,
+8111501,,Musée Départemental du Textile,,,81115,LABASTIDE-ROUAIROUX,France,fr,open,,,,,,2010,payant:2245;gratuit:2143;label-date:01/02/2003,label:musee de france,
 8114501,,Musée Raymond Lafage,,,,LISLE-SUR-TARN,France,fr,open,,,,,,2010,payant:1198;gratuit:2997;label-date:01/02/2003,label:musee de france,
 5905301,,"Forum Antique de Bavay, Musée Archéologique du Département du Nord",,,,BAVAY,France,fr,open,,,,,,2010,payant:20824;gratuit:4587;label-date:01/02/2003,label:musee de france,
 5906701,34518055,Musée du Mont-de-Piété,,Contour de l'Église,59380,Bergues,France,fr,open,50.969149200000004,2.430273758659693,,,,2010,payant:2200;gratuit:0;label-date:01/02/2003,label:musee de france,

@@ -306,7 +306,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 6505902,70833199,Musée Salies,,Place des Thermes,65200,Bagnères-de-Bigorre,France,fr,open,43.06271375,0.14619557596196836,,,,2002,payant:2384;gratuit:358,label:musee de france,
 6529501,5859599904,Musée Municipal,,Place de la Comporte,65120,Luz-Saint-Sauveur,France,fr,open,42.8714666,-0.003485,,,,2002,payant:1477;gratuit:0,label:musee de france,
 4624001,,Musée d'Art Sacré,,,,ROCAMADOUR,France,fr,open,,,,,,2002,payant:7355;gratuit:1334,label:musee de france,
-8111501,,Musée Départemental du Textile,,,,LA-BASTIDE-ROUAIROUX,France,fr,open,,,,,,2002,payant:2889;gratuit:2651,label:musee de france,
+8111501,,Musée Départemental du Textile,,,81115,LABASTIDE-ROUAIROUX,France,fr,open,,,,,,2002,payant:2889;gratuit:2651,label:musee de france,
 8114501,,Musée Raymond Lafage,,,,LISLE-SUR-TARN,France,fr,open,,,,,,2002,payant:0;gratuit:1385,label:musee de france,
 5904301,81168271,Musée Benoît de Puydt,,Rue des Viviers,59270,Bailleul,France,fr,open,50.7407272,2.7345033127504697,,,,2002,payant:993;gratuit:4392,label:musee de france,
 5917201,,Musée d'Archéologie et d'Histoire Locale,,,,DENAIN,France,fr,open,,,,,,2002,payant:0;gratuit:1853,label:musee de france,

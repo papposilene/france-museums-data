@@ -948,7 +948,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 4618201,,"""Musée Archéologique """"Armand-Viré""""""",,,,LUZECH,France,fr,open,,,,,,2001,payant:0;gratuit:0,label:musee de france,
 8109101,379420307,Musée du Protestantisme en Haut-Languedoc,,D 53,81260,Castres,France,fr,open,43.661023,2.449145648571428,,,,2001,payant:1231;gratuit:0,label:musee de france,
 8109903,1794967900,Musée de l'Abbaye Saint-Michel,,Petite Rue Saint-Michel,81600,Gaillac,France,fr,open,43.8969758,1.8960647,,,,2001,payant:4528;gratuit:1519,label:musee de france,
-8111501,,Musée Départemental du Textile,,,,LA-BASTIDE-ROUAIROUX,France,fr,open,,,,,,2001,payant:3171;gratuit:1235,label:musee de france,
+8111501,,Musée Départemental du Textile,,,81115,LABASTIDE-ROUAIROUX,France,fr,open,,,,,,2001,payant:3171;gratuit:1235,label:musee de france,
 8200801,,Musée du Vieil Auvillar,,,,AUVILLAR,France,fr,open,,,,,,2001,payant:4001;gratuit:940,label:musee de france,
 8212102,127805191,Musée Ingres,,Rue Marie Lafon,82000,Montauban,France,fr,open,44.01688865,1.3514607739557976,,,,2001,payant:15614;gratuit:19038,label:musee de france,
 5901401,626582331,Musée Théophile Jouglet,,Rue des Incas,59300,Valenciennes,France,fr,open,50.3575723,3.5306353,,,,2001,payant:0;gratuit:2532,label:musee de france,

@@ -1087,7 +1087,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 4630901,1074571594,Musée de l'Automate,,Place de l'Abbaye,46200,Souillac,France,fr,open,44.8936695,1.4768774,,,,2006,payant:22524;gratuit:5054;label-date:01/02/2003,label:musee de france,
 8100401,34627060,Musée Toulouse Lautrec,,Place de L'Archevêché,81000,Albi,France,fr,open,43.9293134,2.1428612931044957,,,,2006,payant:109407;gratuit:28207;label-date:01/02/2003,label:musee de france,
 8101201,3134866346,Musée Eugénie et Maurice Guérin,,Sentier Littéraire,81140,Andillac,France,fr,open,44.0098937,1.8996887,,,,2006,payant:2295;gratuit:2970;label-date:01/02/2003,label:musee de france,
-8111501,,Musée Départemental du Textile,,,,LA-BASTIDE-ROUAIROUX,France,fr,open,,,,,,2006,payant:3336;gratuit:3705;label-date:01/02/2003,label:musee de france,
+8111501,,Musée Départemental du Textile,,,81115,LABASTIDE-ROUAIROUX,France,fr,open,,,,,,2006,payant:3336;gratuit:3705;label-date:01/02/2003,label:musee de france,
 8211202,59127408,Musée des arts et traditions populaires,1,Rue de l'Abbaye,82200,Moissac,France,fr,open,44.10574095,1.0849678812128933,,,,2006,payant:5308;gratuit:0;label-date:01/02/2003,label:musee de france,
 5905301,,"Forum Antique de Bavay, Musée Archéologique du Département du Nord",,,,BAVAY,France,fr,open,,,,,,2006,payant:3612;gratuit:13546;label-date:01/02/2003,label:musee de france,
 5909201,115800970,Musée de l'Ostrevant,16,Rue de Bouchain,7800,Ath,België / Belgique / Belgien,be,open,50.630392799999996,3.779913004544891,,,,2006,payant:174;gratuit:515;label-date:01/02/2003,label:musee de france,

@@ -378,7 +378,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 8106501,1436215239,Musée Goya,1,Rue de l'Hôtel de Ville,81100,Castres,France,fr,open,43.6035253,2.2417743,,,,2004,payant:12566;gratuit:11650;label-date:06/01/2002,label:musee de france,
 8109902,60929966,Muséum d'histoire naturelle Philadelphe Thomas,,Rue Philadelphe Thomas,81600,Gaillac,France,fr,open,43.8993239,1.8943379,,,,2004,payant:659;gratuit:2734;label-date:01/02/2003,label:musee de france,
 8109903,1794967900,Musée de l'Abbaye Saint-Michel,,Petite Rue Saint-Michel,81600,Gaillac,France,fr,open,43.8969758,1.8960647,,,,2004,payant:3902;gratuit:1164;label-date:01/02/2003,label:musee de france,
-8111501,,Musée Départemental du Textile,,,,LA-BASTIDE-ROUAIROUX,France,fr,open,,,,,,2004,payant:4213;gratuit:3019;label-date:01/02/2003,label:musee de france,
+8111501,,Musée Départemental du Textile,,,81115,LABASTIDE-ROUAIROUX,France,fr,open,,,,,,2004,payant:4213;gratuit:3019;label-date:01/02/2003,label:musee de france,
 5903601,107548567,Musée d'Histoire et d'Archéologie,,Allée Chanoine Biévelet,59570,Bavay,France,fr,closed,50.298608,3.79103261466165,,,,2004,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 5918304,76418840,Musée d'Art Contemporain,,Rue du Gouvernement,59140,Dunkerque,France,fr,closed,51.03788695,2.371791835328942,,,,2004,payant:0;gratuit:0;label-date:01/02/2003,label:musee de france,
 5918301,,Musée des Beaux-Arts,,,,DUNKERQUE,France,fr,open,,,,,,2004,payant:5724;gratuit:12343;label-date:01/02/2003,label:musee de france,

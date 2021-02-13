@@ -345,7 +345,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 7306501,107343549,Musée des Beaux-Arts,,Passage Jules Daisay,73000,Chambéry,France,fr,closed,45.56817235,5.919712942411912,,,,2009,payant:0;gratuit:0;label-date:06/01/2002,label:musee de france,
 7306503,101956960,Musée des Charmettes,890,Chemin des Charmettes,73000,Chambéry,France,fr,open,45.5531438,5.929708443909043,,,,2009,payant:0;gratuit:13617;label-date:06/01/2002,label:musee de france,
 8109903,1794967900,Musée de l'Abbaye Saint-Michel,,Petite Rue Saint-Michel,81600,Gaillac,France,fr,open,43.8969758,1.8960647,,,,2009,payant:2613;gratuit:669;label-date:01/02/2003,label:musee de france,
-8111501,,Musée Départemental du Textile,,,,LA-BASTIDE-ROUAIROUX,France,fr,open,,,,,,2009,payant:2608;gratuit:3139;label-date:01/02/2003,label:musee de france,
+8111501,,Musée Départemental du Textile,,,81115,LABASTIDE-ROUAIROUX,France,fr,open,,,,,,2009,payant:2608;gratuit:3139;label-date:01/02/2003,label:musee de france,
 8114001,,Musée du Pays Vaurais,,,,LAVAUR,France,fr,open,,,,,,2009,payant:927;gratuit:1783;label-date:01/02/2003,label:musee de france,
 8200801,,Musée du Vieil Auvillar,,,,AUVILLAR,France,fr,open,,,,,,2009,payant:2892;gratuit:1778;label-date:01/02/2003,label:musee de france,
 8207501,89104903,Musée Théodore Calbet,15,Rue Jean de Comère,82170,Grisolles,France,fr,open,43.827752000000004,1.2947097401960788,,,,2009,payant:0;gratuit:2257;label-date:01/02/2003,label:musee de france,

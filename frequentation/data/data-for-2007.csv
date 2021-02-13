@@ -155,7 +155,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 4633001,2271992489,Musée Municipal,,Impasse Lucterius,46110,Vayrac,France,fr,open,44.952451,1.703678,,,,2007,payant:323;gratuit:0;label-date:01/02/2003,label:musee de france,
 8100401,34627060,Musée Toulouse Lautrec,,Place de L'Archevêché,81000,Albi,France,fr,open,43.9293134,2.1428612931044957,,,,2007,payant:118038;gratuit:27460;label-date:01/02/2003,label:musee de france,
 8109101,379420307,Musée du Protestantisme en Haut-Languedoc,,D 53,81260,Castres,France,fr,open,43.661023,2.449145648571428,,,,2007,payant:1448;gratuit:680;label-date:01/02/2003,label:musee de france,
-8111501,,Musée Départemental du Textile,,,,LA-BASTIDE-ROUAIROUX,France,fr,open,,,,,,2007,payant:0;gratuit:2209;label-date:01/02/2003,label:musee de france,
+8111501,,Musée Départemental du Textile,,,81115,LABASTIDE-ROUAIROUX,France,fr,open,,,,,,2007,payant:0;gratuit:2209;label-date:01/02/2003,label:musee de france,
 8212101,127805191,Musée d'Histoire Naturelle Victor Brun,,Rue Marie Lafon,82000,Montauban,France,fr,open,44.01688865,1.3514607739557976,,,,2007,payant:897;gratuit:4473;label-date:01/02/2003,label:musee de france,
 8215501,6652846786,Musée de Préhistoire,,Place de la Halle,82140,Saint-Antonin-Noble-Val,France,fr,open,44.1518591,1.7565481,,,,2007,payant:945;gratuit:0;label-date:01/02/2003,label:musee de france,
 5912201,6098585497,Musée Municipal de Cambrai,15,Rue de l'Épée,59400,Cambrai,France,fr,open,50.1734096,3.2299021,,,,2007,payant:13312;gratuit:0;label-date:01/02/2003,label:musee de france,

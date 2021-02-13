@@ -871,7 +871,7 @@ id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lo
 8100401,34627060,Musée Toulouse Lautrec,,Place de L'Archevêché,81000,Albi,France,fr,open,43.9293134,2.1428612931044957,,,,2013,payant:150606;gratuit:32872;label-date:01/02/2003,label:musee de france,
 8109901,1794967910,Musée des Beaux-Arts,,Boulevard Foucault,81600,Gaillac,France,fr,open,43.8949812,1.8980683,,,,2013,payant:2907;gratuit:1702;label-date:01/02/2003,label:musee de france,
 8109902,60929966,Muséum d'histoire naturelle Philadelphe Thomas,,Rue Philadelphe Thomas,81600,Gaillac,France,fr,open,43.8993239,1.8943379,,,,2013,payant:1383;gratuit:3275;label-date:01/02/2003,label:musee de france,
-8111501,,Musée Départemental du Textile,,,,LA-BASTIDE-ROUAIROUX,France,fr,open,,,,,,2013,payant:2735;gratuit:3231;label-date:01/02/2003,label:musee de france,
+8111501,,Musée Départemental du Textile,,,81115,LABASTIDE-ROUAIROUX,France,fr,open,,,,,,2013,payant:2735;gratuit:3231;label-date:01/02/2003,label:musee de france,
 5905301,,"Forum Antique de Bavay, Musée Archéologique du Département du Nord",,,,BAVAY,France,fr,open,,,,,,2013,payant:22752;gratuit:9309;label-date:01/02/2003,label:musee de france,
 5913501,5918815893,Musée Départemental de Flandre,,Grand Place,59670,Cassel,France,fr,open,50.7996394,2.4862076,,,,2013,payant:27085;gratuit:22941;label-date:01/02/2003,label:musee de france,
 5917801,83720907,Musée de la Chartreuse,,Rue des Chartreux,59500,Douai,France,fr,open,50.3746382,3.075940072347347,,,,2013,payant:15163;gratuit:41768;label-date:01/02/2003,label:musee de france,
