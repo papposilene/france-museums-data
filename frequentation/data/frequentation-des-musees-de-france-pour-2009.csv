@@ -1,4 +1,0 @@
-id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,email,year,stats,tags,description,wikidata,museofile,mhs
-5939201,,Musée Henri Boez,,,,MAUBEUGE,France,fr,closed,,,,,,,2009,payant:0;gratuit:0;total:;label-date:01/02/2003,label:musee de france,,,,
-5955501,72886174,Ancien musée du verre,1,Rue du Général de Gaulle,59216,Sars-Poteries,France,fr,open,50.1641293,4.0237244496073945,,,,,2009,payant:3760;gratuit:6998;total:10758;label-date:01/02/2003,label:musee de france,,,,
-5959901,2268074792,Musée du 5 juin 1944 - Message Verlaine,,Avenue de la Marne,59200,Tourcoing,France,fr,open,50.7119447,3.1550369,http://www.museedu5juin1944.asso.fr/,+33 3 20 24 25 00,,,2009,payant:0;gratuit:39900;total:39900;label-date:01/02/2003,label:musee de france,,Q3330321,,

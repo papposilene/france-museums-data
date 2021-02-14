@@ -215,7 +215,14 @@ def main():
                     else:
                         entry['email'] = ''
 
-                    if 'wikidata' in osmdata: entry['wikidata'] = location.raw['extratags']['wikidata']
+                    # I don't know what is network:wikidata but it's messing my scraper
+                    if 'network:wikidata' in osmdata:
+                        entry['wikidata'] = ''
+                    elif 'wikidata' in osmdata:
+                        entry['wikidata'] = location.raw['extratags']['wikidata']
+                    else:
+                        entry['wikidata'] = ''
+
                     if 'ref:mhs' in osmdata: entry['mhs'] = location.raw['extratags']['ref:mhs']
                     if 'ref:FR:museofile' in osmdata: entry['museofile'] = location.raw['extratags']['ref:FR:museofile']
                 else:
