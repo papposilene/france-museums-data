@@ -237,9 +237,6 @@ def main():
             if entry['mhs'] is not None:
                 entry['tags'] = entry['tags'] + ';label:monuments-historiques;type:monument-historique'
 
-            if entry['museofile'] is not None:
-                entry['tags'] = entry['tags'] + ';type:musee'
-
             entry['year'] = row[4]
 
             if row[7]:
