@@ -49,7 +49,9 @@ def create_entry():
         "stats": None,
         "tags": None,
         "description": None,
-        "wikidata": None
+        "wikidata": None,
+        "museofile": None,
+        "mhs": None,
     }
 
 def main():
@@ -57,7 +59,8 @@ def main():
     locator = Nominatim(user_agent="fruseum-data/fdmdf", timeout=10)
 
     fieldnames = ['id', 'osm_id', 'name', 'number', 'street', 'postal_code', 'city', 'country', 'country_code',
-                    'status', 'lat', 'lon', 'website', 'phone', 'fax', 'email', 'year', 'stats', 'tags', 'description', 'wikidata']
+                    'status', 'lat', 'lon', 'website', 'phone', 'fax', 'email', 'year', 'stats', 'tags', 'description',
+                    'wikidata', 'museofile', 'mhs']
 
     with open(args.input, newline='') as csv_inputfile:
         csv_reader = csv.reader(csv_inputfile, delimiter=';', quotechar='|')
@@ -98,6 +101,13 @@ def main():
                     entry['city'] = ""
                 if 'country' in osmdata: entry['country'] = location.raw['address']['country']
                 if 'country_code' in osmdata:  entry['country_code'] = location.raw['address']['country_code']
+
+                if 'phone' in osmdata: entry['phone'] = location.raw['extratags']['phone']
+                if 'fax' in osmdata: entry['fax'] = location.raw['extratags']['fax']
+                if 'website' in osmdata: entry['website'] = location.raw['extratags']['website']
+                if 'wikidata' in osmdata: entry['wikidata'] = location.raw['extratags']['wikidata']
+                if 'mhs' in osmdata: entry['mhs'] = location.raw['extratags']['mhs']
+                if 'museofile' in osmdata: entry['museofile'] = location.raw['extratags']['museofile']
             else:
                 words = row[1].replace(',', ' ')
                 words = words.replace('\'', ' ')
@@ -107,7 +117,7 @@ def main():
                 words = ' '.join([w for w in words if (len(w) > 3 and len(w) < 7)])
 
                 print(words + ' ' + row[3])
-                location = locator.geocode(words + ' ' + row[3], addressdetails=True)
+                location = locator.geocode(words + ' ' + row[3], addressdetails=True, extratags=True, namedetails=True)
 
                 if hasattr(location, 'raw'):
                     print(location.raw)
@@ -132,6 +142,14 @@ def main():
                         entry['city'] = ""
                     if 'country' in osmdata: entry['country'] = location.raw['address']['country']
                     if 'country_code' in osmdata:  entry['country_code'] = location.raw['address']['country_code']
+
+                    if 'phone' in osmdata: entry['phone'] = location.raw['extratags']['phone']
+                    if 'fax' in osmdata: entry['fax'] = location.raw['extratags']['fax']
+                    if 'website' in osmdata: entry['website'] = location.raw['extratags']['website']
+                    if 'wikidata' in osmdata: entry['wikidata'] = location.raw['extratags']['wikidata']
+                    if 'mhs' in osmdata: entry['mhs'] = location.raw['extratags']['mhs']
+                    if 'museofile' in osmdata: entry['museofile'] = location.raw['extratags']['museofile']
+
                 else:
                     entry['city'] = row[3]
                     entry['country'] = 'France'
