@@ -1,4 +1,6 @@
 .DS_Store
+raw/
+*.osm
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

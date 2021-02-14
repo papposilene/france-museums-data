@@ -160,7 +160,10 @@ def main():
 
                     # Official name or name in the CSV
                     if 'namedetails' in osmdata:
-                        entry['name'] = location.raw['namedetails']['name']
+                        if location.raw['namedetails']['name']:
+                            entry['name'] = location.raw['namedetails']['name']
+                        else:
+                            entry['name'] = row[1]
                     else:
                         entry['name'] = row[1]
 
