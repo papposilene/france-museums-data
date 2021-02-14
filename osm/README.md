@@ -15,7 +15,7 @@ Open Street Maps planet data is ~54GB compressed, and ~751GB once uncompressed. 
 git clone https://github.com/papposilene/fruseumpy/osm
 
 # navigate to the data folder
-cd fruseumpy/osm/data
+cd fruseumpy/osm/raw
 
 # download the planet osm file
 wget https://ftp5.gwdg.de/pub/misc/openstreetmap/planet.openstreetmap.org/planet/2017/planet-170102.osm.bz2
@@ -33,11 +33,11 @@ The official OSM query tool is a Java application called [Osmosis](https://wiki.
 
 ```bash
 
-osmosis --read-xml data/france-latest.osm --tf accept-nodes tourism=museum --tf reject-ways --tf reject-relations --write-xml data/output-museums-nodes.osm
+osmosis --read-xml raw/france-latest.osm --tf accept-nodes tourism=museum --tf reject-ways --tf reject-relations --write-xml museums-data/france-nodes.osm
 
-osmosis --read-xml data/france-latest.osm --tf accept-ways tourism=museum --tf reject-relations --used-node --write-xml data/output-museums-ways.osm
+osmosis --read-xml raw/france-latest.osm --tf accept-ways tourism=museum --tf reject-relations --used-node --write-xml museums-data/france-ways.osm
 
-osmosis --rx data/output-museums-ways.osm --rx data/output-museums-nodes --merge --wx data/output-museums-merged.osm
+osmosis --rx museums-data/france-ways.osm --rx museums-data/france-nodes --merge --wx museums-data/france-merged.osm
 ```
 
 The above command is also the contents of `query.sh`. So you can instead run `./query.sh` for convenience. See here for [full Osmosis usage documentation](https://wiki.openstreetmap.org/wiki/Osmosis/Detailed_Usage_0.45).
