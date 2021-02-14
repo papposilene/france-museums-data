@@ -74,7 +74,6 @@ def main():
             print(f"{bcolors.OKCYAN}Row data: ", row, f"{bcolors.ENDC}")
 
             entry['id'] = row[0]
-            entry['name'] = row[1]
 
             #print(row[1])
             location = locator.geocode(row[1] + ' ' + row[3], addressdetails=True)
@@ -82,6 +81,12 @@ def main():
                 print(location.raw)
                 json_dump = json.dumps(str(location.raw))
                 osmdata = json.loads(json_dump)
+
+                # Official name or name in the CSV
+                if 'namedetails' in osmdata:
+                    entry['name'] = location.raw['namedetails']['name']
+                else:
+                    entry['name'] = row[1]
 
                 if 'osm_id' in osmdata: entry['osm_id'] = location.raw['osm_id']
                 if 'lat' in osmdata: entry['lat'] = location.raw['lat']
@@ -102,12 +107,41 @@ def main():
                 if 'country' in osmdata: entry['country'] = location.raw['address']['country']
                 if 'country_code' in osmdata:  entry['country_code'] = location.raw['address']['country_code']
 
-                if 'phone' in osmdata: entry['phone'] = location.raw['extratags']['phone']
-                if 'fax' in osmdata: entry['fax'] = location.raw['extratags']['fax']
-                if 'website' in osmdata: entry['website'] = location.raw['extratags']['website']
+                # Official website or contact:website
+                if 'contact:website' in osmdata:
+                    entry['website'] = location.raw['extratags']['contact:website']
+                elif 'website' in osmdata:
+                    entry['website'] = location.raw['extratags']['website']
+                else:
+                    entry['website'] = ''
+
+                # Official phone or contact:phone
+                if 'contact:phone' in osmdata:
+                    entry['phone'] = location.raw['extratags']['contact:phone']
+                elif 'phone' in osmdata:
+                    entry['phone'] = location.raw['extratags']['phone']
+                else:
+                    entry['phone'] = ''
+
+                # Official fax or contact:fax
+                if 'contact:fax' in osmdata:
+                    entry['fax'] = location.raw['extratags']['contact:fax']
+                elif 'fax' in osmdata:
+                    entry['fax'] = location.raw['extratags']['fax']
+                else:
+                    entry['fax'] = ''
+
+                # Official email or contact:email
+                if 'contact:email' in osmdata:
+                    entry['email'] = location.raw['extratags']['contact:email']
+                elif 'email' in osmdata:
+                    entry['email'] = location.raw['extratags']['email']
+                else:
+                    entry['email'] = ''
+
                 if 'wikidata' in osmdata: entry['wikidata'] = location.raw['extratags']['wikidata']
-                if 'mhs' in osmdata: entry['mhs'] = location.raw['extratags']['mhs']
-                if 'museofile' in osmdata: entry['museofile'] = location.raw['extratags']['museofile']
+                if 'ref:mhs' in osmdata: entry['mhs'] = location.raw['extratags']['ref:mhs']
+                if 'ref:FR:museofile' in osmdata: entry['museofile'] = location.raw['extratags']['ref:FR:museofile']
             else:
                 words = row[1].replace(',', ' ')
                 words = words.replace('\'', ' ')
@@ -123,6 +157,12 @@ def main():
                     print(location.raw)
                     json_dump = json.dumps(str(location.raw))
                     osmdata = json.loads(json_dump)
+
+                    # Official name or name in the CSV
+                    if 'namedetails' in osmdata:
+                        entry['name'] = location.raw['namedetails']['name']
+                    else:
+                        entry['name'] = row[1]
 
                     if 'osm_id' in osmdata: entry['osm_id'] = location.raw['osm_id']
                     if 'lat' in osmdata: entry['lat'] = location.raw['lat']
@@ -143,14 +183,43 @@ def main():
                     if 'country' in osmdata: entry['country'] = location.raw['address']['country']
                     if 'country_code' in osmdata:  entry['country_code'] = location.raw['address']['country_code']
 
-                    if 'phone' in osmdata: entry['phone'] = location.raw['extratags']['phone']
-                    if 'fax' in osmdata: entry['fax'] = location.raw['extratags']['fax']
-                    if 'website' in osmdata: entry['website'] = location.raw['extratags']['website']
-                    if 'wikidata' in osmdata: entry['wikidata'] = location.raw['extratags']['wikidata']
-                    if 'mhs' in osmdata: entry['mhs'] = location.raw['extratags']['mhs']
-                    if 'museofile' in osmdata: entry['museofile'] = location.raw['extratags']['museofile']
+                    # Official website or contact:website
+                    if 'contact:website' in osmdata:
+                        entry['website'] = location.raw['extratags']['contact:website']
+                    elif 'website' in osmdata:
+                        entry['website'] = location.raw['extratags']['website']
+                    else:
+                        entry['website'] = ''
 
+                    # Official phone or contact:phone
+                    if 'contact:phone' in osmdata:
+                        entry['phone'] = location.raw['extratags']['contact:phone']
+                    elif 'phone' in osmdata:
+                        entry['phone'] = location.raw['extratags']['phone']
+                    else:
+                        entry['phone'] = ''
+
+                    # Official fax or contact:fax
+                    if 'contact:fax' in osmdata:
+                        entry['fax'] = location.raw['extratags']['contact:fax']
+                    elif 'fax' in osmdata:
+                        entry['fax'] = location.raw['extratags']['fax']
+                    else:
+                        entry['fax'] = ''
+
+                    # Official email or contact:email
+                    if 'contact:email' in osmdata:
+                        entry['email'] = location.raw['extratags']['contact:email']
+                    elif 'email' in osmdata:
+                        entry['email'] = location.raw['extratags']['email']
+                    else:
+                        entry['email'] = ''
+
+                    if 'wikidata' in osmdata: entry['wikidata'] = location.raw['extratags']['wikidata']
+                    if 'ref:mhs' in osmdata: entry['mhs'] = location.raw['extratags']['ref:mhs']
+                    if 'ref:FR:museofile' in osmdata: entry['museofile'] = location.raw['extratags']['ref:FR:museofile']
                 else:
+                    entry['name'] = row[1]
                     entry['city'] = row[3]
                     entry['country'] = 'France'
                     entry['country_code'] = 'fr'
@@ -165,6 +234,9 @@ def main():
             else:
                 entry['tags'] = 'label:musee de france'
 
+            if entry['mhs'] is not None:
+                entry['tags'] = entry['tags'] + ';label:monuments-historiques'
+
             entry['year'] = row[4]
 
             if row[7]:
@@ -177,7 +249,7 @@ def main():
             else:
                 entry['stats'] = entry['stats'] + ';' + 'gratuit:0'
 
-            entry['stats'] = entry['stats'] + ';' + 'total:0' + row[9]
+            entry['stats'] = entry['stats'] + ';' + 'total:' + row[9]
 
             if row[6]:
                 entry['stats'] = entry['stats'] + ';' + 'label-date:' + row[6]
