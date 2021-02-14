@@ -139,7 +139,16 @@ def main():
                 else:
                     entry['email'] = ''
 
-                if 'wikidata' in osmdata: entry['wikidata'] = location.raw['extratags']['wikidata']
+                # I don't know what is network:wikidata but it's messing my scraper
+                if 'network:wikidata' in osmdata:
+                    entry['wikidata'] = ''
+                elif 'subject:wikidata' in osmdata:
+                    entry['wikidata'] = ''
+                elif 'wikidata' in osmdata:
+                    entry['wikidata'] = location.raw['extratags']['wikidata']
+                else:
+                    entry['wikidata'] = ''
+
                 if 'ref:mhs' in osmdata: entry['mhs'] = location.raw['extratags']['ref:mhs']
                 if 'ref:FR:museofile' in osmdata: entry['museofile'] = location.raw['extratags']['ref:FR:museofile']
 
@@ -199,6 +208,8 @@ def main():
                     # Official phone or contact:phone
                     if 'contact:phone' in osmdata:
                         entry['phone'] = location.raw['extratags']['contact:phone']
+                    elif 'telephone' in osmdata:
+                        entry['phone'] = location.raw['extratags']['telephone']
                     elif 'phone' in osmdata:
                         entry['phone'] = location.raw['extratags']['phone']
                     else:
@@ -222,6 +233,8 @@ def main():
 
                     # I don't know what is network:wikidata but it's messing my scraper
                     if 'network:wikidata' in osmdata:
+                        entry['wikidata'] = ''
+                    if 'subject:wikidata' in osmdata:
                         entry['wikidata'] = ''
                     elif 'wikidata' in osmdata:
                         entry['wikidata'] = location.raw['extratags']['wikidata']
