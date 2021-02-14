@@ -37,7 +37,7 @@ osmosis --read-xml raw/france-latest.osm --tf accept-nodes tourism=museum --tf r
 
 osmosis --read-xml raw/france-latest.osm --tf accept-ways tourism=museum --tf reject-relations --used-node --write-xml museums-data/france-ways.osm
 
-osmosis --rx museums-data/france-ways.osm --rx museums-data/france-nodes --merge --wx museums-data/france-merged.osm
+osmosis --rx museums-data/france-ways.osm --rx museums-data/france-nodes.osm --merge --wx museums-data/france-merged.osm
 ```
 
 The above command is also the contents of `query.sh`. So you can instead run `./query.sh` for convenience. See here for [full Osmosis usage documentation](https://wiki.openstreetmap.org/wiki/Osmosis/Detailed_Usage_0.45).
