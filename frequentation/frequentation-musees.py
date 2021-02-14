@@ -142,6 +142,8 @@ def main():
                 if 'wikidata' in osmdata: entry['wikidata'] = location.raw['extratags']['wikidata']
                 if 'ref:mhs' in osmdata: entry['mhs'] = location.raw['extratags']['ref:mhs']
                 if 'ref:FR:museofile' in osmdata: entry['museofile'] = location.raw['extratags']['ref:FR:museofile']
+
+            # If zero result with name and city name, we try with some words of the name
             else:
                 words = row[1].replace(',', ' ')
                 words = words.replace('\'', ' ')
@@ -160,7 +162,7 @@ def main():
 
                     # Official name or name in the CSV
                     if 'namedetails' in osmdata:
-                        if location.raw['namedetails']['name']:
+                        if 'name' in location.raw['namedetails']:
                             entry['name'] = location.raw['namedetails']['name']
                         else:
                             entry['name'] = row[1]
