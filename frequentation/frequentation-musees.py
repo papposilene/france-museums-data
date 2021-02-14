@@ -234,7 +234,7 @@ def main():
                     # I don't know what is network:wikidata but it's messing my scraper
                     if 'network:wikidata' in osmdata:
                         entry['wikidata'] = ''
-                    if 'subject:wikidata' in osmdata:
+                    elif 'subject:wikidata' in osmdata:
                         entry['wikidata'] = ''
                     elif 'wikidata' in osmdata:
                         entry['wikidata'] = location.raw['extratags']['wikidata']
