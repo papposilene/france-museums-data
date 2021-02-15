@@ -73,7 +73,7 @@ def main():
             print(f"{bcolors.OKGREEN}Row #", num_rows, f"{bcolors.ENDC}")
             print(f"{bcolors.OKCYAN}Row data: ", row, f"{bcolors.ENDC}")
 
-            if row[4] !== args.year:
+            if row[4] != args.year:
                 continue
 
             entry['year'] = row[4]
