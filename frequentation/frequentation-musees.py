@@ -73,12 +73,13 @@ def main():
             print(f"{bcolors.OKGREEN}Row #", num_rows, f"{bcolors.ENDC}")
             print(f"{bcolors.OKCYAN}Row data: ", row, f"{bcolors.ENDC}")
 
+            # Extract only frequentation for this year
             if row[4] != args.year:
                 continue
 
             entry['year'] = row[4]
-
             entry['id'] = row[0]
+            entry['tags'] = ''
 
             #print(row[1])
             location = locator.geocode(row[1] + ' ' + row[3], addressdetails=True)
@@ -156,6 +157,11 @@ def main():
 
                 if 'ref:mhs' in osmdata: entry['mhs'] = location.raw['extratags']['ref:mhs']
                 if 'ref:FR:museofile' in osmdata: entry['museofile'] = location.raw['extratags']['ref:FR:museofile']
+
+                if 'type' in osmdata:
+                    entry['tags'] = 'osm:museum;type:' + location.raw['type']
+                else:
+                    entry['tags'] = 'osm:museum;type:a classer'
 
             # If zero result with name and city name, we try with some words of the name
             else:
@@ -248,6 +254,12 @@ def main():
 
                     if 'ref:mhs' in osmdata: entry['mhs'] = location.raw['extratags']['ref:mhs']
                     if 'ref:FR:museofile' in osmdata: entry['museofile'] = location.raw['extratags']['ref:FR:museofile']
+
+                    if 'type' in osmdata:
+                        entry['tags'] = 'osm:museum;type:' + location.raw['type']
+                    else:
+                        entry['tags'] = 'osm:museum;type:a classer'
+
                 else:
                     entry['name'] = row[1]
                     entry['city'] = row[3]
@@ -260,12 +272,12 @@ def main():
                 entry['status'] = 'open'
 
             if row[10] == 'R':
-                entry['tags'] = 'unlabel:musee de france'
+                entry['tags'] = entry['tags'] + ';unlabel:musee de france'
             else:
-                entry['tags'] = 'label:musee de france'
+                entry['tags'] = entry['tags'] + ';label:musee de france'
 
             if entry['mhs'] is not None:
-                entry['tags'] = entry['tags'] + ';label:monuments-historiques;type:monument-historique'
+                entry['tags'] = entry['tags'] + ';label:monuments-historiques'
 
             if row[7]:
                 entry['stats'] = 'payant:' + row[7]

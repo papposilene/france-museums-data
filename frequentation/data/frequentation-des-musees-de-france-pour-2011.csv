@@ -1,0 +1,12 @@
+id,osm_id,name,number,street,postal_code,city,country,country_code,status,lat,lon,website,phone,fax,email,year,stats,tags,description,wikidata,museofile,mhs
+6738801,,Musée du Fer,,,,REICHSHOFFEN,France,fr,open,,,,,,,2011,payant:572;gratuit:512;total:1084;label-date:01/02/2003,;label:musee de france,,,,
+6743701,1801327289,Musée du Château des Rohan,,Place du Général de Gaulle,67700,Saverne,France,fr,open,48.7418466,7.3639083,,,,,2011,payant:4678;gratuit:4176;total:8854;label-date:01/02/2003,osm:museum;type:museum;label:musee de france,,,,
+6803601,685084692,Musée Gallo-Romain,,Rue des Capucins,68600,Biesheim,France,fr,open,48.039525,7.5455969,,,,,2011,payant:693;gratuit:1844;total:2537;label-date:01/02/2003,osm:museum;type:museum;label:musee de france,,,,
+6811201,70325197,Musée Théodore Deck et des Pays du Florival,1,Rue du 4 Février,68500,Guebwiller,France,fr,open,47.90581675,7.215371294817073,,,,,2011,payant:1388;gratuit:4189;total:5577;label-date:01/02/2003,osm:museum;type:museum;label:musee de france,,,,
+6822403,449007880,Musée National de l'Automobile - Collection Schlumpf,,Autodrome du Musée de l'Automobile,68100,Mulhouse,France,fr,open,47.7612848,7.327971551196445,,,,,2011,payant:150491;gratuit:22045;total:172536;label-date:01/02/2003,osm:museum;type:museum;label:musee de france,,,,
+6834701,,Musée du Sapeur Pompier d'Alsace,,,,MULHOUSE,France,fr,closed,,,,,,,2011,payant:0;gratuit:0;total:;label-date:01/02/2003,;label:musee de france,,,,
+6827801,1936849476,Musée du Papier Peint,28,Rue Zuber,68170,Rixheim,France,fr,open,47.7444268,7.3972851,,,,,2011,payant:6256;gratuit:4414;total:10670;label-date:01/02/2003,osm:museum;type:museum;label:musee de france,,,,
+6834301,261857352,Ecomusée d'Alsace,,Chemin des Remparts,68190,Ungersheim,France,fr,open,47.85306625,7.2871333354354615,,,,,2011,payant:180774;gratuit:0;total:180774;label-date:01/02/2003,osm:museum;type:museum;label:musee de france,,,,
+2403701,369318223,Musée du Tabac,,Place du Feu,24100,Bergerac,France,fr,open,44.84971,0.4837602,,,,,2011,payant:1703;gratuit:1683;total:3386;label-date:01/02/2003,osm:museum;type:museum;label:musee de france,,,,
+2429901,3136128949,Musée des Arts et Traditions Populaires du Périgord,1,Rue Raoul Grassin,24400,Mussidan,France,fr,open,45.0375278,0.362942,,,,,2011,payant:1062;gratuit:613;total:1675;label-date:01/02/2003,osm:museum;type:museum;label:musee de france,,,,
+2431101,,Musée Départemental de la Poupée et du Jouet,,,,NONTRON,France,fr,closed,,,,,,,2011,payant:0;gratuit:0;total:;label-date:01/02/2003,;label:musee de france,,,,
