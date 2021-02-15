@@ -102,9 +102,9 @@ def main():
                 if 'country_code' in osm_data[0]['address']: entry['country_code'] = osm_data[0]['address']['country_code']
 
                 if 'type' in osm_data[0]:
-                    entry['tags'] = 'type:' + osm_data[0]['type']
+                    entry['tags'] = 'osm:museum;type:' + osm_data[0]['type']
                 else:
-                    entry['tags'] = 'type:a classer'
+                    entry['tags'] = 'osm:museum;type:a classer'
 
             for tag in node.findall('tag'):
                 print(tag.get('v'))
