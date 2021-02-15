@@ -101,6 +101,11 @@ def main():
                 if 'country' in osm_data[0]['address']: entry['country'] = osm_data[0]['address']['country']
                 if 'country_code' in osm_data[0]['address']: entry['country_code'] = osm_data[0]['address']['country_code']
 
+                if 'type' in osm_data[0]:
+                    entry['tags'] = 'type:' + osm_data[0]['type']
+                else:
+                    entry['tags'] = 'type:a classer'
+
             for tag in node.findall('tag'):
                 print(tag.get('v'))
                 if tag.get('k') == 'website': entry['website'] = tag.get('v')
@@ -108,8 +113,6 @@ def main():
                 if tag.get('k') == 'phone': entry['phone'] = tag.get('v')
                 if tag.get('k') == 'wikidata': entry['wikidata'] = tag.get('v')
                 if tag.get('k') == 'description': entry['description'] = tag.get('v')
-
-            entry['tags'] = 'osm:museum;type:a classer'
 
             num_rows += 1
             # add to csv
