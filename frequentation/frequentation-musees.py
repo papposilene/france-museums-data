@@ -75,6 +75,7 @@ def main():
 
             # Extract only frequentation for this year
             if row[4] != args.year:
+                print(f"{bcolors.FAIL}Row skipped.", f"{bcolors.ENDC}")
                 continue
 
             entry['year'] = row[4]
