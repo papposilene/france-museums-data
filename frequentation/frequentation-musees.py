@@ -23,7 +23,7 @@ class bcolors:
 def parse_args():
     parser = argparse.ArgumentParser(description='Convert messy frequentation-des-musees-de-france csv files to structured by year files')
     parser.add_argument('-i', '--input', type=str, required=True, help='input messy csv filename')
-    parser.add_argument('-y', '--year', type=str, required=False, help='extract data for ths given year (format: xxxx)')
+    parser.add_argument('-y', '--year', type=str, required=True, help='extract data for ths given year (format: xxxx)')
     parser.add_argument('-v', '--version', action='version', version='1.0')
     return parser.parse_args()
 
@@ -72,6 +72,11 @@ def main():
         for row in csv_reader:
             print(f"{bcolors.OKGREEN}Row #", num_rows, f"{bcolors.ENDC}")
             print(f"{bcolors.OKCYAN}Row data: ", row, f"{bcolors.ENDC}")
+
+            if row[4] !== args.year:
+                continue
+
+            entry['year'] = row[4]
 
             entry['id'] = row[0]
 
@@ -261,8 +266,6 @@ def main():
 
             if entry['mhs'] is not None:
                 entry['tags'] = entry['tags'] + ';label:monuments-historiques;type:monument-historique'
-
-            entry['year'] = row[4]
 
             if row[7]:
                 entry['stats'] = 'payant:' + row[7]
