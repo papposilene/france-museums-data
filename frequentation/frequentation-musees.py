@@ -77,12 +77,12 @@ def main():
 
         for row in csv_reader:
             print(f"{bcolors.OKGREEN}Row #", rows_total, f"{bcolors.ENDC}")
-            print(f"{bcolors.OKCYAN}Row data: ", rows_skipped, f"{bcolors.ENDC}")
+            print(f"{bcolors.OKCYAN}Row data: ", row, f"{bcolors.ENDC}")
 
             # Extract only frequentation for this year
             if row[4] != args.year:
                 rows_skipped += 1
-                print(f"{bcolors.FAIL}Skipped row #", row, f"{bcolors.ENDC}")
+                print(f"{bcolors.FAIL}Skipped row #", rows_skipped, f"{bcolors.ENDC}")
                 continue
 
             entry['year'] = row[4]
