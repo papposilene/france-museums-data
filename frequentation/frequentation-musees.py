@@ -63,17 +63,21 @@ def main():
                     'wikidata', 'museofile', 'mhs']
 
     with open(args.input, newline='') as csv_inputfile:
+        # Setup counters (data,skipped and total)
+        rows_total = 1
+        rows_data = 1
+        rows_skipped = 1
+
+        # Initiate CSV reader
         csv_reader = csv.reader(csv_inputfile, delimiter=';', quotechar='|')
         headers = next(csv_reader, None)
 
-        rows_total = 0
-        rows_data = 0
-        rows_skipped = 0
+        # Initiate entry
         entry = create_entry()
 
         for row in csv_reader:
             print(f"{bcolors.OKGREEN}Row #", rows_total, f"{bcolors.ENDC}")
-            print(f"{bcolors.OKCYAN}Row data: ", row, f"{bcolors.ENDC}")
+            print(f"{bcolors.OKCYAN}Row data: ", rows_skipped, f"{bcolors.ENDC}")
 
             # Extract only frequentation for this year
             if row[4] != args.year:
@@ -313,7 +317,7 @@ def main():
             rows_total += 1
             entry = create_entry()
 
-        print('wrote {} rows.'.format(num_rows))
+        print('wrote {0} rows,with {1} extracted and {2} skipped.'.format(rows_total, rows_data, rows_skipped))
 
 if __name__ == '__main__':
     main()
