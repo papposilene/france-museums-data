@@ -275,6 +275,7 @@ def main():
                     entry['city'] = row[3]
                     entry['country'] = 'France'
                     entry['country_code'] = 'fr'
+                    entry['tags'] = 'osm:museum;type:a classer'
 
             if row[10] == 'F':
                 entry['status'] = 'closed'
