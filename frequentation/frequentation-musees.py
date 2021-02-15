@@ -66,16 +66,19 @@ def main():
         csv_reader = csv.reader(csv_inputfile, delimiter=';', quotechar='|')
         headers = next(csv_reader, None)
 
-        num_rows = 0
+        rows_total = 0
+        rows_data = 0
+        rows_skipped = 0
         entry = create_entry()
 
         for row in csv_reader:
-            print(f"{bcolors.OKGREEN}Row #", num_rows, f"{bcolors.ENDC}")
+            print(f"{bcolors.OKGREEN}Row #", rows_total, f"{bcolors.ENDC}")
             print(f"{bcolors.OKCYAN}Row data: ", row, f"{bcolors.ENDC}")
 
             # Extract only frequentation for this year
             if row[4] != args.year:
-                print(f"{bcolors.FAIL}Row skipped.", f"{bcolors.ENDC}")
+                rows_skipped += 1
+                print(f"{bcolors.FAIL}Skipped row #", row, f"{bcolors.ENDC}")
                 continue
 
             entry['year'] = row[4]
@@ -306,7 +309,8 @@ def main():
                     csv_writer.writeheader()
                     csv_writer.writerow(entry)
 
-            num_rows += 1
+            rows_data += 1
+            rows_total += 1
             entry = create_entry()
 
         print('wrote {} rows.'.format(num_rows))
