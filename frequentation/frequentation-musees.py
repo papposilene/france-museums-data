@@ -64,9 +64,9 @@ def main():
 
     with open(args.input, newline='') as csv_inputfile:
         # Setup counters (data,skipped and total)
-        rows_total = 1
-        rows_data = 1
-        rows_skipped = 1
+        rows_total = 0
+        rows_data = 0
+        rows_skipped = 0
 
         # Initiate CSV reader
         csv_reader = csv.reader(csv_inputfile, delimiter=';', quotechar='|')
@@ -77,13 +77,15 @@ def main():
 
         for row in csv_reader:
             print(f"{bcolors.OKGREEN}Row #", rows_total, f"{bcolors.ENDC}")
-            print(f"{bcolors.OKCYAN}Row data: ", row, f"{bcolors.ENDC}")
 
             # Extract only frequentation for this year
             if row[4] != args.year:
                 rows_skipped += 1
                 print(f"{bcolors.FAIL}Skipped row #", rows_skipped, f"{bcolors.ENDC}")
                 continue
+
+            # If row not skipped, let's go!
+            print(f"{bcolors.OKCYAN}Row data: ", row, f"{bcolors.ENDC}")
 
             entry['year'] = row[4]
             entry['id'] = row[0]
