@@ -81,7 +81,7 @@ def main():
             # Extract only frequentation for this year
             if row[4] != args.year:
                 rows_skipped += 1
-                print(f"{bcolors.FAIL}Skipped row #", rows_skipped, f"{bcolors.ENDC}")
+                print(f"{bcolors.FAIL}Skipped row #", rows_total, f"{bcolors.ENDC}")
                 continue
 
             # If row not skipped, let's go!
