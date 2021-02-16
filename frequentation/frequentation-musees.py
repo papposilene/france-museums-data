@@ -320,7 +320,7 @@ def main():
             rows_total += 1
             entry = create_entry()
 
-        print('wrote {0} rows,with {1} extracted and {2} skipped.'.format(rows_total, rows_data, rows_skipped))
+        print('Wrote {0} rows for {1}, with {2} extracted and {3} skipped.'.format(rows_total, args.year, rows_data, rows_skipped))
 
 if __name__ == '__main__':
     main()
