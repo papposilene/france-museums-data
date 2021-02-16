@@ -89,7 +89,7 @@ def main():
 
             entry['year'] = row[4]
             entry['id'] = row[0]
-            entry['tags'] = ''
+            entry['tags'] = 'osm:museum'
 
             #print(row[1])
             location = locator.geocode(row[1] + ' ' + row[3], addressdetails=True)
@@ -166,13 +166,13 @@ def main():
                     entry['wikidata'] = ''
 
                 if 'ref:mhs' in osmdata: entry['mhs'] = location.raw['extratags']['ref:mhs']
-                if 'mhs:inscription_date' in osmdata: entry['tags'] = 'mhs-date:' + location.raw['extratags']['mhs:inscription_date']
+                if 'mhs:inscription_date' in osmdata: entry['tags'] = entry['tags'] + ';mhs-date:' + location.raw['extratags']['mhs:inscription_date']
                 if 'ref:FR:museofile' in osmdata: entry['museofile'] = location.raw['extratags']['ref:FR:museofile']
 
                 if 'type' in osmdata:
-                    entry['tags'] = 'osm:museum;type:' + location.raw['type']
+                    entry['tags'] = entry['tags'] + ';type:' + location.raw['type']
                 else:
-                    entry['tags'] = 'osm:museum;type:a classer'
+                    entry['tags'] = entry['tags'] + ';type:a classer'
 
             # If zero result with name and city name, we try with some words of the name
             else:
@@ -264,21 +264,21 @@ def main():
                         entry['wikidata'] = ''
 
                     if 'ref:mhs' in osmdata: entry['mhs'] = location.raw['extratags']['ref:mhs']
-                    if 'mhs:inscription_date' in osmdata: entry['tags'] = 'mhs-date:' + location.raw['extratags']['mhs:inscription_date']
+                    if 'mhs:inscription_date' in osmdata: entry['tags'] = entry['tags'] + ';mhs-date:' + location.raw['extratags']['mhs:inscription_date']
 
                     if 'ref:FR:museofile' in osmdata: entry['museofile'] = location.raw['extratags']['ref:FR:museofile']
 
                     if 'type' in osmdata:
-                        entry['tags'] = 'osm:museum;type:' + location.raw['type']
+                        entry['tags'] = entry['tags'] + ';type:' + location.raw['type']
                     else:
-                        entry['tags'] = 'osm:museum;type:a classer'
+                        entry['tags'] = entry['tags'] + ';type:a classer'
 
                 else:
                     entry['name'] = row[1]
                     entry['city'] = row[3]
                     entry['country'] = 'France'
                     entry['country_code'] = 'fr'
-                    entry['tags'] = 'osm:museum;type:a classer'
+                    entry['tags'] = 'type:a classer'
 
             if row[10] == 'F':
                 entry['status'] = 'closed'
