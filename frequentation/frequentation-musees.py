@@ -76,6 +76,7 @@ def main():
         entry = create_entry()
 
         for row in csv_reader:
+            rows_total += 1
             print(f"{bcolors.OKGREEN}Row #", rows_total, f"{bcolors.ENDC}")
 
             # Extract only frequentation for this year
@@ -320,7 +321,6 @@ def main():
                     csv_writer.writerow(entry)
 
             rows_data += 1
-            rows_total += 1
             entry = create_entry()
 
         print('Wrote {0} rows for {1}, with {2} extracted and {3} skipped.'.format(rows_total, args.year, rows_data, rows_skipped))
