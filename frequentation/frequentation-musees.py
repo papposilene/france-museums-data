@@ -166,6 +166,7 @@ def main():
                     entry['wikidata'] = ''
 
                 if 'ref:mhs' in osmdata: entry['mhs'] = location.raw['extratags']['ref:mhs']
+                if 'mhs:inscription_date' in osmdata: entry['tags'] = 'mhs-date:' + location.raw['extratags']['mhs:inscription_date']
                 if 'ref:FR:museofile' in osmdata: entry['museofile'] = location.raw['extratags']['ref:FR:museofile']
 
                 if 'type' in osmdata:
@@ -263,6 +264,8 @@ def main():
                         entry['wikidata'] = ''
 
                     if 'ref:mhs' in osmdata: entry['mhs'] = location.raw['extratags']['ref:mhs']
+                    if 'mhs:inscription_date' in osmdata: entry['tags'] = 'mhs-date:' + location.raw['extratags']['mhs:inscription_date']
+
                     if 'ref:FR:museofile' in osmdata: entry['museofile'] = location.raw['extratags']['ref:FR:museofile']
 
                     if 'type' in osmdata:
@@ -303,7 +306,7 @@ def main():
             entry['stats'] = entry['stats'] + ';' + 'total:' + row[9]
 
             if row[6]:
-                entry['stats'] = entry['stats'] + ';' + 'label-date:' + row[6]
+                entry['stats'] = entry['stats'] + ';' + 'mdf-date:' + row[6]
 
             output_file = './data/frequentation-des-musees-de-france-pour-' + row[4] + '.csv'
             if os.path.isfile(output_file):
