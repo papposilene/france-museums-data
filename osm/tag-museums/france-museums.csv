@@ -898,8 +898,8 @@
 6433601440,La Maison du textile,,Rue Jeannine Leduce,02230,Fresnoy-le-Grand,France,fr,49.9494968,3.4111063,http://www.ot-vermandois.com/Visiter/La-Maison-du-Textile,,,,osm:museum;type:ecomusee,,2019-04-28T07:16:21Z,
 331017489,La Maison espagnole,,Rue Victor Hugo,08500,Revin,France,fr,49.943895,4.637349535027088,,,,,osm:museum;type:ecomusee,,2017-09-09T21:27:22Z,Q3280146
 74931087,La Maison Labourdine,,Route du Fronton,64480,Ustaritz,France,fr,43.422698249999996,-1.4813060500000015,http://www.lamaisonlabourdine.com/pagefr.htm,,,,osm:museum;type:ecomusee,,2017-09-11T21:09:23Z,
-68828954,La Maison Loo,48,Rue de Courcelles,75008,Paris,France,fr,48.876749000000004,2.307738218801163,http://www.pagodaparis.com/,,+33 1 45 61 06 93,,osm:museum;type:musee d'art;continent: art asiatique;management;prive,,2019-05-28T10:21:10Z,Q22980254
-1900847567,La Maison Martin Nadaud,,D 13,23250,Soubrebost,France,fr,45.9841168,1.8537746,,,,,osm:museum;type:maison de personnalite;gender:musee d'homme,,2012-09-05T17:56:31Z,
+68828954,La Maison Loo,48,Rue de Courcelles,75008,Paris,France,fr,48.876749000000004,2.307738218801163,http://www.pagodaparis.com/,,+33 1 45 61 06 93,,osm:museum;type:musee d'art;continent:art asiatique;management:prive,,2019-05-28T10:21:10Z,Q22980254
+1900847567,La Maison Martin Nadaud,,Départementale 13,23250,Soubrebost,France,fr,45.9841168,1.8537746,,,,,osm:museum;type:maison de personnalite;gender:musee d'homme,,2012-09-05T17:56:31Z,
 5799865129,La Maison musée,,Place Neuve,04370,Colmars,France,fr,44.1812343,6.6270746,,,,,osm:museum;type:musee d'art populaire,,2020-08-03T18:45:57Z,
 4994499047,La Maison paysanne,7,Boulevard de la Plage,17370,Le Grand-Village-Plage,France,fr,45.8606004,-1.2392756,http://www.maison-eco-paysanne.fr,,,,osm:museum;type:centre d'interpretation,Centre d'interprétation sur l'éco construction d'hier à demain.,2020-09-13T12:33:25Z,
 5895937281,La Maison rurale de 1914,,Chemin Rural du Mas des Cols,12360,Gissac,France,fr,43.8866244,2.8797419,,,,,osm:museum;type:musee d'art populaire,,2020-07-16T13:45:19Z,
@@ -1453,7 +1453,7 @@
 355324146,Mastaba 1,10,Avenue Rhin-et-Danube,92250,La Garenne-Colombes,France,fr,48.90354065,2.2431254937698983,,,,,osm:museum;type:maison de personnalite;gender:musee d'homme,,2017-10-13T18:01:00Z,
 183448691,Maternité Suisse d'Elne,,Route de Bages,66200,Elne,France,fr,42.6040543,2.954837084398661,,,,,osm:museum;type:monument historique;type:musee d'histoire,,2012-09-29T16:23:36Z,
 2361236906,Musée Maurice Dufresne,17,Route de Marnay,37190,Azay-le-Rideau,France,fr,47.2791062,0.394886,http://musee-dufresne.com/,,,,osm:museum;type:musee technique et industriel;gender:musee d'homme,,2019-05-25T08:18:29Z,Q3329276
-742164185,Médard,71,Place des Martyrs de la Résistance,34400,Lunel,France,fr,43.67546135,4.134306755355675,http://www.museemedard.fr,museemedard@ville-lunel.fr,+33 4 67 87 83 95,,osm:museum;type:centre d'interpretation;musee litteraire,Centre d'interprétation du livre et du patrimoine écrit,2020-02-14T18:08:05Z,Q3166916
+742164185,Médard,71,Place des Martyrs de la Résistance,34400,Lunel,France,fr,43.67546135,4.134306755355675,http://www.museemedard.fr,museemedard@ville-lunel.fr,+33 4 67 87 83 95,,osm:museum;type:centre d'interpretation;type:musee litteraire,Centre d'interprétation du livre et du patrimoine écrit,2020-02-14T18:08:05Z,Q3166916
 809047792,Médiathèque,15,Quai Charles-Albert Besson,74500,Évian-les-Bains,France,fr,46.4011061,6.5917128,,,,,osm:museum;type:bibliotheque,,2012-05-16T19:09:52Z,
 3698624861,Medievalys,,Place de la Cathédrale,35120,Dol-de-Bretagne,France,fr,48.5501459,-1.7560194,http://www.medievalys.fr,,+33 2 99 48 35 30,,osm:museum;type:centre d'interpretation,,2015-08-15T14:39:16Z,
 107979109,Mémoire du Maquis,,Route des Glières,,Glières-Val-de-Borne,France,fr,45.966362149999995,6.331997356956517,,,,,osm:museum;type:musee d'histoire,,2018-09-29T09:35:01Z,
@@ -2604,7 +2604,7 @@
 70306579,Musée des Peintres,,Rue de Quimper,56320,Le Faouët,France,fr,48.031697050000005,-3.4906217109201094,https://www.museedufaouet.fr/,,+33 2 97 23 15 27,,osm:museum;type:musee d'art,,2020-01-25T21:31:57Z,Q3330343
 82531995,Musée des Peintres de l'École de Murol,,Rue du Château,63790,Murol,France,fr,45.57458075,2.94273410322746,,,,,osm:museum;type:musee d'art,,2014-08-19T20:14:51Z,
 798314887,Musée des Pénitents Blancs,,Place de l'Église,63940,Marsac-en-Livradois,France,fr,45.4787455,3.7287661,,,+33 4 73 95 60 08,,osm:museum;type:musee d'art populaire,Musée de France,2020-07-14T16:40:41Z,
-2139061354,Musée des Phares et Balises,,Route du Phare,,Lampaul,France,fr,48.4594493,-5.1294058,https://www.pnr-armorique.fr/fr/expositions/phares.htm,,+33 2 98 48 80 70,,osm:museum;type:musee maritime,,2020-05-02T15:32:03Z,
+2139061354,Musée des Phares et Balises,,Route du Phare,29810,Lampaul-Plouarzel,France,fr,48.4594493,-5.1294058,https://www.pnr-armorique.fr/fr/expositions/phares.htm,,+33 2 98 48 80 70,,osm:museum;type:musee maritime,,2020-05-02T15:32:03Z,
 1741453518,Musée des pilhaouerien et du recteur,,Route de Pleyben,29530,Loqueffret,France,fr,48.3195293,-3.858364,,,,,osm:museum;type:musee d'art populaire,,2017-09-10T03:21:30Z,Q3388424
 3303412974,Musée des Plans-Reliefs,,Cour de la Valeur,75007,Paris,France,fr,48.8564589,2.3132374,http://www.museedesplansreliefs.culture.fr/,,+33 1 45 51 95 05,,osm:museum;type:musee d'histoire,,2021-01-01T00:01:46Z,Q2915606
 135250826,Musée des Pompes,,Digue du Ringsloot,,Ghyvelde,France,fr,51.0470895,2.528698112068966,,,,,osm:museum;type:musee technique et industriel,,2014-11-27T15:50:22Z,
@@ -3534,7 +3534,7 @@
 1728784316,Petit musée du Chocolat,,Place Barthelon,05200,Embrun,France,fr,44.5641001,6.496134,,,,,osm:museum;type:ecomusee,,2013-08-05T12:24:25Z,
 5837934895,Patrimoine agricole d'antan,,Piste BMX,67310,Saverne,France,fr,48.6545693,7.3664865,,,,,osm:museum;type:musee d'art et traditions populaires;gender:musee d'homme,,2018-08-17T09:14:53Z,
 7237313213,Château-musée Paul Pastre,3,Boulevard Gabriel Péri,34590,Marsillargues,France,fr,43.6656254,4.1779274,https://www.museemarsillargues.fr,museemarsillargues@orange.fr,+33 4 67 65 41 58,,osm:museum;type:musee d'art et traditions populaires;gender:musee d'homme,,2020-02-23T19:03:54Z,
-56186898,Pavillon de l'Arsenal,,Boulevard Morland,75004,Paris,France,fr,48.85052315,2.3621531293709523,http://www.pavillon-arsenal.com/,infopa@pavillon-arsenal.com,01.42.76.33.97; 01.42.76.26.32,,osm:museum;type:centre d'art,,2018-05-21T10:49:00Z,Q2000339
+56186898,Pavillon de l'Arsenal,,Boulevard Morland,75004,Paris,France,fr,48.85052315,2.3621531293709523,http://www.pavillon-arsenal.com/,infopa@pavillon-arsenal.com,01 42 76 33 97,,osm:museum;type:centre d'art,,2018-05-21T10:49:00Z,Q2000339
 86428524,Pavillon de l'Eau,,Quai Louis Blériot,75016,Paris,France,fr,48.846347699999995,2.2732064282775286,http://eaudeparis.fr/lespace-culture/pavillon-de-leau/,pavillondeleau@eaudeparis.fr,+33142245402,,osm:museum;type:musee technique et industriel,,2020-02-03T15:29:01Z,Q3471001
 286907782,Pavillon de l'Erable,,Rue du Vieux Ru,77210,Avon,France,fr,48.41356385,2.7332783909538194,,,,,osm:museum;type:ecomusee,,2019-09-10T14:12:00Z,
 5683585911,Pavillon de l'histoire locale,,Grande Rue,78290,Croissy-sur-Seine,France,fr,48.8774107,2.151977,http://lamemoiredecroissy.fr/,lamemoiredecroissy@free.fr,+33664670090,,osm:museum;type:musee d'histoire,,2020-08-08T16:59:22Z,
