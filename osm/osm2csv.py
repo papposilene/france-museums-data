@@ -26,6 +26,7 @@ def parse_args():
 def create_entry():
     return {
         "osm_id": None,
+        "musee_id": None,
         "name": None,
         "number": None,
         "street": None,
@@ -42,7 +43,8 @@ def create_entry():
         "tags": None,
         "description": None,
         "date_added": None,
-        "wikidata": None
+        "wikidata_id": None,
+        "mhs_id": None,
     }
 
 def main():
@@ -52,9 +54,9 @@ def main():
 
     with open(args.output, 'wb') as csv_file:
 
-        fieldnames = ['osm_id', 'name', 'number', 'street', 'postal_code',
+        fieldnames = ['osm_id', 'musee_id', 'name', 'number', 'street', 'postal_code',
                       'city', 'country', 'country_code', 'lat', 'lon', 'website', 'email', 'phone', 'fax', 'tags', 'description', 'date_added',
-                      'wikidata']
+                      'wikidata_id', 'mhs_id']
         csv_writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
         csv_writer.writeheader()
 
