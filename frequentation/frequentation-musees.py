@@ -35,9 +35,9 @@ def create_entry():
         #"number": None,
         #"street": None,
         #"postal_code": None,
-        #"city": None,
-        #"country": None,
-        #"country_code": None,
+        "city": None,
+        "country": None,
+        "country_code": None,
         "status": None,
         #"lat": None,
         #"lon": None,
@@ -57,7 +57,7 @@ def create_entry():
 def main():
     args = parse_args()
 
-    fieldnames = ['id', 'osm_id', 'name', 'status', 'year', 'stats', 'tags']
+    fieldnames = ['id', 'osm_id', 'name', 'city', 'country', 'country_code', 'status', 'year', 'stats', 'tags']
 
     with open(args.input, newline='') as csv_inputfile:
         # Setup counters (data,skipped and total)
@@ -88,6 +88,9 @@ def main():
             entry['year'] = row[4]
             entry['id'] = row[0]
             entry['name'] = row[1]
+            entry['city'] = row[3]
+            entry['country'] = 'France'
+            entry['country_code'] = 'fr'
             entry['tags'] = ''
 
             if row[10] == 'F':
