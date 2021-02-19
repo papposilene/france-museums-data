@@ -91,7 +91,6 @@ def main():
             entry['city'] = row[3]
             entry['country'] = 'France'
             entry['country_code'] = 'fr'
-            entry['tags'] = ''
 
             if row[10] == 'F':
                 entry['status'] = 'closed'
@@ -99,9 +98,9 @@ def main():
                 entry['status'] = 'open'
 
             if row[10] == 'R':
-                entry['tags'] = entry['tags'] + ';unlabel:musee de france'
+                entry['tags'] = 'unlabel:musee de france'
             else:
-                entry['tags'] = entry['tags'] + ';label:musee de france'
+                entry['tags'] = 'label:musee de france'
 
             if row[7]:
                 entry['stats'] = 'payant:' + row[7]
