@@ -1,0 +1,1220 @@
+id,osm_id,name,status,year,stats,tags
+6702101,,Musée de la Folie Marco,open,2008,payant:2187;gratuit:2339;total:4526;mdf-date:01/02/2003,;label:musee de france
+6733901,,Musée de la Poterie,open,2008,payant:2828;gratuit:538;total:3366;mdf-date:01/02/2003,;label:musee de france
+6718002,,Musée Alsacien,open,2008,payant:1418;gratuit:1329;total:2747;mdf-date:01/02/2003,;label:musee de france
+6718001,,Musée Historique,open,2008,payant:1853;gratuit:3305;total:5158;mdf-date:01/02/2003,;label:musee de france
+6732401,,Maison de l'Archéologie des Vosges du Nord,open,2008,payant:1962;gratuit:723;total:2685;mdf-date:01/02/2003,;label:musee de france
+6743701,,Musée du Château des Rohan,open,2008,payant:8431;gratuit:5370;total:13801;mdf-date:01/02/2003,;label:musee de france
+6748202,,Musée Archéologique,open,2008,payant:7720;gratuit:34574;total:42294;mdf-date:06/01/2002,;label:musee de france
+6748213,,Musée Tomi Ungerer,open,2008,payant:25921;gratuit:34592;total:60513;mdf-date:18/04/2008,;label:musee de france
+6803601,,Musée Gallo-Romain,open,2008,payant:866;gratuit:1950;total:2816;mdf-date:01/02/2003,;label:musee de france
+6806603,,Musée Bartholdi,open,2008,payant:7062;gratuit:4246;total:11308;mdf-date:01/02/2003,;label:musee de france
+6814901,,Musée Historique et Militaire de Huningue,open,2008,payant:375;gratuit:493;total:868;mdf-date:01/02/2003,;label:musee de france
+6816401,,Musée du Vignoble et des Vins d'Alsace,open,2008,payant:4703;gratuit:0;total:4703;mdf-date:01/02/2003,;label:musee de france
+6822401,,Musée des Beaux-Arts,open,2008,payant:0;gratuit:15615;total:15615;mdf-date:01/02/2003,;label:musee de france
+6822403,,Musée National de l'Automobile - Collection Schlumpf,open,2008,payant:142277;gratuit:31912;total:174189;mdf-date:01/02/2003,;label:musee de france
+2403701,,Musée du Tabac,open,2008,payant:2774;gratuit:1590;total:4364;mdf-date:01/02/2003,;label:musee de france
+2431101,,Musée Départemental de la Poupée et du Jouet,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+2452002,,Musée de Sarlat et du Périgord Noir,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+3305701,,Musée Municipal de Blasimon,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+3306304,,Musée d'Aquitaine,open,2008,payant:8975;gratuit:102249;total:111224;mdf-date:06/01/2002,;label:musee de france
+3306305,,Muséum d'Histoire Naturelle de Bordeaux,open,2008,payant:2486;gratuit:37250;total:39736;mdf-date:01/02/2003,;label:musee de france
+3306310,,Musée Goupil,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+3306306,,Musée des Arts Décoratifs,open,2008,payant:7544;gratuit:28897;total:36441;mdf-date:01/02/2003,;label:musee de france
+3306303,,Musée des Beaux-Arts,open,2008,payant:49945;gratuit:72235;total:122180;mdf-date:06/01/2002,;label:musee de france
+3335201,,Musée Municipal,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+4019401,,Musée de la Chalosse,open,2008,payant:8921;gratuit:2903;total:11824;mdf-date:01/02/2003,;label:musee de france
+4700101,,Musée des Beaux-Arts,open,2008,payant:7236;gratuit:11538;total:18774;mdf-date:01/02/2003,;label:musee de france
+4732301,,Musée Municipal (Moulin de Gajac),open,2008,payant:4589;gratuit:5755;total:10344;mdf-date:01/02/2003,;label:musee de france
+0304801,,Musée Charles-Louis Philippe,open,2008,payant:363;gratuit:17;total:380;mdf-date:01/02/2003,;label:musee de france
+0318501,,Musée des Musiques Populaires - MuPop,open,2008,payant:1124;gratuit:6054;total:7178;mdf-date:01/02/2003,;label:musee de france
+0319001,,Musée Anne de Beaujeu,open,2008,payant:2807;gratuit:4899;total:7706;mdf-date:01/02/2003,;label:musee de france
+0319501,,Musée Rieckotter,open,2008,payant:546;gratuit:730;total:1276;mdf-date:01/02/2003,;label:musee de france
+0327501,,Musée Municipal de Souvigny,open,2008,payant:5862;gratuit:2103;total:7965;mdf-date:01/02/2003,;label:musee de france
+1501402,,Musée d'Art et d'Archéologie,open,2008,payant:1227;gratuit:15127;total:16354;mdf-date:01/02/2003,;label:musee de france
+4311701,,Musée des Arts et Traditions Populaires de Haute Loire,open,2008,payant:9954;gratuit:1218;total:11172;mdf-date:01/02/2003,;label:musee de france
+4316201,,Musée des Manufactures de Dentelles,open,2008,payant:5201;gratuit:2398;total:7599;mdf-date:22/04/2002,;label:musee de france
+6319501,,Musée Départemental de la Céramique Gallo-Romaine,open,2008,payant:12110;gratuit:7062;total:19172;mdf-date:01/02/2003,;label:musee de france
+6322301,,Musée Paléontologique,open,2008,payant:765;gratuit:95;total:860;mdf-date:01/02/2003,;label:musee de france
+6324501,,Musée Lapidaire,open,2008,payant:295;gratuit:678;total:973;mdf-date:01/02/2003,;label:musee de france
+6343001,,Musée Municipal de la Coutellerie,open,2008,payant:22200;gratuit:6361;total:28561;mdf-date:01/02/2003,;label:musee de france
+2103801,,Musée Bonaparte,open,2008,payant:0;gratuit:2091;total:2091;mdf-date:01/02/2003,;label:musee de france
+2123106,,"Musée de la Vie Bourguignonne, Perrin de Puycousin",open,2008,payant:0;gratuit:37105;total:37105;mdf-date:01/02/2003,;label:musee de france
+2126501,,Musée Noisot,open,2008,payant:328;gratuit:275;total:603;mdf-date:01/02/2003,;label:musee de france
+2142502,,Musée des Beaux-Arts,open,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+2160301,,Musée Municipal,open,2008,payant:76;gratuit:4924;total:5000;mdf-date:01/02/2003,;label:musee de france
+5806202,,Musée du Costume,open,2008,payant:5650;gratuit:1051;total:6701;mdf-date:01/02/2003,;label:musee de france
+7110601,,Musée René Davoine,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+7134202,,Musée Municipal,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+7135101,,Ecomusée de la Bresse Bourguignonne,open,2008,payant:23845;gratuit:9629;total:33474;mdf-date:01/02/2003,;label:musee de france
+7137301,,Musée du Terroir,open,2008,payant:0;gratuit:803;total:803;mdf-date:01/02/2003,;label:musee de france
+8902402,,Musée d'Art et d'Histoire,open,2008,payant:9134;gratuit:20741;total:29875;mdf-date:01/02/2003,;label:musee de france
+8934401,,Musée de l'Aventure du Son,open,2008,payant:3855;gratuit:277;total:4132;mdf-date:18/04/2008,;label:musee de france
+8941801,,Musée Municipal de Tonnerre,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+8944601,,Musée Zervos - Maison Romain Rolland,open,2008,payant:10159;gratuit:2841;total:13000;mdf-date:01/02/2003,;label:musee de france
+2205001,,Musée du Château de Dinan,open,2008,payant:13158;gratuit:8237;total:21395;mdf-date:01/02/2003,;label:musee de france
+2227801,,Musée d'Art et d'Histoire,open,2008,payant:0;gratuit:35859;total:35859;mdf-date:01/02/2003,;label:musee de france
+2904601,,Le Port-Musée,open,2008,payant:31132;gratuit:13364;total:44496;mdf-date:01/02/2003,;label:musee de france
+2928901,,Musée de l'Ecole Rurale en Bretagne,open,2008,payant:8055;gratuit:1242;total:9297;mdf-date:01/02/2003,;label:musee de france
+3523801,,Musée de Bretagne,open,2008,payant:48779;gratuit:50774;total:99553;mdf-date:01/02/2003,;label:musee de france
+3528802,,Musée d'Histoire de la Ville de Saint-Malo,open,2008,payant:19657;gratuit:7698;total:27355;mdf-date:01/02/2003,;label:musee de france
+3528801,,Musée International du Long-Cours Cap-Hornier,open,2008,payant:7250;gratuit:3462;total:10712;mdf-date:01/02/2003,;label:musee de france
+3536003,,Musée des Rochers-Sévigné,open,2008,payant:4943;gratuit:2257;total:7200;mdf-date:01/02/2003,;label:musee de france
+5624001,,Musée du Château de Suscinio,open,2008,payant:75300;gratuit:16303;total:91603;mdf-date:01/02/2003,;label:musee de france
+1803302,,Musée des Arts Décoratifs,open,2008,payant:0;gratuit:14480;total:14480;mdf-date:01/02/2003,;label:musee de france
+1819701,,Musée Saint-Vic,open,2008,payant:564;gratuit:1390;total:1954;mdf-date:01/02/2003,;label:musee de france
+2805101,,Musée Bonnevallais,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+2808801,,Musée des Beaux-Arts et d'Histoire Naturelle,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+3620001,,Musée Archéologique d'Argentomagus,open,2008,payant:9300;gratuit:7940;total:17240;mdf-date:01/02/2003,;label:musee de france
+3700302,,Musée de la poste,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+3700301,,Musée de l'Hôtel des Communes,open,2008,payant:0;gratuit:4318;total:4318;mdf-date:01/02/2003,;label:musee de france
+3724101,,Musée du Savignéen,open,2008,payant:1593;gratuit:215;total:1808;mdf-date:01/02/2003,;label:musee de france
+3724201,,Ecomusée du Véron,open,2008,payant:9210;gratuit:0;total:9210;mdf-date:18/07/2002,;label:musee de france
+3726101,,Muséum d'Histoire Naturelle,open,2008,payant:9641;gratuit:14650;total:24291;mdf-date:01/02/2003,;label:musee de france
+3726105,,Musée du Compagnonnage,open,2008,payant:34295;gratuit:13369;total:47664;mdf-date:01/02/2003,;label:musee de france
+4508201,,Musée de la Marine de Loire,open,2008,payant:9600;gratuit:4057;total:13657;mdf-date:01/02/2003,;label:musee de france
+4520802,,Musée Girodet,open,2008,payant:2109;gratuit:3811;total:5920;mdf-date:27/12/2002,;label:musee de france
+0805301,,Musée de la Maison de la Dernière Cartouche,open,2008,payant:1504;gratuit:1388;total:2892;mdf-date:01/02/2003,;label:musee de france
+0810501,,Musée Arthur Rimbaud,open,2008,payant:10022;gratuit:8557;total:18579;mdf-date:01/02/2003,;label:musee de france
+0840901,,Musée du Château-Fort,open,2008,payant:60711;gratuit:0;total:60711;mdf-date:01/02/2003,;label:musee de france
+1038702,,Musée Vauluisant - Musée Historique de Troyes et de la Champagne,open,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+1038703,,Musée Vauluisant - Musée de la Bonneterie,open,2008,payant:3607;gratuit:6717;total:10324;mdf-date:01/02/2003,;label:musee de france
+5206001,,Musée Municipal,open,2008,payant:0;gratuit:2409;total:2409;mdf-date:01/02/2003,;label:musee de france
+5244801,,Musée Municipal,open,2008,payant:0;gratuit:5255;total:5255;mdf-date:01/02/2003,;label:musee de france
+5145404,,Musée Saint-Rémi,open,2008,payant:5551;gratuit:46112;total:51663;mdf-date:01/02/2003,;label:musee de france
+2A00403,,Musée Palais Fesch,open,2008,payant:402;gratuit:1044;total:1446;mdf-date:01/02/2003,;label:musee de france
+2B03301,,Musée d'Histoire de Bastia,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+2543401,,Musée-Maison Natale Gustave Courbet,open,2008,payant:1548;gratuit:2338;total:3886;mdf-date:01/02/2003,;label:musee de france
+7024501,,Ecomusée du Pays de la Cerise,open,2008,payant:3404;gratuit:2548;total:5952;mdf-date:01/02/2003,;label:musee de france
+3943401,,Musée Municipal de Poligny,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+3950002,,Musée Max Claudet,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+9004101,,Forge-Musée,open,2008,payant:1023;gratuit:494;total:1517;mdf-date:01/02/2003,;label:musee de france
+9710501,,Musée de l'Histoire de la Guadeloupe,open,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;unlabel:musee de france
+9712001,,Musée Municipal Saint-John Perse,open,2008,payant:3515;gratuit:202;total:3717;mdf-date:12/12/2002,;label:musee de france
+9730101,,Ecomusée Municipal d'Approuague-Kaw,open,2008,payant:559;gratuit:2489;total:3048;mdf-date:01/02/2003,;label:musee de france
+9201201,,Musée des Années Trente,open,2008,payant:12605;gratuit:15737;total:28342;mdf-date:01/02/2003,;label:musee de france
+9204802,,Musée - Atelier Rodin (Annexe du musée de Paris),open,2008,payant:3256;gratuit:4077;total:7333;mdf-date:06/01/2002,;label:musee de france
+7510405,,Maison de Victor Hugo,open,2008,payant:13599;gratuit:120690;total:134289;mdf-date:08/07/2004,;label:musee de france
+7511618,,Musée National de la Marine,open,2008,payant:174541;gratuit:68742;total:243283;mdf-date:06/01/2002,;label:musee de france
+7511503,,Mémorial du Maréchal Leclerc de Hauteclocque et de la Libération de Paris-musée Jean Moulin,open,2008,payant:0;gratuit:16926;total:16926;mdf-date:08/07/2004,;label:musee de france
+7510705,,Etablissement public du musée d'Orsay,open,2008,payant:1897635;gratuit:1127529;total:3025164;mdf-date:06/01/2002,;label:musee de france
+7510306,,"Musée Cognacq-Jay, Musée du XVIIIe siècle de la ville de Paris",open,2008,payant:9034;gratuit:32269;total:41303;mdf-date:08/07/2004,;label:musee de france
+7510305,,Musée National Picasso,open,2008,payant:229337;gratuit:113413;total:342750;mdf-date:06/01/2002,;label:musee de france
+7510107,,Musée de la Mode et du Textile (Union Centrale des Arts Décoratifs),open,2008,payant:0;gratuit:0;total:;mdf-date:06/01/2002,;label:musee de france
+7510609,,Musée des Monnaies et des Médailles,open,2008,payant:10313;gratuit:11000;total:21313;mdf-date:06/01/2002,;label:musee de france
+7510709,,Musée du Quai Branly,open,2008,payant:767130;gratuit:622360;total:1389490;mdf-date:09/12/2004,;label:musee de france
+7511401,,Musée Lénine,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+7702201,,Musée Départemental de l'Ecole de Barbizon - Auberge Ganne,open,2008,payant:13561;gratuit:7839;total:21400;mdf-date:01/02/2003,;label:musee de france
+7710802,,"Musée des Transports Urbains, Interurbains et Ruraux (anciennement à Colombes)",closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+7713201,,Maison Natale de Louis Braille,open,2008,payant:2691;gratuit:762;total:3453;mdf-date:01/02/2003,;label:musee de france
+9304601,,Musée Municipal,open,2008,payant:0;gratuit:11000;total:11000;mdf-date:01/02/2003,;label:musee de france
+9401701,,Musée de la Résistance Nationale,open,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+9403401,,Ecomusée du Val de Bièvre,open,2008,payant:0;gratuit:11659;total:11659;mdf-date:01/02/2003,;label:musee de france
+9406801,,Musée de Saint-Maur - Villa Médicis,open,2008,payant:119;gratuit:10454;total:10573;mdf-date:11/01/2003,;label:musee de france
+7836101,,Musée de l'Hôtel-Dieu,open,2008,payant:2597;gratuit:6153;total:8750;mdf-date:01/02/2003,;label:musee de france
+7838001,,Musée Victor Aubert,open,2008,payant:0;gratuit:1532;total:1532;mdf-date:01/02/2003,;label:musee de france
+7849801,,Musée du Jouet Pierre Pinel,open,2008,payant:12345;gratuit:7229;total:19574;mdf-date:01/02/2003,;label:musee de france
+7851702,,Musée Rambolitrain,open,2008,payant:14515;gratuit:1634;total:16149;mdf-date:01/02/2003,;label:musee de france
+7864602,,Etablissement Public du Musée et du Domaine National de Versailles,open,2008,payant:4642974;gratuit:963153;total:5606127;mdf-date:06/01/2002,;label:musee de france
+1107601,,Musée Archéologique du Lauragais,open,2008,payant:676;gratuit:740;total:1416;mdf-date:01/02/2003,;label:musee de france
+1136901,,Musée Archéologique,open,2008,payant:8527;gratuit:114;total:8641;mdf-date:01/02/2003,;label:musee de france
+1137901,,Musée des Corbières,open,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+3018903,,Musée Archéologique,open,2008,payant:0;gratuit:79206;total:79206;mdf-date:01/02/2003,;label:musee de france
+3020201,,Musée Paul Raymond,open,2008,payant:0;gratuit:2154;total:2154;mdf-date:01/02/2003,;label:musee de france
+3035101,,Musée Pierre de Luxembourg,open,2008,payant:4228;gratuit:2553;total:6781;mdf-date:01/02/2003,;label:musee de france
+3411901,,Musée de la Cloche et de la Sonnaille,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+3415801,,Musée Archéologique,open,2008,payant:4107;gratuit:0;total:4107;mdf-date:01/02/2003,;label:musee de france
+3417203,,Musée Fabre,open,2008,payant:171618;gratuit:131553;total:303171;mdf-date:06/01/2002,;label:musee de france
+3430101,,Musée Paul Valéry,open,2008,payant:5716;gratuit:9833;total:15549;mdf-date:01/02/2003,;label:musee de france
+4809501,,Musée Ignon Fabre,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+6605301,,Musée d'Art Moderne - Fonds Peskè,open,2008,payant:7396;gratuit:1673;total:9069;mdf-date:01/02/2003,;label:musee de france
+6613603,,Musée Hyacinthe Rigaud,open,2008,payant:3335;gratuit:6748;total:10083;mdf-date:01/02/2003,;label:musee de france
+1927202,,Musée de la Mémoire et des Industries Tullistes,open,2008,payant:0;gratuit:3432;total:3432;mdf-date:18/04/2008,;label:musee de france
+5432901,,Musée du Château de Lunéville,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+5439502,,Muséum- Aquarium de Nancy,open,2008,payant:25106;gratuit:47926;total:73032;mdf-date:01/02/2003,;label:musee de france
+5452801,,Musée d'Art et d'Histoire de Toul,open,2008,payant:2448;gratuit:3317;total:5765;mdf-date:01/02/2003,;label:musee de france
+5502901,,Musée Barrois,open,2008,payant:2815;gratuit:6564;total:9379;mdf-date:01/02/2003,;label:musee de france
+5552701,,Musée d'Argonne,open,2008,payant:1927;gratuit:0;total:1927;mdf-date:01/02/2003,;label:musee de france
+5754001,,Musée Militaire et Erckmann-Chatrian,open,2008,payant:792;gratuit:129;total:921;mdf-date:01/02/2003,;label:musee de france
+5763102,,Moulin de la Blies - Musée des Techniques Faïencières,open,2008,payant:3930;gratuit:5569;total:9499;mdf-date:01/02/2003,;label:musee de france
+8838302,,Musée Charles Friry,closed,2008,payant:0;gratuit:0;total:;mdf-date:11/08/2002,;label:musee de france
+0916001,,Musée du Textile et du Peigne en Corne,open,2008,payant:2189;gratuit:0;total:2189;mdf-date:01/02/2003,;label:musee de france
+1208901,,Musée Régional de Géologie Pierre Vetter,open,2008,payant:1601;gratuit:2888;total:4489;mdf-date:01/02/2003,;label:musee de france
+1209601,,"Musée des Mœurs et Coutumes, Musée du Rouergue",open,2008,payant:492;gratuit:51;total:543;mdf-date:01/02/2003,;label:musee de france
+1220201,,Musée Fenaille,open,2008,payant:9396;gratuit:14067;total:23463;mdf-date:01/02/2003,;label:musee de france
+1225401,,Musée des Arts et Métiers Traditionnels,open,2008,payant:8538;gratuit:1188;total:9726;mdf-date:01/02/2003,;label:musee de france
+3102801,,Musée de Préhistoire,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+3104201,,Musée du Pays de Luchon,open,2008,payant:2291;gratuit:1158;total:3449;mdf-date:01/02/2003,;label:musee de france
+3155505,,Musée Georges Labit,open,2008,payant:6161;gratuit:14909;total:21070;mdf-date:01/02/2003,;label:musee de france
+3155504,,Musée des Augustins,open,2008,payant:47043;gratuit:57100;total:104143;mdf-date:06/01/2002,;label:musee de france
+4618201,,"""Musée Archéologique """"Armand-Viré""""""",open,2008,payant:765;gratuit:143;total:908;mdf-date:01/02/2003,;label:musee de france
+8100401,,Musée Toulouse Lautrec,open,2008,payant:104528;gratuit:28233;total:132761;mdf-date:01/02/2003,;label:musee de france
+8101201,,Musée Eugénie et Maurice Guérin,open,2008,payant:2056;gratuit:2791;total:4847;mdf-date:01/02/2003,;label:musee de france
+8106501,,Musée Goya,open,2008,payant:13229;gratuit:12042;total:25271;mdf-date:06/01/2002,;label:musee de france
+8109902,,Muséum d'histoire naturelle Philadelphe Thomas,open,2008,payant:868;gratuit:4152;total:5020;mdf-date:01/02/2003,;label:musee de france
+8109903,,Musée de l'Abbaye Saint-Michel,open,2008,payant:2530;gratuit:727;total:3257;mdf-date:01/02/2003,;label:musee de france
+8114001,,Musée du Pays Vaurais,open,2008,payant:1350;gratuit:680;total:2030;mdf-date:01/02/2003,;label:musee de france
+8212102,,Musée Ingres,open,2008,payant:16896;gratuit:22754;total:39650;mdf-date:06/01/2002,;label:musee de france
+5906701,,Musée du Mont-de-Piété,open,2008,payant:1422;gratuit:951;total:2373;mdf-date:01/02/2003,;label:musee de france
+5918303,,Musée Portuaire,open,2008,payant:29636;gratuit:22473;total:52109;mdf-date:01/02/2003,;label:musee de france
+5939201,,Musée Henri Boez,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+6204102,,Musée des Beaux-Arts,open,2008,payant:8612;gratuit:21026;total:29638;mdf-date:06/01/2002,;label:musee de france
+6231801,,Musée Quentovic,open,2008,payant:3552;gratuit:1072;total:4624;mdf-date:01/02/2003,;label:musee de france
+6276501,,Musée de l'Hôtel Sandelin,open,2008,payant:10990;gratuit:0;total:10990;mdf-date:01/02/2003,;label:musee de france
+1458201,,Château de Saint-Germain de Livet,open,2008,payant:7777;gratuit:14655;total:22432;mdf-date:01/02/2003,;label:musee de france
+1476201,,Musée Municipal,open,2008,payant:1818;gratuit:4965;total:6783;mdf-date:01/02/2003,;label:musee de france
+5021802,,Musée du Vieux Granville,open,2008,payant:5082;gratuit:7222;total:12304;mdf-date:01/02/2003,;label:musee de france
+5052501,,Musée du Granit,open,2008,payant:1929;gratuit:400;total:2329;mdf-date:01/02/2003,;label:musee de france
+5060101,,Musée du Château,open,2008,payant:800;gratuit:1200;total:2000;mdf-date:01/02/2003,;label:musee de france
+5063901,,Musée de la Poeslerie,open,2008,payant:5143;gratuit:216;total:5359;mdf-date:01/02/2003,;label:musee de france
+2737501,,Musée Municipal,open,2008,payant:0;gratuit:6144;total:6144;mdf-date:01/02/2003,;label:musee de france
+7605701,,Musée Municipal,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+7615701,,Pavillon Flaubert,open,2008,payant:0;gratuit:533;total:533;mdf-date:01/02/2003,;label:musee de france
+7635101,,Musée d'Art Moderne André Malraux - MuMa,open,2008,payant:32899;gratuit:28172;total:61071;mdf-date:01/02/2003,;label:musee de france
+7635102,,Abbaye de Graville - Musée du Prieuré de Graville,open,2008,payant:3700;gratuit:4989;total:8689;mdf-date:01/02/2003,;label:musee de france
+7649701,,Musée Départemental Pierre Corneille,open,2008,payant:645;gratuit:2804;total:3449;mdf-date:01/02/2003,;label:musee de france
+7647401,,Musée Industriel de la Corderie Vallois,open,2008,payant:2505;gratuit:6167;total:8672;mdf-date:01/02/2003,;label:musee de france
+7654005,,Musée des Beaux-Arts,open,2008,payant:37104;gratuit:58687;total:95791;mdf-date:06/01/2002,;label:musee de france
+7662401,,Association de l'Horlogerie Aliermontaise,open,2008,payant:4004;gratuit:1226;total:5230;mdf-date:01/02/2003,;label:musee de france
+7674201,,Musée Victor Hugo,open,2008,payant:4643;gratuit:9130;total:13773;mdf-date:01/02/2003,;label:musee de france
+4403601,,Musée Municipal,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+4900702,,Musée Pincé,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+5300301,,Musée des Tisserands Mayennais,open,2008,payant:800;gratuit:587;total:1387;mdf-date:01/02/2003,;label:musee de france
+5312201,,Musée Archéologique Départemental de Jublains,open,2008,payant:8522;gratuit:21692;total:30214;mdf-date:18/07/2002,;label:musee de france
+8519401,,Musée de l'Abbaye de Sainte-Croix,open,2008,payant:12601;gratuit:16434;total:29035;mdf-date:01/02/2003,;label:musee de france
+8514601,,Musée du Nord de la Vendée,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+8516301,,Musée de la Construction Navale Artisanale,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+0236102,,Familistère de Guise,open,2008,payant:28848;gratuit:2956;total:31804;mdf-date:01/02/2003,;label:musee de france
+0230401,,Musée Jeanne d'Aboville,open,2008,payant:303;gratuit:215;total:518;mdf-date:01/02/2003,;label:musee de france
+0240802,,Musée d'Art et d'Archéologie,open,2008,payant:1567;gratuit:5140;total:6707;mdf-date:01/02/2003,;label:musee de france
+0257401,,Musée Monseigneur Pigneau de Behaine,open,2008,payant:0;gratuit:240;total:240;mdf-date:01/02/2003,;label:musee de france
+6014301,,Musée Pillon,open,2008,payant:0;gratuit:132;total:132;mdf-date:01/02/2003,;label:musee de france
+8002103,,Muséum d'histoire naturelle,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+1601502,,Atelier - Musée du Papier,open,2008,payant:0;gratuit:12409;total:12409;mdf-date:01/02/2003,;label:musee de france
+1610202,,Musée des Arts du Cognac (Annexe musée municipal),open,2008,payant:7725;gratuit:5330;total:13055;mdf-date:01/02/2003,;label:musee de france
+1730005,,Musée Protestant,open,2008,payant:1367;gratuit:447;total:1814;mdf-date:01/02/2003,;label:musee de france
+1721801,,Musée Cappon,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+7904901,,Musée de Bressuire,open,2008,payant:0;gratuit:5886;total:5886;mdf-date:01/02/2003,;label:musee de france
+7919104,,Musée Bernard d’Agesci,open,2008,payant:3794;gratuit:14862;total:18656;mdf-date:01/02/2003,;label:musee de france
+8619402,,Musée Sainte-Croix,open,2008,payant:3639;gratuit:17390;total:21029;mdf-date:06/01/2002,;label:musee de france
+8619404,,Musée du baptistère Saint-Jean,open,2008,payant:13908;gratuit:1527;total:15435;mdf-date:01/02/2003,;label:musee de france
+0407001,,Musée Gassendi,open,2008,payant:2462;gratuit:6754;total:9216;mdf-date:01/02/2003,;label:musee de france
+0408801,,Musée Municipal,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+0420901,,Musée du Vieux Sisteron,open,2008,payant:0;gratuit:567;total:567;mdf-date:01/02/2003,;label:musee de france
+0601801,,Musée Fernand Léger,open,2008,payant:18796;gratuit:13261;total:32057;mdf-date:06/01/2002,;label:musee de france
+0602702,,Musée Renoir,open,2008,payant:30621;gratuit:9109;total:39730;mdf-date:01/02/2003,;label:musee de france
+0608305,,Musée des Beaux-Arts,open,2008,payant:0;gratuit:19571;total:19571;mdf-date:01/02/2003,;label:musee de france
+0608805,,Musée Archéologique - Site de  Cimiez,open,2008,payant:4201;gratuit:28434;total:32635;mdf-date:01/02/2003,;label:musee de france
+0608811,,Musée National Marc Chagall,open,2008,payant:112161;gratuit:43630;total:155791;mdf-date:06/01/2002,;label:musee de france
+0608812,,Musée Matisse,open,2008,payant:33027;gratuit:92456;total:125483;mdf-date:01/02/2003,;label:musee de france
+0615502,,Musée Picasso la guerre et la paix à Vallauris,open,2008,payant:26574;gratuit:10668;total:37242;mdf-date:06/01/2002,;label:musee de france
+0615901,,Musées de la Citadelle,open,2008,payant:0;gratuit:37507;total:37507;mdf-date:01/02/2003,;label:musee de france
+1300106,,Musée Paul Arbaud,open,2008,payant:680;gratuit:1500;total:2180;mdf-date:01/02/2003,;label:musee de france
+1300405,,Musée Départemental de l'Arles Antique,open,2008,payant:19860;gratuit:53797;total:73657;mdf-date:01/02/2003,;label:musee de france
+1304701,,Musée Archéologique d'Istres René Beaucaire,open,2008,payant:0;gratuit:5468;total:5468;mdf-date:01/02/2003,;label:musee de france
+1320691,,Musée d'Art Contemporain - Galeries Contemporaines,open,2008,payant:8307;gratuit:18610;total:26917;mdf-date:01/02/2003,;label:musee de france
+1320402,,Muséum d'Histoire Naturelle,open,2008,payant:6240;gratuit:25989;total:32229;mdf-date:06/01/2002,;label:musee de france
+1309101,,Musée Suffren et du Vieux Saint-Cannat,open,2008,payant:0;gratuit:5038;total:5038;mdf-date:01/02/2003,;label:musee de france
+1310001,,Musée des Alpilles,open,2008,payant:2863;gratuit:5969;total:8832;mdf-date:01/02/2003,;label:musee de france
+1310302,,Musée de Salon et de la Crau,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+0500301,,Musée du Vieux Queyras,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+8305001,,Musée Municipal,open,2008,payant:0;gratuit:13598;total:13598;mdf-date:01/02/2003,;label:musee de france
+8306201,,Musée Jean Aicard,open,2008,payant:0;gratuit:2827;total:2827;mdf-date:01/02/2003,;label:musee de france
+8313201,,Musée du Vêtement Provençal (Jean Aicard),open,2008,payant:0;gratuit:3802;total:3802;mdf-date:01/02/2003,;label:musee de france
+8400704,,Musée Calvet (et musée Lapidaire),open,2008,payant:19516;gratuit:13309;total:32825;mdf-date:06/01/2002,;label:musee de france
+8403502,,Musée de l'Hôtel Dieu,open,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+8412301,,Musée Municipal,open,2008,payant:0;gratuit:1557;total:1557;mdf-date:01/02/2003,;label:musee de france
+8413701,,Musée Archéologique Théo Desplans,open,2008,payant:70916;gratuit:4455;total:75371;mdf-date:01/02/2003,;label:musee de france
+0113701,,Musée Départemental du Revermont,open,2008,payant:4416;gratuit:14358;total:18774;mdf-date:01/02/2003,;label:musee de france
+0718601,,Musée de la terre ardéchoise,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+0732401,,Musée du Rhône,open,2008,payant:5590;gratuit:3742;total:9332;mdf-date:01/02/2003,;label:musee de france
+2611301,,Musée d'Histoire et d'Archéologie,open,2008,payant:567;gratuit:1284;total:1851;mdf-date:01/02/2003,;label:musee de france
+2614601,,Château de Grignan,open,2008,payant:72998;gratuit:42930;total:115928;mdf-date:01/02/2003,;label:musee de france
+2621801,,Musée d'Art Sacré,open,2008,payant:2623;gratuit:0;total:2623;mdf-date:01/02/2003,;label:musee de france
+2628101,,Musée International de la Chaussure,open,2008,payant:18268;gratuit:17799;total:36067;mdf-date:01/02/2003,;label:musee de france
+2632401,,Musée d'Archéologie Tricastine,open,2008,payant:690;gratuit:3127;total:3817;mdf-date:01/02/2003,;label:musee de france
+2636201,,Musée des Beaux-Arts,open,2008,payant:2299;gratuit:8641;total:10940;mdf-date:01/02/2003,;label:musee de france
+7405601,,Musée Alpin,open,2008,payant:9709;gratuit:6864;total:16573;mdf-date:01/02/2003,;label:musee de france
+7428001,,Musée des Vallées de Thônes,open,2008,payant:1723;gratuit:500;total:2223;mdf-date:01/02/2003,;label:musee de france
+3801201,,Musée Gallo-Romain,open,2008,payant:5407;gratuit:1444;total:6851;mdf-date:01/02/2003,;label:musee de france
+3819001,,Maison du Patrimoine de Hières-sur-Amby,open,2008,payant:7208;gratuit:610;total:7818;mdf-date:01/02/2003,;label:musee de france
+3826901,,Musée Matheysin,open,2008,payant:1187;gratuit:2036;total:3223;mdf-date:01/02/2003,;label:musee de france
+3844203,,Musée de la Grande Chartreuse,open,2008,payant:53720;gratuit:0;total:53720;mdf-date:01/02/2003,;label:musee de france
+3854403,,Musée des Beaux-Arts et d'Archéologie,open,2008,payant:784;gratuit:2593;total:3377;mdf-date:01/02/2003,;label:musee de france
+4205202,,Musée de la Soierie,open,2008,payant:5335;gratuit:1664;total:6999;mdf-date:01/02/2003,;label:musee de france
+4209401,,Musée d'Archéologie,open,2008,payant:1023;gratuit:4080;total:5103;mdf-date:01/02/2003,;label:musee de france
+4221901,,Château de la Bastie d'Urfé,open,2008,payant:15163;gratuit:13690;total:28853;mdf-date:01/02/2003,;label:musee de france
+4227901,,Musée des Civilisations : Daniel Pouget,open,2008,payant:4059;gratuit:652;total:4711;mdf-date:01/02/2003,;label:musee de france
+6912302,,Musée des Arts Décoratifs,open,2008,payant:0;gratuit:0;total:;mdf-date:2003-02-01 00:00:00,;label:musee de france
+6938604,,Musée Guimet,open,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+6923501,,Musée Archéologique,open,2008,payant:20126;gratuit:46309;total:66435;mdf-date:01/02/2003,;label:musee de france
+6924801,,Ecomusée du Haut Beaujolais,open,2008,payant:680;gratuit:379;total:1059;mdf-date:10/05/2005,;label:musee de france
+6926401,,Musée Paul Dini,open,2008,payant:14415;gratuit:7088;total:21503;mdf-date:01/02/2003,;label:musee de france
+7305401,,Musée du Costume,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+7306503,,Musée des Charmettes,open,2008,payant:0;gratuit:12522;total:12522;mdf-date:06/01/2002,;label:musee de france
+7306504,,Muséum d'histoire naturelle,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+7318101,,Musée de l'Académie de La Val d'Isère,open,2008,payant:288;gratuit:239;total:527;mdf-date:01/02/2003,;label:musee de france
+6730001,,Musée de la Chartreuse,open,2008,payant:3897;gratuit:158;total:4055;mdf-date:01/02/2003,;label:musee de france
+6754401,,Musée Westercamp,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+6822408,,Musée Historique,open,2008,payant:0;gratuit:35478;total:35478;mdf-date:01/02/2003,;label:musee de france
+6822405,,Cité du Train,open,2008,payant:57949;gratuit:29169;total:87118;mdf-date:18/11/2002,;label:musee de france
+6822406,,Musée du Sapeur Pompier d'Alsace,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+6827801,,Musée du Papier Peint,open,2008,payant:6554;gratuit:3733;total:10287;mdf-date:01/02/2003,;label:musee de france
+6833401,,Musée des Amis de Thann,open,2008,payant:886;gratuit:4921;total:5807;mdf-date:01/02/2003,;label:musee de france
+6834301,,Ecomusée d'Alsace,open,2008,payant:154557;gratuit:20431;total:174988;mdf-date:01/02/2003,;label:musee de france
+2406401,,Musée Fernand Desmoulin,open,2008,payant:17984;gratuit:989;total:18973;mdf-date:01/02/2003,;label:musee de france
+2415201,,Musée Paul Reclus,open,2008,payant:0;gratuit:13691;total:13691;mdf-date:01/02/2003,;label:musee de france
+2417204,,Musée National de la Préhistoire,open,2008,payant:48024;gratuit:33929;total:81953;mdf-date:06/01/2002,;label:musee de france
+2437901,,Musée du Site Médiéval,open,2008,payant:874;gratuit:0;total:874;mdf-date:01/02/2003,;label:musee de france
+2458401,,Musée d'Art et Traditions Populaires,open,2008,payant:0;gratuit:1530;total:1530;mdf-date:01/02/2003,;label:musee de france
+3324301,,Musée des Beaux-Arts et d'Archéologie,open,2008,payant:0;gratuit:5849;total:5849;mdf-date:01/02/2003,;label:musee de france
+4008801,,Musée de Borda,open,2008,payant:2763;gratuit:7139;total:9902;mdf-date:01/02/2003,;label:musee de france
+4016701,,Atelier-Musée  (Ecomusée de la Grande Landes),open,2008,payant:2502;gratuit:181;total:2683;mdf-date:01/02/2003,;label:musee de france
+4020001,,Musée du Patrimoine Religieux et des Croyances Populaires,open,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2020,;unlabel:musee de france
+4719501,,Musée du Château Henri IV,open,2008,payant:16684;gratuit:4986;total:21670;mdf-date:01/02/2003,;label:musee de france
+6410201,,Musée Basque et de l'Histoire de Bayonne,open,2008,payant:21050;gratuit:12336;total:33386;mdf-date:01/02/2003,;label:musee de france
+6444504,,Musée Béarnais,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+6444501,,Musée Municipal des Beaux-Arts,open,2008,payant:9745;gratuit:13179;total:22924;mdf-date:01/02/2003,;label:musee de france
+0307401,,Musée Rural de la Sologne Bourbonnaise,open,2008,payant:100;gratuit:200;total:300;mdf-date:01/02/2003,;label:musee de france
+0311801,,Musée Municipal de Gannat,open,2008,payant:553;gratuit:631;total:1184;mdf-date:01/02/2003,;label:musee de france
+1518701,,Musée de la Haute Auvergne,open,2008,payant:2586;gratuit:2200;total:4786;mdf-date:01/02/2003,;label:musee de france
+6301001,,Musée de la Dentelle,open,2008,payant:1142;gratuit:47;total:1189;mdf-date:01/02/2003,;label:musee de france
+6311305,,Musée d'Art Roger-Quillot,open,2008,payant:8909;gratuit:37219;total:46128;mdf-date:01/02/2003,;label:musee de france
+6324701,,Musée des Peintres de l'Ecole de Murols,open,2008,payant:4187;gratuit:150;total:4337;mdf-date:01/02/2003,;label:musee de france
+2105402,,Musée des Beaux-Arts,open,2008,payant:7040;gratuit:2440;total:9480;mdf-date:01/02/2003,;label:musee de france
+2115401,,Musée du Pays Châtillonnais - Trésor de Vix,open,2008,payant:11191;gratuit:2957;total:14148;mdf-date:01/02/2003,;label:musee de france
+2123104,,Musée des Beaux-Arts,open,2008,payant:0;gratuit:160263;total:160263;mdf-date:06/01/2002,;label:musee de france
+2146401,,Musée Municipal,open,2008,payant:394;gratuit:2097;total:2491;mdf-date:01/02/2003,;label:musee de france
+2158401,,Musée Municipal François Pompon,open,2008,payant:2992;gratuit:1281;total:4273;mdf-date:01/02/2003,;label:musee de france
+5807901,,Musée d'Art et d'Histoire Romain Rolland,open,2008,payant:2174;gratuit:4246;total:6420;mdf-date:01/02/2003,;label:musee de france
+5819403,,Musée Archéologique du Nivernais (Porte du Croux),open,2008,payant:0;gratuit:400;total:400;mdf-date:01/02/2003,;label:musee de france
+5822701,,Musée du Grès de Puisaye,open,2008,payant:2244;gratuit:0;total:2244;mdf-date:01/02/2003,;label:musee de france
+7104001,,Musée de la Mine,open,2008,payant:11661;gratuit:1056;total:12717;mdf-date:01/02/2003,;label:musee de france
+7113701,,Musée d'Art et d'Archéologie,open,2008,payant:81246;gratuit:19521;total:100767;mdf-date:01/02/2003,;label:musee de france
+7126301,,"""L'Atelier d'un Journal"""" de Louhans - Musée Municipal""",open,2008,payant:2387;gratuit:655;total:3042;mdf-date:01/02/2003,;label:musee de france
+7127001,,Musée des Ursulines,open,2008,payant:2248;gratuit:13947;total:16195;mdf-date:01/02/2003,;label:musee de france
+7156601,,Maison du Blé et du Pain,open,2008,payant:3058;gratuit:1100;total:4158;mdf-date:01/02/2003,;label:musee de france
+8902401,,Muséum - Maison de l'Eau,open,2008,payant:0;gratuit:12208;total:12208;mdf-date:01/02/2003,;label:musee de france
+8927901,,Musée des Arts Naïfs et Populaires de Noyers sur Serein,open,2008,payant:1781;gratuit:1074;total:2855;mdf-date:01/02/2003,;label:musee de france
+8938701,,Musée Muncipal,open,2008,payant:5528;gratuit:33771;total:39299;mdf-date:01/02/2003,;label:musee de france
+2926101,,Ecomusée des Monts d'Arrée - Maison Cornec,open,2008,payant:4749;gratuit:2297;total:7046;mdf-date:01/02/2003,;label:musee de france
+2915501,,Ecomusée d'Ouessant - Vivre sur une Ile,open,2008,payant:6783;gratuit:3931;total:10714;mdf-date:01/02/2003,;label:musee de france
+2922001,,Musée Bigouden,open,2008,payant:9808;gratuit:3155;total:12963;mdf-date:01/02/2003,;label:musee de france
+5618102,,Musée de la Compagnie des Indes,open,2008,payant:39118;gratuit:19194;total:58312;mdf-date:01/02/2003,;label:musee de france
+5626003,,"La Cohue, Musée des Beaux-Arts de vannes",open,2008,payant:10471;gratuit:26191;total:36662;mdf-date:01/02/2003,;label:musee de france
+1827901,,Musée Municipal,open,2008,payant:0;gratuit:2176;total:2176;mdf-date:01/02/2003,;label:musee de france
+2808502,,Muséum des Sciences Naturelles et de Préhistoire,open,2008,payant:0;gratuit:15776;total:15776;mdf-date:01/02/2003,;label:musee de france
+2813401,,Musée d'Art et d'Histoire de Dreux,open,2008,payant:1971;gratuit:6164;total:8135;mdf-date:01/02/2003,;label:musee de france
+3601801,,Musée Ornithologique (Ecomusée de la Brenne),open,2008,payant:2791;gratuit:1829;total:4620;mdf-date:01/02/2003,;label:musee de france
+3713202,,Musée du Terroir,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+3719601,,Musée de l'Hôtel de Ville,open,2008,payant:885;gratuit:146;total:1031;mdf-date:01/02/2003,;label:musee de france
+3720501,,Musée Balzac,open,2008,payant:17844;gratuit:5374;total:23218;mdf-date:30/04/2002,;label:musee de france
+3728201,,Musée de Minerve,open,2008,payant:0;gratuit:754;total:754;mdf-date:01/02/2003,;label:musee de france
+4101804,,Maison de la Magie,open,2008,payant:56362;gratuit:13057;total:69419;mdf-date:01/02/2003,;label:musee de france
+4119401,,Musée de Sologne,open,2008,payant:16987;gratuit:0;total:16987;mdf-date:01/02/2003,;label:musee de france
+4520301,,Musée Gaston Couté,open,2008,payant:0;gratuit:3174;total:3174;mdf-date:01/02/2003,;label:musee de france
+4523403,,Musée des Beaux-Arts,open,2008,payant:7934;gratuit:47273;total:55207;mdf-date:06/01/2002,;label:musee de france
+4525201,,Musée Municipal,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+0819001,,Musée de Givet,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+0831101,,Musée du Feutre,open,2008,payant:3971;gratuit:1680;total:5651;mdf-date:01/02/2003,;label:musee de france
+0836201,,Musée du Rethelois et du Porcien,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+1003301,,Musée Municipal,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+1038705,,Maison de l'Outil  et de la Pensée Ouvrière,open,2008,payant:12049;gratuit:2811;total:14860;mdf-date:01/02/2003,;label:musee de france
+1038701,,Muséum d'Histoire Naturelle (Musée Pic Saint-Loup),open,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+5226901,,Musée du Breuil de Saint-Germain,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+5110803,,Musée Garinet,open,2008,payant:204;gratuit:472;total:676;mdf-date:01/02/2003,;label:musee de france
+5123001,,Musée Municipal d'Epernay,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+5145405,,Musée Hôtel le Vergeur,open,2008,payant:6202;gratuit:4720;total:10922;mdf-date:01/02/2003,;label:musee de france
+2505602,,Musée du Temps,open,2008,payant:6801;gratuit:28911;total:35712;mdf-date:01/02/2003,;label:musee de france
+2538801,,Musée Beurnier-Rossel,open,2008,payant:1077;gratuit:3630;total:4707;mdf-date:01/02/2003,;label:musee de france
+2546201,,Musée de Pontarlier,open,2008,payant:3283;gratuit:8145;total:11428;mdf-date:01/02/2003,;label:musee de france
+7027901,,Musée Baron Martin,open,2008,payant:1911;gratuit:2880;total:4791;mdf-date:01/02/2003,;label:musee de france
+7055001,,Musée Georges Garret,open,2008,payant:0;gratuit:4689;total:4689;mdf-date:01/02/2003,;label:musee de france
+3909701,,Musée Municipal d'Archéologie,open,2008,payant:221;gratuit:122;total:343;mdf-date:01/02/2003,;label:musee de france
+3947801,,Musée de l'Abbaye/Donations Guy Bardone - René Genis,open,2008,payant:1645;gratuit:3173;total:4818;mdf-date:01/02/2003,;label:musee de france
+9001002,,Donation Maurice Jardot,open,2008,payant:1134;gratuit:2378;total:3512;mdf-date:01/02/2003,;label:musee de france
+9711701,,Musée Précolombien Edgar Clerc,open,2008,payant:0;gratuit:8092;total:8092;mdf-date:01/02/2003,;label:musee de france
+9202602,,Musée des Travaux Publics,closed,2008,payant:0;gratuit:0;total:;mdf-date:06/01/2002,;label:musee de france
+7510508,,Galerie d'Anatomie Comparée et de Paléontologie (Muséum d'Histoire Naturelle),open,2008,payant:224304;gratuit:56137;total:280441;mdf-date:06/01/2002,;label:musee de france
+7510512,,Galerie d’entomologie (Muséum national d'histoire naturelle),closed,2008,payant:0;gratuit:0;total:;mdf-date:06/01/2002,;label:musee de france
+7510901,,Musée National Gustave Moreau,open,2008,payant:19344;gratuit:13302;total:32646;mdf-date:06/01/2002,;label:musee de france
+7510905,,Musée de la Vie Romantique,open,2008,payant:32504;gratuit:47295;total:79799;mdf-date:08/07/2004,;label:musee de france
+7510106,,Musée du Louvre,open,2008,payant:5699810;gratuit:2722397;total:8422207;mdf-date:06/01/2002,;label:musee de france
+7510301,,Musée de la Chasse et de la Nature,open,2008,payant:22695;gratuit:18114;total:40809;mdf-date:01/02/2003,;label:musee de france
+7510102,,Musée des Arts Décoratifs (Union Centrale des Arts Décoratifs),open,2008,payant:282551;gratuit:133044;total:415595;mdf-date:06/01/2002,;label:musee de france
+7510304,,Musée National des Techniques,open,2008,payant:52074;gratuit:180384;total:232458;mdf-date:06/01/2002,;label:musee de france
+7718601,,Musée du Château de Fontainebleau,open,2008,payant:241641;gratuit:142398;total:384039;mdf-date:06/01/2002,;label:musee de france
+7724301,,Musée Gatien Bonnet,open,2008,payant:1017;gratuit:3089;total:4106;mdf-date:01/02/2003,;label:musee de france
+7728802,,Musée d'Art et d'Histoire de Melun,open,2008,payant:1100;gratuit:4700;total:5800;mdf-date:01/02/2003,;label:musee de france
+7737901,,Musée de Provins et du Provinois,open,2008,payant:17497;gratuit:4694;total:22191;mdf-date:01/02/2003,;label:musee de france
+9407901,,Musée Emile Jean,open,2008,payant:0;gratuit:950;total:950;mdf-date:01/02/2003,;label:musee de france
+9501801,,Musée du Vieil Argenteuil,open,2008,payant:666;gratuit:490;total:1156;mdf-date:01/02/2003,;label:musee de france
+9520501,,Musée de la Renaissance - Château d'Ecouen,open,2008,payant:12938;gratuit:70539;total:83477;mdf-date:06/01/2002,;label:musee de france
+9529501,,Musée Archéologique du Val d'Oise,open,2008,payant:9903;gratuit:2688;total:12591;mdf-date:01/02/2003,;label:musee de france
+9531301,,Musée d'Art et d'Histoire Louis Senlecq,open,2008,payant:776;gratuit:6927;total:7703;mdf-date:01/02/2003,;label:musee de france
+9535101,,Musée Intercommunal d'Histoire et d'Archéologie de Louvres,open,2008,payant:40;gratuit:1610;total:1650;mdf-date:01/02/2003,;label:musee de france
+9550001,,Musée Tavet Delacour,open,2008,payant:2783;gratuit:4902;total:7685;mdf-date:01/02/2003,;label:musee de france
+9550002,,Musée Camille Pissarro,open,2008,payant:0;gratuit:4634;total:4634;mdf-date:01/02/2003,;label:musee de france
+7835601,,Musée National de Port Royal des Champs,open,2008,payant:10142;gratuit:12500;total:22642;mdf-date:06/01/2002,;label:musee de france
+7820801,,Musée de la Ville,open,2008,payant:6324;gratuit:6976;total:13300;mdf-date:01/02/2003,;label:musee de france
+7855101,,Musée Départemental Maurice Denis,open,2008,payant:20716;gratuit:3499;total:24215;mdf-date:01/02/2003,;label:musee de france
+9741301,,Muséum Agricole et Industriel Stella Matutina,open,2008,payant:33888;gratuit:5752;total:39640;mdf-date:01/02/2003,;label:musee de france
+9741101,,Musée Départemental de la Réunion - Musée Léon Dierx,open,2008,payant:2633;gratuit:13863;total:16496;mdf-date:01/02/2003,;label:musee de france
+9741102,,Muséum d'Histoire Naturelle,open,2008,payant:2339;gratuit:20676;total:23015;mdf-date:06/01/2002,;label:musee de france
+1106901,,Musée des Beaux-Arts,open,2008,payant:0;gratuit:66062;total:66062;mdf-date:01/02/2003,;label:musee de france
+3018904,,Musée du Vieux Nîmes,open,2008,payant:0;gratuit:24534;total:24534;mdf-date:01/02/2003,;label:musee de france
+3025801,,Musée de la Maison Romane,open,2008,payant:0;gratuit:6689;total:6689;mdf-date:01/02/2003,;label:musee de france
+3400302,,Musée de l'Ephèbe,open,2008,payant:11024;gratuit:1924;total:12948;mdf-date:01/02/2003,;label:musee de france
+3415301,,Musée de la Préhistoire des Matelles,open,2008,payant:1042;gratuit:2470;total:3512;mdf-date:01/02/2003,;label:musee de france
+3417210,,Musée de l'Hôtel d'Espeyran (Annexe musée Fabre),closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+3428401,,Musée de Préhistoire Régionale et du Mégalithisme,open,2008,payant:2423;gratuit:1870;total:4293;mdf-date:01/02/2003,;label:musee de france
+6604902,,Musée départemental d'Art Moderne,open,2008,payant:78710;gratuit:21615;total:100325;mdf-date:01/02/2003,;label:musee de france
+6613604,,Muséum d'Histoire Naturelle,open,2008,payant:1093;gratuit:5015;total:6108;mdf-date:01/02/2003,;label:musee de france
+1925101,,Musée du Président Jacques Chirac,open,2008,payant:35661;gratuit:5385;total:41046;mdf-date:29/11/2002,;label:musee de france
+8708502,,Musée National Adrien Dubouché,open,2008,payant:7666;gratuit:19350;total:27016;mdf-date:06/01/2002,;label:musee de france
+8712601,,Musée Départemental d'Art Contemporain,open,2008,payant:6205;gratuit:5330;total:11535;mdf-date:01/02/2003,;label:musee de france
+5432301,,Musée Municipal des Emaux et Faïences,open,2008,payant:4207;gratuit:2586;total:6793;mdf-date:01/02/2003,;label:musee de france
+5439501,,Musée de l'Ecole de Nancy,open,2008,payant:25329;gratuit:24775;total:50104;mdf-date:01/02/2003,;label:musee de france
+5746302,,Musées de la Cour d'Or,open,2008,payant:10567;gratuit:26825;total:37392;mdf-date:01/02/2003,;label:musee de france
+5753701,,Musée de la Mine - Carreau Wendel,open,2008,payant:29454;gratuit:16032;total:45486;mdf-date:01/02/2003,;label:musee de france
+5767201,,La Tour aux Puces - Musée du Pays Thionvillois,open,2008,payant:2950;gratuit:7553;total:10503;mdf-date:01/02/2003,;label:musee de france
+9720901,,Musée Départemental d'Archéologie Précolombienne et de Préhistoire de la Martinique,open,2008,payant:4771;gratuit:2448;total:7219;mdf-date:01/02/2003,;label:musee de france
+0920701,,Musée de la Forge,open,2008,payant:26692;gratuit:2948;total:29640;mdf-date:01/02/2003,;label:musee de france
+1209602,,Musée Joseph Vaylet,open,2008,payant:2628;gratuit:223;total:2851;mdf-date:01/02/2003,;label:musee de france
+1220204,,Musée Soulages,closed,2008,payant:0;gratuit:0;total:;mdf-date:20/12/2005,;label:musee de france
+1230001,,Musée Municipal Urbain Cabrol,open,2008,payant:0;gratuit:4459;total:4459;mdf-date:01/02/2003,;label:musee de france
+3216001,,Musée Campanaire,open,2008,payant:6807;gratuit:5237;total:12044;mdf-date:01/02/2003,;label:musee de france
+3155509,,Muséum d'Histoire Naturelle,open,2008,payant:187888;gratuit:141325;total:329213;mdf-date:06/01/2002,;label:musee de france
+3155507,,Musée des Transports et des Communications,open,2008,payant:0;gratuit:840;total:840;mdf-date:01/02/2003,;label:musee de france
+3155502,,Musée Saint-Raymond,open,2008,payant:20550;gratuit:55370;total:75920;mdf-date:01/02/2003,;label:musee de france
+4604001,,Musée de Préhistoire Amédée Lémozi,open,2008,payant:71888;gratuit:0;total:71888;mdf-date:01/02/2003,;label:musee de france
+4604201,,Musée Henri Martin,open,2008,payant:3729;gratuit:9150;total:12879;mdf-date:01/02/2003,;label:musee de france
+4610202,,Musée Champollion - Les Ecriture du Monde,open,2008,payant:34199;gratuit:11990;total:46189;mdf-date:01/02/2003,;label:musee de france
+4624001,,Musée d'Art Sacré,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+8109901,,Musée des Beaux-Arts,open,2008,payant:2712;gratuit:3104;total:5816;mdf-date:01/02/2003,;label:musee de france
+8211202,,Musée des arts et traditions populaires,open,2008,payant:3715;gratuit:940;total:4655;mdf-date:01/02/2003,;label:musee de france
+5909201,,Musée de l'Ostrevant,open,2008,payant:307;gratuit:417;total:724;mdf-date:01/02/2003,;label:musee de france
+5912201,,Musée Municipal de Cambrai,open,2008,payant:5274;gratuit:8875;total:14149;mdf-date:01/02/2003,;label:musee de france
+5918301,,Musée des Beaux-Arts,open,2008,payant:10378;gratuit:0;total:10378;mdf-date:01/02/2003,;label:musee de france
+5913601,,Musée Départemental Matisse,open,2008,payant:22535;gratuit:46882;total:69417;mdf-date:01/02/2003,;label:musee de france
+5935004,,Musée de l'Hospice Comtesse,open,2008,payant:40000;gratuit:27000;total:67000;mdf-date:01/02/2003,;label:musee de france
+5937501,,Musée d'Histoire Locale de Marchiennes,open,2008,payant:394;gratuit:420;total:814;mdf-date:01/02/2003,;label:musee de france
+5959901,,Musée d'Art et d'Industrie,open,2008,payant:0;gratuit:18356;total:18356;mdf-date:01/02/2003,;label:musee de france
+6211901,,Musée Régional d'Ethnologie,open,2008,payant:0;gratuit:1100;total:1100;mdf-date:01/02/2003,;label:musee de france
+6216004,,Muséum d'Histoire Naturelle,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+1404701,,Musée Baron Gérard,open,2008,payant:10368;gratuit:14970;total:25338;mdf-date:01/02/2003,;label:musee de france
+1411801,,Musée des Beaux-Arts,open,2008,payant:8785;gratuit:54006;total:62791;mdf-date:06/01/2002,;label:musee de france
+1411805,,Musée de la Société des Antiquaires,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+1433302,,Musée Eugène Boudin,open,2008,payant:29379;gratuit:1033;total:30412;mdf-date:01/02/2003,;label:musee de france
+1437002,,Musée de la Meunerie - Moulin de Marcy,open,2008,payant:3905;gratuit:2496;total:6401;mdf-date:01/02/2003,;label:musee de france
+1475401,,Musée Paléontologique,open,2008,payant:0;gratuit:33446;total:33446;mdf-date:01/02/2003,;label:musee de france
+5002501,,Musée Municipal d'Avranches,open,2008,payant:0;gratuit:2102;total:2102;mdf-date:01/02/2003,;label:musee de france
+5002901,,Musée de la Pomme et de la Poire,open,2008,payant:738;gratuit:3658;total:4396;mdf-date:01/02/2003,;label:musee de france
+5011001,,Musée de l'Abbaye,open,2008,payant:5311;gratuit:748;total:6059;mdf-date:01/02/2003,;label:musee de france
+5012901,,Muséum Emmanuel Liais,open,2008,payant:0;gratuit:22524;total:22524;mdf-date:01/02/2003,;label:musee de france
+5014701,,Musée Quesnel-Morinière,open,2008,payant:243;gratuit:7644;total:7887;mdf-date:01/02/2003,;label:musee de france
+5021801,,Musée Richard Anacréon,open,2008,payant:8136;gratuit:5623;total:13759;mdf-date:01/02/2003,;label:musee de france
+5050203,,"Musée du Bocage Normand, ferme du bois Jugan",open,2008,payant:3206;gratuit:2721;total:5927;mdf-date:01/02/2003,;label:musee de france
+6121401,,Musée Municipal d'Archéologie,open,2008,payant:725;gratuit:423;total:1148;mdf-date:01/02/2003,;label:musee de france
+2718301,,Musée Artisanal et Industriel d'Instruments à Vent,open,2008,payant:3790;gratuit:1216;total:5006;mdf-date:01/02/2003,;label:musee de france
+2746701,,Musée Alfred Canel,open,2008,payant:4074;gratuit:1246;total:5320;mdf-date:01/02/2003,;label:musee de france
+7616402,,Maison des Templiers,open,2008,payant:1096;gratuit:0;total:1096;mdf-date:01/02/2003,;label:musee de france
+7645201,,Musée des Sapeurs-Pompiers de France,open,2008,payant:5011;gratuit:2248;total:7259;mdf-date:01/02/2003,;label:musee de france
+7646201,,Musée Mathon-Durand,open,2008,payant:392;gratuit:1868;total:2260;mdf-date:01/02/2003,;label:musee de france
+7654009,,Musée-Maison Natale Pierre Corneille,open,2008,payant:0;gratuit:3194;total:3194;mdf-date:01/02/2003,;label:musee de france
+4406901,,Musée du Pays de Guérande et de la Porte Saint Michel,open,2008,payant:17139;gratuit:6352;total:23491;mdf-date:01/02/2003,;label:musee de france
+4410904,,Musée du Château des Ducs de Bretagne,open,2008,payant:87059;gratuit:85987;total:173046;mdf-date:01/02/2003,;label:musee de france
+4418401,,Ecomusée de Saint-Nazaire,open,2008,payant:3452;gratuit:65847;total:69299;mdf-date:01/02/2003,;label:musee de france
+4900701,,Musée des Beaux-Arts,open,2008,payant:18144;gratuit:53578;total:71722;mdf-date:06/01/2002,;label:musee de france
+4909901,,Musée d'Art et d'Histoire,open,2008,payant:1544;gratuit:16109;total:17653;mdf-date:06/04/2002,;label:musee de france
+4909904,,Musée du Textile,open,2008,payant:5503;gratuit:9047;total:14550;mdf-date:06/04/2002,;label:musee de france
+4929201,,Musée de la Vigne et du Vin d'Anjou,open,2008,payant:4706;gratuit:1918;total:6624;mdf-date:17/06/2002,;label:musee de france
+5306201,,Musée d'Art et d'Archéologie Hôtel Fouquet,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+5314701,,Musée du Château de Mayenne,open,2008,payant:7344;gratuit:12110;total:19454;mdf-date:01/02/2003,;label:musee de france
+7226901,,Bibliothèque-musée,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+8509201,,Musée Vendéen,open,2008,payant:2106;gratuit:4826;total:6932;mdf-date:14/12/2002,;label:musee de france
+8528401,,Musée Milcendeau Jean-Yole,open,2008,payant:1458;gratuit:1782;total:3240;mdf-date:12/12/2002,;label:musee de france
+0217301,,Musée municipal de Chauny,open,2008,payant:0;gratuit:3500;total:3500;mdf-date:01/02/2003,;label:musee de france
+0272201,,Musée Municipal de Soissons,open,2008,payant:0;gratuit:38821;total:38821;mdf-date:01/02/2003,;label:musee de france
+0281001,,Musée Alexandre Dumas,open,2008,payant:2050;gratuit:92;total:2142;mdf-date:01/02/2003,;label:musee de france
+6005701,,Musée Départemental de l'Oise,open,2008,payant:0;gratuit:22224;total:22224;mdf-date:01/02/2003,;label:musee de france
+6039501,,Musée de la Nacre et de la Tabletterie,open,2008,payant:14962;gratuit:4628;total:19590;mdf-date:18/04/2008,;label:musee de france
+6047103,,Musée Jean Calvin,open,2008,payant:2015;gratuit:1227;total:3242;mdf-date:01/02/2003,;label:musee de france
+6047101,,Musée du Noyonnais,open,2008,payant:835;gratuit:1960;total:2795;mdf-date:01/02/2003,;label:musee de france
+6061203,,Musée de la Vénerie,open,2008,payant:8876;gratuit:0;total:8876;mdf-date:01/02/2003,;label:musee de france
+1601504,,Cité International de la Bande Dessinée et de l'Image - Musée de la Bande Dessinée,open,2008,payant:17237;gratuit:4754;total:21991;mdf-date:01/02/2003,;label:musee de france
+1716801,,Musée Régional de Fouras,open,2008,payant:5834;gratuit:745;total:6579;mdf-date:01/02/2003,;label:musee de france
+1729902,,Musée de la Maison de Pierre Loti,open,2008,payant:26302;gratuit:3616;total:29918;mdf-date:28/03/2002,;label:musee de france
+1729904,,Musée National de la Marine,open,2008,payant:11927;gratuit:9404;total:21331;mdf-date:06/01/2002,;label:musee de france
+7919103,,Musée ethnographique et archéologique du Donjon,open,2008,payant:2922;gratuit:3204;total:6126;mdf-date:01/02/2003,;label:musee de france
+7920201,,Musée d'Art et d'Histoire Georges Turpin,open,2008,payant:495;gratuit:5280;total:5775;mdf-date:01/02/2003,;label:musee de france
+7932901,,Musée Henri Barré,open,2008,payant:367;gratuit:1802;total:2169;mdf-date:01/02/2003,;label:musee de france
+8614001,,Musée de Préhistoire Raymond Touchard,closed,2008,payant:0;gratuit:0;total:;mdf-date:20/12/2005,;label:musee de france
+0401901,,Musée de la vallée,open,2008,payant:11597;gratuit:2258;total:13855;mdf-date:01/02/2003,;label:musee de france
+0422701,,Musée archéologique,open,2008,payant:1209;gratuit:0;total:1209;mdf-date:01/02/2003,;label:musee de france
+0608304,,Musée Jean Cocteau Collection Séverin Wunderman,open,2008,payant:11178;gratuit:7251;total:18429;mdf-date:01/02/2003,;label:musee de france
+0608809,,Musée du Vieux-Logis de Nice,open,2008,payant:0;gratuit:262;total:262;mdf-date:01/02/2003,;label:musee de france
+0608810,,Musée Archéologique - Site de Terra Amata,open,2008,payant:1589;gratuit:13045;total:14634;mdf-date:01/02/2003,;label:musee de france
+1300404,,Muséon Arlaten,open,2008,payant:21359;gratuit:41077;total:62436;mdf-date:01/02/2003,;label:musee de france
+1305506,,Cabinet des Monnaies et Médailles de Marseille,open,2008,payant:0;gratuit:973;total:973;mdf-date:01/02/2003,;label:musee de france
+1305508,,"Musée d'Arts Africains, Océaniens, Amérindiens",open,2008,payant:5716;gratuit:8751;total:14467;mdf-date:01/02/2003,;label:musee de france
+1305505,,Musée d'Histoire de Marseille,open,2008,payant:13422;gratuit:33305;total:46727;mdf-date:01/02/2003,;label:musee de france
+1305502,,Musée du Vieux Marseille,open,2008,payant:1996;gratuit:11627;total:13623;mdf-date:01/02/2003,;label:musee de france
+1320101,,Musée Grobet-Labadié,open,2008,payant:2430;gratuit:5400;total:7830;mdf-date:01/02/2003,;label:musee de france
+1309201,,Musée Municipal Paul Lafran,open,2008,payant:0;gratuit:2441;total:2441;mdf-date:01/02/2003,;label:musee de france
+1309601,,Musée Baroncelli,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+1310002,,Musée Estrine - Présence Van Gogh,open,2008,payant:9112;gratuit:4412;total:13524;mdf-date:15/03/2007,;label:musee de france
+0506101,,Musée Départemental des Hautes-Alpes,open,2008,payant:0;gratuit:16630;total:16630;mdf-date:01/02/2003,;label:musee de france
+8301901,,Musée des Arts et d’Histoire,open,2008,payant:0;gratuit:7884;total:7884;mdf-date:01/02/2003,;label:musee de france
+8305002,,Musée de la Société d’Etudes Scientifiques et Achéologiques,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+8306102,,Musée des Troupes de Marine,open,2008,payant:0;gratuit:14541;total:14541;mdf-date:05/07/2006,;label:musee de france
+8311801,,Musée Archéologique,open,2008,payant:0;gratuit:17844;total:17844;mdf-date:01/02/2003,;label:musee de france
+8311901,,Musée de l'Annonciade,open,2008,payant:30655;gratuit:6663;total:37318;mdf-date:01/02/2003,;label:musee de france
+8400701,,Muséum d'Histoire Naturelle Esprit Requien,open,2008,payant:0;gratuit:21292;total:21292;mdf-date:06/01/2002,;label:musee de france
+8403105,,Musée Sobirats,open,2008,payant:294;gratuit:576;total:870;mdf-date:01/02/2003,;label:musee de france
+8403503,,Musée Jouve,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+8404201,,Musée Marc Deydier,open,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+8406801,,Musée Philippe de Girard,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+0105301,,Musée du Brou,open,2008,payant:43761;gratuit:16725;total:60486;mdf-date:01/02/2003,;label:musee de france
+0106401,,Musée de la Société d'Histoire et d'Archéologie,open,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+0121801,,Musée du Bugey-Valmorey,open,2008,payant:2101;gratuit:3289;total:5390;mdf-date:01/02/2003,;label:musee de france
+0126901,,Musée de la Résistance et de la Déportation de l'Ain,open,2008,payant:6190;gratuit:3584;total:9774;mdf-date:01/02/2003,;label:musee de france
+0130501,,Musée Chintreuil,open,2008,payant:6343;gratuit:258;total:6601;mdf-date:01/02/2003,;label:musee de france
+0134301,,Musée de la Bresse - Domaine des Planons,open,2008,payant:16355;gratuit:8567;total:24922;mdf-date:01/02/2003,;label:musee de france
+2636401,,Musée du site Préhistorique,open,2008,payant:3001;gratuit:642;total:3643;mdf-date:01/02/2003,;label:musee de france
+7428102,,Musée du Chablais,open,2008,payant:4768;gratuit:0;total:4768;mdf-date:01/02/2003,;label:musee de france
+3808201,,Musée - Parc Archéologique du Lac de Paladru,open,2008,payant:11772;gratuit:739;total:12511;mdf-date:01/02/2003,;label:musee de france
+3818507,,Musée Stendhal,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+3818505,,Musée de Grenoble,open,2008,payant:73889;gratuit:115376;total:189265;mdf-date:06/01/2002,;label:musee de france
+3818503,,Muséum d'Histoire Naturelle de Grenoble,open,2008,payant:23351;gratuit:66773;total:90124;mdf-date:06/01/2002,;label:musee de france
+3800501,,Conservatoire - Musée des Industries Hydroélectriques,open,2008,payant:0;gratuit:11436;total:11436;mdf-date:01/02/2003,;label:musee de france
+3854402,,Musée Lapidaire Saint-Pierre,open,2008,payant:2080;gratuit:4712;total:6792;mdf-date:01/02/2003,;label:musee de france
+3854401,,Musée-Cloître Saint-André-Le-Bas,open,2008,payant:3112;gratuit:7365;total:10477;mdf-date:01/02/2003,;label:musee de france
+3856201,,Musée Départemental de la Révolution Française,open,2008,payant:4999;gratuit:47977;total:52976;mdf-date:01/02/2003,;label:musee de france
+3856301,,Musée Lucien Mainssieux,open,2008,payant:0;gratuit:3218;total:3218;mdf-date:28/07/2004,;label:musee de france
+4214702,,Musée de la Diana,open,2008,payant:1648;gratuit:0;total:1648;mdf-date:01/02/2003,;label:musee de france
+4218701,,Musée des Beaux-Arts et d'Archéologie J. Dechelette,open,2008,payant:1854;gratuit:11666;total:13520;mdf-date:01/02/2003,;label:musee de france
+4223001,,Musée Municipal,open,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+6901801,,Musée Folklorique et Traditions Populaires Marius Audin,open,2008,payant:2054;gratuit:1101;total:3155;mdf-date:01/02/2003,;label:musee de france
+6912301,,Musée Historique des Tissus et des Arts Décoratifs,open,2008,payant:64674;gratuit:21558;total:86232;mdf-date:01/02/2003,;label:musee de france
+6938501,,Musées Gadagne,open,2008,payant:24107;gratuit:0;total:24107;mdf-date:01/02/2003,;label:musee de france
+6938102,,Musée des Beaux-Arts,open,2008,payant:96826;gratuit:153312;total:250138;mdf-date:06/01/2002,;label:musee de france
+6938101,,Musée d'Art Contemporain de Lyon,open,2008,payant:110435;gratuit:116007;total:226442;mdf-date:01/02/2003,;label:musee de france
+7306502,,Musée Savoisien,open,2008,payant:3660;gratuit:11800;total:15460;mdf-date:06/01/2002,;label:musee de france
+6738801,,Musée du Fer,open,2008,payant:1152;gratuit:273;total:1425;mdf-date:01/02/2003,;label:musee de france
+6748210,,Musée Zoologique de Strasbourg,open,2008,payant:11024;gratuit:31553;total:42577;mdf-date:01/02/2003,;label:musee de france
+6748206,,Musée de l'Œuvre Notre-Dame,open,2008,payant:25107;gratuit:33853;total:58960;mdf-date:01/02/2003,;label:musee de france
+6748203,,Musée des Beaux-Arts,open,2008,payant:11950;gratuit:34533;total:46483;mdf-date:01/02/2003,;label:musee de france
+6751301,,Musée J.F. Oberlin,open,2008,payant:19575;gratuit:3889;total:23464;mdf-date:01/02/2003,;label:musee de france
+6806601,,Musée d'Unterlinden,open,2008,payant:210623;gratuit:39377;total:250000;mdf-date:01/02/2003,;label:musee de france
+6806602,,Musée d'Histoire Naturelle et d'Ethnographie de Colmar,open,2008,payant:6646;gratuit:5243;total:11889;mdf-date:01/02/2003,;label:musee de france
+6816201,,Musée d'Histoire Local,open,2008,payant:379;gratuit:95;total:474;mdf-date:01/02/2003,;label:musee de france
+6822409,,Musée Minéralogique de la Société Industrielle de Mulhouse,open,2008,payant:0;gratuit:159;total:159;mdf-date:01/02/2003,;label:musee de france
+6822402,,Musée de l'Impression sur Etoffes,open,2008,payant:9713;gratuit:20195;total:29908;mdf-date:01/02/2003,;label:musee de france
+3306701,,Musée de la Voiture à Cheval,open,2008,payant:2665;gratuit:1251;total:3916;mdf-date:01/02/2003,;label:musee de france
+3354701,,Musée Municipal,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+4028201,,Musée d'Art et d'Histoire du Cap de Gascogne,open,2008,payant:0;gratuit:1500;total:1500;mdf-date:01/02/2003,;label:musee de france
+4307001,,Musée de Paléontologie,open,2008,payant:1438;gratuit:20;total:1458;mdf-date:01/02/2003,;label:musee de france
+6311303,,Muséum d'Histoire Naturelle Henri-Lecoq,open,2008,payant:2837;gratuit:24916;total:27753;mdf-date:06/01/2002,;label:musee de france
+6321101,,Musée des Pénitents Blancs,open,2008,payant:145;gratuit:20;total:165;mdf-date:01/02/2003,;label:musee de france
+6330002,,Musée Francisque Mandet,open,2008,payant:1852;gratuit:7195;total:9047;mdf-date:01/02/2003,;label:musee de france
+6330003,,Musée Régional d'Auvergne,open,2008,payant:962;gratuit:2570;total:3532;mdf-date:01/02/2003,;label:musee de france
+2123105,,Muséum - Jardin des Sciences,open,2008,payant:8752;gratuit:111045;total:119797;mdf-date:06/01/2002,;label:musee de france
+5808601,,Musée de la Loire,open,2008,payant:1255;gratuit:3636;total:4891;mdf-date:01/02/2003,;label:musee de france
+7101403,,Musée Lapidaire Saint-Nicolas,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+7107601,,Musée Denon,open,2008,payant:1082;gratuit:12380;total:13462;mdf-date:01/02/2003,;label:musee de france
+7107602,,Musée Nicéphore Niepce,open,2008,payant:1876;gratuit:19519;total:21395;mdf-date:01/02/2003,;label:musee de france
+7110602,,Musée du Prieuré de Charolles,open,2008,payant:1335;gratuit:1487;total:2822;mdf-date:01/02/2003,;label:musee de france
+7127002,,Musée Lamartine,open,2008,payant:1010;gratuit:3926;total:4936;mdf-date:01/02/2003,;label:musee de france
+7127501,,Musée de la Tour du Moulin,open,2008,payant:647;gratuit:652;total:1299;mdf-date:01/02/2003,;label:musee de france
+7152601,,Musée Départemental de Préhistoire de Solutré,open,2008,payant:15283;gratuit:13329;total:28612;mdf-date:01/02/2003,;label:musee de france
+8902403,,Musée Leblanc-Duvernois,open,2008,payant:904;gratuit:1386;total:2290;mdf-date:01/02/2003,;label:musee de france
+8902501,,Musée de l'Avallonnais Jean Després,open,2008,payant:0;gratuit:8263;total:8263;mdf-date:01/02/2003,;label:musee de france
+8936801,,Musée Colette,open,2008,payant:7130;gratuit:427;total:7557;mdf-date:01/02/2003,;label:musee de france
+2901901,,Musée des Beaux-Arts de Brest,open,2008,payant:4786;gratuit:18389;total:23175;mdf-date:01/02/2003,;label:musee de france
+2901902,,Musée National de la Marine,open,2008,payant:31346;gratuit:27404;total:58750;mdf-date:06/01/2002,;label:musee de france
+2903901,,Musée de la Pêche,open,2008,payant:30304;gratuit:3540;total:33844;mdf-date:01/02/2003,;label:musee de france
+2923201,,Musée des Beaux-Arts,open,2008,payant:28949;gratuit:26695;total:55644;mdf-date:01/02/2003,;label:musee de france
+2923202,,Musée Départemental Breton,open,2008,payant:24903;gratuit:20208;total:45111;mdf-date:01/02/2003,;label:musee de france
+5606901,,Ecomusée de l'Île de Groix,open,2008,payant:7168;gratuit:1028;total:8196;mdf-date:01/02/2003,;label:musee de france
+5618101,,Musée National de la Marine,open,2008,payant:39046;gratuit:18932;total:57978;mdf-date:01/02/2003,;label:musee de france
+1803301,,Musée Estève,open,2008,payant:0;gratuit:17173;total:17173;mdf-date:01/02/2003,;label:musee de france
+2808503,,Musée des Beaux-Arts,open,2008,payant:4842;gratuit:7938;total:12780;mdf-date:01/02/2003,;label:musee de france
+2836301,,Musée Farcot,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+3604401,,Musées de Châteauroux - Hôtel Bertrand,open,2008,payant:0;gratuit:20442;total:20442;mdf-date:01/02/2003,;label:musee de france
+4101801,,Château Musées de Blois,open,2008,payant:243166;gratuit:31429;total:274595;mdf-date:01/02/2003,;label:musee de france
+4500802,,Musée Municipal Théâtre Forain et Archéologique,open,2008,payant:2982;gratuit:5162;total:8144;mdf-date:01/02/2003,;label:musee de france
+4502801,,Musée Daniel Vannier,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+4520801,,Musée du Gatinais,open,2008,payant:213;gratuit:132;total:345;mdf-date:27/12/2002,;label:musee de france
+4523401,,Musée des Sciences Naturelles,open,2008,payant:8068;gratuit:52615;total:60683;mdf-date:06/01/2002,;label:musee de france
+1038704,,Musée des Beaux-Arts (Musée Pic Saint-Loup),open,2008,payant:5052;gratuit:14298;total:19350;mdf-date:01/02/2003,;label:musee de france
+1038707,,Pharmacie Musée de l'Hôtel-Dieu,open,2008,payant:3343;gratuit:4443;total:7786;mdf-date:01/02/2003,;label:musee de france
+5212101,,Musée des Beaux-Arts et d'Archéologie,open,2008,payant:758;gratuit:4294;total:5052;mdf-date:01/02/2003,;label:musee de france
+5144501,,Ecomusée de la Montagne de Reims,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+5145407,,Planétarium/Musée de l'Ancien Collège des Jésuites,open,2008,payant:2816;gratuit:24073;total:26889;mdf-date:01/02/2003,;label:musee de france
+5145401,,Musée des Beaux-Arts de Saint-Denis,open,2008,payant:9684;gratuit:28181;total:37865;mdf-date:06/01/2002,;label:musee de france
+5150702,,Musée de l'Argonne Viard-Morel,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+2A00401,,Musée Napoléonien,open,2008,payant:8042;gratuit:4665;total:12707;mdf-date:01/02/2003,;label:musee de france
+2A00402,,Musée de la Maison Bonaparte,open,2008,payant:47653;gratuit:11891;total:59544;mdf-date:06/01/2002,;label:musee de france
+2A27201,,Musée de Préhistoire Corse,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+7012201,,Musée Départemental Albert-et-Félicie Demard - ATP,open,2008,payant:6100;gratuit:7308;total:13408;mdf-date:01/02/2003,;label:musee de france
+3901301,,Musée Sarret de Grozon,open,2008,payant:0;gratuit:1315;total:1315;mdf-date:01/02/2003,;label:musee de france
+3901302,,Musée de la Vigne et du Vin,open,2008,payant:3849;gratuit:641;total:4490;mdf-date:01/02/2003,;label:musee de france
+3930002,,Musée des Beaux-Arts,open,2008,payant:1222;gratuit:4503;total:5725;mdf-date:01/02/2003,;label:musee de france
+3904101,,Musée de l'Artisanat Jurassien,open,2008,payant:0;gratuit:7440;total:7440;mdf-date:01/02/2003,;label:musee de france
+9712003,,Musée l'Herminier,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+9730201,,Musée Territorial Alexandre Franconie,open,2008,payant:2613;gratuit:6231;total:8844;mdf-date:01/02/2003,;label:musee de france
+9122301,,Musée Intercommunal d'Etampes,open,2008,payant:967;gratuit:9889;total:10856;mdf-date:01/02/2003,;label:musee de france
+9201203,,Musée Départemental Albert-Kahn,open,2008,payant:64981;gratuit:39665;total:104646;mdf-date:01/02/2003,;label:musee de france
+9202501,,Musée Municipal d'Art et d'Histoire,open,2008,payant:0;gratuit:4966;total:4966;mdf-date:01/02/2003,;label:musee de france
+9205101,,Musée des Automates,open,2008,payant:346;gratuit:1971;total:2317;mdf-date:01/02/2003,;label:musee de france
+9206301,,Musée National des Châteaux de Malmaison et de Bois-Préau,open,2008,payant:40350;gratuit:30066;total:70416;mdf-date:06/01/2002,;label:musee de france
+9207301,,Musée René Sordes,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+7511701,,Musée National Jean-Jacques Henner,closed,2008,payant:0;gratuit:0;total:;mdf-date:06/01/2002,;label:musee de france
+7510501,,Musée du Moyen Age-Thermes et Hôtel de Cluny,open,2008,payant:87761;gratuit:272339;total:360100;mdf-date:06/01/2002,;label:musee de france
+7510517,,Musée de l'Assistance Publique - Hôpitaux de Paris,open,2008,payant:13993;gratuit:9210;total:23203;mdf-date:02/10/2002,;label:musee de france
+7510103,,Musée de l'Orangerie,open,2008,payant:408459;gratuit:135295;total:543754;mdf-date:06/01/2002,;label:musee de france
+7511616,,Maison de Balzac,open,2008,payant:759;gratuit:20698;total:21457;mdf-date:08/07/2004,;label:musee de france
+7510802,,Musée de la Musique,open,2008,payant:87263;gratuit:37419;total:124682;mdf-date:06/01/2002,;label:musee de france
+7510703,,Musée National Auguste Rodin,open,2008,payant:519032;gratuit:235931;total:754963;mdf-date:06/01/2002,;label:musee de france
+7511615,,Musée d'Art Moderne de la ville de Paris,open,2008,payant:261350;gratuit:570738;total:832088;mdf-date:08/07/2004,;label:musee de france
+7511202,,Etablissement public de la Porte Dorée - Cité Nationale de l’Histoire de l’Immigration,open,2008,payant:34126;gratuit:59499;total:93625;mdf-date:16/11/2006,;label:musee de france
+7511001,,Musée de la Publicité (Union Centrale des Arts Décoratifs),open,2008,payant:0;gratuit:0;total:;mdf-date:06/01/2002,;label:musee de france
+7510303,,Musée d'Art et d'Histoire du Judaïsme,open,2008,payant:67160;gratuit:32949;total:100109;mdf-date:01/02/2003,;label:musee de france
+7510402,,Musée National d'Art Moderne (Centre National d'Art et de Culture Georges Pompidou),open,2008,payant:2850490;gratuit:0;total:2850490;mdf-date:06/01/2002,;label:musee de france
+7511504,,Musée de la Poste,open,2008,payant:18033;gratuit:42286;total:60319;mdf-date:06/01/2002,;label:musee de france
+7728501,,Musée Henri Chapu,open,2008,payant:0;gratuit:585;total:585;mdf-date:01/02/2003,;label:musee de france
+7728402,,Musée de la Grande Guerre du Pays de Meaux,closed,2008,payant:0;gratuit:0;total:;mdf-date:15/03/2007,;label:musee de france
+7744501,,Ecomusée,open,2008,payant:298;gratuit:12288;total:12586;mdf-date:01/02/2003,;label:musee de france
+7753301,,Musée départemental Stéphane Mallarmé,open,2008,payant:3948;gratuit:2259;total:6207;mdf-date:01/02/2003,;label:musee de france
+9401501,,Musée Adrien Mentienne,open,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+9404601,,Musée Fragonard,open,2008,payant:1949;gratuit:1099;total:3048;mdf-date:05/07/2006,;label:musee de france
+9542801,,Musée Jean-Jacques Rousseau,open,2008,payant:770;gratuit:1972;total:2742;mdf-date:01/02/2003,;label:musee de france
+7832201,,Musée de la Toile de Jouy,open,2008,payant:8827;gratuit:2034;total:10861;mdf-date:01/02/2003,;label:musee de france
+7835001,,Musée Promenade Marly/Louveciennes,open,2008,payant:4706;gratuit:2301;total:7007;mdf-date:01/02/2003,;label:musee de france
+9743501,,Musée Historique de Villèle,open,2008,payant:11383;gratuit:12196;total:23579;mdf-date:01/02/2003,;label:musee de france
+9741401,,Musée des Arts Décoratifs de l’Océan indien (MADOI),open,2008,payant:0;gratuit:3417;total:3417;mdf-date:01/02/2003,;label:musee de france
+1126202,,Musée Archéologique - Ensemble monumental de Narbonne,open,2008,payant:0;gratuit:0;total:;mdf-date:2002-06-13 00:00:00,;label:musee de france
+3000701,,Musée-Bibliothèque Pierre-André Benoît,open,2008,payant:0;gratuit:15889;total:15889;mdf-date:01/02/2003,;label:musee de france
+3003201,,Musée Municipal de la Vignasse,open,2008,payant:529;gratuit:1916;total:2445;mdf-date:01/02/2003,;label:musee de france
+3018906,,Carré d'Art Musée d'Art Contemporain de Nîmes,open,2008,payant:12620;gratuit:25738;total:38358;mdf-date:01/02/2003,;label:musee de france
+3018901,,Musée d'Histoire Naturelle et de Préhistoire,open,2008,payant:0;gratuit:50329;total:50329;mdf-date:06/01/2002,;label:musee de france
+3026901,,Musée des Vallées Cévenoles,open,2008,payant:9061;gratuit:7124;total:16185;mdf-date:01/02/2003,;label:musee de france
+3033401,,Musée Municipal Georges Borias,open,2008,payant:1244;gratuit:1140;total:2384;mdf-date:01/02/2003,;label:musee de france
+3403203,,Muséum d'Histoire Naturelle,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+3403202,,Musée du Biterrois,open,2008,payant:8238;gratuit:11778;total:20016;mdf-date:01/02/2003,;label:musee de france
+3403901,,Musée de l'Etang de Thau,open,2008,payant:17016;gratuit:0;total:17016;mdf-date:01/02/2003,;label:musee de france
+3412901,,Site Archéologique Lattara - Musée Henri Prades de Montpellier Agglomération,open,2008,payant:7159;gratuit:8676;total:15835;mdf-date:01/02/2003,;label:musee de france
+3414201,,Musée Fleury,open,2008,payant:38735;gratuit:11613;total:50348;mdf-date:01/02/2003,;label:musee de france
+3417209,,Musée du Vieux Montpellier,open,2008,payant:0;gratuit:5292;total:5292;mdf-date:01/02/2003,;label:musee de france
+1927501,,Musée du Pays d'Ussel,open,2008,payant:0;gratuit:2912;total:2912;mdf-date:08/08/2002,;label:musee de france
+2300801,,Musée Départemental de la Tapisserie,open,2008,payant:15445;gratuit:3035;total:18480;mdf-date:17/06/2002,;label:musee de france
+8704101,,Musée René Baubérot,open,2008,payant:3067;gratuit:613;total:3680;mdf-date:01/02/2003,;label:musee de france
+5415401,,Les Sources d'Hercule,open,2008,payant:3047;gratuit:952;total:3999;mdf-date:01/02/2003,;label:musee de france
+5512201,,Musée de la Céramique et de l'Ivoire,open,2008,payant:1947;gratuit:1512;total:3459;mdf-date:01/02/2003,;label:musee de france
+5550202,,Musée de la Bière et du Pays de Stenay,open,2008,payant:4474;gratuit:10534;total:15008;mdf-date:24/02/2003,;label:musee de france
+5553301,,Musée Jeanne d'Arc,open,2008,payant:1167;gratuit:550;total:1717;mdf-date:01/02/2003,;label:musee de france
+5554501,,Musée de la Princerie,open,2008,payant:2302;gratuit:1998;total:4300;mdf-date:01/02/2003,;label:musee de france
+5745601,,Maison du Verre et du Cristal,open,2008,payant:15256;gratuit:492;total:15748;mdf-date:01/02/2003,;label:musee de france
+5771201,,Musée Départemental Georges de la Tour,open,2008,payant:4128;gratuit:10045;total:14173;mdf-date:01/02/2003,;label:musee de france
+8830401,,Musée de la Lutherie et de l'Archèterie Française,open,2008,payant:6015;gratuit:3117;total:9132;mdf-date:26/05/2002,;label:musee de france
+8838301,,Musée Charles de Bruyères,open,2008,payant:981;gratuit:3408;total:4389;mdf-date:11/08/2002,;label:musee de france
+8841301,,Musée Pierre Noël - Musée de la Vie dans les Hautes-Vosges,open,2008,payant:4870;gratuit:11266;total:16136;mdf-date:01/02/2003,;label:musee de france
+9722001,,Ecomusée de la Martinique,open,2008,payant:6327;gratuit:2716;total:9043;mdf-date:01/02/2003,;label:musee de france
+0912201,,Musée Départemental de l'Ariège,open,2008,payant:77902;gratuit:6195;total:84097;mdf-date:01/02/2003,;label:musee de france
+0921101,,Musée d'Archéologie,open,2008,payant:30000;gratuit:0;total:30000;mdf-date:01/02/2003,;label:musee de france
+1225501,,Musée du Charroi Rural et de l'Artisanat Traditionnel,open,2008,payant:0;gratuit:2812;total:2812;mdf-date:01/02/2003,;label:musee de france
+3211901,,Musée Archéologique,open,2008,payant:3567;gratuit:2569;total:6136;mdf-date:01/02/2003,;label:musee de france
+3220801,,Musée d'Archéologie,open,2008,payant:1553;gratuit:620;total:2173;mdf-date:01/02/2003,;label:musee de france
+3223301,,Musée Joseph Abeilhé,open,2008,payant:220;gratuit:150;total:370;mdf-date:01/02/2003,;label:musee de france
+3225601,,Musée des Beaux-Arts et des Arts Décoratifs,open,2008,payant:602;gratuit:382;total:984;mdf-date:01/02/2003,;label:musee de france
+3155503,,Musée Paul Dupuy,open,2008,payant:7997;gratuit:8329;total:16326;mdf-date:01/02/2003,;label:musee de france
+6505905,,Muséum d'Histoire Naturelle,open,2008,payant:2151;gratuit:52;total:2203;mdf-date:01/02/2003,;label:musee de france
+4633001,,Musée Municipal,open,2008,payant:226;gratuit:0;total:226;mdf-date:01/02/2003,;label:musee de france
+8106502,,Musée Jean Jaurès,open,2008,payant:1437;gratuit:10160;total:11597;mdf-date:06/01/2002,;label:musee de france
+8109101,,Musée du Protestantisme en Haut-Languedoc,open,2008,payant:1310;gratuit:923;total:2233;mdf-date:01/02/2003,;label:musee de france
+8111501,,Musée Départemental du Textile,open,2008,payant:1427;gratuit:1909;total:3336;mdf-date:01/02/2003,;label:musee de france
+8114501,,Musée Raymond Lafage,open,2008,payant:1976;gratuit:3082;total:5058;mdf-date:01/02/2003,;label:musee de france
+8200801,,Musée du Vieil Auvillar,open,2008,payant:2516;gratuit:454;total:2970;mdf-date:01/02/2003,;label:musee de france
+8215501,,Musée de Préhistoire,open,2008,payant:577;gratuit:325;total:902;mdf-date:01/02/2003,;label:musee de france
+5913501,,Musée Départemental de Flandre,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+5955501,,Musée du Verre,open,2008,payant:4001;gratuit:4543;total:8544;mdf-date:01/02/2003,;label:musee de france
+5960601,,Musée des Beaux-Arts,open,2008,payant:85583;gratuit:0;total:85583;mdf-date:06/01/2002,;label:musee de france
+6219301,,Musée des Beaux-Arts et de la Dentelle,open,2008,payant:1010;gratuit:15007;total:16017;mdf-date:01/02/2003,;label:musee de france
+6276502,,Musée Henri Dupuis,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+1402101,,Musée du Débarquement,open,2008,payant:295081;gratuit:14542;total:309623;mdf-date:01/02/2003,;label:musee de france
+1411802,,Musée de Normandie,open,2008,payant:10190;gratuit:108900;total:119090;mdf-date:06/01/2002,;label:musee de france
+1433301,,Musée d'Ethnographie et d'Arts Populaires et Musée de la Marine,open,2008,payant:17793;gratuit:0;total:17793;mdf-date:01/02/2003,;label:musee de france
+1469201,,Musée de la Bataille de Tilly-Sur-Seulles 1944,open,2008,payant:1239;gratuit:0;total:1239;mdf-date:01/02/2003,;label:musee de france
+1471501,,Musée de Trouville - Villa Montebello,open,2008,payant:5153;gratuit:6744;total:11897;mdf-date:01/02/2003,;label:musee de france
+1474701,,Musée et Sites archéologiques de Vieux-la-Romaine,open,2008,payant:3783;gratuit:14398;total:18181;mdf-date:01/02/2003,;label:musee de france
+5012903,,Musée de la Guerre et de la Libération,open,2008,payant:4693;gratuit:9298;total:13991;mdf-date:01/02/2003,;label:musee de france
+5017301,,Musée Municipal,open,2008,payant:0;gratuit:2890;total:2890;mdf-date:01/02/2003,;label:musee de france
+5021803,,Musée Christian Dior,open,2008,payant:22417;gratuit:3318;total:25735;mdf-date:01/02/2003,;label:musee de france
+2705601,,Musée Municipal,open,2008,payant:1880;gratuit:7167;total:9047;mdf-date:01/02/2003,;label:musee de france
+2768101,,Musée Alphonse-Georges Poulain,open,2008,payant:1727;gratuit:8025;total:9752;mdf-date:01/02/2003,;label:musee de france
+7616401,,Museoseine,open,2008,payant:3783;gratuit:1379;total:5162;mdf-date:01/02/2003,;label:musee de france
+7625901,,Musée des Terres-Neuvas et de la Pêche,open,2008,payant:15189;gratuit:21073;total:36262;mdf-date:01/02/2003,;label:musee de france
+7634101,,Musée du Prieuré,open,2008,payant:243;gratuit:4605;total:4848;mdf-date:01/02/2003,;label:musee de france
+7635103,,Musée de l'Hôtel Dubocage de Bléville,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+7635104,,Muséum d'Histoire Naturelle,open,2008,payant:0;gratuit:49636;total:49636;mdf-date:01/02/2003,;label:musee de france
+7654007,,Muséum d'Histoire Naturelle,open,2008,payant:21156;gratuit:24801;total:45957;mdf-date:01/02/2003,;label:musee de france
+4401001,,Musée des Marais Salant,open,2008,payant:11948;gratuit:1418;total:13366;mdf-date:20/12/2005,;label:musee de france
+4410901,,Muséum d'Histoire Naturelle de Nantes,open,2008,payant:27433;gratuit:63046;total:90479;mdf-date:06/01/2002,;label:musee de france
+4416801,,Musées du Parc Naturel Régional de Brière,open,2008,payant:3512;gratuit:175;total:3687;mdf-date:01/02/2003,;label:musee de france
+4417601,,Maison de l'Eclusier /Parc Naturel Régional de Brière,open,2008,payant:4601;gratuit:50;total:4651;mdf-date:01/02/2003,;label:musee de france
+4902101,,Musée Joseph Denais,closed,2008,payant:0;gratuit:0;total:;mdf-date:06/10/2002,;label:musee de france
+5313001,,Musée du Vieux Château,open,2008,payant:10871;gratuit:19446;total:30317;mdf-date:01/02/2003,;label:musee de france
+8519101,,Musée Municipal,open,2008,payant:0;gratuit:7664;total:7664;mdf-date:01/02/2003,;label:musee de france
+8516302,,Musée du Château,open,2008,payant:30100;gratuit:2661;total:32761;mdf-date:01/02/2003,;label:musee de france
+8522601,,Musée La Bourrine du Bois-Juquaud,open,2008,payant:10205;gratuit:8042;total:18247;mdf-date:28/07/2004,;label:musee de france
+0216801,,Musée Jean de la Fontaine,open,2008,payant:7354;gratuit:3552;total:10906;mdf-date:01/02/2003,;label:musee de france
+0268401,,Musée de la Vie Rurale et Forestière,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+0269101,,Musée Entomologique,open,2008,payant:3906;gratuit:4149;total:8055;mdf-date:01/02/2003,;label:musee de france
+0278901,,Musée de La Thiérache,open,2008,payant:0;gratuit:2143;total:2143;mdf-date:01/02/2003,;label:musee de france
+6015901,,Musée du Château de Compiègne,open,2008,payant:37679;gratuit:49232;total:86911;mdf-date:06/01/2002,;label:musee de france
+8002102,,Musée de l'Hôtel de Berny,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+8025301,,Musée Lombart,open,2008,payant:205;gratuit:6554;total:6759;mdf-date:01/02/2003,;label:musee de france
+1700401,,Musée Napoléonien et Africain,open,2008,payant:13016;gratuit:10672;total:23688;mdf-date:06/01/2002,;label:musee de france
+1730002,,Musée du Nouveau Monde,open,2008,payant:4479;gratuit:8270;total:12749;mdf-date:26/05/2002,;label:musee de france
+1730003,,Musée des Beaux-Arts,open,2008,payant:1855;gratuit:6334;total:8189;mdf-date:26/05/2002,;label:musee de france
+1730004,,Musée d'Orbigny-Bernon,open,2008,payant:1673;gratuit:5207;total:6880;mdf-date:26/05/2002,;label:musee de france
+1729903,,Hôtel Hèbre de Saint-Clément - Musée d'Art et d'Histoire,open,2008,payant:4138;gratuit:17763;total:21901;mdf-date:28/03/2002,;label:musee de france
+1741501,,Musée de l'Echevinage,open,2008,payant:1859;gratuit:6755;total:8614;mdf-date:01/02/2003,;label:musee de france
+1741504,,Musée Dupuy-Mestreau,open,2008,payant:1383;gratuit:1732;total:3115;mdf-date:01/02/2003,;label:musee de france
+7921601,,Musée des Ruralies- Conservatoire du Machinisme et des Pratiques Agricoles,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+8606602,,Musée Municipal de l'Hôtel de Sully,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+8613701,,Musée Charbonneau-Lassay,open,2008,payant:19;gratuit:289;total:308;mdf-date:01/02/2003,;label:musee de france
+8616502,,Musée Municipal de la Maison-Dieu,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+8619401,,Musée Rupert de Chièvres,open,2008,payant:983;gratuit:2921;total:3904;mdf-date:06/01/2002,;label:musee de france
+8619403,,Musée de l'hypogée des Dunes,closed,2008,payant:0;gratuit:0;total:;mdf-date:06/01/2002,;label:musee de france
+8619406,,Collection d'Histoire Naturelle,open,2008,payant:9674;gratuit:46017;total:55691;mdf-date:01/02/2003,;label:musee de france
+0600401,,Musée Picasso,open,2008,payant:71669;gratuit:27854;total:99523;mdf-date:01/02/2003,;label:musee de france
+0601802,,Musée d'Histoire Locale,open,2008,payant:2631;gratuit:2206;total:4837;mdf-date:01/02/2003,;label:musee de france
+0602701,,Musée-Château de Cagnes,open,2008,payant:19524;gratuit:19719;total:39243;mdf-date:01/02/2003,;label:musee de france
+0616301,,Musée Départemental des Merveilles,open,2008,payant:0;gratuit:34323;total:34323;mdf-date:01/02/2003,;label:musee de france
+0615501,,"Musée Magnelli, Musée de la Céramique",open,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+1300102,,Musée du Parlement de Provence et du Vieil Aix,open,2008,payant:3671;gratuit:6443;total:10114;mdf-date:01/02/2003,;label:musee de france
+1300103,,Musée des Tapisseries,open,2008,payant:8192;gratuit:13033;total:21225;mdf-date:01/02/2003,;label:musee de france
+1305001,,Musée Folklorique du Vieux Lambesc,open,2008,payant:0;gratuit:1159;total:1159;mdf-date:01/02/2003,;label:musee de france
+1301104,,Fondation Louis Jou,open,2008,payant:282;gratuit:650;total:932;mdf-date:01/02/2003,;label:musee de france
+1305504,,Musée des Docks Romains,open,2008,payant:2855;gratuit:2366;total:5221;mdf-date:01/02/2003,;label:musee de france
+1305509,,Musée de la Mode,open,2008,payant:5758;gratuit:7094;total:12852;mdf-date:01/02/2003,;label:musee de france
+1320601,,Musée Cantini,open,2008,payant:9846;gratuit:17008;total:26854;mdf-date:01/02/2003,;label:musee de france
+1305503,,Musée Borély,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+1310301,,Musée de l'Empéri de Salon et de la Crau,open,2008,payant:7111;gratuit:14081;total:21192;mdf-date:01/02/2003,;label:musee de france
+8302301,,Musée du Pays Brignolais,open,2008,payant:1843;gratuit:1763;total:3606;mdf-date:01/02/2003,;label:musee de france
+8313703,,Musée d'Art et d'Archéologie,open,2008,payant:0;gratuit:6397;total:6397;mdf-date:01/02/2003,;label:musee de france
+8403501,,Synagogue Musée Juif Comtadin,open,2008,payant:3891;gratuit:5802;total:9693;mdf-date:01/02/2003,;label:musee de france
+8413801,,Musée Départemental du Cartonnage et de l'Imprimerie,open,2008,payant:2790;gratuit:2055;total:4845;mdf-date:01/02/2003,;label:musee de france
+0128301,,Musée du Peigne et de la Plasturgie,open,2008,payant:1701;gratuit:1697;total:3398;mdf-date:01/02/2003,;label:musee de france
+0129001,,Musée du Vieux Pérouges,open,2008,payant:11550;gratuit:1035;total:12585;mdf-date:01/02/2003,;label:musee de france
+0144301,,Musée de la Dombes,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+0733401,,Musée des Vans,open,2008,payant:500;gratuit:200;total:700;mdf-date:01/02/2003,;label:musee de france
+0731601,,Musée et Site Archéologiques,open,2008,payant:9504;gratuit:1921;total:11425;mdf-date:01/02/2003,;label:musee de france
+2619801,,Musée du Château des Adhémars,open,2008,payant:14224;gratuit:0;total:14224;mdf-date:30/01/2003,;label:musee de france
+7415201,,Musée Léon Marès,open,2008,payant:19268;gratuit:3041;total:22309;mdf-date:01/02/2003,;label:musee de france
+7422501,,"Notre histoire, Musée de Rumilly",open,2008,payant:0;gratuit:480;total:480;mdf-date:01/02/2003,;label:musee de france
+3818501,,Musée Archéologique Grenoble Saint-Laurent,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+3818508,,Musée de la Résistance de la Déportation de l'Isère,open,2008,payant:0;gratuit:21545;total:21545;mdf-date:01/02/2003,;label:musee de france
+3818502,,Musée Dauphinois,open,2008,payant:0;gratuit:41344;total:41344;mdf-date:01/02/2003,;label:musee de france
+4205203,,Musée Hospitalier,open,2008,payant:3078;gratuit:1393;total:4471;mdf-date:01/02/2003,;label:musee de france
+4221802,,Musée d'Art et d'Industrie,open,2008,payant:24456;gratuit:25217;total:49673;mdf-date:01/02/2003,;label:musee de france
+6900601,,Musée Barthélemy-Thimonnier,open,2008,payant:2056;gratuit:4439;total:6495;mdf-date:10/05/2005,;label:musee de france
+6912301,,Musée Historique des Tissus,open,2008,payant:6218;gratuit:3443;total:9661;mdf-date:01/02/2003,;label:musee de france
+7306501,,Musée des Beaux-Arts,open,2008,payant:5364;gratuit:20940;total:26304;mdf-date:06/01/2002,;label:musee de france
+6706101,,Musée de Bouxwiller et du pays de hanau,open,2008,payant:1442;gratuit:447;total:1889;mdf-date:01/02/2003,;label:musee de france
+6748204,,Musée des Arts Décoratifs,open,2008,payant:13761;gratuit:38953;total:52714;mdf-date:01/02/2003,;label:musee de france
+6748208,,Musée Alsacien,open,2008,payant:10971;gratuit:10604;total:21575;mdf-date:01/02/2003,;label:musee de france
+6748205,,Cabinet des Estampes et des Dessins,open,2008,payant:2720;gratuit:5969;total:8689;mdf-date:01/02/2003,;label:musee de france
+6753801,,Musée Lalique,closed,2008,payant:0;gratuit:0;total:;mdf-date:15/03/2007,;label:musee de france
+6755001,,Musée de la Bataille du 6 Août 1870,open,2008,payant:2646;gratuit:817;total:3463;mdf-date:01/02/2003,;label:musee de france
+6806301,,Musée de la Porte de Thann,open,2008,payant:260;gratuit:620;total:880;mdf-date:01/02/2003,;label:musee de france
+6822404,,Musée EDF Electropolis,open,2008,payant:30357;gratuit:7650;total:38007;mdf-date:01/02/2003,;label:musee de france
+6823101,,Musée Vauban,open,2008,payant:4275;gratuit:0;total:4275;mdf-date:01/02/2003,;label:musee de france
+6824801,,Maison du Sundgau - Musée Paysan,open,2008,payant:1286;gratuit:622;total:1908;mdf-date:01/02/2003,;label:musee de france
+2452001,,Musée-Aquarium,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+2429101,,Musée Eugène Le Roy et des Vieux Métiers,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+2429901,,Musée des Arts et Traditions Populaires du Périgord,open,2008,payant:1127;gratuit:1368;total:2495;mdf-date:01/02/2003,;label:musee de france
+2432201,,Musée d'Art et d'Archéologie du Périgord (MAAP),open,2008,payant:4178;gratuit:20283;total:24461;mdf-date:01/02/2003,;label:musee de france
+3306309,,Centre National Jean Moulin,open,2008,payant:0;gratuit:22484;total:22484;mdf-date:01/02/2003,;label:musee de france
+4024601,,Ecomusée de la Grande Lande,open,2008,payant:80660;gratuit:13304;total:93964;mdf-date:01/02/2003,;label:musee de france
+4028601,,Musée de la Faïence et des arts de la table,open,2008,payant:0;gratuit:7472;total:7472;mdf-date:01/02/2003,;label:musee de france
+4028701,,Musée Municipal du Lac,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+4715701,,Musée Municipal Albert Marzelles,open,2008,payant:0;gratuit:6676;total:6676;mdf-date:01/02/2003,;label:musee de france
+6410203,,Muséum d'Histoire Naturelle,open,2008,payant:2074;gratuit:0;total:2074;mdf-date:01/02/2003,;label:musee de france
+6410202,,Musée Bonnat,open,2008,payant:13665;gratuit:15464;total:29129;mdf-date:01/02/2003,;label:musee de france
+6416001,,Musée Edmond Rostand,open,2008,payant:60762;gratuit:2163;total:62925;mdf-date:01/02/2003,;label:musee de france
+6444503,,Musée National du Château,open,2008,payant:43184;gratuit:79599;total:122783;mdf-date:06/01/2002,;label:musee de france
+6444502,,Musée Bernadotte,open,2008,payant:2360;gratuit:1766;total:4126;mdf-date:01/02/2003,;label:musee de france
+0331002,,Musée des Arts D'Afrique et D'Asie,open,2008,payant:3161;gratuit:1973;total:5134;mdf-date:01/02/2003,;label:musee de france
+1501401,,Musée des Sciences,open,2008,payant:4569;gratuit:9004;total:13573;mdf-date:01/02/2003,;label:musee de france
+2100801,,Musée Alésia,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+2105401,,Musée du Vin de Bourgogne,open,2008,payant:23518;gratuit:4411;total:27929;mdf-date:01/02/2003,;label:musee de france
+2123102,,Musée Archéologique,open,2008,payant:0;gratuit:23630;total:23630;mdf-date:01/02/2003,;label:musee de france
+2125401,,Musée des Arts et Traditions des Hautes-Côtes,open,2008,payant:80;gratuit:2550;total:2630;mdf-date:01/02/2003,;label:musee de france
+5806201,,Musée du Septennat,open,2008,payant:14433;gratuit:2258;total:16691;mdf-date:01/02/2003,;label:musee de france
+5805901,,Musée Municipal,open,2008,payant:508;gratuit:268;total:776;mdf-date:01/02/2003,;label:musee de france
+5819402,,Musée de la Faïence et des Beaux-Arts,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+5830401,,Musée Auguste Grasset,open,2008,payant:1461;gratuit:668;total:2129;mdf-date:01/02/2003,;label:musee de france
+7104701,,Musée Saint-Nazaire,open,2008,payant:83;gratuit:2024;total:2107;mdf-date:01/02/2003,;label:musee de france
+7115301,,Ecomusée de la Communauté Le Creusot-Monceau-Les-Mines,open,2008,payant:13350;gratuit:5089;total:18439;mdf-date:01/02/2003,;label:musee de france
+8947201,,Musée d'Art et d'Histoire du Puisaye,open,2008,payant:1527;gratuit:423;total:1950;mdf-date:01/02/2003,;label:musee de france
+2915502,,Musée des Phares et Balises,open,2008,payant:12904;gratuit:3358;total:16262;mdf-date:01/02/2003,;label:musee de france
+3518801,,Ecomusée du Pays de Montfort,open,2008,payant:1972;gratuit:1785;total:3757;mdf-date:01/02/2003,;label:musee de france
+3519401,,Musée de la Faucillonnaie,open,2008,payant:802;gratuit:490;total:1292;mdf-date:01/02/2003,;label:musee de france
+3536001,,Musée Saint-Nicolas,open,2008,payant:1395;gratuit:565;total:1960;mdf-date:01/02/2003,;label:musee de france
+5602301,,Ecomusée de Saint-Dégan,open,2008,payant:11790;gratuit:2937;total:14727;mdf-date:01/02/2003,;label:musee de france
+5609001,,Ecomusée Industriel des Forges,open,2008,payant:4375;gratuit:0;total:4375;mdf-date:01/02/2003,;label:musee de france
+5622801,,Musée de la Résistance Bretonne,open,2008,payant:23572;gratuit:2699;total:26271;mdf-date:01/02/2003,;label:musee de france
+1803306,,Musée des Meilleurs Ouvriers de France,open,2008,payant:0;gratuit:22818;total:22818;mdf-date:01/02/2003,;label:musee de france
+1805701,,Musée Emile Chénon,open,2008,payant:535;gratuit:1372;total:1907;mdf-date:01/02/2003,;label:musee de france
+1814101,,Musée du Château Charles VII,open,2008,payant:7935;gratuit:0;total:7935;mdf-date:01/02/2003,;label:musee de france
+2808504,,Conservatoire du Machinisme et des Pratiques Agricoles,open,2008,payant:11327;gratuit:38783;total:50110;mdf-date:01/02/2003,;label:musee de france
+2819601,,Musée Marcel Proust,open,2008,payant:4141;gratuit:352;total:4493;mdf-date:01/02/2003,;label:musee de france
+2828001,,Musée de l'Histoire du Perche,open,2008,payant:10924;gratuit:6728;total:17652;mdf-date:01/02/2003,;label:musee de france
+3600601,,Musée de la Chemiserie et de l'Elégance Masculine,open,2008,payant:3619;gratuit:4885;total:8504;mdf-date:01/02/2003,;label:musee de france
+3601001,,Château Musée,open,2008,payant:11801;gratuit:4198;total:15999;mdf-date:01/02/2003,;label:musee de france
+3608801,,Musée de l'Hospice Saint-Roch,open,2008,payant:327;gratuit:23798;total:24125;mdf-date:02/05/2002,;label:musee de france
+3707201,,Musée du Vieux Chinon,open,2008,payant:970;gratuit:574;total:1544;mdf-date:01/02/2003,;label:musee de france
+3711301,,Musée de Préhistoire du Grand Pressigny,closed,2008,payant:0;gratuit:0;total:;mdf-date:30/04/2002,;label:musee de france
+3722601,,Musée Municipal,open,2008,payant:127;gratuit:72;total:199;mdf-date:01/02/2003,;label:musee de france
+3726104,,Musée des Vins de Touraine,open,2008,payant:1826;gratuit:681;total:2507;mdf-date:01/02/2003,;label:musee de france
+4113601,,Musée de la Corbillière,open,2008,payant:0;gratuit:754;total:754;mdf-date:01/02/2003,;label:musee de france
+4125801,,Musée Archéologique,open,2008,payant:966;gratuit:205;total:1171;mdf-date:01/02/2003,;label:musee de france
+4508501,,Musée d'Art et d'Archéologie,open,2008,payant:371;gratuit:201;total:572;mdf-date:01/02/2003,;label:musee de france
+4523402,,Musée Historique et Archéologique,open,2008,payant:626;gratuit:3001;total:3627;mdf-date:01/02/2003,;label:musee de france
+1006401,,Musée Napoléon Ier,open,2008,payant:3423;gratuit:1317;total:4740;mdf-date:01/02/2003,;label:musee de france
+1026801,,Musée Paul Dubois-Alfred Boucher,open,2008,payant:1538;gratuit:1956;total:3494;mdf-date:01/02/2003,;label:musee de france
+5212102,,Musée de l'Affiche,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+5235301,,Musée de la Coutellerie,open,2008,payant:4579;gratuit:746;total:5325;mdf-date:18/04/2002,;label:musee de france
+2B09601,,Musée de la Corse,open,2008,payant:52711;gratuit:8814;total:61525;mdf-date:01/02/2003,;label:musee de france
+2505605,,Musée de la résistance et de la Déportation,open,2008,payant:58115;gratuit:0;total:58115;mdf-date:01/02/2003,;label:musee de france
+2538802,,Musée du Château des Ducs de Wurtemberg,open,2008,payant:7930;gratuit:15718;total:23648;mdf-date:01/02/2003,;label:musee de france
+2541801,,Musée de Plein Air des Maisons Comtoises,open,2008,payant:29130;gratuit:6766;total:35896;mdf-date:01/02/2003,;label:musee de france
+7013901,,Musée Départemental de la Montagne Albert Demard,open,2008,payant:4170;gratuit:3549;total:7719;mdf-date:01/02/2003,;label:musee de france
+7031101,,Musée de la Tour des Echevins,open,2008,payant:1255;gratuit:4185;total:5440;mdf-date:01/02/2003,;label:musee de france
+3919801,,Musée des Beaux-Arts,open,2008,payant:0;gratuit:23258;total:23258;mdf-date:01/02/2003,;label:musee de france
+3930001,,Musée d'Archéologie,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+3933301,,Musée du Jouet,open,2008,payant:19373;gratuit:1019;total:20392;mdf-date:01/02/2003,;label:musee de france
+3936801,,Viséum-Musée de la Lunette,open,2008,payant:9710;gratuit:4596;total:14306;mdf-date:26/05/2002,;label:musee de france
+9000901,,Musée Frédéric Japy,open,2008,payant:1365;gratuit:1740;total:3105;mdf-date:01/02/2003,;label:musee de france
+9712002,,Musée Départemental Victor Schoelcher,open,2008,payant:3000;gratuit:570;total:3570;mdf-date:01/02/2003,;label:musee de france
+9120001,,Musée du Château,open,2008,payant:10288;gratuit:5610;total:15898;mdf-date:01/02/2003,;label:musee de france
+9201202,,Musée-Jardin Paul Landowski,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+9202301,,Fondation Arp,open,2008,payant:1310;gratuit:290;total:1600;mdf-date:16/12/2003,;label:musee de france
+9204001,,Musée Français de la Carte à Jouer,open,2008,payant:4177;gratuit:10909;total:15086;mdf-date:01/02/2003,;label:musee de france
+9206401,,Musée Municipal de Saint-Cloud,open,2008,payant:0;gratuit:2353;total:2353;mdf-date:01/02/2003,;label:musee de france
+9207201,,Musée national de céramique de Sèvres,open,2008,payant:20104;gratuit:14153;total:34257;mdf-date:06/01/2002,;label:musee de france
+7510502,,Galerie de Minéralogie et de Géologie (Muséum d'Histoire Naturelle),open,2008,payant:89100;gratuit:19282;total:108382;mdf-date:06/01/2002,;label:musee de france
+7511601,,Musée d'Ennery,closed,2008,payant:0;gratuit:0;total:;mdf-date:06/01/2002,;label:musee de france
+7510701,,Musée de l'Armée,open,2008,payant:918518;gratuit:347663;total:1266181;mdf-date:06/01/2002,;label:musee de france
+7510307,,Musée Carnavalet-Histoire de Paris (+ Crypte et Catacombes),open,2008,payant:342557;gratuit:765522;total:1108079;mdf-date:08/07/2004,;label:musee de france
+7510706,,Musée National de la Légion d'Honneur et des Ordres de Chevalerie,open,2008,payant:0;gratuit:35000;total:35000;mdf-date:06/01/2002,;label:musee de france
+7510808,,"Petit Palais, Musée des Beaux-Arts de la ville de Paris",open,2008,payant:127006;gratuit:453272;total:580278;mdf-date:08/07/2004,;label:musee de france
+7510902,,Musée de la Franc-Maçonnerie,open,2008,payant:900;gratuit:2600;total:3500;mdf-date:01/02/2003,;label:musee de france
+7511603,,Etablissement Public du Musée des Arts Asiatiques Guimet,open,2008,payant:153011;gratuit:207005;total:360016;mdf-date:06/01/2002,;label:musee de france
+7511606,,Musée des Monuments Français,open,2008,payant:185958;gratuit:137657;total:323615;mdf-date:09/07/2004,;label:musee de france
+7511617,,Musée Galliera - Musée de la Mode de la ville de Paris,open,2008,payant:62939;gratuit:17176;total:80115;mdf-date:08/07/2004,;label:musee de france
+7511201,,Musée des Arts d'Afrique et d'Océanie - Aquarium,open,2008,payant:116426;gratuit:73954;total:190380;mdf-date:06/01/2002,;label:musee de france
+7510801,,Musée Nissim de Camondo (UCAD),open,2008,payant:32326;gratuit:9995;total:42321;mdf-date:06/01/2002,;label:musee de france
+7710801,,Musée Municipal de Chelles Alfred Bonno,open,2008,payant:0;gratuit:3089;total:3089;mdf-date:01/02/2003,;label:musee de france
+7718602,,Musée d'Art et d'Histoire Militaire,open,2008,payant:1201;gratuit:1927;total:3128;mdf-date:01/02/2003,;label:musee de france
+7728401,,Musée Bossuet,open,2008,payant:2706;gratuit:7231;total:9937;mdf-date:01/02/2003,;label:musee de france
+7731601,,Musée Municipal,open,2008,payant:0;gratuit:5154;total:5154;mdf-date:01/02/2003,;label:musee de france
+7733301,,Musée Départemental de Préhistoire d'Île de France,open,2008,payant:3470;gratuit:21597;total:25067;mdf-date:01/02/2003,;label:musee de france
+7733302,,Château-musée de Nemours,open,2008,payant:2074;gratuit:3829;total:5903;mdf-date:01/02/2003,;label:musee de france
+7740501,,Musée des Pays de Seine-et-Marne,open,2008,payant:2696;gratuit:6428;total:9124;mdf-date:01/02/2003,;label:musee de france
+9301301,,Musée de l'Air et de l'Espace,open,2008,payant:0;gratuit:274678;total:274678;mdf-date:06/01/2002,;label:musee de france
+9304801,,Musée de l'Histoire Vivante,open,2008,payant:1176;gratuit:1922;total:3098;mdf-date:01/02/2003,;label:musee de france
+7849802,,Musée d'Art et d'Histoire,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+7855102,,Musée Municipal,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+7855103,,Musée d'Archéologie Nationale (des origines à l'an mille) - Château de st-Germain-en-Laye,open,2008,payant:9881;gratuit:100316;total:110197;mdf-date:06/01/2002,;label:musee de france
+1120601,,Musée Petiet,open,2008,payant:1251;gratuit:1510;total:2761;mdf-date:01/02/2003,;label:musee de france
+1126201,,Musée d'Art et d'Histoire - Ensemble monumental de Narbonne,open,2008,payant:372773;gratuit:0;total:372773;mdf-date:2002-06-13 00:00:00,;label:musee de france
+3000702,,Musée du Colombier,open,2008,payant:0;gratuit:13572;total:13572;mdf-date:01/02/2003,;label:musee de france
+3002801,,Musée Albert André,open,2008,payant:416;gratuit:3464;total:3880;mdf-date:01/02/2003,;label:musee de france
+3020202,,Musée Départemental d'Art Sacré du Gard,open,2008,payant:93;gratuit:9863;total:9956;mdf-date:01/02/2003,;label:musee de france
+3400301,,Musée Agathois,open,2008,payant:3001;gratuit:2128;total:5129;mdf-date:01/02/2003,;label:musee de france
+3403201,,Musée des Beaux-Arts de Béziers,open,2008,payant:6334;gratuit:8994;total:15328;mdf-date:01/02/2003,;label:musee de france
+3410801,,Musée Municipal,open,2008,payant:0;gratuit:6726;total:6726;mdf-date:01/02/2003,;label:musee de france
+3417202,,Musée Languedocien,open,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+4811601,,Ecomusée du Mont Lozère,open,2008,payant:2813;gratuit:1782;total:4595;mdf-date:01/02/2003,;label:musee de france
+6613605,,Musée Archéologique de Ruscino,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+6613602,,Musée des Monnaies et Médailles Joseph Puig,open,2008,payant:89;gratuit:1072;total:1161;mdf-date:01/02/2003,;label:musee de france
+6614801,,Musée d'Archéologie Sous-Marine,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+6618101,,Musée de Cerdagne,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+2309601,,Musée d'Art et d'Archéologie,open,2008,payant:4799;gratuit:5318;total:10117;mdf-date:01/02/2003,;label:musee de france
+5439504,,Palais des ducs de Lorraine - Musée Historique Lorrain,open,2008,payant:23769;gratuit:33405;total:57174;mdf-date:01/02/2003,;label:musee de france
+5443101,,"""Musée """"au Fil du Papier""""""",open,2008,payant:3103;gratuit:2258;total:5361;mdf-date:01/02/2003,;label:musee de france
+5535101,,Musée Jules Bastien-Lepage - Musée de la Fortification,open,2008,payant:13607;gratuit:1711;total:15318;mdf-date:01/02/2003,;label:musee de france
+5546701,,Musée Départemental Raymond Poincaré,open,2008,payant:573;gratuit:141;total:714;mdf-date:01/02/2003,;label:musee de france
+5725601,,Musée Départemental de la Guerre de 70,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+5730601,,Musée des Mines de fer de Lorraine,open,2008,payant:19267;gratuit:897;total:20164;mdf-date:01/02/2003,;label:musee de france
+5763001,,Musée du Pays de Sarrebourg,open,2008,payant:4369;gratuit:5716;total:10085;mdf-date:01/02/2003,;label:musee de france
+5763101,,"Jardin d'Hiver, Musée de La Faïence",open,2008,payant:6421;gratuit:4070;total:10491;mdf-date:01/02/2003,;label:musee de france
+8816002,,Musée de l'Image,open,2008,payant:22258;gratuit:7003;total:29261;mdf-date:01/02/2003,;label:musee de france
+9720902,,Musée Régional d'Histoire et d'Ethnologie,open,2008,payant:1435;gratuit:2183;total:3618;mdf-date:01/02/2003,;label:musee de france
+9723101,,Musée de La Canne,open,2008,payant:12100;gratuit:2641;total:14741;mdf-date:01/02/2003,;label:musee de france
+9722501,,Musée Volcanologique Franck Arnold Perret,open,2008,payant:24686;gratuit:94;total:24780;mdf-date:01/02/2003,;label:musee de france
+0926801,,Musée du Palais des Evêques,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+1220202,,Musée des Beaux-Arts Denys Puech,open,2008,payant:1457;gratuit:11878;total:13335;mdf-date:01/02/2003,;label:musee de france
+1220301,,Musée Municipal d'archéologie,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+3201301,,Musée des jacobins,open,2008,payant:5359;gratuit:7787;total:13146;mdf-date:01/02/2003,;label:musee de france
+3210701,,Musée de l'Armagnac,open,2008,payant:3703;gratuit:365;total:4068;mdf-date:01/02/2003,;label:musee de france
+3156501,,Musée Municipal d'Art et d'Histoire,open,2008,payant:496;gratuit:1303;total:1799;mdf-date:01/02/2003,;label:musee de france
+3155501,,"Les Abattoirs, Musée d'Art Moderne et Contemporain",open,2008,payant:35100;gratuit:79819;total:114919;mdf-date:01/02/2003,;label:musee de france
+6505901,,Musée Bigourdan du Vieux Moulin,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+6529501,,Musée Municipal - Musée Trésor,open,2008,payant:0;gratuit:1200;total:1200;mdf-date:01/02/2003,;label:musee de france
+6530601,,Musée-château Gaston Phébus,open,2008,payant:23641;gratuit:3000;total:26641;mdf-date:01/02/2003,;label:musee de france
+4610201,,Musée du Vieux Figeac,open,2008,payant:676;gratuit:468;total:1144;mdf-date:01/02/2003,;label:musee de france
+4618501,,Musée Gallo-Romain d'Uxellodunum,open,2008,payant:341;gratuit:357;total:698;mdf-date:01/02/2003,;label:musee de france
+4630901,,Musée de l'Automate,open,2008,payant:21908;gratuit:3880;total:25788;mdf-date:01/02/2003,;label:musee de france
+8106901,,Musée Charles Portal - Histoire et Patrimoine,open,2008,payant:239;gratuit:200;total:439;mdf-date:01/02/2003,;label:musee de france
+8212101,,Musée d'Histoire Naturelle Victor Brun,open,2008,payant:1730;gratuit:6709;total:8439;mdf-date:01/02/2003,;label:musee de france
+5901401,,Musée Théophile Jouglet,open,2008,payant:0;gratuit:1575;total:1575;mdf-date:01/02/2003,;label:musee de france
+5905301,,"Forum Antique de Bavay, Musée Archéologique du Département du Nord",open,2008,payant:5017;gratuit:23160;total:28177;mdf-date:01/02/2003,;label:musee de france
+5917801,,Musée de la Chartreuse,open,2008,payant:14392;gratuit:42021;total:56413;mdf-date:01/02/2003,;label:musee de france
+5920501,,Musée Municipal d'Escaudain,open,2008,payant:0;gratuit:643;total:643;mdf-date:01/02/2003,;label:musee de france
+5927301,,Musée du Dessin et de l'Estampe Originale,open,2008,payant:1460;gratuit:8121;total:9581;mdf-date:01/02/2003,;label:musee de france
+5929501,,Musée Municipal d'Hazebrouck,open,2008,payant:600;gratuit:3835;total:4435;mdf-date:01/02/2003,;label:musee de france
+5934501,,"Musée de la Mine, Centre Historique Minier",open,2008,payant:126384;gratuit:12858;total:139242;mdf-date:01/02/2003,;label:musee de france
+5935002,,Palais des Beaux-Arts de Lille,open,2008,payant:166311;gratuit:60056;total:226367;mdf-date:06/01/2002,;label:musee de france
+5951201,,Musée des Beaux-Arts,open,2008,payant:98146;gratuit:79475;total:177621;mdf-date:01/02/2003,;label:musee de france
+6258801,,Musée d'Art et d'Histoire Roger Rodière,open,2008,payant:64;gratuit:7787;total:7851;mdf-date:01/02/2003,;label:musee de france
+1411804,,Mémorial de Caen,open,2008,payant:345836;gratuit:46392;total:392228;mdf-date:01/02/2003,;label:musee de france
+1437001,,Musée de la Mine,open,2008,payant:4168;gratuit:480;total:4648;mdf-date:01/02/2003,;label:musee de france
+1447801,,Musée Municipal,open,2008,payant:421;gratuit:1721;total:2142;mdf-date:01/02/2003,;label:musee de france
+1465401,,Musée des Techniques Fromagères,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+5008201,,Musée du Vieux Château,open,2008,payant:479;gratuit:309;total:788;mdf-date:01/02/2003,;label:musee de france
+5055101,,Musée Barbey d'Aurevilly,open,2008,payant:4036;gratuit:567;total:4603;mdf-date:01/02/2003,;label:musee de france
+6100101,,Musée des Beaux-Arts et de la Dentelle,open,2008,payant:9654;gratuit:8145;total:17799;mdf-date:01/02/2003,;label:musee de france
+6116901,,Musée du Château de Flers,open,2008,payant:2254;gratuit:2991;total:5245;mdf-date:11/11/2002,;label:musee de france
+2701601,,Musée Municipal Nicolas Poussin,open,2008,payant:1267;gratuit:1957;total:3224;mdf-date:01/02/2003,;label:musee de france
+7623101,,Musée d'Elbeuf,open,2008,payant:0;gratuit:4071;total:4071;mdf-date:01/02/2003,;label:musee de france
+7625501,,Musée Louis-Philippe du Château d'Eu,open,2008,payant:9373;gratuit:3919;total:13292;mdf-date:01/02/2003,;label:musee de france
+7635105,,La Maison de l'Armateur,open,2008,payant:6533;gratuit:8339;total:14872;mdf-date:01/02/2003,;label:musee de france
+7638401,,"Juliobona, Musée Gallo-Romain de Lillebonne",open,2008,payant:611;gratuit:1831;total:2442;mdf-date:01/02/2003,;label:musee de france
+7647301,,Ecomusée de la Basse-Seine,open,2008,payant:19367;gratuit:4500;total:23867;mdf-date:01/02/2003,;label:musee de france
+7654004,,Musée des Antiquités de la Seine-Maritime,open,2008,payant:2839;gratuit:21330;total:24169;mdf-date:01/02/2003,;label:musee de france
+7654002,,MUNAE - Musée National de l'Education,open,2008,payant:2726;gratuit:7418;total:10144;mdf-date:06/01/2002,;label:musee de france
+7654003,,Musée Flaubert et d'Histoire de la Médecine,open,2008,payant:4689;gratuit:7048;total:11737;mdf-date:01/02/2003,;label:musee de france
+7654010,,Musée de la Céramique,open,2008,payant:4684;gratuit:10115;total:14799;mdf-date:06/01/2002,;label:musee de france
+4410902,,Musée d'Art de Nantes,open,2008,payant:66896;gratuit:45502;total:112398;mdf-date:06/01/2002,;label:musee de france
+4410907,,Musée  Départemental Dobrée,open,2008,payant:5566;gratuit:36442;total:42008;mdf-date:01/09/2002,;label:musee de france
+4900708,,Muséum des Sciences Naturelles,open,2008,payant:3506;gratuit:12044;total:15550;mdf-date:01/02/2003,;label:musee de france
+4900704,,Galerie David d'Angers,open,2008,payant:6957;gratuit:15709;total:22666;mdf-date:06/01/2002,;label:musee de france
+4901801,,Musée d'Art et d'Histoire,open,2008,payant:2047;gratuit:1086;total:3133;mdf-date:01/02/2003,;label:musee de france
+4935301,,Musée de l'Ardoise,open,2008,payant:9050;gratuit:4500;total:13550;mdf-date:01/02/2003,;label:musee de france
+5309601,,Musée Municipal,open,2008,payant:0;gratuit:995;total:995;mdf-date:01/02/2003,;label:musee de france
+5313002,,Musée des Sciences - CCSTI,open,2008,payant:2548;gratuit:31356;total:33904;mdf-date:01/02/2003,;label:musee de france
+7207101,,Musée Heurteloup-Chevalier,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+7218101,,Musée de Tessé,open,2008,payant:18239;gratuit:12375;total:30614;mdf-date:06/01/2002,;label:musee de france
+7218102,,Musée de la Reine Bérengère,open,2008,payant:3101;gratuit:4467;total:7568;mdf-date:06/01/2002,;label:musee de france
+8508701,,Centre Minier de Faymoreau,open,2008,payant:22411;gratuit:6884;total:29295;mdf-date:01/02/2003,;label:musee de france
+8501201,,Ecomusée du Marais Breton Vendéen,open,2008,payant:20375;gratuit:11459;total:31834;mdf-date:01/02/2003,;label:musee de france
+8510601,,Musée des Traditions de l'Île,open,2008,payant:4675;gratuit:236;total:4911;mdf-date:01/02/2003,;label:musee de france
+0209301,,Musée Franco-Américain du Château de Blérancourt,closed,2008,payant:0;gratuit:0;total:;mdf-date:06/01/2002,;label:musee de france
+0269102,,Musée des Beaux-Arts Antoine Lecuyer,open,2008,payant:5270;gratuit:5141;total:10411;mdf-date:01/02/2003,;label:musee de france
+6002901,,Musée de la Céramique Architecturale,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+6015905,,Musée de la Figurine Historique,open,2008,payant:3528;gratuit:5842;total:9370;mdf-date:01/02/2003,;label:musee de france
+6017501,,Musée Gallé-Juillet,open,2008,payant:1665;gratuit:4300;total:5965;mdf-date:01/02/2003,;label:musee de france
+8000101,,Musée Boucher-de-Perthes,open,2008,payant:11742;gratuit:0;total:11742;mdf-date:01/02/2003,;label:musee de france
+8071601,,Musée Départemental de l'Abbaye de Saint-Riquier,open,2008,payant:0;gratuit:26697;total:26697;mdf-date:01/02/2003,;label:musee de france
+8062002,,Musée-Historial de la Grande Guerre,open,2008,payant:80641;gratuit:0;total:80641;mdf-date:01/02/2003,;label:musee de france
+1601501,,Musée des Beaux-Arts,open,2008,payant:0;gratuit:50111;total:50111;mdf-date:01/02/2003,;label:musee de france
+1610201,,Musée Municipal de Cognac,open,2008,payant:2303;gratuit:12108;total:14411;mdf-date:01/02/2003,;label:musee de france
+1715301,,Musée de la Mytiliculture,open,2008,payant:4950;gratuit:0;total:4950;mdf-date:01/02/2003,;label:musee de france
+1734701,,Musée Municipal des Cordeliers,open,2008,payant:1120;gratuit:2062;total:3182;mdf-date:01/02/2003,;label:musee de france
+1738501,,Musée de l'Ile d'Oléron,open,2008,payant:10514;gratuit:3227;total:13741;mdf-date:01/02/2003,;label:musee de france
+7904201,,Musée des Tumulus de Bougon,open,2008,payant:21856;gratuit:4002;total:25858;mdf-date:01/02/2003,;label:musee de france
+7919102,,Musée d'Histoire Naturelle,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+8606603,,"Musée de la Moto, de l'Automobile et du Vélo",open,2008,payant:5577;gratuit:8320;total:13897;mdf-date:01/02/2003,;label:musee de france
+8607001,,Musée des Traditions Populaires et d'Archéologie,open,2008,payant:8256;gratuit:2827;total:11083;mdf-date:01/02/2003,;label:musee de france
+0411101,,Musée de Salagon,open,2008,payant:26900;gratuit:6079;total:32979;mdf-date:01/02/2003,;label:musee de france
+0416601,,Musée Archéologique,open,2008,payant:30;gratuit:752;total:782;mdf-date:01/02/2003,;label:musee de france
+0600402,,Musée d'Histoire et d'Archéologie,open,2008,payant:4116;gratuit:6429;total:10545;mdf-date:01/02/2003,;label:musee de france
+0602902,,Musée de la Mer,open,2008,payant:47942;gratuit:39239;total:87181;mdf-date:01/02/2003,;label:musee de france
+0603001,,Musée Bonnard,closed,2008,payant:0;gratuit:0;total:;mdf-date:06/12/2006,;label:musee de france
+0608303,,Musée de Préhistoire Régionale,open,2008,payant:0;gratuit:11240;total:11240;mdf-date:01/02/2003,;label:musee de france
+0608806,,Muséum d'Histoire Naturelle,open,2008,payant:0;gratuit:69350;total:69350;mdf-date:01/02/2003,;label:musee de france
+0608804,,Musée d'Art Naïf Anatole Jakovsky,open,2008,payant:1685;gratuit:17422;total:19107;mdf-date:01/02/2003,;label:musee de france
+0608803,,Musée des Beaux-Arts Jules Chéret,open,2008,payant:7801;gratuit:44902;total:52703;mdf-date:06/01/2002,;label:musee de france
+0609801,,Ecomusée du Pays de la Roudoule,open,2008,payant:866;gratuit:988;total:1854;mdf-date:01/02/2003,;label:musee de france
+1300101,,Musée du Pavillon de Vendôme,open,2008,payant:3417;gratuit:10782;total:14199;mdf-date:01/02/2003,;label:musee de france
+1300104,,Musée Granet,open,2008,payant:60629;gratuit:38316;total:98945;mdf-date:01/02/2003,;label:musee de france
+1300403,,Musée Réattu,open,2008,payant:92417;gratuit:37893;total:130310;mdf-date:01/02/2003,;label:musee de france
+1302801,,Musée Ciotaden,open,2008,payant:2791;gratuit:4316;total:7107;mdf-date:01/02/2003,;label:musee de france
+1301103,,Musée d'Histoire et d'Archéologie des Baux-de-Provence,open,2008,payant:222024;gratuit:38215;total:260239;mdf-date:01/02/2003,;label:musee de france
+1305201,,Musée Frédéric Mistral,open,2008,payant:1868;gratuit:1920;total:3788;mdf-date:01/02/2003,;label:musee de france
+1305507,,Musée d'Archéologie Méditerranéenne,open,2008,payant:8973;gratuit:11284;total:20257;mdf-date:01/02/2003,;label:musee de france
+8300201,,Musée des tourneurs sur Bois,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+8305004,,Musée de l'Artillerie,open,2008,payant:0;gratuit:18134;total:18134;mdf-date:05/07/2006,;label:musee de france
+8306901,,Musée Municipal,open,2008,payant:0;gratuit:45557;total:45557;mdf-date:01/02/2003,;label:musee de france
+8313701,,Muséum d'Histoire Naturelle de Toulon,open,2008,payant:0;gratuit:20657;total:20657;mdf-date:01/02/2003,;label:musee de france
+8313704,,Musée National de la Marine de Toulon,open,2008,payant:9889;gratuit:50226;total:60115;mdf-date:06/01/2002,;label:musee de france
+8400702,,Musée du Petit Palais,open,2008,payant:21461;gratuit:10936;total:32397;mdf-date:01/02/2003,;label:musee de france
+8413901,,Musée-Bibliothèque François Pétrarque,open,2008,payant:2879;gratuit:1532;total:4411;mdf-date:01/02/2003,;label:musee de france
+8407201,,Musée Municipal Camille Pautet,open,2008,payant:0;gratuit:1686;total:1686;mdf-date:01/02/2003,;label:musee de france
+0119201,,Musée Archéologique,open,2008,payant:329;gratuit:86;total:415;mdf-date:01/02/2003,;label:musee de france
+0140701,,Musée du Bois,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+0701001,,Musée Vivarois César Filhol,open,2008,payant:826;gratuit:3064;total:3890;mdf-date:01/02/2003,;label:musee de france
+0716801,,Cité de Préhistoire,open,2008,payant:99257;gratuit:9318;total:108575;mdf-date:01/02/2003,;label:musee de france
+7401001,,Musée-château d'Annecy,open,2008,payant:47062;gratuit:42419;total:89481;mdf-date:01/02/2003,;label:musee de france
+3800601,,Musée Jadis Allevard,open,2008,payant:1497;gratuit:2921;total:4418;mdf-date:20/12/2005,;label:musee de france
+3813001,,Musée Hector Berlioz,open,2008,payant:0;gratuit:10865;total:10865;mdf-date:01/02/2003,;label:musee de france
+4200301,,Musée Alice Taverne,open,2008,payant:4853;gratuit:846;total:5699;mdf-date:01/02/2003,;label:musee de france
+4205901,,Atelier - Musée du Chapeau,open,2008,payant:10614;gratuit:4311;total:14925;mdf-date:01/02/2003,;label:musee de france
+4210601,,Musée Historial,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+4214701,,Musée d'Allard,open,2008,payant:2970;gratuit:4919;total:7889;mdf-date:01/02/2003,;label:musee de france
+4221803,,Musée Folklorique du Vieux Saint-Etienne,open,2008,payant:732;gratuit:1676;total:2408;mdf-date:01/02/2003,;label:musee de france
+4221801,,Musée d'Art Moderne et Contemporain,open,2008,payant:28045;gratuit:25853;total:53898;mdf-date:01/02/2003,;label:musee de france
+6938502,,Lugdunum - Musée et Théâtres Romains,open,2008,payant:21078;gratuit:49953;total:71031;mdf-date:01/02/2003,;label:musee de france
+6912304,,Musée de l'Imprimerie et de la Communication Graphique,open,2008,payant:11972;gratuit:9184;total:21156;mdf-date:10/05/2005,;label:musee de france
+6916801,,Musée Henri Malartre,open,2008,payant:19421;gratuit:17718;total:37139;mdf-date:01/02/2003,;label:musee de france
+7300601,,Musée archéologique et minéralogique Pierre Borrione,open,2008,payant:426;gratuit:337;total:763;mdf-date:01/02/2003,;label:musee de france
+7300801,,Musée du docteur Faure,open,2008,payant:5989;gratuit:3958;total:9947;mdf-date:01/02/2003,;label:musee de france
+7300802,,Musée Archéologique,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+6737201,,Musée de l'Image Populaire de Pfaffenhoffen,open,2008,payant:1864;gratuit:987;total:2851;mdf-date:2002-09-07 00:00:00,;label:musee de france
+6748207,,Musée Historique,open,2008,payant:21582;gratuit:33492;total:55074;mdf-date:01/02/2003,;label:musee de france
+6748209,,Musée d'Art Moderne et Contemporain de Strasbourg,open,2008,payant:39666;gratuit:88215;total:127881;mdf-date:01/02/2003,;label:musee de france
+6800401,,Musée Sundgauvien d'Altkirch,open,2008,payant:3048;gratuit:2494;total:5542;mdf-date:01/02/2003,;label:musee de france
+6811201,,Musée du Florival,open,2008,payant:2278;gratuit:4146;total:6424;mdf-date:01/02/2003,;label:musee de france
+6827702,,Musée du Dolder,open,2008,payant:2351;gratuit:410;total:2761;mdf-date:01/02/2003,;label:musee de france
+2405501,,Château de Bourdeilles,open,2008,payant:22500;gratuit:0;total:22500;mdf-date:01/02/2003,;label:musee de france
+2432202,,Musée Militaire - Souvenir du Périgord,open,2008,payant:1679;gratuit:850;total:2529;mdf-date:01/02/2003,;label:musee de france
+3305801,,Musée d'Art et d'Histoire du Pays Blayais,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+3306301,,CAPC Musée d'Art Contemporain de Bordeaux,open,2008,payant:27090;gratuit:83050;total:110140;mdf-date:01/02/2003,;label:musee de france
+3324302,,Musée Historique ou du Vieux Libourne (Robin),closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+3339401,,Musée d'Histoire et d'Archéologique,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+4004601,,Musée Historique de l'Hydravion,open,2008,payant:21021;gratuit:1689;total:22710;mdf-date:01/02/2003,;label:musee de france
+4012001,,Musée Archéologique,open,2008,payant:3957;gratuit:5843;total:9800;mdf-date:01/02/2003,;label:musee de france
+4019201,,Musée Despiau-Wlérick,open,2008,payant:0;gratuit:10807;total:10807;mdf-date:01/02/2003,;label:musee de france
+4716701,,Musée du Liège et du Bouchon,open,2008,payant:7733;gratuit:154;total:7887;mdf-date:05/07/2006,;label:musee de france
+4729201,,Musée de Préhistoire Mésolithique Laurent Coulonges,open,2008,payant:1571;gratuit:406;total:1977;mdf-date:01/02/2003,;label:musee de france
+6406201,,Musée Municipal,open,2008,payant:1236;gratuit:842;total:2078;mdf-date:01/02/2003,;label:musee de france
+6424901,,Musée Municipal de Guéthary,open,2008,payant:1137;gratuit:1642;total:2779;mdf-date:01/02/2003,;label:musee de france
+1516801,,Ecomusée de Margeride-Haute-Auvergne,open,2008,payant:8062;gratuit:1988;total:10050;mdf-date:01/02/2003,;label:musee de france
+1518702,,Musée d'art et d'histoire Alfred Douët,open,2008,payant:1453;gratuit:2157;total:3610;mdf-date:01/02/2003,;label:musee de france
+4315701,,Musée Crozatier,open,2008,payant:0;gratuit:17179;total:17179;mdf-date:01/02/2003,;label:musee de france
+6311301,,Musée d'Archéologie Bargoin,open,2008,payant:4118;gratuit:11950;total:16068;mdf-date:01/02/2003,;label:musee de france
+6347001,,Musée Municipal Marcel Sahut,open,2008,payant:587;gratuit:795;total:1382;mdf-date:01/02/2003,;label:musee de france
+2105404,,Musée E.J Marey,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+2111401,,Musée de la Sidérurgie Grande Forge,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+2123101,,Musée François Rude,open,2008,payant:0;gratuit:35454;total:35454;mdf-date:01/02/2003,;label:musee de france
+2123107,,Musée d'Art Sacré,open,2008,payant:0;gratuit:7137;total:7137;mdf-date:01/02/2003,;label:musee de france
+2123103,,Musée Magnin,open,2008,payant:2485;gratuit:14146;total:16631;mdf-date:06/01/2002,;label:musee de france
+2142501,,Musée Buffon,open,2008,payant:0;gratuit:13057;total:13057;mdf-date:01/02/2003,;label:musee de france
+5815101,,Musée de la Mine,open,2008,payant:5608;gratuit:1260;total:6868;mdf-date:01/02/2003,;label:musee de france
+5821501,,Musée Ernest Guédon,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+7101402,,Musée Rolin,open,2008,payant:12612;gratuit:8731;total:21343;mdf-date:01/02/2003,;label:musee de france
+7101401,,Musée Verger Tarin,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+7101404,,Museum d'Histoire Naturelle Jacques de La Comble,open,2008,payant:1972;gratuit:3159;total:5131;mdf-date:06/01/2002,;label:musee de france
+7134201,,Musée Eucharistique du Hiéron,open,2008,payant:4453;gratuit:3164;total:7617;mdf-date:01/02/2003,;label:musee de france
+7127201,,Musée Départemental du Compagnonnage,open,2008,payant:2017;gratuit:1473;total:3490;mdf-date:01/02/2003,;label:musee de france
+7154302,,Musée Bourguignon -  Perrin de Puycousin,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+7154301,,Hôtel Dieu - Musée Greuze,open,2008,payant:7354;gratuit:2323;total:9677;mdf-date:01/02/2003,;label:musee de france
+8946401,,Musée Villeneuvien,open,2008,payant:0;gratuit:2300;total:2300;mdf-date:01/02/2003,;label:musee de france
+2209301,,Musée Mathurin Meheut,open,2008,payant:7352;gratuit:1305;total:8657;mdf-date:02/05/2002,;label:musee de france
+2903801,,Ecomusée des Monts d'Arrée - Moulins de Kerouat,open,2008,payant:10590;gratuit:3886;total:14476;mdf-date:01/02/2003,;label:musee de france
+2915101,,Musée de Morlaix,open,2008,payant:17036;gratuit:17374;total:34410;mdf-date:01/02/2003,;label:musee de france
+2921701,,Musée de Pont-Aven,open,2008,payant:34116;gratuit:9459;total:43575;mdf-date:01/02/2003,;label:musee de france
+3523803,,Ecomusée du Pays de Rennes,open,2008,payant:12377;gratuit:26649;total:39026;mdf-date:01/02/2003,;label:musee de france
+3523802,,Musée des Beaux-Arts,open,2008,payant:23314;gratuit:33025;total:56339;mdf-date:06/01/2002,;label:musee de france
+3536002,,Musée du Château de Vitré,open,2008,payant:10120;gratuit:6697;total:16817;mdf-date:01/02/2003,;label:musee de france
+5603401,,Musée de Préhistoire J. Miln- Z. Le-Rouzic,open,2008,payant:25157;gratuit:6157;total:31314;mdf-date:01/02/2003,;label:musee de france
+5626002,,Musée d'Histoire et d'Archéologie de Vannes,open,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+1803303,,Musée du Berry,open,2008,payant:0;gratuit:13643;total:13643;mdf-date:01/02/2003,;label:musee de france
+1803305,,Musée d'Histoire Naturelle Gabriel Foucher,open,2008,payant:12397;gratuit:24870;total:37267;mdf-date:01/02/2003,;label:musee de france
+3604601,,Musée George Sand et de la Vallée Noire,open,2008,payant:2482;gratuit:1532;total:4014;mdf-date:01/02/2003,;label:musee de france
+3609201,,Musée de Géologie Régionale,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+3711501,,"""""""Maison Musée"""" René Descartes""",open,2008,payant:1469;gratuit:1196;total:2665;mdf-date:01/02/2003,;label:musee de france
+3713201,,Musée Lansyer,open,2008,payant:1914;gratuit:1924;total:3838;mdf-date:01/02/2003,;label:musee de france
+3724801,,Musée François Rabelais,open,2008,payant:8253;gratuit:4970;total:13223;mdf-date:30/04/2002,;label:musee de france
+3726102,,Musée des Beaux-Arts,open,2008,payant:22799;gratuit:41149;total:63948;mdf-date:06/01/2002,;label:musee de france
+3726103,,Musée de l'Hôtel Goüin,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+4101805,,Muséum d'Histoire Naturelle,open,2008,payant:3990;gratuit:9065;total:13055;mdf-date:01/02/2003,;label:musee de france
+4115801,,Atelier Musée Louis Leygue,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+4126901,,Musée de Vendôme,open,2008,payant:1532;gratuit:7332;total:8864;mdf-date:01/02/2003,;label:musee de france
+4515501,,Château-Musée de Gien,open,2008,payant:17528;gratuit:2348;total:19876;mdf-date:01/02/2003,;label:musee de france
+0810503,,Musée de l'Ardenne,open,2008,payant:3626;gratuit:38084;total:41710;mdf-date:01/02/2003,;label:musee de france
+1026101,,Musée de la Résistance,open,2008,payant:175;gratuit:501;total:676;mdf-date:01/02/2003,;label:musee de france
+1038706,,Musée d'Art Moderne,open,2008,payant:14118;gratuit:19353;total:33471;mdf-date:01/02/2003,;label:musee de france
+5226902,,Musée d'Art et d'Histoire,open,2008,payant:8318;gratuit:0;total:8318;mdf-date:01/02/2003,;label:musee de france
+5110801,,Musée Municipal,open,2008,payant:1693;gratuit:8979;total:10672;mdf-date:01/02/2003,;label:musee de france
+2A14201,,Musée de l'Alta Rocca,open,2008,payant:9286;gratuit:5480;total:14766;mdf-date:01/02/2003,;label:musee de france
+2B00901,,Musée d'archéologie d'Aleria - Jérôme Carcopino,open,2008,payant:27025;gratuit:19812;total:46837;mdf-date:01/02/2003,;label:musee de france
+2B16901,,Musée Départemental Pascal Paoli,open,2008,payant:7000;gratuit:1930;total:8930;mdf-date:01/02/2003,;label:musee de france
+2505607,,Muséum de Besançon,open,2008,payant:214660;gratuit:48191;total:262851;mdf-date:01/02/2003,;label:musee de france
+2505604,,Musée Comtois,open,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+2505601,,Musée des Beaux-Arts et d'Archéologie,open,2008,payant:12572;gratuit:52688;total:65260;mdf-date:06/01/2002,;label:musee de france
+3950001,,Musée des Salines,open,2008,payant:39321;gratuit:5268;total:44589;mdf-date:01/02/2003,;label:musee de france
+9001001,,Musée d'Art et d'Histoire,open,2008,payant:3090;gratuit:15228;total:18318;mdf-date:01/02/2003,;label:musee de france
+9711201,,Ecomusée de Marie-Galante,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+9730901,,Musée des Cultures Guyanaises,open,2008,payant:1382;gratuit:6118;total:7500;mdf-date:01/02/2003,;label:musee de france
+9106401,,Musée Français de la Photographie,open,2008,payant:3620;gratuit:842;total:4462;mdf-date:01/02/2003,;label:musee de france
+9109701,,Musée Dunoyer de Segonzac,open,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+9111401,,Musée Municipal Robert Dubois-Corneau,open,2008,payant:464;gratuit:3697;total:4161;mdf-date:01/02/2003,;label:musee de france
+9201204,,Musée Belmondo et de la Sculpture Figurative du XXè siècle,closed,2008,payant:0;gratuit:0;total:;mdf-date:13/03/2007,;label:musee de france
+9202601,,Musée Roybet Fould,open,2008,payant:0;gratuit:11027;total:11027;mdf-date:01/02/2003,;label:musee de france
+9204801,,Musée d'Art et d'Histoire,open,2008,payant:0;gratuit:10372;total:10372;mdf-date:01/02/2003,;label:musee de france
+9206303,,Musée d'Histoire Locale - Mémoire de la Ville (& Musée Franco Suisse),open,2008,payant:166;gratuit:3103;total:3269;mdf-date:01/02/2003,;label:musee de france
+9207101,,Musée de l'Île-de-France,open,2008,payant:0;gratuit:87700;total:87700;mdf-date:01/02/2003,;label:musee de france
+7510503,,Grande Galerie de l'Evolution (Muséum National d'Histoire Naturelle),open,2008,payant:492296;gratuit:196867;total:689163;mdf-date:06/01/2002,;label:musee de france
+7510507,,Galerie de Botanique (Muséum National National d'Histoire Naturelle),closed,2008,payant:0;gratuit:0;total:;mdf-date:06/01/2002,;label:musee de france
+7511609,,Musée de l'Homme (Muséum National d'Histoire Naturelle),open,2008,payant:141711;gratuit:38110;total:179821;mdf-date:06/01/2002,;label:musee de france
+7511605,,Musée National des Arts et des Traditions Populaires (MuCem),open,2008,payant:10734;gratuit:0;total:10734;mdf-date:06/01/2002,;label:musee de france
+7510602,,Musée National Eugène Delacroix,open,2008,payant:18022;gratuit:20744;total:38766;mdf-date:06/01/2002,;label:musee de france
+7511502,,Musée Bourdelle,open,2008,payant:29834;gratuit:32574;total:62408;mdf-date:08/07/2004,;label:musee de france
+7511801,,Musée de Montmartre,open,2008,payant:38923;gratuit:3936;total:42859;mdf-date:01/02/2003,;label:musee de france
+7510608,,Musée Zadkine,open,2008,payant:1833;gratuit:19537;total:21370;mdf-date:08/07/2004,;label:musee de france
+7510603,,Musée Hébert,closed,2008,payant:0;gratuit:0;total:;mdf-date:06/01/2002,;label:musee de france
+7510807,,"Musée Cernuschi, Musée des Arts de l'Asie de la ville de Paris",open,2008,payant:28812;gratuit:43825;total:72637;mdf-date:08/07/2004,;label:musee de france
+7511607,,Musée Bouchard,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+7511620,,Musée National du Sport,open,2008,payant:1548;gratuit:1539;total:3087;mdf-date:16/12/2003,;label:musee de france
+7510516,,Musée du Service de Santé des Armées du Val-de-Grâce,open,2008,payant:6320;gratuit:5389;total:11709;mdf-date:06/12/2006,;label:musee de france
+7713101,,Musée Municipal des Capucins,open,2008,payant:1894;gratuit:1416;total:3310;mdf-date:01/02/2003,;label:musee de france
+7714201,,Musée Municipal,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+9306601,,Musée d'Art et d'Histoire,open,2008,payant:2698;gratuit:29155;total:31853;mdf-date:01/02/2003,;label:musee de france
+9307001,,Musée Municipal,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+9405201,,Musée de Nogent-Sur-Marne,open,2008,payant:297;gratuit:6936;total:7233;mdf-date:01/02/2003,;label:musee de france
+9408101,,"MAC VAL, Musée d'Art Contemporain du Val-de-Marne",open,2008,payant:13655;gratuit:60579;total:74234;mdf-date:01/02/2003,;label:musee de france
+7817201,,Musée de la Batellerie et des Voies Navigables,open,2008,payant:9625;gratuit:1610;total:11235;mdf-date:01/02/2003,;label:musee de france
+7842001,,Musée-Maison Maurice Ravel,open,2008,payant:3750;gratuit:0;total:3750;mdf-date:01/02/2003,;label:musee de france
+7857501,,Collections de la Fondation de Coubertin,open,2008,payant:1587;gratuit:2217;total:3804;mdf-date:01/02/2003,;label:musee de france
+7864601,,Musée Lambinet,open,2008,payant:8509;gratuit:3219;total:11728;mdf-date:01/02/2003,;label:musee de france
+1119401,,Musée Municipal,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+3002802,,Musée Léon Alègre,open,2008,payant:0;gratuit:1472;total:1472;mdf-date:01/02/2003,;label:musee de france
+3035001,,Musée Cévenol,open,2008,payant:2374;gratuit:2083;total:4457;mdf-date:01/02/2003,;label:musee de france
+3018907,,Musée des Cultures Taurines (Annexe du Vieux Nîmes),open,2008,payant:427;gratuit:10884;total:11311;mdf-date:01/02/2003,;label:musee de france
+3018905,,Musée des Beaux-Arts,open,2008,payant:2239;gratuit:15430;total:17669;mdf-date:01/02/2003,;label:musee de france
+3417206,,Agropolis-Muséum,open,2008,payant:10052;gratuit:0;total:10052;mdf-date:01/02/2003,;label:musee de france
+3419901,,Musée de Vulliod Saint-Germain,open,2008,payant:2104;gratuit:1733;total:3837;mdf-date:01/02/2003,;label:musee de france
+6613601,,Musée du Castillet Casa Pairal,open,2008,payant:6553;gratuit:19406;total:25959;mdf-date:01/02/2003,;label:musee de france
+6620501,,Musée de Tautavel,open,2008,payant:64226;gratuit:8187;total:72413;mdf-date:01/02/2003,;label:musee de france
+1903101,,Musée Labenche d'Art et d'Histoire,open,2008,payant:2613;gratuit:10972;total:13585;mdf-date:15/08/2002,;label:musee de france
+1927201,,Musée du Cloître de Tulle André Mazeyrie,open,2008,payant:2646;gratuit:24640;total:27286;mdf-date:01/02/2003,;label:musee de france
+8708501,,Musée de l'Evêché,open,2008,payant:0;gratuit:7291;total:7291;mdf-date:18/07/2002,;label:musee de france
+5427401,,Musée de l'Histoire du Fer,open,2008,payant:2246;gratuit:5034;total:7280;mdf-date:01/02/2003,;label:musee de france
+5430001,,Musée du Château de Montaigu,open,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+5439506,,Musée des Beaux-Arts de Nancy,open,2008,payant:54719;gratuit:63982;total:118701;mdf-date:06/01/2002,;label:musee de france
+5546301,,Musée d'Art Sacré de la Meuse,open,2008,payant:1451;gratuit:823;total:2274;mdf-date:01/02/2003,;label:musee de france
+5744801,,Musée Départemental du Sel,open,2008,payant:4973;gratuit:5566;total:10539;mdf-date:01/02/2003,;label:musee de france
+8816001,,Musée Départemental d'Art Ancien et Contemporain,open,2008,payant:2926;gratuit:16098;total:19024;mdf-date:01/02/2003,;label:musee de france
+8835101,,Musée Louis Français,open,2008,payant:451;gratuit:394;total:845;mdf-date:01/02/2003,;label:musee de france
+9720903,,Muséum d'Histoire Naturelle,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+0918101,,Musée de la Préhistoire,open,2008,payant:10193;gratuit:128;total:10321;mdf-date:01/02/2003,;label:musee de france
+1214501,,Musée Municipal de Millau,open,2008,payant:6610;gratuit:12051;total:18661;mdf-date:01/02/2003,;label:musee de france
+3132401,,Musée Municipal,open,2008,payant:2194;gratuit:6369;total:8563;mdf-date:01/02/2003,;label:musee de france
+3147201,,Musée Archéologique,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+3155506,,Musée du Vieux Toulouse,open,2008,payant:2982;gratuit:253;total:3235;mdf-date:01/02/2003,;label:musee de france
+6505902,,Musée Salies,open,2008,payant:4033;gratuit:110;total:4143;mdf-date:01/02/2003,;label:musee de france
+6528601,,Musée Pyrénéen,open,2008,payant:84375;gratuit:3772;total:88147;mdf-date:01/02/2003,;label:musee de france
+6544001,,Musée Massey,closed,2008,payant:0;gratuit:0;total:;mdf-date:06/10/2002,;label:musee de france
+4613801,,Musée Murat,open,2008,payant:646;gratuit:21;total:667;mdf-date:01/02/2003,;label:musee de france
+4629901,,Musée Départemental de Cuzals,open,2008,payant:7203;gratuit:3011;total:10214;mdf-date:01/02/2003,;label:musee de france
+8122001,,Musée du Pays Rabastinois,open,2008,payant:984;gratuit:3519;total:4503;mdf-date:01/02/2003,;label:musee de france
+8207501,,Musée Théodore Calbet,open,2008,payant:0;gratuit:2190;total:2190;mdf-date:01/02/2003,;label:musee de france
+5903601,,Musée d'Histoire et d'Archéologie,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+5904301,,Musée Benoît de Puydt,open,2008,payant:1986;gratuit:4682;total:6668;mdf-date:01/02/2003,;label:musee de france
+5912202,,Musée Diocésain d'Art Sacré,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+5917201,,Musée d'Archéologie et d'Histoire Locale,open,2008,payant:0;gratuit:3400;total:3400;mdf-date:01/02/2003,;label:musee de france
+5918304,,Lieu d'Art et Action Contemporaine de Dunkerque - LAAC,open,2008,payant:24837;gratuit:0;total:24837;mdf-date:01/02/2003,;label:musee de france
+5924901,,Ecomusée de la Région,open,2008,payant:36821;gratuit:12811;total:49632;mdf-date:01/02/2003,;label:musee de france
+5935003,,Musée d'Histoire Naturelle et de Géologie,open,2008,payant:45484;gratuit:7707;total:53191;mdf-date:01/02/2003,;label:musee de france
+5952601,,Musée Municipal,open,2008,payant:1534;gratuit:3185;total:4719;mdf-date:01/02/2003,;label:musee de france
+5900901,,Musée d'Art Moderne de Lille Métropole,open,2008,payant:9186;gratuit:24079;total:33265;mdf-date:01/02/2003,;label:musee de france
+6210801,,Musée Municipal,open,2008,payant:3046;gratuit:4614;total:7660;mdf-date:05/04/2002,;label:musee de france
+6216001,,Château musée,open,2008,payant:34520;gratuit:0;total:34520;mdf-date:01/02/2003,;label:musee de france
+6226801,,Musée de la Céramique,open,2008,payant:8075;gratuit:1052;total:9127;mdf-date:01/02/2003,;label:musee de france
+6241301,,Musée d'Histoire et d'Archéologie,open,2008,payant:0;gratuit:1101;total:1101;mdf-date:01/02/2003,;label:musee de france
+6282601,,Musée Municipal,open,2008,payant:7897;gratuit:4138;total:12035;mdf-date:01/02/2003,;label:musee de france
+6276701,,Musée Municipal Bruno Danvin,open,2008,payant:0;gratuit:2943;total:2943;mdf-date:01/02/2003,;label:musee de france
+6277301,,Musée Jean-Charles Cazin,open,2008,payant:0;gratuit:672;total:672;mdf-date:01/02/2003,;label:musee de france
+1405501,,Musée Langlois,open,2008,payant:432;gratuit:35;total:467;mdf-date:01/02/2003,;label:musee de france
+1411825,,Musée de la Poste et des Techniques de communication,open,2008,payant:3884;gratuit:3114;total:6998;mdf-date:06/01/2002,;label:musee de france
+1411803,,Musée d'Initiation à la Nature,open,2008,payant:0;gratuit:5725;total:5725;mdf-date:01/02/2003,;label:musee de france
+1436601,,Musée d'Art et d'Histoire de Lisieux,open,2008,payant:709;gratuit:2248;total:2957;mdf-date:01/02/2003,;label:musee de france
+1451201,,Musée du Château,open,2008,payant:7254;gratuit:0;total:7254;mdf-date:01/02/2003,;label:musee de france
+5012902,,Musée Thomas Henry,open,2008,payant:0;gratuit:18265;total:18265;mdf-date:01/02/2003,;label:musee de france
+5050201,,Musée des Beaux-Arts,open,2008,payant:874;gratuit:5327;total:6201;mdf-date:01/02/2003,;label:musee de france
+5056201,,Musée Maritime de l'Ile de Tatihou,open,2008,payant:52448;gratuit:2961;total:55409;mdf-date:01/02/2003,;label:musee de france
+5061501,,Musée Régional du Cidre et du Calvados,open,2008,payant:3137;gratuit:858;total:3995;mdf-date:01/02/2003,;label:musee de france
+6116801,,Musée Municipal - Musée du Jouet,open,2008,payant:743;gratuit:296;total:1039;mdf-date:01/02/2003,;label:musee de france
+6129301,,Musée du Percheron,open,2008,payant:0;gratuit:1023;total:1023;mdf-date:01/02/2003,;label:musee de france
+6137901,,Musée Départemental des Arts et Traditions Populaires du Perche,open,2008,payant:13621;gratuit:11223;total:24844;mdf-date:01/02/2003,;label:musee de france
+6146401,,Musée Départemental d'Art Sacré,open,2008,payant:603;gratuit:415;total:1018;mdf-date:01/02/2003,;label:musee de france
+2716501,,Musée du Verre et de la Pierre,open,2008,payant:1625;gratuit:3459;total:5084;mdf-date:01/02/2003,;label:musee de france
+2722901,,Musée de l'Ancien Evêché,open,2008,payant:3515;gratuit:7460;total:10975;mdf-date:01/02/2003,;label:musee de france
+7621701,,Château-Musée de Dieppe,open,2008,payant:26355;gratuit:9778;total:36133;mdf-date:25/05/2002,;label:musee de france
+7625902,,Musée des Arts & de l'Enfance,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+7641201,,Musée des Traditions et Arts Normands,open,2008,payant:8998;gratuit:11544;total:20542;mdf-date:01/02/2003,;label:musee de france
+7654006,,Musée Le Secq des Tournelles,open,2008,payant:5616;gratuit:9743;total:15359;mdf-date:01/02/2003,;label:musee de france
+7675801,,Musée Municipal des Ivoires,open,2008,payant:1162;gratuit:1086;total:2248;mdf-date:01/02/2003,;label:musee de france
+4401501,,"Musée de la Fève, Crèches et Traditions Populaires",open,2008,payant:2120;gratuit:277;total:2397;mdf-date:01/02/2003,;label:musee de france
+4402101,,Musée du Pays de Retz,open,2008,payant:6334;gratuit:835;total:7169;mdf-date:01/02/2003,;label:musee de france
+4417701,,Musée du Vignoble Nantais,open,2008,payant:4116;gratuit:2130;total:6246;mdf-date:01/02/2003,;label:musee de france
+4417501,,Musée du Chaume/Kerhinet - PNR Brière,open,2008,payant:0;gratuit:40867;total:40867;mdf-date:01/02/2003,;label:musee de france
+4900703,,Musée Jean Lurcat et de la Tapisserie Contemporaine,open,2008,payant:13370;gratuit:32487;total:45857;mdf-date:01/02/2003,;label:musee de france
+4923401,,Musée Jules-Desbois,open,2008,payant:3592;gratuit:3495;total:7087;mdf-date:23/10/2002,;label:musee de france
+4932802,,Château-Musée,open,2008,payant:34032;gratuit:11039;total:45071;mdf-date:01/02/2003,;label:musee de france
+5307701,,Musée Communal Robert Tatin,open,2008,payant:14101;gratuit:5410;total:19511;mdf-date:28/06/2002,;label:musee de france
+5318801,,Musée de l'Ardoise et de la Géologie,open,2008,payant:1389;gratuit:724;total:2113;mdf-date:01/02/2003,;label:musee de france
+7218199,,Musée Vert Véron-de-Forbonnais,open,2008,payant:7240;gratuit:9308;total:16548;mdf-date:01/02/2003,;label:musee de france
+8504601,,Musée ornithologique Charles-Payraudeau,open,2008,payant:0;gratuit:682;total:682;mdf-date:01/02/2003,;label:musee de france
+8512901,,Historial de la Vendée,open,2008,payant:32880;gratuit:20618;total:53498;mdf-date:01/02/2003,;label:musee de france
+8515401,,Musée Clemenceau et de Lattre-de-Tassigny,open,2008,payant:1714;gratuit:4011;total:5725;mdf-date:06/01/2002,;label:musee de france
+0238101,,Musée - Centre de Documentation Alfred Desmasures,open,2008,payant:0;gratuit:902;total:902;mdf-date:01/02/2003,;label:musee de france
+0273801,,Musée de la Résistance et de la Déportation,open,2008,payant:5071;gratuit:8849;total:13920;mdf-date:01/02/2003,;label:musee de france
+6015903,,Musée national de la Voiture et du Tourisme (Annexe du musée National du Château de Compiègne),open,2008,payant:0;gratuit:0;total:;mdf-date:06/01/2002,;label:musee de france
+6015904,,Musée Antoine Vivenel,open,2008,payant:0;gratuit:17372;total:17372;mdf-date:01/02/2003,;label:musee de france
+6017601,,Musée de l'Archerie et de l'Art Sacré,open,2008,payant:2803;gratuit:2736;total:5539;mdf-date:01/02/2003,;label:musee de france
+6061202,,Musée d'Art et d'Archéologie,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+6066401,,Musée Archéologique de la région de Breteuil,open,2008,payant:3089;gratuit:0;total:3089;mdf-date:01/02/2003,;label:musee de france
+8002101,,Musée de Picardie,open,2008,payant:9553;gratuit:35938;total:45491;mdf-date:06/01/2002,;label:musee de france
+8062001,,Musée Alfred Danicourt,open,2008,payant:0;gratuit:2505;total:2505;mdf-date:01/02/2003,;label:musee de france
+1730006,,Muséum d'Histoire Naturelle,open,2008,payant:13937;gratuit:31613;total:45550;mdf-date:06/01/2002,;label:musee de france
+1741503,,Musée Archéologique,open,2008,payant:1647;gratuit:35018;total:36665;mdf-date:01/02/2003,;label:musee de france
+1741502,,Musée du Présidial,open,2008,payant:593;gratuit:2267;total:2860;mdf-date:01/02/2003,;label:musee de france
+1736901,,Musée Ernest Cognacq,open,2008,payant:8025;gratuit:5666;total:13691;mdf-date:01/02/2003,;label:musee de france
+8607801,,Musée Municipal de Civray,open,2008,payant:0;gratuit:261;total:261;mdf-date:01/02/2003,;label:musee de france
+0413501,,Musée de la Faïence,open,2008,payant:6110;gratuit:4566;total:10676;mdf-date:01/02/2003,;label:musee de france
+0415801,,Musée départemental de préhistoire,open,2008,payant:54354;gratuit:8121;total:62475;mdf-date:01/02/2003,;label:musee de france
+0602901,,Musée de la Castre,open,2008,payant:14272;gratuit:17878;total:32150;mdf-date:01/02/2003,;label:musee de france
+0606901,,Villa-Musée Jean-Honoré Fragonard,open,2008,payant:2409;gratuit:1092;total:3501;mdf-date:01/02/2003,;label:musee de france
+0606902,,Musée d'Art et d'Histoire de Provence,open,2008,payant:3691;gratuit:8443;total:12134;mdf-date:01/02/2003,;label:musee de france
+0606903,,Musée International de la Parfumerie,open,2008,payant:0;gratuit:30567;total:30567;mdf-date:01/02/2003,;label:musee de france
+0608816,,Musée Départemental des Arts Asiatiques,open,2008,payant:2312;gratuit:66680;total:68992;mdf-date:01/02/2003,;label:musee de france
+0608808,,Musée du Palais Lascaris,open,2008,payant:0;gratuit:78804;total:78804;mdf-date:01/02/2003,;label:musee de france
+0608802,,Musée d'Art et d'Histoire,open,2008,payant:14285;gratuit:64048;total:78333;mdf-date:01/02/2003,;label:musee de france
+0608813,,Musée d'Art Moderne et d'Art Contemporain,open,2008,payant:21330;gratuit:136340;total:157670;mdf-date:01/02/2003,;label:musee de france
+1300107,,Muséum d'Histoire Naturelle,open,2008,payant:9739;gratuit:22770;total:32509;mdf-date:06/01/2002,;label:musee de france
+1300105,,Musée- Atelier de Paul Cézanne,open,2008,payant:59515;gratuit:10000;total:69515;mdf-date:01/02/2003,;label:musee de france
+1300402,,Musée Camarguais,open,2008,payant:16390;gratuit:7084;total:23474;mdf-date:01/02/2003,;label:musee de france
+1302201,,Musée Municipal Méditerranéen de Cassis A.T.P.,open,2008,payant:108;gratuit:6090;total:6198;mdf-date:01/02/2003,;label:musee de france
+1303801,,Musée Alphonse Daudet,open,2008,payant:28601;gratuit:0;total:28601;mdf-date:01/02/2003,;label:musee de france
+1320401,,Musée des Beaux-Arts de Marseille,open,2008,payant:111881;gratuit:63077;total:174958;mdf-date:06/01/2002,;label:musee de france
+1320801,,Musée de la Faïence,open,2008,payant:3929;gratuit:11158;total:15087;mdf-date:01/02/2003,;label:musee de france
+1305601,,Musée Ziem,open,2008,payant:0;gratuit:13103;total:13103;mdf-date:01/02/2003,;label:musee de france
+8305003,,Musée des A.T.P. de Moyenne Provence,open,2008,payant:4894;gratuit:8035;total:12929;mdf-date:01/02/2003,;label:musee de france
+8306101,,Musée Archéologique Gallo-Romaine du Var,open,2008,payant:4388;gratuit:6726;total:11114;mdf-date:01/02/2003,;label:musee de france
+8400301,,Musée d'Apt,open,2008,payant:3177;gratuit:6867;total:10044;mdf-date:01/02/2003,;label:musee de france
+8403102,,Musée Lapidaire et Archéologie,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+8403103,,Musée Comtadin-Duplessis,open,2008,payant:0;gratuit:1985;total:1985;mdf-date:01/02/2003,;label:musee de france
+8408701,,Musée Municipal,open,2008,payant:57328;gratuit:0;total:57328;mdf-date:01/02/2003,;label:musee de france
+0105302,,Musée Départemental des Pays De l'Ain,open,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+0138301,,Musée Louis Jourdan,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+0731301,,Musée de la Batellerie du Rhône,open,2008,payant:456;gratuit:272;total:728;mdf-date:01/02/2003,;label:musee de france
+3819101,,Musée d'Huez et de l'Oisans,open,2008,payant:1383;gratuit:681;total:2064;mdf-date:01/02/2003,;label:musee de france
+3805301,,Musée de Bourgoin-Jallieu,open,2008,payant:2081;gratuit:6600;total:8681;mdf-date:01/02/2003,;label:musee de france
+3815101,,Musée Géo-Charles,open,2008,payant:0;gratuit:6504;total:6504;mdf-date:01/02/2003,;label:musee de france
+3851601,,Musée Hébert,open,2008,payant:0;gratuit:36127;total:36127;mdf-date:01/02/2003,;label:musee de france
+4209101,,Musée d'Histoire du  20ème Siècle - Résistance et Déportation,open,2008,payant:2342;gratuit:555;total:2897;mdf-date:01/02/2003,;label:musee de france
+4217301,,Musée du Vieux Pommiers,closed,2008,payant:0;gratuit:0;total:;mdf-date:01/02/2003,;label:musee de france
+4221804,,Musée de la Mine / Site Couriot,open,2008,payant:30920;gratuit:27032;total:57952;mdf-date:01/02/2003,;label:musee de france
+4231801,,Musée Rural,open,2008,payant:5165;gratuit:848;total:6013;mdf-date:01/02/2003,;label:musee de france
+6938701,,Centre d'Histoire de la Résistance et de la Déportation,open,2008,payant:18927;gratuit:38822;total:57749;mdf-date:01/02/2003,;label:musee de france
+6938602,,Muséum d'Histoire Naturelle,open,2008,payant:0;gratuit:16544;total:16544;mdf-date:01/02/2003,;label:musee de france
+6938901,,Musée des Sapeurs-Pompiers de Lyon,open,2008,payant:0;gratuit:7055;total:7055;mdf-date:10/05/2005,;label:musee de france
+7301101,,Musée Municipal d'Albertville-Conflans,open,2008,payant:2248;gratuit:3241;total:5489;mdf-date:01/02/2003,;label:musee de france
+9750202,,Musée Municipal,open,2008,payant:1310;gratuit:109;total:1419;mdf-date:01/02/2003,;label:musee de france
