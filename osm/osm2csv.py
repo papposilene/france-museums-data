@@ -45,6 +45,7 @@ def create_entry():
         "date_added": None,
         "wikidata_id": None,
         "mhs_id": None,
+        "museofile_id": None,
     }
 
 def main():
@@ -56,7 +57,7 @@ def main():
 
         fieldnames = ['osm_id', 'musee_id', 'name', 'number', 'street', 'postal_code',
                       'city', 'country', 'country_code', 'lat', 'lon', 'website', 'email', 'phone', 'fax', 'tags', 'description', 'date_added',
-                      'wikidata_id', 'mhs_id']
+                      'wikidata_id', 'mhs_id', 'museofile_id']
         csv_writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
         csv_writer.writeheader()
 
